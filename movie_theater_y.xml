@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Sep 2021 07:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 08:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9db1b2ab48843490fa9705cbae8389e6c3bd9876" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[토베 얀손]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147226</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147226</guid>
-            <pubDate>Tue, 21 Sep 2021 23:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecfd96789aea8e74eba184ba9eeec535941858ca" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[나의 흑역사 로맨티카]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153435</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153435</guid>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 21 Sep 2021 23:25:33 GMT</pubDate>
             <content:encoded><![CDATA[21.08.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F446090579974d44551356ce961743e57eaa41bd6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스피릿]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149510</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149510</guid>
+            <pubDate>Wed, 22 Sep 2021 08:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc24b8adacb651651211cb925510fa804701d5074" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
