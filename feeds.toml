@@ -77,3 +77,23 @@ linkSelector = "a.link_txt"
 imageSelector = "img.img_thumb"
 contentSelector = "div.thumb_cont > span.txt_info > span"
 waitUntil = "networkidle"
+
+[movie_magazine]
+title = "다음 영화 ─ 매거진"
+url = "https://movie.daum.net/contents/1boon"
+entrySelector = "ul.list_contents li"
+titleSelector = "strong a.link_txt"
+linkSelector = "a.link_txt"
+contentSelector = "span.txt_info"
+imageSelector = "span.bg_img"
+waitUntil = "networkidle"
+
+[movie_brunch]
+title = "다음 영화 ─ 브런치"
+url = "https://movie.daum.net/contents/brunch"
+entrySelector = "ul.list_contents li"
+titleSelector = "strong a.link_txt"
+linkSelector = "a.link_txt"
+contentSelector = "span.txt_info"
+imageSelector = "span.bg_img"
+waitUntil = "networkidle"
