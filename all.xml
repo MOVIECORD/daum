@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Sep 2021 13:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 14:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
-            <pubDate>Tue, 21 Sep 2021 23:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb7c345cceefab507ec137c36820545d8be4e2745" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 21 Sep 2021 23:21:18 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
+            <pubDate>Tue, 21 Sep 2021 23:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb7c345cceefab507ec137c36820545d8be4e2745" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[캔디맨 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1072,6 +1072,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b72c91d5a32de281ff8224830482a733df9cd68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[너무 예쁜데 노안이라 17살에 유부녀 역을 맡은 톱배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/k6s9Rfj6mQ</link>
+            <guid>https://content.v.daum.net/v/k6s9Rfj6mQ</guid>
+            <pubDate>Wed, 22 Sep 2021 14:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F22%2Fkinolights%2F202109221312002514iut.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[중국 관객들이 가장 좋아한다는 클라라 최신 근황 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/kggU5ucYz7</link>
             <guid>https://content.v.daum.net/v/kggU5ucYz7</guid>
@@ -1222,14 +1230,6 @@
             <pubDate>Wed, 22 Sep 2021 00:21:15 GMT</pubDate>
             <content:encoded><![CDATA[키노라이츠]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fkinolights%2F20210915084152760nzxq.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[*공포주의* 거울을 보고 다섯 번 이름을 말하면 나타난다는 도시괴담 속 주인공 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kqioDZQEB8</link>
-            <guid>https://content.v.daum.net/v/kqioDZQEB8</guid>
-            <pubDate>Wed, 22 Sep 2021 00:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F15%2Fkinolights%2F20210915043836951trqy.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[너가 준 꽃다발은 시들었어! 직딩 아재님.. (다음 영화 ─ 브런치)]]></title>
