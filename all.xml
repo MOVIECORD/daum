@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 08:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 09:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[종착역 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145343</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145343</guid>
-            <pubDate>Tue, 21 Sep 2021 23:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe30e0fe01a3353ed9a68f896c073101cbc1ff634" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[최선의 삶 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
             <pubDate>Thu, 23 Sep 2021 03:05:44 GMT</pubDate>
             <content:encoded><![CDATA[21.09.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[종착역 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145343</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145343</guid>
+            <pubDate>Tue, 21 Sep 2021 23:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe30e0fe01a3353ed9a68f896c073101cbc1ff634" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아-하: 테이크 온 미 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -968,14 +968,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F23%2Fmaxmovie%2F20210923072249505in4f.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA['누적조회수 32억뷰' 대박 '웹툰' 실사작, 뚜껑 열어보니.. (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kMCs2H1ped</link>
-            <guid>https://content.v.daum.net/v/kMCs2H1ped</guid>
-            <pubDate>Thu, 23 Sep 2021 08:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F23%2Fmaxmovie%2F20210923065314877xgvp.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA['박서준' 픽한 '마블 영화' 감독의 어마무시한 정체 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/kK7UIoDHsU</link>
             <guid>https://content.v.daum.net/v/kK7UIoDHsU</guid>
@@ -1118,6 +1110,14 @@
             <pubDate>Wed, 22 Sep 2021 00:21:15 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F20%2FBoiledMovie%2F20210920082439812b332.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[피겨스케이팅 선수하다가 너무 예뻐서 배우 되신 분 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kYcsL4DpoK</link>
+            <guid>https://content.v.daum.net/v/kYcsL4DpoK</guid>
+            <pubDate>Thu, 23 Sep 2021 09:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F20%2FBoiledMovie%2F20210920061202238jseb.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[너가 준 꽃다발은 시들었어! 직딩 아재님.. (다음 영화 ─ 브런치)]]></title>
