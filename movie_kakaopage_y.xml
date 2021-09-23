@@ -4,7 +4,7 @@
         <title>[다음영화] 카카오페이지 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 05:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 06:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Tue, 21 Sep 2021 23:26:21 GMT</pubDate>
             <content:encoded><![CDATA[21.09.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdcfa862a88736442d006e5d198dfc161d997b0d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[레미니센스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151315</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151315</guid>
-            <pubDate>Tue, 21 Sep 2021 23:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b72c91d5a32de281ff8224830482a733df9cd68" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
