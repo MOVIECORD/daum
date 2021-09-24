@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 02:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 03:07:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 24 Sep 2021 01:52:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FhpbQfsoF--KtSp63amCeilPh5ec.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<아-하: 테이크 온 미> 살아있는 전설의 맞이하는 법]]></title>
+            <link>https://brunch.co.kr/@@6dyt/718</link>
+            <guid>https://brunch.co.kr/@@6dyt/718</guid>
+            <pubDate>Fri, 24 Sep 2021 03:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FIpG-fxF7aHwi7LoaHBVf5-dHz4s.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[너가 준 꽃다발은 시들었어! 직딩 아재님..]]></title>
@@ -76,7 +84,7 @@
             <link>https://brunch.co.kr/@@1dzT/43</link>
             <guid>https://brunch.co.kr/@@1dzT/43</guid>
             <pubDate>Wed, 22 Sep 2021 00:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>오디세이]]></content:encoded>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Voyager]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1dzT%2Fimage%2FVy8h3Vat1USP__WUd854TVGoIzo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 22 Sep 2021 00:21:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>코아르CoAR]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa1n9%2Fimage%2Fu__1JrhV4KshnBr0zvgWzKsWAsk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<샹치와 텐 링즈의 전설> 어떤 의미에서든 절반의 성공]]></title>
-            <link>https://brunch.co.kr/@@5XLU/370</link>
-            <guid>https://brunch.co.kr/@@5XLU/370</guid>
-            <pubDate>Wed, 22 Sep 2021 00:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2F6vY5Ah1d2ySP90mJ3WVXVDz2cjY.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>

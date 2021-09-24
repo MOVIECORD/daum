@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 02:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 03:07:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b76b0575fc39cfcee4a26ba5abc0f1c62408a82" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[바비 - 빅 시티, 빅 드림스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153920</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153920</guid>
+            <pubDate>Fri, 24 Sep 2021 03:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a3852b821c6bbcc1076756d74d0ca8d645ef7df" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[또 한 번의 여름]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153842</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153842</guid>
@@ -174,6 +182,13 @@
             <pubDate>Thu, 23 Sep 2021 07:06:37 GMT</pubDate>
             <content:encoded><![CDATA[21.10.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F62f67a5df5beaf9120013a51710d07a2ce9ccc39" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나이트 티스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=140013</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=140013</guid>
+            <pubDate>Fri, 24 Sep 2021 03:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.20]]></content:encoded>
         </item>
     </channel>
 </rss>
