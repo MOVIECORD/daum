@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 15:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 01:52:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[아가페 : 분노와 사랑]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153936</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153936</guid>
-            <pubDate>Tue, 21 Sep 2021 23:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0758fcf8fa2a9ff8ea6e10681ff07ddef18309b3" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[마계대전]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149862</link>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 23 Sep 2021 01:56:22 GMT</pubDate>
             <content:encoded><![CDATA[21.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e23c414f6166ac26455a9747a09aa24f5a1d084" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[찰리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=96938</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=96938</guid>
+            <pubDate>Fri, 24 Sep 2021 01:51:09 GMT</pubDate>
+            <content:encoded><![CDATA[21.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5b2eb81d5d8609211a3b923f80757bade7a4d64" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

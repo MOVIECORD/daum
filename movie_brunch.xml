@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 15:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 01:52:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웃고 울게 만드는 <기적>의 세 가지 특이점]]></title>
+            <link>https://brunch.co.kr/@@5XLU/374</link>
+            <guid>https://brunch.co.kr/@@5XLU/374</guid>
+            <pubDate>Fri, 24 Sep 2021 01:52:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FhpbQfsoF--KtSp63amCeilPh5ec.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[너가 준 꽃다발은 시들었어! 직딩 아재님..]]></title>
             <link>https://brunch.co.kr/@@i7k/304</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 22 Sep 2021 00:21:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2F6vY5Ah1d2ySP90mJ3WVXVDz2cjY.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<샹치와 텐 링즈의 전설> 영화 리뷰]]></title>
-            <link>https://brunch.co.kr/@@8EUf/365</link>
-            <guid>https://brunch.co.kr/@@8EUf/365</guid>
-            <pubDate>Wed, 22 Sep 2021 00:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>청우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8EUf%2Fimage%2FZmnMdya4BdrKSCRiTzYtOZNlOn8.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
