@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 09:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 10:06:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[캔디맨]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133672</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133672</guid>
-            <pubDate>Wed, 22 Sep 2021 00:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F60b47aafb1eb2ab009db8999b2b7fa45580baa6d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
             <pubDate>Tue, 21 Sep 2021 23:25:32 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[캔디맨]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133672</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133672</guid>
+            <pubDate>Wed, 22 Sep 2021 00:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F60b47aafb1eb2ab009db8999b2b7fa45580baa6d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들]]></title>
