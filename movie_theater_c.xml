@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 03:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 04:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Tue, 21 Sep 2021 23:25:40 GMT</pubDate>
             <content:encoded><![CDATA[21.09.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feba7d4189d131ef30eb219975990938a34d54d54" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마마2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135282</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135282</guid>
+            <pubDate>Sat, 25 Sep 2021 04:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdd6a9ec593744c0d897ca3b1a01039171568693786721" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[서유기: 재세요왕]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Sep 2021 01:56:22 GMT</pubDate>
             <content:encoded><![CDATA[21.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e23c414f6166ac26455a9747a09aa24f5a1d084" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[찰리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=96938</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=96938</guid>
-            <pubDate>Fri, 24 Sep 2021 01:51:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5b2eb81d5d8609211a3b923f80757bade7a4d64" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
