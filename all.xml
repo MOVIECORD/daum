@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Sep 2021 07:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 08:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[최선의 삶 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
-            <pubDate>Thu, 23 Sep 2021 03:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[인질 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
             <pubDate>Tue, 21 Sep 2021 23:21:18 GMT</pubDate>
             <content:encoded><![CDATA[21.08.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5c2c57cab283c1111fd1c5f5f0ac05b9be2780c7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[최선의 삶 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
+            <pubDate>Thu, 23 Sep 2021 03:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[죽을 때까지 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F91f95c53e40938959224392447a8870b8cb7eb30" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아-하: 테이크 온 미 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150932</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150932</guid>
-            <pubDate>Wed, 22 Sep 2021 00:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e7a23dae3aae4c22602237bd81dbe95d85eb855" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[종착역 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145343</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145343</guid>
@@ -110,6 +102,14 @@
             <pubDate>Tue, 21 Sep 2021 23:21:18 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아-하: 테이크 온 미 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150932</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150932</guid>
+            <pubDate>Wed, 22 Sep 2021 00:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e7a23dae3aae4c22602237bd81dbe95d85eb855" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아임 유어 맨 (다음영화 영화관 ─ 현재상영)]]></title>
