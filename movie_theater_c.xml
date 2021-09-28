@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 09:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 10:07:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70fb410e74f30d1019ae5a798a800b77fd1df73d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[코끼리와 나비]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=120323</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=120323</guid>
-            <pubDate>Tue, 21 Sep 2021 23:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1fe3a014e63f95be45ef6269f73aca2a8f2e7a4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아버지의 길]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139238</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139238</guid>
             <pubDate>Tue, 21 Sep 2021 23:25:40 GMT</pubDate>
             <content:encoded><![CDATA[21.09.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feba7d4189d131ef30eb219975990938a34d54d54" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[코끼리와 나비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=120323</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=120323</guid>
+            <pubDate>Tue, 21 Sep 2021 23:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1fe3a014e63f95be45ef6269f73aca2a8f2e7a4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[마마2]]></title>
