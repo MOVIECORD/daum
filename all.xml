@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 02:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 03:07:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,13 +168,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76636cce1ab626cb5fb7509ac80b64598a69f4d3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[브리트니 VS 스피어스 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154179</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154179</guid>
-            <pubDate>Tue, 28 Sep 2021 01:53:18 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.28]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[007 노 타임 투 다이 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=119916</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=119916</guid>
@@ -215,20 +208,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd9fb73125225a3bd3e37ad110575450036371926" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아버지의 길 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139238</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139238</guid>
-            <pubDate>Tue, 21 Sep 2021 23:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feba7d4189d131ef30eb219975990938a34d54d54" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[코끼리와 나비 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=120323</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=120323</guid>
             <pubDate>Tue, 21 Sep 2021 23:38:42 GMT</pubDate>
             <content:encoded><![CDATA[21.09.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1fe3a014e63f95be45ef6269f73aca2a8f2e7a4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아버지의 길 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139238</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139238</guid>
+            <pubDate>Tue, 21 Sep 2021 23:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feba7d4189d131ef30eb219975990938a34d54d54" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[서유기: 재세요왕 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -325,6 +318,14 @@
             <pubDate>Mon, 27 Sep 2021 01:51:03 GMT</pubDate>
             <content:encoded><![CDATA[21.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5b2eb81d5d8609211a3b923f80757bade7a4d64" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼펙트 머더: 와이 우먼 킬 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147593</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147593</guid>
+            <pubDate>Tue, 28 Sep 2021 03:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[21.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F29e4a74d914f2959643dc3951c101f3700208014" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[믿음의 승부 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -703,6 +704,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2103E85050DC714F28" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[브리트니 VS 스피어스 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154179</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154179</guid>
+            <pubDate>Tue, 28 Sep 2021 01:53:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.28]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아무도 살아서 나갈 수 없다 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153581</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153581</guid>
@@ -879,6 +887,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd78776d0eb8cd2ea9305b5e5b0f5d910db6583d6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[피치 퍼펙트3 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=113154</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=113154</guid>
+            <pubDate>Tue, 28 Sep 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F17c33d56dbe6f267eb0ff524dad12a701d40428e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[피버 드림 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154020</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154020</guid>
@@ -1005,6 +1021,14 @@
             <pubDate>Fri, 24 Sep 2021 04:07:37 GMT</pubDate>
             <content:encoded><![CDATA[21.10.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffab9a5cf796362814ca7c7796f54d5c19b2b76a8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[월드워Z ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=48708</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=48708</guid>
+            <pubDate>Tue, 28 Sep 2021 03:06:56 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F03568A4A51AD51BA12" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[다빈치 코드 ([다음영화] 왓챠 ─ 공개예정)]]></title>
@@ -1189,6 +1213,14 @@
             <pubDate>Mon, 27 Sep 2021 05:05:41 GMT</pubDate>
             <content:encoded><![CDATA[21.10.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2a2f4499800518cf7b3eb999bd83c4e1f2da89b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[애드 아스트라 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124754</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124754</guid>
+            <pubDate>Tue, 28 Sep 2021 03:06:56 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fedbed5c0da3b453c8c99c86c09c4f68f1568880615964" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뉴 스텝업: 어반댄스 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
@@ -1447,6 +1479,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F24%2Fkinolights%2F20210924115755323epbu.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[여전히 존재하는 차별에 관한 영화 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@535y/451</link>
+            <guid>https://brunch.co.kr/@@535y/451</guid>
+            <pubDate>Tue, 28 Sep 2021 03:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Rabbitgumi]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fguest%2Fimage%2FsaRdfSI9usiCAeNFfpY9U1WAvuk.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[문화가 빚어낸 악령의 한계 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@a7Xi/79</link>
             <guid>https://brunch.co.kr/@@a7Xi/79</guid>
@@ -1597,14 +1637,6 @@
             <pubDate>Wed, 22 Sep 2021 00:21:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>세루무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F59iv%2Fimage%2F6szpfD0CLdkpBR8XME0mAasiYBk.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<샹치와 텐 링즈의 전설> 디즈니의 힘, 미국의 힘 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@aGo6/11</link>
-            <guid>https://brunch.co.kr/@@aGo6/11</guid>
-            <pubDate>Wed, 22 Sep 2021 00:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Atsu]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaGo6%2Fimage%2FP-mIxgItvx8q-NFlOGe-Im_H16E.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
