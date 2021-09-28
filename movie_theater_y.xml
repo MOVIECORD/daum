@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 08:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 09:06:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,22 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[종착역]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145343</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145343</guid>
-            <pubDate>Thu, 23 Sep 2021 01:56:15 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe30e0fe01a3353ed9a68f896c073101cbc1ff634" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아임 유어 맨]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148298</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148298</guid>
-            <pubDate>Tue, 21 Sep 2021 23:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78e33cf82eba3d7c203cc7cd2540c6bab00a488" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[말리그넌트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152308</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152308</guid>
@@ -136,12 +120,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c81505312c588301e18b7f0a508bbc267ec2b44" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[종착역]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145343</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145343</guid>
+            <pubDate>Thu, 23 Sep 2021 01:56:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe30e0fe01a3353ed9a68f896c073101cbc1ff634" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[코다]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147452</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147452</guid>
             <pubDate>Tue, 21 Sep 2021 23:25:33 GMT</pubDate>
             <content:encoded><![CDATA[21.08.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9db1b2ab48843490fa9705cbae8389e6c3bd9876" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아임 유어 맨]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148298</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148298</guid>
+            <pubDate>Tue, 21 Sep 2021 23:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78e33cf82eba3d7c203cc7cd2540c6bab00a488" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[좋은 사람]]></title>
