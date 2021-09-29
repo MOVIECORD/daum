@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 04:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 05:06:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=152491</guid>
             <pubDate>Wed, 29 Sep 2021 01:44:57 GMT</pubDate>
             <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a367e79ab3c00e8f68c705fac9c5bd6bf81a873" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F99aa02686ae2d4412a264a7aa7b2b174ac548ef0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[용과 주근깨 공주]]></title>
@@ -72,6 +72,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F60b47aafb1eb2ab009db8999b2b7fa45580baa6d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[최선의 삶]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
+            <pubDate>Thu, 23 Sep 2021 03:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[죽을 때까지]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151682</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151682</guid>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 21 Sep 2021 23:25:32 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[최선의 삶]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
-            <pubDate>Thu, 23 Sep 2021 03:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[인질]]></title>
