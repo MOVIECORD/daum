@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 05:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 06:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Wed, 29 Sep 2021 02:17:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>몽기]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fc1mf%2Fimage%2F_U9i-PhGtVWbPBQtod0N9ZcQ-LA.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[실패했다고 믿는 사람들에게]]></title>
+            <link>https://brunch.co.kr/@@cScv/15</link>
+            <guid>https://brunch.co.kr/@@cScv/15</guid>
+            <pubDate>Wed, 29 Sep 2021 06:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>도이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcScv%2Fimage%2F68dTwDzYAwXBFKfWzywgc_rFcZ8.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<피닉스>, 불을 켜도 보이지 않는 얼굴]]></title>
+            <link>https://brunch.co.kr/@@68xP/65</link>
+            <guid>https://brunch.co.kr/@@68xP/65</guid>
+            <pubDate>Wed, 29 Sep 2021 06:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fguest%2Fimage%2FnCwdikrtVfEbGZw4TkKa8qKH7IQ.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[말리그넌트, 통제불능]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 22 Sep 2021 00:21:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>wanderer]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdBQ%2Fimage%2FEbBm9LHuGGcceZuE33T-9_yYo7s.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[0. D(estroyed). P(ersonality)]]></title>
-            <link>https://brunch.co.kr/@@1dzT/43</link>
-            <guid>https://brunch.co.kr/@@1dzT/43</guid>
-            <pubDate>Wed, 22 Sep 2021 00:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Voyager]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1dzT%2Fimage%2FVy8h3Vat1USP__WUd854TVGoIzo.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<건파우더 밀크셰이크> 확고한 주제를 망친 우스운 작법]]></title>
-            <link>https://brunch.co.kr/@@5XLU/372</link>
-            <guid>https://brunch.co.kr/@@5XLU/372</guid>
-            <pubDate>Wed, 22 Sep 2021 00:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FvpD450chnoV1rf6-8dYdRBwhX-Q.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
