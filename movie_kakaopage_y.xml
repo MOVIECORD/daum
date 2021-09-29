@@ -4,17 +4,9 @@
         <title>[다음영화] 카카오페이지 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 15:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 01:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[우리가 죽기를 바라는 사람들]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153422</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153422</guid>
-            <pubDate>Fri, 24 Sep 2021 01:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff280a2fd0b5483d63b4160f190c52189e6cf2a1b" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[인질]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
@@ -38,6 +30,22 @@
             <pubDate>Mon, 27 Sep 2021 10:06:32 GMT</pubDate>
             <content:encoded><![CDATA[21.10.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F91d2cfed56b07f14f65c7a36692377010671c663" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[기문둔갑 2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151807</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151807</guid>
+            <pubDate>Wed, 29 Sep 2021 01:45:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb2038e203cd58504ecfaa5feba78e3d0467b1904" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 흑역사 로맨티카]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153435</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153435</guid>
+            <pubDate>Wed, 29 Sep 2021 01:45:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7007450d656249d3b3bf260cb4a5c0626bc9f775" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
