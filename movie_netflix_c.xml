@@ -4,33 +4,9 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 15:06:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 01:58:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[아나스타시야]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=123206</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=123206</guid>
-            <pubDate>Thu, 23 Sep 2021 08:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F89042b447719f1d88fead08f2ba640fe899999d4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[마이티오크:다시만난밴드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142198</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142198</guid>
-            <pubDate>Thu, 23 Sep 2021 08:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1994751e1cb41409274c7654835df409178c4f4d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[산타는 훈련 중]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146591</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146591</guid>
-            <pubDate>Thu, 23 Sep 2021 08:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F663a8380a6c5a79e011bfd0cd2908dcb3e3274bf" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[내 이웃이 되어 줄래요?]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=117944</link>
@@ -374,6 +350,14 @@
             <pubDate>Tue, 21 Sep 2021 23:25:47 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2103E85050DC714F28" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[캣츠]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127240</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127240</guid>
+            <pubDate>Thu, 30 Sep 2021 01:57:51 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1603f9ed7bbd435db0af0ed943cd00b41576129058034" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
