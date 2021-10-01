@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 06:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 07:06:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F60b47aafb1eb2ab009db8999b2b7fa45580baa6d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아임 유어 맨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148298</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148298</guid>
-            <pubDate>Tue, 21 Sep 2021 23:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78e33cf82eba3d7c203cc7cd2540c6bab00a488" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[인질 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127738</guid>
@@ -142,6 +134,14 @@
             <pubDate>Tue, 21 Sep 2021 23:21:18 GMT</pubDate>
             <content:encoded><![CDATA[21.09.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F045e3b529565237b7465a357637177d59a1154ba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아임 유어 맨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148298</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148298</guid>
+            <pubDate>Tue, 21 Sep 2021 23:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78e33cf82eba3d7c203cc7cd2540c6bab00a488" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[코다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1168,6 +1168,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[유아인이 너무 잘생겨서 질투했다는 이 남자 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kwmVQj6RlA</link>
+            <guid>https://content.v.daum.net/v/kwmVQj6RlA</guid>
+            <pubDate>Fri, 01 Oct 2021 07:06:44 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F01%2Ffeelthemovie%2F20211001061358320hcd9.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[이정재의 비열함이 담긴 영화 '암살' 뒷목잡을 삭제된 결말 장면 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/kSA7vAm9qL</link>
             <guid>https://content.v.daum.net/v/kSA7vAm9qL</guid>
@@ -1318,14 +1326,6 @@
             <pubDate>Wed, 29 Sep 2021 05:06:01 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2FBoiledMovie%2F20210929044231455subg.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[얼마 전 유연석과 함께 밥 먹고 셀카 찍은 이 여성의 '깜놀'할 정체 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kfGNMfsOpI</link>
-            <guid>https://content.v.daum.net/v/kfGNMfsOpI</guid>
-            <pubDate>Wed, 29 Sep 2021 03:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F29%2Ffeelthemovie%2F20210929024318787lvul.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<007 노 타임 투 다이> 결연하고 숭고한 헌정사 (다음 영화 ─ 브런치)]]></title>
