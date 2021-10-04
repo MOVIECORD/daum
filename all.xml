@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 10:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 11:05:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5c2c57cab283c1111fd1c5f5f0ac05b9be2780c7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아임 유어 맨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148298</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148298</guid>
-            <pubDate>Tue, 21 Sep 2021 23:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78e33cf82eba3d7c203cc7cd2540c6bab00a488" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
@@ -142,6 +134,14 @@
             <pubDate>Mon, 04 Oct 2021 05:04:59 GMT</pubDate>
             <content:encoded><![CDATA[21.09.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F045e3b529565237b7465a357637177d59a1154ba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아임 유어 맨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148298</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148298</guid>
+            <pubDate>Tue, 21 Sep 2021 23:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78e33cf82eba3d7c203cc7cd2540c6bab00a488" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[코끼리와 나비 (다음영화 영화관 ─ 현재상영)]]></title>
