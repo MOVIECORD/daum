@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 08:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 09:07:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['행복한 나라' 만들기 위해(?) 만났다는 두 배우]]></title>
+            <link>https://content.v.daum.net/v/kanKn075Sr</link>
+            <guid>https://content.v.daum.net/v/kanKn075Sr</guid>
+            <pubDate>Wed, 06 Oct 2021 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F06%2Fmaxmovie%2F20211006081212766xemz.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[할리우드 대표 '마초男' 톰 하디의 뜻밖의 '과거']]></title>
             <link>https://content.v.daum.net/v/kHal3vdoFi</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 04 Oct 2021 04:09:07 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F04%2FBoiledMovie%2F20211004040552320klcl.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[장겨울과 안치홍이? 진짜 금슬좋은 부부 같은 두 스타배우]]></title>
-            <link>https://content.v.daum.net/v/kNDKoUC3NZ</link>
-            <guid>https://content.v.daum.net/v/kNDKoUC3NZ</guid>
-            <pubDate>Mon, 04 Oct 2021 04:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F04%2Ffeelthemovie%2F20211004033730836wf4d.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
