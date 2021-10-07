@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 05:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 06:08:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천 그리고 영화]]></title>
+            <link>https://brunch.co.kr/@@cyRT/11</link>
+            <guid>https://brunch.co.kr/@@cyRT/11</guid>
+            <pubDate>Thu, 07 Oct 2021 06:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>우린]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcyRT%2Fimage%2Fvnq_c6oy8_nGP1Lb1dyolcf5UHU.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[<007 노 타임 투 다이> 결연하고 숭고한 헌정사]]></title>
             <link>https://brunch.co.kr/@@5XLU/378</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 22 Sep 2021 00:21:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2F8dy7mFW6Y4_mg7wb0y6tAolww00.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <샹치와 텐 링즈의 전설(2021)> 리뷰]]></title>
-            <link>https://brunch.co.kr/@@77uw/59</link>
-            <guid>https://brunch.co.kr/@@77uw/59</guid>
-            <pubDate>Wed, 22 Sep 2021 00:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Heather]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F77uw%2Fimage%2FxmdB8moBi1DuZLHXh6EvahTyr68.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
