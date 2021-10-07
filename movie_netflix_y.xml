@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 02:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 03:07:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -157,6 +157,14 @@
             <pubDate>Tue, 05 Oct 2021 05:05:28 GMT</pubDate>
             <content:encoded><![CDATA[21.10.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcf95eb50026e7bf63a2d68ca3ecf16433769d4c8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 하더 데이 폴]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141768</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141768</guid>
+            <pubDate>Thu, 07 Oct 2021 03:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5337c52768b90f010ccc7e01942a363dc098287f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
