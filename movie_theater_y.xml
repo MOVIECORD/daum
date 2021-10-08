@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 14:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 15:06:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e72bad76d59c13934515e5bc1a51e7f843183d1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[모가디슈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
+            <pubDate>Tue, 21 Sep 2021 23:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[매직 스쿨: 초보마법사 아우라의 대모험]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144063</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144063</guid>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 30 Sep 2021 01:57:35 GMT</pubDate>
             <content:encoded><![CDATA[21.09.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70fb410e74f30d1019ae5a798a800b77fd1df73d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[모가디슈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
-            <pubDate>Tue, 21 Sep 2021 23:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[화이트데이: 부서진 결계]]></title>
