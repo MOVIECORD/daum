@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 15:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 01:47:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Wed, 06 Oct 2021 01:52:17 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F49deb3346d762f7f6e48120860dc126524e23058" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그녀의 가족은 잘못이 없어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=120721</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=120721</guid>
+            <pubDate>Sat, 09 Oct 2021 01:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0ea74fe3ea542d67b48ccfc333f521e9ad990f2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[타다: 대한민국 스타트업의 초상]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 01:55:19 GMT</pubDate>
             <content:encoded><![CDATA[21.10.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd993b2c25b465aa3f880872ef9493b7785a084fe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[라스트 듀얼: 최후의 결투]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152162</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152162</guid>
-            <pubDate>Fri, 08 Oct 2021 01:56:39 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F776bc3e9a0b9ab8bb821f26fe3fc9e14b39e95bf" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
