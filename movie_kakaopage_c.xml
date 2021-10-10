@@ -4,7 +4,7 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 15:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 01:53:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 04 Oct 2021 01:58:19 GMT</pubDate>
             <content:encoded><![CDATA[21.10.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0aa50471c0dfb01636a88aba1bdc6384081a9ff3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[춘몽]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=101879</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=101879</guid>
+            <pubDate>Sun, 10 Oct 2021 01:52:39 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6c67b70b3fe6894be6789b0534e0650e805a4775" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
