@@ -4,17 +4,9 @@
         <title>[다음영화] 카카오페이지 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 02:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 03:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[말리그넌트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152308</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152308</guid>
-            <pubDate>Thu, 07 Oct 2021 01:56:02 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F91f95c53e40938959224392447a8870b8cb7eb30" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[맨 온 더 로드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142013</link>
@@ -30,6 +22,14 @@
             <pubDate>Thu, 07 Oct 2021 01:56:02 GMT</pubDate>
             <content:encoded><![CDATA[21.10.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F294c2b3e6ce50af3f0ed0dcae545269e4646ca0c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[무림신검]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146420</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146420</guid>
+            <pubDate>Wed, 13 Oct 2021 03:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F057d340636d37294eed83dc87d7184413a645191" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
