@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 08:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 09:06:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에디터들이 꼽은 2021 부산국제영화제 최애작]]></title>
+            <link>https://content.v.daum.net/v/kOkG3metIZ</link>
+            <guid>https://content.v.daum.net/v/kOkG3metIZ</guid>
+            <pubDate>Wed, 13 Oct 2021 09:06:15 GMT</pubDate>
+            <content:encoded><![CDATA[테일러콘텐츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F13%2Ftailorcontents_cv%2F20211013075950592ohgz.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA['인조인간 커플'로 불린다는 비주얼 최강 스타부부]]></title>
             <link>https://content.v.daum.net/v/kjCiEHmDX5</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 12 Oct 2021 06:08:24 GMT</pubDate>
             <content:encoded><![CDATA[씨네플레이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F12%2Fcineplay%2F20211012051819452v2za.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[부산국제영화제 덕분에 스타 되었다는 존예 배우]]></title>
-            <link>https://content.v.daum.net/v/knEBeUmW8V</link>
-            <guid>https://content.v.daum.net/v/knEBeUmW8V</guid>
-            <pubDate>Tue, 12 Oct 2021 05:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F08%2Fkinolights%2F20211008082659349bitf.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
