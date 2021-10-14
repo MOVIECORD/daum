@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 08:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 09:07:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc53f25fab367858eafb3fe1b319229f7ec019654" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
+            <pubDate>Thu, 14 Oct 2021 09:05:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Oct 2021 01:53:37 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faa7cb7d0fa4303e74de2a1ba047ef610b7fb47e3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[모가디슈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
-            <pubDate>Tue, 21 Sep 2021 23:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
