@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 15:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 01:54:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc2a0a4e74c2ec417170fe936d9b6bdf2292438" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[당신얼굴 앞에서]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150931</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150931</guid>
+            <pubDate>Thu, 14 Oct 2021 01:53:45 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F46428acd35c209d0e006b8dd227b3787a48ebae4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[울림의 탄생]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144622</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144622</guid>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 14 Oct 2021 01:53:45 GMT</pubDate>
             <content:encoded><![CDATA[21.10.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e7c992e936488ff68c3f8f4c70f629f3e491d7d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[당신얼굴 앞에서]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150931</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150931</guid>
-            <pubDate>Thu, 14 Oct 2021 01:53:45 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F46428acd35c209d0e006b8dd227b3787a48ebae4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[보이 비하인드 도어]]></title>
@@ -159,12 +159,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F435d38292b26e2bc986727a0cc5a8297dd54e095" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그림자꽃]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135414</guid>
-            <pubDate>Thu, 14 Oct 2021 01:53:45 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb4e57bf3642fda3829e75a364879d7d06942d32b" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[스웻]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145168</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145168</guid>
+            <pubDate>Fri, 15 Oct 2021 01:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3ce58c06409c90d3b933ed88bbb9785909821bf2" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
