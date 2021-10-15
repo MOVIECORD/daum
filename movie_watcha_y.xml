@@ -1,8 +1,266 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2021-10-15T04:08:45.983Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 15 Oct 2021 05:06:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파이어스톰]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=83470</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=83470</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2314A84C53ACBAC00E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[크레센도]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132875</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132875</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a7fa2713edeb3ae2651264899ba4787d049d653" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[레미제라블]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=67256</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=67256</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F211A4E4750EFE4AC0F" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[피아니스트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3752</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3752</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F124699d585d3ad67cdf80fcb4ca9f2785a13c7f9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[13구역]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=40860</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=40860</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F15110210A900774AD5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스노우 화이트 앤 더 헌츠맨]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=62935</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=62935</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1338E9504FBF191F0C" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[업사이드 다운]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=73044</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=73044</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1506614C5073590A11" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[팅커 테일러 솔저 스파이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=53608</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=53608</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02c233ed03893e702214de4692d6f1cc0906663d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[구품지마관]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=24316</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=24316</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F146B8B10B274F0EAC4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[폰티풀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=51813</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=51813</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1256CB464D80C7A514" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[맛있는 인생]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=60433</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=60433</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F190F31044CB522A805" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[금지옥엽 2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=19101</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=19101</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10AD6DEACA4C" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[파라파라 사쿠라]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=33729</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=33729</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28bc53f492b37ea40af91960afbb3912346b66ad" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[색정남녀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=1961</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=1961</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F146F1B10AD5C85F7EB" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스토리 오브 루크]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=72446</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=72446</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F26544E455139458309" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[주윤발의 미녀사냥]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=38190</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=38190</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1235D9334CF6B60014" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터 부]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=34964</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=34964</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F620c2363eb607d1e52855219af378bd299644971" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[낭만풍폭]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=14065</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=14065</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F154D4110B05F01A067" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[일개호파파]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=45844</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=45844</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F110D7C10AD9D8B2835" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스물 넷]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3385</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3385</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F15110210A78B1C827C" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[특별시 사람들]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=42001</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=42001</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F124BBC154CE57E6A0B" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터 부 5]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=34973</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=34973</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0dcd3fe4ea0a498393f4c7fa951ec1501541864754618" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터 부 6]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=126000</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=126000</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe0ba43174be94275a13d4ce2dcf63e281541145813772" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[북경 예스 마담]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=27893</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=27893</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F124A5410AE3EDE4AE7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼펙트 크라임]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=110001</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=110001</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F62c59df27c9d984cefd9909cd52350e68de937eb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터 부 4]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=34971</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=34971</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59b50d2e20714261be911532b3a255501541862430426" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[지용삼보]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=34975</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=34975</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F883d6735e1820255233df250017a48dd7ec89fe0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼대디]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147126</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147126</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3894bcd85009b1ece7f215985f73d14d12379522" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[향수: 파리의 조향사]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139782</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139782</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb369cff8220f328dc0b724d48c12ba8139fb46f2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[북경 예스 마담 3 - 대인가도]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=27020</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=27020</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[밀리언 달러 트러블]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143719</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143719</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26f8b63b5b673490520cb2de66baff776f5790f6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사보타지 1941]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152121</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152121</guid>
+            <pubDate>Fri, 15 Oct 2021 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdab6d70ba728e7d2aab6af88e7d757839d1352ef" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
