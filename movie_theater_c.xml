@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 15:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 01:57:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[라스트 듀얼: 최후의 결투]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152162</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152162</guid>
+            <pubDate>Wed, 13 Oct 2021 01:56:17 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F776bc3e9a0b9ab8bb821f26fe3fc9e14b39e95bf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[첫눈이 사라졌다]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143824</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143824</guid>
@@ -54,14 +62,6 @@
             <pubDate>Thu, 07 Oct 2021 01:55:19 GMT</pubDate>
             <content:encoded><![CDATA[21.10.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd993b2c25b465aa3f880872ef9493b7785a084fe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[라스트 듀얼: 최후의 결투]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152162</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152162</guid>
-            <pubDate>Wed, 13 Oct 2021 01:56:17 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F776bc3e9a0b9ab8bb821f26fe3fc9e14b39e95bf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[경고]]></title>
