@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 03:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 04:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[냉혹한 킬러로 변신하는 칸의 여왕]]></title>
+            <link>https://content.v.daum.net/v/kxXWGwjlAu</link>
+            <guid>https://content.v.daum.net/v/kxXWGwjlAu</guid>
+            <pubDate>Mon, 18 Oct 2021 04:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F17%2Fharmony%2F20211017085905266xaf1.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[인류가 절대 영화로 만들수 없을거라 장담했던 이 작품]]></title>
             <link>https://content.v.daum.net/v/kw1j4NdIZv</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 15 Oct 2021 06:08:54 GMT</pubDate>
             <content:encoded><![CDATA[무비스트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F15%2FMOVIST%2F20211015052414901twzm.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이 남자가 '007'역할 확정됐을 때 엄청난 국민적 비난을 받은 이유]]></title>
-            <link>https://content.v.daum.net/v/k8vuDv0OFq</link>
-            <guid>https://content.v.daum.net/v/k8vuDv0OFq</guid>
-            <pubDate>Fri, 15 Oct 2021 04:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F15%2Ffeelthemovie%2F20211015033419858doc2.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
