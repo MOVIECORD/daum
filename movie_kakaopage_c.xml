@@ -4,7 +4,7 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 15:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 02:00:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,12 +88,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd24b4d7370606a5efca6239b813c62767ecf477f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[할머니의 먼 집]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=98713</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=98713</guid>
+            <pubDate>Mon, 18 Oct 2021 02:00:04 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ccf98d9e4ed70633dada9ce62ccd66f34dfaa4f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[위풍당당 질리 홉킨스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=99686</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=99686</guid>
             <pubDate>Sun, 17 Oct 2021 01:52:30 GMT</pubDate>
             <content:encoded><![CDATA[21.11.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F82d8efb64a19f1aebbaaba8a4a2c3a3efaab9d83" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이 엠 히어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=92012</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=92012</guid>
+            <pubDate>Mon, 18 Oct 2021 02:00:04 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F358ee156c9efa5095c3e97d723b9031a39887cb0" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
