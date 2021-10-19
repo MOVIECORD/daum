@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 05:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 06:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -127,6 +127,14 @@
             <content:encoded><![CDATA[21.10.21]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[검객: 척살금의위]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153407</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153407</guid>
+            <pubDate>Tue, 19 Oct 2021 06:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc426feb884aa0784c993bfa4870656d7dd8a60c7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[피치 오브 타임 극장판]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153632</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153632</guid>
@@ -157,14 +165,6 @@
             <pubDate>Sun, 17 Oct 2021 08:07:05 GMT</pubDate>
             <content:encoded><![CDATA[21.10.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3ce58c06409c90d3b933ed88bbb9785909821bf2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아네트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149842</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149842</guid>
-            <pubDate>Tue, 19 Oct 2021 03:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faaddfb2f6673d6a60f4af6bec0d13ad9b46f098b" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
