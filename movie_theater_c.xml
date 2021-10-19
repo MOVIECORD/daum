@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 15:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 01:55:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[물방울을 그리는 남자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145947</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145947</guid>
-            <pubDate>Thu, 07 Oct 2021 01:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5f854ea72655a744060152b0b213a50a4d8be2b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[듄]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
@@ -165,6 +157,14 @@
             <pubDate>Sun, 17 Oct 2021 08:07:05 GMT</pubDate>
             <content:encoded><![CDATA[21.10.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3ce58c06409c90d3b933ed88bbb9785909821bf2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그림자꽃]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135414</guid>
+            <pubDate>Tue, 19 Oct 2021 01:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdbb0c9608c9dfd0fdf97c7331c30985c4f532900" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

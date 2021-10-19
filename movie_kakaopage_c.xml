@@ -4,7 +4,7 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 15:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 01:55:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,22 +14,6 @@
             <pubDate>Tue, 05 Oct 2021 01:51:32 GMT</pubDate>
             <content:encoded><![CDATA[21.10.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F243A043A52B249C610" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[해커]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=101617</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=101617</guid>
-            <pubDate>Wed, 13 Oct 2021 06:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1fa361e46edfe405e4a47ce0c7d5350ba8719fca" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[티에나: 10,000년 후]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=105842</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=105842</guid>
-            <pubDate>Mon, 04 Oct 2021 01:58:19 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0aa50471c0dfb01636a88aba1bdc6384081a9ff3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[마당을 나온 암탉]]></title>
@@ -110,6 +94,14 @@
             <pubDate>Mon, 18 Oct 2021 02:00:04 GMT</pubDate>
             <content:encoded><![CDATA[21.11.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F358ee156c9efa5095c3e97d723b9031a39887cb0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[디시에르토]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=96940</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=96940</guid>
+            <pubDate>Tue, 19 Oct 2021 01:55:31 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc57b2390a91b2d419c306f798878c77fe95e6918" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
