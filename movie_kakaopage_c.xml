@@ -4,25 +4,9 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 15:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 01:57:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[무사의 레시피]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=83466</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=83466</guid>
-            <pubDate>Tue, 05 Oct 2021 01:51:32 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F243A043A52B249C610" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[마당을 나온 암탉]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=41651</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=41651</guid>
-            <pubDate>Tue, 12 Oct 2021 01:56:08 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F172DB3464E0812260E" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[춘몽]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=101879</link>
@@ -102,6 +86,14 @@
             <pubDate>Tue, 19 Oct 2021 01:55:31 GMT</pubDate>
             <content:encoded><![CDATA[21.11.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc57b2390a91b2d419c306f798878c77fe95e6918" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마인드스케이프]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=81175</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=81175</guid>
+            <pubDate>Wed, 20 Oct 2021 01:56:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F264E674A542402EC0A" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
