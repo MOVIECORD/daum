@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 15:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 02:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스파이의 아내'는 반일 영화일까?]]></title>
+            <link>https://brunch.co.kr/@@d7ni/15</link>
+            <guid>https://brunch.co.kr/@@d7ni/15</guid>
+            <pubDate>Thu, 21 Oct 2021 02:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박수영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fd7ni%2Fimage%2FnjZXZM-sXXQxiRlZld7ESKtJ-_U.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[체르노빌과 바르샤바의 공통점은?]]></title>
             <link>https://brunch.co.kr/@@3f3S/347</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>오르카]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fd33J%2Fimage%2FjrWzpCa33KDtipUHV6RZFkbc-qA.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[여전히 존재하는 차별에 관한 영화]]></title>
-            <link>https://brunch.co.kr/@@535y/451</link>
-            <guid>https://brunch.co.kr/@@535y/451</guid>
-            <pubDate>Tue, 28 Sep 2021 03:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Rabbitgumi]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fguest%2Fimage%2FsaRdfSI9usiCAeNFfpY9U1WAvuk.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
