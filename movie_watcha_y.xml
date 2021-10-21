@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 08:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 09:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa89ac308938e06719bfb8fda96f4b53c71e766ef" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[화가와 도둑]]></title>
+            <title><![CDATA[나의 뮤즈, 그림 도둑]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137946</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137946</guid>
             <pubDate>Tue, 19 Oct 2021 05:05:40 GMT</pubDate>
@@ -246,6 +246,22 @@
             <pubDate>Thu, 21 Oct 2021 06:10:23 GMT</pubDate>
             <content:encoded><![CDATA[21.10.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa1896792615b728bc2b3b755a848b96f153e60e1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 포켓몬스터 : 뮤츠의 역습]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2362</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2362</guid>
+            <pubDate>Thu, 21 Oct 2021 09:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F142F81394FF6A1CF0A" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[포켓몬스터 2 : 루기아의 탄생]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3149</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3149</guid>
+            <pubDate>Thu, 21 Oct 2021 09:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F14110210A879E90A7D" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
