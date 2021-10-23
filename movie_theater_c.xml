@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 02:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 03:07:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3a440345ea826d42d6873975e8b3b8cdb8da66c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[사대명포: 제국의 비밀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154046</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154046</guid>
+            <pubDate>Sat, 23 Oct 2021 03:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F19236222bb8ebe99bd36039882cedec788760619" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[당신은 믿지 않겠지만]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142880</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142880</guid>
@@ -128,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fae02ef59931fd03aa42e88ec3b3d26d79ed04c68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[클리너:살인마의 집]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153525</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153525</guid>
+            <pubDate>Sat, 23 Oct 2021 03:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F32af9c277d6e99296dddd7a80311671254f75474" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[비하인드 유]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=140286</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=140286</guid>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 21 Oct 2021 02:00:57 GMT</pubDate>
             <content:encoded><![CDATA[21.10.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb4aa7920a83d7df0a5d6fabdb465cd0dd7ada1d6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[올 어바웃 섹스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153983</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153983</guid>
-            <pubDate>Thu, 21 Oct 2021 02:00:57 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05c6cc2c4e081022f1c84bad016748e57de1f439" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[가치 캅시다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154235</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154235</guid>
-            <pubDate>Thu, 21 Oct 2021 02:00:57 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb4c394a1c06e3638e15f07608d8cf45f6e55c325" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
