@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 06:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 07:07:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[색다른 그녀 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153866</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153866</guid>
-            <pubDate>Thu, 07 Oct 2021 01:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd407519e6675a2685a478585b2ad75625f9105b1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[수색자 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152491</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152491</guid>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 13 Oct 2021 01:56:17 GMT</pubDate>
             <content:encoded><![CDATA[21.10.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc2a0a4e74c2ec417170fe936d9b6bdf2292438" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[색다른 그녀 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153866</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153866</guid>
+            <pubDate>Thu, 07 Oct 2021 01:55:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd407519e6675a2685a478585b2ad75625f9105b1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스피릿 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1542,6 +1542,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FVHflqU7s-wZywguFDFVV694ftJ8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[살짝 맛만 보여준, 그래서 다음이 기대되는 영웅 서사시 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@5CxR/62</link>
+            <guid>https://brunch.co.kr/@@5CxR/62</guid>
+            <pubDate>Tue, 26 Oct 2021 07:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Anonymoushilarious]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5CxR%2Fimage%2FHdPERpNcca_nlmRCpkmUTBRUB54" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[장중한 스페이스 오페라의 탄생 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@535y/456</link>
+            <guid>https://brunch.co.kr/@@535y/456</guid>
+            <pubDate>Tue, 26 Oct 2021 07:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Rabbitgumi]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F535y%2Fimage%2FHd4tKPLZkUNK3cBEdue1LShF9ow.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[본 콜렉터 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@3kT/5168</link>
             <guid>https://brunch.co.kr/@@3kT/5168</guid>
@@ -1676,22 +1692,6 @@
             <pubDate>Thu, 21 Oct 2021 05:06:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>묘차사]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fddms%2Fimage%2FcvUvw4cu5rNWJCG2AtKFme_7Cd8.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[나를 찾아줘] 실종된 자아를 위하여 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@ddms/10</link>
-            <guid>https://brunch.co.kr/@@ddms/10</guid>
-            <pubDate>Thu, 21 Oct 2021 05:06:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>묘차사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fddms%2Fimage%2FZgKaNCYRHHmVUZpOJUe4HhQbHWw.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[체르노빌과 바르샤바의 공통점은? (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@3f3S/347</link>
-            <guid>https://brunch.co.kr/@@3f3S/347</guid>
-            <pubDate>Wed, 20 Oct 2021 06:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>안치용]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3f3S%2Fimage%2FvQRkzQlN0cNF66gjr-I9CHxVLB8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
