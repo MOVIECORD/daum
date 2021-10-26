@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 03:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 04:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc24b8adacb651651211cb925510fa804701d5074" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[동백 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143264</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143264</guid>
+            <pubDate>Tue, 26 Oct 2021 04:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09942553dd9ceff78131298425e36b9a5f23df8e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[당신얼굴 앞에서 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150931</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150931</guid>
@@ -150,22 +158,6 @@
             <pubDate>Sat, 23 Oct 2021 05:51:38 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[울림의 탄생 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144622</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144622</guid>
-            <pubDate>Tue, 26 Oct 2021 03:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4797460ec64506171ad9c6f88548253c1e5120e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[사상 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145286</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145286</guid>
-            <pubDate>Tue, 26 Oct 2021 03:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30f1122eadc03b80771fbc73ac97ff66238f952c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[고장난 론 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1270,6 +1262,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa51170e879caedd5dcb91bdc8a2d5f92d8e78005" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[키가 너무 커서..발차기 하다 남자 배우를 진짜 KO시킨 여성배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kG5Y9cif9p</link>
+            <guid>https://content.v.daum.net/v/kG5Y9cif9p</guid>
+            <pubDate>Tue, 26 Oct 2021 04:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Ffeelthemovie%2F20211026032951410easn.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[미래엔 사람의 꿈에도 세금 매기나? (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/kaPF5vAoMu</link>
             <guid>https://content.v.daum.net/v/kaPF5vAoMu</guid>
@@ -1420,14 +1420,6 @@
             <pubDate>Sat, 23 Oct 2021 02:27:40 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F20%2Ffanzeel%2F20211020051646646blbj.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[톱배우가 촬영 중 쏜 소품총으로 벌어진, 되돌릴 수 없는 비극 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kH7CyhEcM8</link>
-            <guid>https://content.v.daum.net/v/kH7CyhEcM8</guid>
-            <pubDate>Sat, 23 Oct 2021 01:56:09 GMT</pubDate>
-            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F22%2Fkinolights%2F202110222203176159zmz.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[본 콜렉터 (다음 영화 ─ 브런치)]]></title>
