@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 01:54:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 02:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f172ff45e840b9d656366c43072f302047e426f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[고양이를 부탁해 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=3186</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=3186</guid>
-            <pubDate>Mon, 01 Nov 2021 12:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcaf0e113a9fccc8d6120a124d1c22d1e08c38434" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[할로윈 킬즈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=138629</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=138629</guid>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 02 Nov 2021 01:52:57 GMT</pubDate>
             <content:encoded><![CDATA[21.08.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F446090579974d44551356ce961743e57eaa41bd6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143260</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143260</guid>
+            <pubDate>Tue, 02 Nov 2021 02:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[이터널스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1183,6 +1183,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['곡성'에서 미친 연기 보여준 이 배우의 근황 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kOhu4s2gO1</link>
+            <guid>https://content.v.daum.net/v/kOhu4s2gO1</guid>
+            <pubDate>Tue, 02 Nov 2021 02:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2Ffanzeel%2F20211101053740629phei.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[121명의 아이들이 성폭행 당한 실화를 바탕으로 했다는 대만판 '도가니'라는 영화 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/ky8cbAHRmJ</link>
             <guid>https://content.v.daum.net/v/ky8cbAHRmJ</guid>
@@ -1333,14 +1341,6 @@
             <pubDate>Sat, 30 Oct 2021 04:08:16 GMT</pubDate>
             <content:encoded><![CDATA[키노라이츠]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F30%2Fkinolights%2F20211030011010541sp2z.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['콰이어트 플레이스' 존 크래신스키, 라이언 레이놀즈와 판타지 코미디 만든다 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kR5jpbHWgF</link>
-            <guid>https://content.v.daum.net/v/kR5jpbHWgF</guid>
-            <pubDate>Sat, 30 Oct 2021 01:47:21 GMT</pubDate>
-            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fkinolights%2F20211029221727999licu.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<아네트> 영화의 화려함이 가린 진실을 찾아서 (다음 영화 ─ 브런치)]]></title>
