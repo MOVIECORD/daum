@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 13:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 14:06:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F742009ef2b6df1e793ab096883b7f14321881faf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
-            <pubDate>Tue, 21 Sep 2021 23:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[싱크홀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=134290</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134290</guid>
@@ -158,6 +150,14 @@
             <pubDate>Thu, 04 Nov 2021 05:05:12 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
+            <pubDate>Tue, 21 Sep 2021 23:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
