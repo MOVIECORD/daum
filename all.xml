@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 06:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 07:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafd003ec7a90902c90275affff2457c727871aa7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[세버그 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134364</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134364</guid>
-            <pubDate>Mon, 01 Nov 2021 01:52:14 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59edfa320d0232cdf772411f35114c2b9ffa4cf0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아네트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149842</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149842</guid>
             <pubDate>Wed, 20 Oct 2021 01:56:13 GMT</pubDate>
             <content:encoded><![CDATA[21.10.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5548145a15a57370681229ae9060ab6ee88302b2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[세버그 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134364</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134364</guid>
+            <pubDate>Mon, 01 Nov 2021 01:52:14 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59edfa320d0232cdf772411f35114c2b9ffa4cf0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[빌리 홀리데이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -86,6 +86,14 @@
             <pubDate>Thu, 21 Oct 2021 02:00:57 GMT</pubDate>
             <content:encoded><![CDATA[21.10.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3a440345ea826d42d6873975e8b3b8cdb8da66c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
+            <pubDate>Tue, 21 Sep 2021 23:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[싱크홀 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 04 Nov 2021 05:05:12 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
-            <pubDate>Tue, 21 Sep 2021 23:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아담스 패밀리 2 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1639,6 +1639,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbIJR%2Fimage%2F4ZHSZ6kSs0y9YDP1j0V-IBY3VDY.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[이카로스처럼 과욕을 부린 MCU (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@5jTv/71</link>
+            <guid>https://brunch.co.kr/@@5jTv/71</guid>
+            <pubDate>Thu, 04 Nov 2021 07:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FOCCR7KYrjVatQKa3LjhuA2hY83k.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이영 씨 다 알고 있었잖아요 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@a7cR/17</link>
+            <guid>https://brunch.co.kr/@@a7cR/17</guid>
+            <pubDate>Thu, 04 Nov 2021 07:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>덕복희]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa7cR%2Fimage%2F3cmX-99nWpAGqx7fld9vaAsXHqw.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[류승완 영화와 몸의 테크네 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@7hxv/42</link>
+            <guid>https://brunch.co.kr/@@7hxv/42</guid>
+            <pubDate>Thu, 04 Nov 2021 07:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>GJ]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7hxv%2Fimage%2FMbVKBKyuYTj-kVkAIOsDxLQ65C8.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[크고 작은 부조화와 모순들 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@1I3x/141</link>
             <guid>https://brunch.co.kr/@@1I3x/141</guid>
@@ -1765,30 +1789,6 @@
             <pubDate>Thu, 21 Oct 2021 03:07:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>여행하는 기획자]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7zIK%2Fimage%2FgMb0ryoK9KRIw8VAM5Lc1G_NQfw.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[주연 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@aAuf/4</link>
-            <guid>https://brunch.co.kr/@@aAuf/4</guid>
-            <pubDate>Thu, 21 Oct 2021 03:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>커피스트 조윤정]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fguest%2Fimage%2FM59gZ1L4FfabC4Ij1fPHq3BkPi4.PNG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<당신얼굴 앞에서> 오늘 하루치의 감사함을 발견하다 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@6dyt/732</link>
-            <guid>https://brunch.co.kr/@@6dyt/732</guid>
-            <pubDate>Thu, 21 Oct 2021 03:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FdgW1YZMjanE6fPXKE6a6UIVUm0Q.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이와이 슌지와 립반 윙클의 신부 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@8vHh/2221</link>
-            <guid>https://brunch.co.kr/@@8vHh/2221</guid>
-            <pubDate>Thu, 21 Oct 2021 04:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>교관]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8vHh%2Fimage%2FMtjnK1920sp5gDRBb-58uBxcbuk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
