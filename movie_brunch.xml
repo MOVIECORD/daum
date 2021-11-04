@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 05:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 06:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<카모메 식당>리뷰]]></title>
+            <link>https://brunch.co.kr/@@bIJR/53</link>
+            <guid>https://brunch.co.kr/@@bIJR/53</guid>
+            <pubDate>Thu, 04 Nov 2021 06:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>orchid]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbIJR%2Fimage%2F4ZHSZ6kSs0y9YDP1j0V-IBY3VDY.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[크고 작은 부조화와 모순들]]></title>
             <link>https://brunch.co.kr/@@1I3x/141</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Oct 2021 04:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>교관]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8vHh%2Fimage%2FMtjnK1920sp5gDRBb-58uBxcbuk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['반지의 제왕', '아바타' 잇는 황홀경]]></title>
-            <link>https://brunch.co.kr/@@5jTv/70</link>
-            <guid>https://brunch.co.kr/@@5jTv/70</guid>
-            <pubDate>Thu, 21 Oct 2021 05:06:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2Fk0R8CdAJ03rFPN1v8PmfcNzll2s.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
