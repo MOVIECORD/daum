@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 12:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 13:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F450d4500236583f15be6daf7618df18c426e75fd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[송해 1927 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145289</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145289</guid>
-            <pubDate>Thu, 11 Nov 2021 01:49:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff8d9bbaa79562d6f47e7890b5c7db740cc7e8d23" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[너에게 가는 길 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149618</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149618</guid>
@@ -104,28 +96,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01a3377ae55c1d15958d1777f8fd19e100ada541" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[송해 1927 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145289</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145289</guid>
+            <pubDate>Thu, 11 Nov 2021 01:49:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff8d9bbaa79562d6f47e7890b5c7db740cc7e8d23" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[후겟츠 웨슬리 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154796</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154796</guid>
             <pubDate>Thu, 11 Nov 2021 01:49:50 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47b05867715e070d99d0c1dcb1c549006ed36d02" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼스트 카우 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135694</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135694</guid>
-            <pubDate>Mon, 22 Nov 2021 12:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc618dc4b100188ce3d33b2b170f567d44aa4d477" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[악인은 너무 많다 2: 제주 실종사건의 전말 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152715</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152715</guid>
-            <pubDate>Sun, 21 Nov 2021 01:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa716f8d9423b8c395bca4b3a47f59b031c959ca4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[동백 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -142,6 +126,14 @@
             <pubDate>Tue, 23 Nov 2021 01:48:40 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab11bc61008f428da97b1286bd335fd6a68c39a2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼스트 카우 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135694</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135694</guid>
+            <pubDate>Mon, 22 Nov 2021 12:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc618dc4b100188ce3d33b2b170f567d44aa4d477" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그림자꽃 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 23 Nov 2021 11:05:02 GMT</pubDate>
             <content:encoded><![CDATA[21.10.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F46428acd35c209d0e006b8dd227b3787a48ebae4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴 오더 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143814</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143814</guid>
+            <pubDate>Tue, 23 Nov 2021 07:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F74e66c2a7a0fa7ef845bba1d53d5865363403c4e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1411,6 +1411,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcbe5434e6d29b5585145bb12c7949f7c0b3f2817" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[<이터널스> 테나 실존설..? 안젤리나 졸리 걸어 다니는 조각상 비주얼 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/k6ZW4ItY75</link>
+            <guid>https://content.v.daum.net/v/k6ZW4ItY75</guid>
+            <pubDate>Tue, 23 Nov 2021 13:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[씨네플레이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F23%2Fcineplay%2F20211123111042088sedl.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[드라마 찍다가 눈 맞아서 연인사이로 발전했다는 배우들 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/ketTMxfqKI</link>
+            <guid>https://content.v.daum.net/v/ketTMxfqKI</guid>
+            <pubDate>Tue, 23 Nov 2021 13:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F23%2Fharmony%2F20211123082732966yzf3.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[3년간 영화관 알바하면서 연기 연습했는데, '넷플릭스 1위' 배우 됨 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/km4jXqQGSc</link>
             <guid>https://content.v.daum.net/v/km4jXqQGSc</guid>
@@ -1553,22 +1569,6 @@
             <pubDate>Mon, 22 Nov 2021 04:11:11 GMT</pubDate>
             <content:encoded><![CDATA[키노라이츠]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F20%2Fkinolights%2F20211120050741108pxpx.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[류승룡 <장르만 로맨스> 1위! (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/k5dYQ7zWjP</link>
-            <guid>https://content.v.daum.net/v/k5dYQ7zWjP</guid>
-            <pubDate>Mon, 22 Nov 2021 01:50:47 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F22%2FMOVIST%2F20211122005411117xy8k.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[한 남자의 전부인과 현재 부인이 한공간에서 만나자 벌어진 일 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/k5apc7dT1L</link>
-            <guid>https://content.v.daum.net/v/k5apc7dT1L</guid>
-            <pubDate>Mon, 22 Nov 2021 01:50:47 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F21%2Ffeelthemovie%2F20211121160911500k3ed.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<그레이스> 여자들의 이중성에 대해 (다음 영화 ─ 브런치)]]></title>
