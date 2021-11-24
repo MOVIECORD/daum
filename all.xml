@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 14:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 15:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2d3ee4afbc78b44e34534037e17f7f382e1b65c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[메이드 인 이태리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142774</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142774</guid>
-            <pubDate>Thu, 18 Nov 2021 01:48:52 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe0bc8741cecdf925d6c7a31205b43489fafdc08" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
             <pubDate>Thu, 07 Oct 2021 01:55:19 GMT</pubDate>
             <content:encoded><![CDATA[21.10.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[메이드 인 이태리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142774</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142774</guid>
+            <pubDate>Thu, 18 Nov 2021 01:48:52 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe0bc8741cecdf925d6c7a31205b43489fafdc08" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[강릉 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -112,20 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7412acf6a22c72b54b6ec01019c022bea4a877ca" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[후겟츠 웨슬리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154796</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154796</guid>
-            <pubDate>Wed, 24 Nov 2021 05:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47b05867715e070d99d0c1dcb1c549006ed36d02" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[귀멸의 칼날: 나타구모산 편 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153270</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153270</guid>
             <pubDate>Thu, 11 Nov 2021 01:49:50 GMT</pubDate>
             <content:encoded><![CDATA[21.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdfd99b73ac1fcdfd335572d65b76a27e95c108da" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[후겟츠 웨슬리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154796</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154796</guid>
+            <pubDate>Wed, 24 Nov 2021 05:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47b05867715e070d99d0c1dcb1c549006ed36d02" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1386,6 +1386,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcbe5434e6d29b5585145bb12c7949f7c0b3f2817" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[변호사 하려고 모델 아르바이트 하다가..세계 최고 미녀가 된 법대생 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kaFnyb34N3</link>
+            <guid>https://content.v.daum.net/v/kaFnyb34N3</guid>
+            <pubDate>Wed, 24 Nov 2021 15:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Ffeelthemovie%2F20211124140230479st1z.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[넷플릭스 세계 1위 '지옥'에 '기생충'의 다혜가 나왔었다고? (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/kSZ72f1fVp</link>
             <guid>https://content.v.daum.net/v/kSZ72f1fVp</guid>
@@ -1536,14 +1544,6 @@
             <pubDate>Tue, 23 Nov 2021 01:49:35 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F23%2FBoiledMovie%2F20211123002322952frnt.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[최근까지 크게 싸운 거대 영화사의 실세가 된 스타의 인생역전 근황 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kqGkRo7MjT</link>
-            <guid>https://content.v.daum.net/v/kqGkRo7MjT</guid>
-            <pubDate>Tue, 23 Nov 2021 01:49:35 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F22%2Ffeelthemovie%2F2021112223462899611wy.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[평범함이, 때로는 가장 특별하다 (다음 영화 ─ 브런치)]]></title>
