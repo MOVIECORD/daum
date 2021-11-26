@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 05:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 06:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d54d4dec506b1386961fbac801aaff2287d953d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
-            <pubDate>Thu, 11 Nov 2021 01:49:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[강릉 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145338</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145338</guid>
             <pubDate>Mon, 01 Nov 2021 01:52:14 GMT</pubDate>
             <content:encoded><![CDATA[21.11.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F68abec870c08bd07292a5c057be49158778fe731" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
+            <pubDate>Thu, 11 Nov 2021 01:49:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[메이드 인 이태리 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1483,6 +1483,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1bc98432431cfc4f55e17759691e67bf457c204" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[왓챠 신작! <채플웨이트: 피의 저택>, <죽지않는 인간들의 밤>, <며느라기> 등 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/k9hD4bQgJD</link>
+            <guid>https://content.v.daum.net/v/k9hD4bQgJD</guid>
+            <pubDate>Fri, 26 Nov 2021 06:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[무비스트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F26%2FMOVIST%2F20211126054750903koci.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[무려 3억 6천 만원에 낙찰된 영화 속 배구공 (feat. 캐스트 어웨이) (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kVqa2l1ofA</link>
+            <guid>https://content.v.daum.net/v/kVqa2l1ofA</guid>
+            <pubDate>Fri, 26 Nov 2021 06:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F26%2FBoiledMovie%2F20211126052207460atxo.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[넷플릭스 신작! <재키의 링>, <파워 오브 도그>, <인질> 등 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/kUciRy5kCZ</link>
             <guid>https://content.v.daum.net/v/kUciRy5kCZ</guid>
@@ -1625,22 +1641,6 @@
             <pubDate>Thu, 25 Nov 2021 03:07:51 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2FBoiledMovie%2F20211125023214423z6ho.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[강박증 앓던 남녀가 사랑에 빠지면 벌어지는 일 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kMoNfN1UiS</link>
-            <guid>https://content.v.daum.net/v/kMoNfN1UiS</guid>
-            <pubDate>Thu, 25 Nov 2021 02:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Ffanzeel%2F20211124084058921wys9.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[게임·SF·성우·애니 덕후의 시각으로 본 <아케인> 매력 포인트 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kxWLYpLUIw</link>
-            <guid>https://content.v.daum.net/v/kxWLYpLUIw</guid>
-            <pubDate>Thu, 25 Nov 2021 01:53:02 GMT</pubDate>
-            <content:encoded><![CDATA[씨네플레이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fcineplay%2F20211124095032811qnkq.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[엔칸토: 마법의 세계, 세대화합의 장 (다음 영화 ─ 브런치)]]></title>
