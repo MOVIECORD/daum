@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 15:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:48:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[이터널스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130908</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130908</guid>
-            <pubDate>Thu, 28 Oct 2021 01:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2d3ee4afbc78b44e34534037e17f7f382e1b65c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[장르만 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=128599</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=128599</guid>
@@ -56,12 +48,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d54d4dec506b1386961fbac801aaff2287d953d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[메이드 인 이태리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142774</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142774</guid>
-            <pubDate>Thu, 18 Nov 2021 01:48:52 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe0bc8741cecdf925d6c7a31205b43489fafdc08" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[이터널스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130908</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130908</guid>
+            <pubDate>Thu, 28 Oct 2021 01:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2d3ee4afbc78b44e34534037e17f7f382e1b65c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Thu, 11 Nov 2021 01:49:50 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[메이드 인 이태리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142774</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142774</guid>
+            <pubDate>Thu, 18 Nov 2021 01:48:52 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe0bc8741cecdf925d6c7a31205b43489fafdc08" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[강릉 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -166,37 +166,6 @@
             <pubDate>Thu, 25 Nov 2021 09:06:58 GMT</pubDate>
             <content:encoded><![CDATA[21.11.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb63ca4c0749e90ed1029a78ea3d6691d35d16a42" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[진마사 사상복마 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152373</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152373</guid>
-            <pubDate>Thu, 25 Nov 2021 06:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F16dae0353e5e9d7dd6c7fabc7a6ffe7f7335fb1c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 캐슬 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154967</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154967</guid>
-            <pubDate>Mon, 08 Nov 2021 05:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa86283a39ffd5211f0e47e7682ea012e1f081578" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[비욘드라이브 더 무비 : 엔시티 레조넌스 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155555</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155555</guid>
-            <pubDate>Wed, 24 Nov 2021 01:50:39 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.26]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[앙젤 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155849</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155849</guid>
-            <pubDate>Thu, 25 Nov 2021 09:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbeb7f66916b04c7d5b7ba342bb99e9c689db5632" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[14좌 정복 - 불가능은 없다 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -325,6 +294,38 @@
             <pubDate>Thu, 25 Nov 2021 01:52:11 GMT</pubDate>
             <content:encoded><![CDATA[21.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F149b0c17e9faf6e0a91871ca91f3d5ecf44cc61e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[고공 침투: 노 리턴 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154270</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154270</guid>
+            <pubDate>Fri, 26 Nov 2021 01:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e88c1b7a0b0d5a2c05bf0dab517e5490df5e177" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[빅풋 VS. 메가로돈 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154628</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154628</guid>
+            <pubDate>Fri, 26 Nov 2021 01:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a4d02ec005628b748d1f5981e6227e633bdb5c7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[괴물: 네스호의 비밀 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154627</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154627</guid>
+            <pubDate>Fri, 26 Nov 2021 01:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0f842b9154f59ed668a489fe5b16978579a5b56b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이 워 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154629</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154629</guid>
+            <pubDate>Fri, 26 Nov 2021 01:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F747dec97ae1849b2e633e599d207503958e489ce" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엠마 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -607,6 +608,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F346e56f58875867d6d5648f18374ef43eb373db4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 템플 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114025</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114025</guid>
+            <pubDate>Fri, 26 Nov 2021 01:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F62a44b6fd0ccf8bc8db81652e2d40fbe22bce1c1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[크리스마스 캐슬 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154967</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154967</guid>
@@ -719,6 +728,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F81169d70a1668d38732a0c0c4c17bbb80da3ad98" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 홀 트루스 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155852</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155852</guid>
+            <pubDate>Fri, 26 Nov 2021 01:47:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc615c9c59cd1f6278eb466e0ac08f0cda428c3b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[코발트 블루 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154971</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154971</guid>
@@ -741,14 +758,6 @@
             <pubDate>Mon, 15 Nov 2021 05:06:01 GMT</pubDate>
             <content:encoded><![CDATA[21.12.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30e0f4354623d9b0fff0ae17ec3326d7c06c9149" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니: 에이펙스의 비밀 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=93119</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=93119</guid>
-            <pubDate>Wed, 10 Nov 2021 01:49:45 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3e8e229c3fca8bd9b47b2f8eee85f982acdef21" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[비긴 어게인 ([다음영화] 왓챠 ─ 종료예정)]]></title>
@@ -1442,22 +1451,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feae959c9b1fd0e902f22daf61f794fde440ba969" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[해피 클리너스 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=131694</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=131694</guid>
-            <pubDate>Thu, 18 Nov 2021 09:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb509e8a8e85c4724970c225664b643d71557924076139" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[쁘띠 마망 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148314</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148314</guid>
-            <pubDate>Thu, 18 Nov 2021 09:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F594684f7726d7e5d8ac0af59fbdb1c4ce32833fc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뉴 오더 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143814</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143814</guid>
@@ -1482,6 +1475,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1bc98432431cfc4f55e17759691e67bf457c204" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[32년 만에 후속편이 나왔다는 '전설의 먹깨비'로 유명한 호러 코미디 영화 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kjIOqoEo5k</link>
+            <guid>https://content.v.daum.net/v/kjIOqoEo5k</guid>
+            <pubDate>Fri, 26 Nov 2021 01:48:17 GMT</pubDate>
+            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fkinolights%2F20211125133807325x2qu.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA['남자로서 자신감이 부족해' 어린 시절 우상 저격으로 논란이라는 영화감독 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kopK4vQUxQ</link>
+            <guid>https://content.v.daum.net/v/kopK4vQUxQ</guid>
+            <pubDate>Fri, 26 Nov 2021 01:48:17 GMT</pubDate>
+            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fkinolights%2F20211125122838263rnom.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[누가 보면 삼부작인 줄, 극장에 연이어 찾아온 '로맨스 영화' 3편 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kATeQ60UaF</link>
+            <guid>https://content.v.daum.net/v/kATeQ60UaF</guid>
+            <pubDate>Fri, 26 Nov 2021 01:48:17 GMT</pubDate>
+            <content:encoded><![CDATA[씨네플레이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fcineplay%2F20211124094652440ul14.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[웨스 앤더슨 감독을 색감 천재로만 알고 있다면? (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kJ04Tk7xoQ</link>
+            <guid>https://content.v.daum.net/v/kJ04Tk7xoQ</guid>
+            <pubDate>Fri, 26 Nov 2021 01:48:17 GMT</pubDate>
+            <content:encoded><![CDATA[씨네플레이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F23%2Fcineplay%2F20211123110032492gudi.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[첫 감독 데뷔작에서 마블을 이긴 20년차 베테랑 한국 배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/kdVR9iUm3C</link>
             <guid>https://content.v.daum.net/v/kdVR9iUm3C</guid>
@@ -1496,14 +1521,6 @@
             <pubDate>Thu, 25 Nov 2021 11:05:59 GMT</pubDate>
             <content:encoded><![CDATA[씨네플레이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fcineplay%2F20211125104556121nejy.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 엄마 연기? 알바몬에서 대세 배우 된 <지옥> 이 배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kXr5yPTJIR</link>
-            <guid>https://content.v.daum.net/v/kXr5yPTJIR</guid>
-            <pubDate>Thu, 25 Nov 2021 11:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[씨네플레이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fcineplay%2F20211125102140688si9b.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[성룡이 인정한 남자배우들을 능가하는 미녀 액션스타 (다음 영화 ─ 매거진)]]></title>
@@ -1616,30 +1633,6 @@
             <pubDate>Thu, 25 Nov 2021 01:53:02 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Ffeelthemovie%2F20211124135033619plzh.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔가 추천했다는 비올 때 보면 찰떡이라는 재즈영화 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/ktgdRJH4xb</link>
-            <guid>https://content.v.daum.net/v/ktgdRJH4xb</guid>
-            <pubDate>Thu, 25 Nov 2021 01:53:02 GMT</pubDate>
-            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F09%2Fkinolights%2F20211109135952962bnpl.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 대표 韓 애니메이터 "디즈니 입사하려면.." (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kW9huGPqnC</link>
-            <guid>https://content.v.daum.net/v/kW9huGPqnC</guid>
-            <pubDate>Wed, 24 Nov 2021 08:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fmaxmovie%2F20211124064824720xrgx.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['11살 연상' 사진가와 15년째 신혼인 배우가 전한 반가운 소식 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kFhnrfdplt</link>
-            <guid>https://content.v.daum.net/v/kFhnrfdplt</guid>
-            <pubDate>Wed, 24 Nov 2021 08:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fmaxmovie%2F20211124063554388wkx7.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[엔칸토: 마법의 세계, 세대화합의 장 (다음 영화 ─ 브런치)]]></title>
