@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 08:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 09:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Wed, 01 Dec 2021 08:10:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Kyung film]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9Uc8%2Fimage%2F2NiGIFsM4uzjkkCwb5iris66kCM.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<듄>]]></title>
+            <link>https://brunch.co.kr/@@73DT/1013</link>
+            <guid>https://brunch.co.kr/@@73DT/1013</guid>
+            <pubDate>Wed, 01 Dec 2021 09:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>훈수의 왕]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F73DT%2Fimage%2Fl3VxJpJt4_3C504hY-PPcpkfT7w.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[고스트버스터즈 라이즈,진정한 후속작이자 진실된 팬무비]]></title>
+            <link>https://brunch.co.kr/@@6wHY/491</link>
+            <guid>https://brunch.co.kr/@@6wHY/491</guid>
+            <pubDate>Wed, 01 Dec 2021 09:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2FgziAc6-1xqWbf_06RQVL3OFW4cs.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[라스트 나잇 인 소호,지알로를 향한 러브레터]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 17 Nov 2021 02:22:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2F9fVLL7v6J4l9L22dq0R3ZQSrqFw.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[전쟁통에 못 본 척한 사내, 결국 우리 부대가 다쳤다]]></title>
-            <link>https://brunch.co.kr/@@7rF2/362</link>
-            <guid>https://brunch.co.kr/@@7rF2/362</guid>
-            <pubDate>Tue, 16 Nov 2021 04:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김성호]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7rF2%2Fimage%2FhdWNkJSU_hNIHQlan_hybNuY-9U.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[하드코어 액션을 만난 '뷰티 인사이드']]></title>
-            <link>https://brunch.co.kr/@@5jTv/74</link>
-            <guid>https://brunch.co.kr/@@5jTv/74</guid>
-            <pubDate>Tue, 16 Nov 2021 03:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FDDw66_9qwQFpcr-W76NsNjM1BdU.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
