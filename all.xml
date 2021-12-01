@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 12:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 13:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01a3377ae55c1d15958d1777f8fd19e100ada541" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[이터널스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130908</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130908</guid>
-            <pubDate>Thu, 28 Oct 2021 01:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2d3ee4afbc78b44e34534037e17f7f382e1b65c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[귀멸의 칼날: 주합회의·나비저택 편 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153269</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153269</guid>
             <pubDate>Wed, 01 Dec 2021 01:55:13 GMT</pubDate>
             <content:encoded><![CDATA[21.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffacbef15f8292311d563b228a68825273ad83a6a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이터널스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130908</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130908</guid>
+            <pubDate>Thu, 28 Oct 2021 01:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2d3ee4afbc78b44e34534037e17f7f382e1b65c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1256,6 +1256,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F98673b62a2bd99f3d88c080ba2ed2b3ac9976ee2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[한국에 없는 예쁜 외모라며 성형설까지 나왔던 여성 배우의 근황 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/koeRvtVSAd</link>
+            <guid>https://content.v.daum.net/v/koeRvtVSAd</guid>
+            <pubDate>Wed, 01 Dec 2021 13:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Ffeelthemovie%2F20211201125139270dahi.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA['스파이더맨' 액션 대역은 사실 '한국계 배우'라고? (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/kPDvRK5xF1</link>
             <guid>https://content.v.daum.net/v/kPDvRK5xF1</guid>
@@ -1406,14 +1414,6 @@
             <pubDate>Mon, 29 Nov 2021 08:09:00 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2Fmaxmovie%2F202111290523291713lug.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[99분의 런닝타임에 50년의 세월을 담아냈다는 극찬 받은 애니메이션 영화 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kLTybfMw6I</link>
-            <guid>https://content.v.daum.net/v/kLTybfMw6I</guid>
-            <pubDate>Mon, 29 Nov 2021 03:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F27%2Fkinolights%2F20211127023434605nrpx.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[[감쪽같은 그녀 영화] (다음 영화 ─ 브런치)]]></title>
