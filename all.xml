@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 01:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 02:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
-            <pubDate>Thu, 07 Oct 2021 01:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
@@ -30,6 +22,14 @@
             <pubDate>Thu, 18 Nov 2021 01:48:52 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
+            <pubDate>Thu, 07 Oct 2021 01:55:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[연애 빠진 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -112,12 +112,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F50841592373144d55b6128a1ed5624da540cb232" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[장르만 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=128599</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=128599</guid>
+            <pubDate>Wed, 10 Nov 2021 01:49:04 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d54d4dec506b1386961fbac801aaff2287d953d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[강릉 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145338</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145338</guid>
             <pubDate>Mon, 01 Nov 2021 01:52:14 GMT</pubDate>
             <content:encoded><![CDATA[21.11.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F68abec870c08bd07292a5c057be49158778fe731" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[로그 인 벨지움 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153990</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153990</guid>
+            <pubDate>Wed, 01 Dec 2021 01:55:13 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f1e231bf33ac23b347d3021b37950867774f7fa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[호빗: 다섯 군대 전투 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -128,28 +144,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F26061F4A544EF6DB13" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[장르만 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=128599</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=128599</guid>
-            <pubDate>Wed, 10 Nov 2021 01:49:04 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d54d4dec506b1386961fbac801aaff2287d953d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[베네데타 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130342</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130342</guid>
             <pubDate>Wed, 01 Dec 2021 01:55:13 GMT</pubDate>
             <content:encoded><![CDATA[21.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F22d9e1dddd4a4c6b3d4cd9a10d557c522edaf984" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[로그 인 벨지움 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153990</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153990</guid>
-            <pubDate>Wed, 01 Dec 2021 01:55:13 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f1e231bf33ac23b347d3021b37950867774f7fa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[한창나이 선녀님 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1086,6 +1086,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F98673b62a2bd99f3d88c080ba2ed2b3ac9976ee2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[영화 제작비가 부족해 모두가 어려워 하자..이 스타가 한 행동 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/k0x5FJ5RcY</link>
+            <guid>https://content.v.daum.net/v/k0x5FJ5RcY</guid>
+            <pubDate>Fri, 03 Dec 2021 02:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F03%2Ffeelthemovie%2F20211203020624512amgm.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[단언컨대 2021년 가장 성스럽고 충격적인 영화 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kHjv7fUOEq</link>
+            <guid>https://content.v.daum.net/v/kHjv7fUOEq</guid>
+            <pubDate>Fri, 03 Dec 2021 02:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Ffanzeel%2F202111300951108744snd.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[왓챠 신작! <@계정을 삭제하였습니다>, <러브레터>, <아티스트> 등 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/klQlmTfE6s</link>
             <guid>https://content.v.daum.net/v/klQlmTfE6s</guid>
@@ -1228,22 +1244,6 @@
             <pubDate>Tue, 30 Nov 2021 08:08:08 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fmaxmovie%2F20211130065043321usql.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[4번의 은퇴번복 끝에 '진짜 마지막 작품' 공개 앞둔 미야자키 하야오 감독 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kzKTMCj1Fe</link>
-            <guid>https://content.v.daum.net/v/kzKTMCj1Fe</guid>
-            <pubDate>Tue, 30 Nov 2021 03:06:17 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FBoiledMovie%2F20211130022250733mj8k.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[한지민·이동욱·강하늘·윤아·이광수..이 배우들이 한 영화에? (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kdWc0YRAZX</link>
-            <guid>https://content.v.daum.net/v/kdWc0YRAZX</guid>
-            <pubDate>Tue, 30 Nov 2021 02:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Ffanzeel%2F20211130012146066vn3o.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA["지옥에 온 이유가 있겠지." (다음 영화 ─ 브런치)]]></title>
