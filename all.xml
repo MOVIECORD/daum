@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 06:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 07:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연애 빠진 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
-            <pubDate>Tue, 16 Nov 2021 01:49:11 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
@@ -22,6 +14,14 @@
             <pubDate>Thu, 07 Oct 2021 01:55:19 GMT</pubDate>
             <content:encoded><![CDATA[21.10.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[연애 빠진 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
+            <pubDate>Tue, 16 Nov 2021 01:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -32,20 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[킬링 카인드: 킬러의 수제자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150539</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150539</guid>
-            <pubDate>Wed, 01 Dec 2021 01:55:13 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8d55127a05d1f18ba09a93de4c38ea64b9106762" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엔칸토: 마법의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
             <pubDate>Thu, 18 Nov 2021 01:48:52 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[킬링 카인드: 킬러의 수제자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150539</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150539</guid>
+            <pubDate>Wed, 01 Dec 2021 01:55:13 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8d55127a05d1f18ba09a93de4c38ea64b9106762" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[고스트버스터즈 라이즈 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -128,6 +128,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d54d4dec506b1386961fbac801aaff2287d953d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[귀멸의 칼날: 주합회의·나비저택 편 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153269</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153269</guid>
+            <pubDate>Wed, 01 Dec 2021 01:55:13 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffacbef15f8292311d563b228a68825273ad83a6a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[베네데타 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130342</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130342</guid>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 01 Dec 2021 01:55:13 GMT</pubDate>
             <content:encoded><![CDATA[21.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f1e231bf33ac23b347d3021b37950867774f7fa" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[귀멸의 칼날: 주합회의·나비저택 편 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153269</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153269</guid>
-            <pubDate>Wed, 01 Dec 2021 01:55:13 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffacbef15f8292311d563b228a68825273ad83a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[타짜 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1109,6 +1109,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F34e6a1dd5fed58a1bcf94188200fc61063531787" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[오글거리고 진부해.. 2021 최악의'영화' TOP5 무엇? (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kQyUIq7j6d</link>
+            <guid>https://content.v.daum.net/v/kQyUIq7j6d</guid>
+            <pubDate>Mon, 06 Dec 2021 07:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F06%2Fmaxmovie%2F20211206031352764tgyf.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[대중들이 몰랐던 가슴아픈 사랑을 해봤다고 고백한 스타 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/kddgK1pGob</link>
             <guid>https://content.v.daum.net/v/kddgK1pGob</guid>
@@ -1261,14 +1269,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fcineplay%2F20211125105623687znbd.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[박찬욱 & 봉준호가 극찬한 신작 '호러판 라라랜드' (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/k73BlwqEgQ</link>
-            <guid>https://content.v.daum.net/v/k73BlwqEgQ</guid>
-            <pubDate>Fri, 03 Dec 2021 03:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F03%2FBoiledMovie%2F20211203025845494fcoz.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[이번 주 넷플릭스 추천작 - <파워 오브 도그> (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@6CW2/262</link>
             <guid>https://brunch.co.kr/@@6CW2/262</guid>
@@ -1315,6 +1315,14 @@
             <pubDate>Mon, 06 Dec 2021 05:08:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>톺아보기]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9wfj%2Fimage%2FJv7Q6IKFZQwW1Aojtk4wU6DWKbw.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <인질> 리뷰 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@7wSU/70</link>
+            <guid>https://brunch.co.kr/@@7wSU/70</guid>
+            <pubDate>Mon, 06 Dec 2021 07:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김인혁]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7wSU%2Fimage%2FGE87HlpXlkxaOcZfsAxyo2dBrUQ.jfif" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA["지옥에 온 이유가 있겠지." (다음 영화 ─ 브런치)]]></title>
@@ -1419,14 +1427,6 @@
             <pubDate>Mon, 29 Nov 2021 10:08:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>서댐]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1YTv%2Fimage%2FY_Qq8OEoIJQDAMHFv7rHXPGJm10.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[엔칸토: 마법의 세계, 세대화합의 장 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@6wHY/488</link>
-            <guid>https://brunch.co.kr/@@6wHY/488</guid>
-            <pubDate>Thu, 25 Nov 2021 01:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2Fmy1ajlZ7r7oC7tGAzFOfj2wRqlk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 06:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 07:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 06 Dec 2021 05:08:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>톺아보기]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9wfj%2Fimage%2FJv7Q6IKFZQwW1Aojtk4wU6DWKbw.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <인질> 리뷰]]></title>
+            <link>https://brunch.co.kr/@@7wSU/70</link>
+            <guid>https://brunch.co.kr/@@7wSU/70</guid>
+            <pubDate>Mon, 06 Dec 2021 07:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김인혁]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7wSU%2Fimage%2FGE87HlpXlkxaOcZfsAxyo2dBrUQ.jfif" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA["지옥에 온 이유가 있겠지."]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 29 Nov 2021 10:08:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>서댐]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1YTv%2Fimage%2FY_Qq8OEoIJQDAMHFv7rHXPGJm10.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[엔칸토: 마법의 세계, 세대화합의 장]]></title>
-            <link>https://brunch.co.kr/@@6wHY/488</link>
-            <guid>https://brunch.co.kr/@@6wHY/488</guid>
-            <pubDate>Thu, 25 Nov 2021 01:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2Fmy1ajlZ7r7oC7tGAzFOfj2wRqlk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
