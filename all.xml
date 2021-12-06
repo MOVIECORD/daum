@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 03:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 04:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f172ff45e840b9d656366c43072f302047e426f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[베네데타 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130342</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130342</guid>
-            <pubDate>Wed, 01 Dec 2021 01:55:13 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F22d9e1dddd4a4c6b3d4cd9a10d557c522edaf984" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[장르만 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=128599</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=128599</guid>
@@ -136,12 +128,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d54d4dec506b1386961fbac801aaff2287d953d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[베네데타 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130342</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130342</guid>
+            <pubDate>Wed, 01 Dec 2021 01:55:13 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F22d9e1dddd4a4c6b3d4cd9a10d557c522edaf984" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[로그 인 벨지움 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153990</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153990</guid>
             <pubDate>Wed, 01 Dec 2021 01:55:13 GMT</pubDate>
             <content:encoded><![CDATA[21.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f1e231bf33ac23b347d3021b37950867774f7fa" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀멸의 칼날: 주합회의·나비저택 편 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153269</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153269</guid>
+            <pubDate>Wed, 01 Dec 2021 01:55:13 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffacbef15f8292311d563b228a68825273ad83a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[타짜 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Dec 2021 01:55:20 GMT</pubDate>
             <content:encoded><![CDATA[21.12.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F26061F4A544EF6DB13" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[귀멸의 칼날: 주합회의·나비저택 편 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153269</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153269</guid>
-            <pubDate>Wed, 01 Dec 2021 01:55:13 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffacbef15f8292311d563b228a68825273ad83a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[여타짜 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -710,12 +710,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F34e6a1dd5fed58a1bcf94188200fc61063531787" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[거를 타선이 없는 K-드라마. '오징어 게임' 다음은 바로 이 작품 '현장공개' (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kaoaIuZBlf</link>
-            <guid>https://content.v.daum.net/v/kaoaIuZBlf</guid>
-            <pubDate>Mon, 06 Dec 2021 03:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F06%2FBoiledMovie%2F20211206030548604afww.png" length="0" type="image//thumb/S510x290/"/>
+            <title><![CDATA[대중들이 몰랐던 가슴아픈 사랑을 해봤다고 고백한 스타 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kddgK1pGob</link>
+            <guid>https://content.v.daum.net/v/kddgK1pGob</guid>
+            <pubDate>Mon, 06 Dec 2021 04:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F06%2Ffeelthemovie%2F20211206032911713ozbd.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[드디어 연인이 되는 절친인 세계최고의 매력남녀 월드스타들 (다음 영화 ─ 매거진)]]></title>
@@ -878,6 +878,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6CW2%2Fimage%2FxPGYQNancZZaLbSGI_o7SzpxrMA.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[‘지옥’을 피하려다 더 극한의 ‘지옥’으로 간 사람들 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@4y6R/30</link>
+            <guid>https://brunch.co.kr/@@4y6R/30</guid>
+            <pubDate>Mon, 06 Dec 2021 04:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>siwoorain]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4y6R%2Fimage%2FuT6ClgOq8cZdWfsvNSHB3nEpCY8.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA["지옥에 온 이유가 있겠지." (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@adAE/73</link>
             <guid>https://brunch.co.kr/@@adAE/73</guid>
@@ -1020,14 +1028,6 @@
             <pubDate>Mon, 22 Nov 2021 05:07:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2FmnuRNIDEZtjgsiQ7GSR5AFq1Xek.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화제목 바꾸길 정말 잘했네 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5jTv/76</link>
-            <guid>https://brunch.co.kr/@@5jTv/76</guid>
-            <pubDate>Mon, 22 Nov 2021 05:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2F-0fYCfmiJW_QEAYuXz07XhwbnpU.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
