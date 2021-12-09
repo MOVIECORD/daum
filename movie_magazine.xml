@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 08:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 09:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 09 Dec 2021 08:09:18 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F09%2Fmaxmovie%2F20211209063332907bvt5.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[상상 이상의 돈&명예 얻고 OO 판 남자의 최후]]></title>
+            <link>https://content.v.daum.net/v/kd7UXeCbNT</link>
+            <guid>https://content.v.daum.net/v/kd7UXeCbNT</guid>
+            <pubDate>Thu, 09 Dec 2021 09:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F09%2Fmaxmovie%2F20211209074417189af06.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[美배우들이 말하는 진짜 '미국'의 현실.. 마냥 웃을 일이 아니다?]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 07 Dec 2021 08:09:16 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F06%2Ffanzeel%2F20211206030230777qyc8.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜 노숙생활까지? <유체이탈자> 비하인드 스토리]]></title>
-            <link>https://content.v.daum.net/v/kNEcY8P40V</link>
-            <guid>https://content.v.daum.net/v/kNEcY8P40V</guid>
-            <pubDate>Tue, 07 Dec 2021 08:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[씨네플레이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F07%2Fcineplay%2F20211207080055904jgjb.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
