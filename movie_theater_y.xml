@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 01:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 02:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0af94c0bd13ce470880fa3ab4ebd1fd22e2e4f06" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프렌치 디스패치]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
-            <pubDate>Thu, 18 Nov 2021 01:48:45 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[왼팔의복서 닉]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153107</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153107</guid>
@@ -134,6 +126,14 @@
             <pubDate>Thu, 09 Dec 2021 09:06:50 GMT</pubDate>
             <content:encoded><![CDATA[21.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffacbef15f8292311d563b228a68825273ad83a6a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프렌치 디스패치]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
+            <pubDate>Thu, 18 Nov 2021 01:48:45 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[포에버 퍼스트 러브]]></title>
