@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 08:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 09:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 14 Dec 2021 08:09:34 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fmaxmovie%2F20211214075604991pkw9.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[40년만에 만난 옛사랑.. 황혼 로맨스의 결말은 결국]]></title>
+            <link>https://content.v.daum.net/v/k7nJj46JWs</link>
+            <guid>https://content.v.daum.net/v/k7nJj46JWs</guid>
+            <pubDate>Tue, 14 Dec 2021 09:07:28 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fmaxmovie%2F20211214065027572xisy.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[적나라한 韓선거판 구현해낸 '기대작' 뒷이야기]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Dec 2021 01:53:30 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼히어로 스토리]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F12%2Fhero_nitko%2F20211212163642151lfwr.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[연기면 연기,외모면 외모 다 갖춘 부러운 월드스타의 또 부러운 근황]]></title>
-            <link>https://content.v.daum.net/v/kMatprrEYe</link>
-            <guid>https://content.v.daum.net/v/kMatprrEYe</guid>
-            <pubDate>Sun, 12 Dec 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F12%2Ffeelthemovie%2F20211212110647858eniq.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
