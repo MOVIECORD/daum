@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 05:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 06:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
+            <pubDate>Thu, 11 Nov 2021 01:49:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아멜리에 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=3188</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=3188</guid>
@@ -54,14 +62,6 @@
             <pubDate>Sat, 11 Dec 2021 02:26:15 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36f5e140e8f8173d2f7e0e5a39b20ca507e9e0d7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
-            <pubDate>Thu, 11 Nov 2021 01:49:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[돈 룩 업 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1757,28 +1757,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1e698a749001b61976816a7afdf084a8d42f09f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[리버 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=97021</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=97021</guid>
-            <pubDate>Thu, 09 Dec 2021 01:53:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcdefe3d078077ee377fd4fd8c75b1ff6885865a7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[하우스 오브 스네일스 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151266</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151266</guid>
-            <pubDate>Thu, 09 Dec 2021 01:53:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb1c662b672f44b23606332e593dd9dd93097e67" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[8-비트 크리스마스 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155320</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155320</guid>
-            <pubDate>Mon, 13 Dec 2021 03:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F408ec2664edb379f4558a4895dc69453bc385e47" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[<클리포드 더 빅 레드 독> 개봉 연기 아쉬움 달랠 귀욤 스틸 6종! (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/k25C8ujGPD</link>
+            <guid>https://content.v.daum.net/v/k25C8ujGPD</guid>
+            <pubDate>Thu, 16 Dec 2021 06:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[무비스트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F16%2FMOVIST%2F20211216051243851k2z6.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA['스파이더맨'과 싸운 '리자드'·'일렉트로'의 정체는? (다음 영화 ─ 매거진)]]></title>
@@ -1931,14 +1915,6 @@
             <pubDate>Tue, 14 Dec 2021 04:09:56 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F13%2Fharmony%2F20211213123036876wooc.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['스파이더맨'의 대표 빌런은 어떻게 만들어졌나? (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kNzisq3nKH</link>
-            <guid>https://content.v.daum.net/v/kNzisq3nKH</guid>
-            <pubDate>Tue, 14 Dec 2021 02:28:49 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F13%2Ffanzeel%2F20211213023749244w8kb.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[숭고하고도 겸허하게 새로운 출발을 선언하다 (다음 영화 ─ 브런치)]]></title>
