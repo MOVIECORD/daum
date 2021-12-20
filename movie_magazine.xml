@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 05:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 06:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 20 Dec 2021 05:09:28 GMT</pubDate>
             <content:encoded><![CDATA[무비스트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F20%2FMOVIST%2F20211220050424744aipj.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 신작! <솔로지옥>, <위쳐>, <모가디슈> 등]]></title>
-            <link>https://content.v.daum.net/v/kNUISUMDG3</link>
-            <guid>https://content.v.daum.net/v/kNUISUMDG3</guid>
-            <pubDate>Mon, 20 Dec 2021 05:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F20%2FMOVIST%2F2021122005010848941hp.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[왓챠 신작! <콘솔 워즈>, <브로드처치>, <페어웰> 등]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 17 Dec 2021 01:57:30 GMT</pubDate>
             <content:encoded><![CDATA[씨네플레이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F16%2Fcineplay%2F202112160125540222e45.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA['일과 사랑' 이룬 <스파이더맨> 개봉 첫날 한국이 만든 놀라운 기록]]></title>
+            <link>https://content.v.daum.net/v/ka2CgUEhPk</link>
+            <guid>https://content.v.daum.net/v/ka2CgUEhPk</guid>
+            <pubDate>Mon, 20 Dec 2021 06:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F16%2Fmaxmovie%2F20211216074017370vnfh.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
