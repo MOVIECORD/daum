@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 01:58:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 02:33:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac3c7bf4d44a47b4023a0d7ecdd68bedfc7bb2fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
-            <pubDate>Thu, 11 Nov 2021 01:49:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
@@ -62,6 +54,14 @@
             <pubDate>Thu, 09 Dec 2021 04:11:00 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
+            <pubDate>Thu, 11 Nov 2021 01:49:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[끝없음에 관하여 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -3014,6 +3014,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F17%2Fmaxmovie%2F20211217064610527gwjf.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[[Netflix]용서될 수 없는 '언포기버블 2021' (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@bbwZ/11</link>
+            <guid>https://brunch.co.kr/@@bbwZ/11</guid>
+            <pubDate>Tue, 21 Dec 2021 02:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>시네피에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbbwZ%2Fimage%2FvHP4q_BTF5Qe0-VaVAC7nM0NBxA.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[[영화] 첨밀밀 (Comrades) (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@3cN1/16</link>
             <guid>https://brunch.co.kr/@@3cN1/16</guid>
@@ -3164,14 +3172,6 @@
             <pubDate>Mon, 06 Dec 2021 03:09:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>강민영]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6CW2%2Fimage%2FxPGYQNancZZaLbSGI_o7SzpxrMA.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘지옥’을 피하려다 더 극한의 ‘지옥’으로 간 사람들 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@4y6R/30</link>
-            <guid>https://brunch.co.kr/@@4y6R/30</guid>
-            <pubDate>Mon, 06 Dec 2021 04:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>siwoorain]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4y6R%2Fimage%2FuT6ClgOq8cZdWfsvNSHB3nEpCY8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
