@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 06:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 07:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[마이 뉴욕 다이어리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
+            <pubDate>Tue, 21 Dec 2021 06:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155229</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155229</guid>
@@ -150,14 +158,6 @@
             <pubDate>Fri, 31 Dec 2021 04:22:01 GMT</pubDate>
             <content:encoded><![CDATA[21.10.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e84396a753c036b2fe00cc2544a02b55f3ec57b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[마이 뉴욕 다이어리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
-            <pubDate>Tue, 21 Dec 2021 06:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[틱, 틱... 붐!]]></title>
