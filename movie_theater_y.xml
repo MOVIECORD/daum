@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 14:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 15:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e84396a753c036b2fe00cc2544a02b55f3ec57b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[마이 뉴욕 다이어리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
-            <pubDate>Tue, 21 Dec 2021 06:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[피어: 마지막 생존자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155361</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155361</guid>
@@ -160,12 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0af94c0bd13ce470880fa3ab4ebd1fd22e2e4f06" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[사울 레이터: 인 노 그레이트 허리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155134</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155134</guid>
-            <pubDate>Sat, 01 Jan 2022 11:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9d91cdeb30408f5309a4356e3dba01f4a5975e8" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[마이 뉴욕 다이어리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
+            <pubDate>Tue, 21 Dec 2021 06:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해피 아워]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=95676</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=95676</guid>
+            <pubDate>Sat, 01 Jan 2022 15:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05202322bd2aba53f64cde597dc6acf163752043" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
