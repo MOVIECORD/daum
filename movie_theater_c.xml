@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 05:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 06:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[해탄적일천]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=2714</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=2714</guid>
-            <pubDate>Thu, 30 Dec 2021 06:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd26d9eb682eda5d237bf3cd0bfc2bf36fcb97458" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[프랑스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150559</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150559</guid>
             <pubDate>Sat, 18 Dec 2021 01:57:44 GMT</pubDate>
             <content:encoded><![CDATA[22.01.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73c8b8db17bf32ea113257ad68acb88fbed102f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해탄적일천]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2714</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2714</guid>
+            <pubDate>Thu, 30 Dec 2021 06:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd26d9eb682eda5d237bf3cd0bfc2bf36fcb97458" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[피드백]]></title>
