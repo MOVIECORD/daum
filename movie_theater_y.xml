@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 02:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 03:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,30 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[피어: 마지막 생존자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155361</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155361</guid>
-            <pubDate>Sat, 01 Jan 2022 02:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbca1b56edfb7fe32e207ac567459a1f20b8925b4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[디어 에반 핸슨]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150692</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150692</guid>
-            <pubDate>Thu, 30 Dec 2021 06:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7412acf6a22c72b54b6ec01019c022bea4a877ca" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[리틀 뱀파이어]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141733</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141733</guid>
-            <pubDate>Thu, 30 Dec 2021 06:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F19cc9a14f6c04ba6983251eeb7f53cd058119647" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155229</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155229</guid>
@@ -160,12 +136,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e84396a753c036b2fe00cc2544a02b55f3ec57b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[디어 에반 핸슨]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150692</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150692</guid>
+            <pubDate>Thu, 30 Dec 2021 06:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7412acf6a22c72b54b6ec01019c022bea4a877ca" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해피 아워]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=95676</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=95676</guid>
+            <pubDate>Sun, 02 Jan 2022 03:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05202322bd2aba53f64cde597dc6acf163752043" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[틱, 틱... 붐!]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151311</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151311</guid>
             <pubDate>Sun, 02 Jan 2022 02:10:46 GMT</pubDate>
             <content:encoded><![CDATA[21.11.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b6e97a96e7580751875c5f93d691dfea78e85f6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[피어: 마지막 생존자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155361</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155361</guid>
+            <pubDate>Sat, 01 Jan 2022 02:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[21.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbca1b56edfb7fe32e207ac567459a1f20b8925b4" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
