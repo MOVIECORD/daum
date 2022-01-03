@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 05:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 06:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,30 @@
             <pubDate>Thu, 30 Dec 2021 06:20:58 GMT</pubDate>
             <content:encoded><![CDATA[22.01.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F132BF80B4B736EC954" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[투 문 정션]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3345</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3345</guid>
+            <pubDate>Mon, 03 Jan 2022 06:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F116F1B10AB8913F380" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더블 트러블]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139805</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139805</guid>
+            <pubDate>Mon, 03 Jan 2022 06:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fda99b7fe8ed709dc5722d6e1cf153f0e2b585d66" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[용문비갑]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=65024</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=65024</guid>
+            <pubDate>Mon, 03 Jan 2022 06:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F153E17504F49E26F18" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
