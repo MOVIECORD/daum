@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 02:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 03:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신화 김동완의 근황을 극장에서?]]></title>
+            <link>https://content.v.daum.net/v/kAAjMzYYpr</link>
+            <guid>https://content.v.daum.net/v/kAAjMzYYpr</guid>
+            <pubDate>Mon, 03 Jan 2022 03:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Ffanzeel%2F20211230111450042zkez.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[600만 돌파! '스파이더맨', '해피 뉴 이어' 3위 데뷔]]></title>
             <link>https://content.v.daum.net/v/E9z9VAOjES</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Dec 2021 06:21:28 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Ffanzeel%2F20211229030815409lszy.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[스필버그식 뮤지컬 명작 <웨스트 사이드 스토리> 인터뷰와 기자회견]]></title>
-            <link>https://content.v.daum.net/v/kSq6SKLLMT</link>
-            <guid>https://content.v.daum.net/v/kSq6SKLLMT</guid>
-            <pubDate>Thu, 30 Dec 2021 06:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[씨네플레이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F29%2Fcineplay%2F20211229081725350f2uq.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
