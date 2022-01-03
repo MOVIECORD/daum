@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 13:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 14:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천하의 이병헌이 볼때마다 너무 무섭다며 벌벌 떨었다는 무명 배우]]></title>
+            <link>https://content.v.daum.net/v/E4s9d6Ecfv</link>
+            <guid>https://content.v.daum.net/v/E4s9d6Ecfv</guid>
+            <pubDate>Mon, 03 Jan 2022 14:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Ffeelthemovie%2F20220103140345589vaoq.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[최근 달달 '연애'로 화제인 배우의 반전 '근황']]></title>
             <link>https://content.v.daum.net/v/EPXPpz4VfJ</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Dec 2021 07:17:32 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Fmaxmovie%2F20211230054524958bfnx.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[몰라보게 달라져서 돌아온 이 배우, "행복했다"]]></title>
-            <link>https://content.v.daum.net/v/kxcCOs9nnA</link>
-            <guid>https://content.v.daum.net/v/kxcCOs9nnA</guid>
-            <pubDate>Thu, 30 Dec 2021 07:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Fmaxmovie%2F202112300530075021wtp.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
