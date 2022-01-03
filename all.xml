@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 03:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 04:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -712,6 +712,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dy7%2Fimage%2FJtm4JlQNChOWlE355FmIGGqGIng.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[넷플릭스 영화 <Don't look up>을 보고 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@csbB/43</link>
+            <guid>https://brunch.co.kr/@@csbB/43</guid>
+            <pubDate>Mon, 03 Jan 2022 04:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>제이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcsbB%2Fimage%2FHPDYCKu-NyJ1DaYN9AayHiL1-OU.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[인간의 선한 본성, 진부하지만 절실한 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@6u6V/10</link>
             <guid>https://brunch.co.kr/@@6u6V/10</guid>
@@ -854,14 +862,6 @@
             <pubDate>Wed, 15 Dec 2021 08:08:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김노엘]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcZbl%2Fimage%2FcOdeVUgL9gQ8S1eTtJoE300i0Fc.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[스파이더맨 20년사 장식한 화끈 피날레 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5jTv/83</link>
-            <guid>https://brunch.co.kr/@@5jTv/83</guid>
-            <pubDate>Wed, 15 Dec 2021 08:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2F6bu-c5esvlQrQKQ3j_XfFLo1IQE.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
