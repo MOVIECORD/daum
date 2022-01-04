@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 13:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 14:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd26d9eb682eda5d237bf3cd0bfc2bf36fcb97458" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프랑스 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150559</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150559</guid>
-            <pubDate>Sat, 18 Dec 2021 01:57:44 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73c8b8db17bf32ea113257ad68acb88fbed102f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[전장의 피아니스트 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146539</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146539</guid>
@@ -254,6 +246,14 @@
             <pubDate>Tue, 04 Jan 2022 06:20:30 GMT</pubDate>
             <content:encoded><![CDATA[22.01.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00ba41decdaf6df5ea47b8bbaf2a71bc0843998b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프랑스 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150559</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150559</guid>
+            <pubDate>Sat, 18 Dec 2021 01:57:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73c8b8db17bf32ea113257ad68acb88fbed102f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킹메이커 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -768,6 +768,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5854a71aabb11abae56e5318ff6a8ac002e898f5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['범죄도시' 마동석의 실제 모델인 유아교육과(?) 출신의 이 남자 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EjeBOFTpWE</link>
+            <guid>https://content.v.daum.net/v/EjeBOFTpWE</guid>
+            <pubDate>Tue, 04 Jan 2022 14:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F04%2Ffeelthemovie%2F20220104075509075mvoj.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[2021년 숨통 트이게 해준 이들 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/Eu2o3Q8OTC</link>
             <guid>https://content.v.daum.net/v/Eu2o3Q8OTC</guid>
@@ -918,14 +926,6 @@
             <pubDate>Mon, 03 Jan 2022 02:06:41 GMT</pubDate>
             <content:encoded><![CDATA[무비스트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2FMOVIST%2F20220103002342033chgl.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[시한부 아버지, 4살 아들에게 남긴 마지막 선물 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kTg6JJZ66A</link>
-            <guid>https://content.v.daum.net/v/kTg6JJZ66A</guid>
-            <pubDate>Sun, 02 Jan 2022 09:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F30%2Ffanzeel%2F202112300332032528zsr.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[놀라운 영화 ‘돈룩업(Don't look up)’ (다음 영화 ─ 브런치)]]></title>
