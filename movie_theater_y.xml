@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 07:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 08:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 30 Dec 2021 06:20:26 GMT</pubDate>
             <content:encoded><![CDATA[21.12.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F569f056e9ef23a5cb5722952e964c7d00df52893" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유체이탈자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
+            <pubDate>Tue, 04 Jan 2022 08:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[매트릭스: 리저렉션]]></title>
@@ -152,20 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59fc94767999782cee893e16cbb892553e577b60" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[신데렐라 2: 마법에 걸린 왕자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155463</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155463</guid>
-            <pubDate>Wed, 22 Dec 2021 01:56:53 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3eebe1c0e14021f0772f11361f8e6aa8ab48a207" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[리틀 뱀파이어]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141733</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141733</guid>
-            <pubDate>Tue, 04 Jan 2022 07:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F19cc9a14f6c04ba6983251eeb7f53cd058119647" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[태일이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=125939</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=125939</guid>
+            <pubDate>Tue, 04 Jan 2022 08:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb42c72550f6c76f3c0ab9906ba50aea889b8676a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
