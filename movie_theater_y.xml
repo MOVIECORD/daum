@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 02:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 03:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4123c31005612fcdb4acaf7182d4397a9673b3f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엔칸토: 마법의 세계]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
-            <pubDate>Wed, 24 Nov 2021 01:50:31 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[신데렐라 2: 마법에 걸린 왕자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155463</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155463</guid>
             <pubDate>Wed, 22 Dec 2021 01:56:53 GMT</pubDate>
             <content:encoded><![CDATA[21.12.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3eebe1c0e14021f0772f11361f8e6aa8ab48a207" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엔칸토: 마법의 세계]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
+            <pubDate>Wed, 24 Nov 2021 01:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[노웨어 스페셜]]></title>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프렌치 디스패치]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
-            <pubDate>Thu, 18 Nov 2021 01:48:45 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아멜리에]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=3188</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=3188</guid>
@@ -112,12 +104,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[프렌치 디스패치]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
+            <pubDate>Thu, 18 Nov 2021 01:48:45 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[연애 빠진 로맨스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
             <pubDate>Wed, 24 Nov 2021 01:50:31 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그림자꽃]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135414</guid>
+            <pubDate>Fri, 31 Dec 2021 12:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e84396a753c036b2fe00cc2544a02b55f3ec57b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라임크라임]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145311</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145311</guid>
+            <pubDate>Mon, 03 Jan 2022 02:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F498213e6c861c0f1e83304458c3f5d65b70ea3c1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[티탄]]></title>
@@ -128,12 +144,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0af94c0bd13ce470880fa3ab4ebd1fd22e2e4f06" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그림자꽃]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135414</guid>
-            <pubDate>Fri, 31 Dec 2021 12:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e84396a753c036b2fe00cc2544a02b55f3ec57b" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[피어: 마지막 생존자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155361</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155361</guid>
+            <pubDate>Tue, 04 Jan 2022 03:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbca1b56edfb7fe32e207ac567459a1f20b8925b4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[해피 아워]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 03 Jan 2022 02:05:51 GMT</pubDate>
             <content:encoded><![CDATA[21.11.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b6e97a96e7580751875c5f93d691dfea78e85f6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[숏버스 배우행]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153118</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153118</guid>
-            <pubDate>Mon, 03 Jan 2022 14:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59fc94767999782cee893e16cbb892553e577b60" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[라임크라임]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145311</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145311</guid>
-            <pubDate>Mon, 03 Jan 2022 02:05:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F498213e6c861c0f1e83304458c3f5d65b70ea3c1" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
