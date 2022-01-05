@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 02:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 03:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정석만 모았다! 올타임 베스트 겨울 영화 12편]]></title>
+            <link>https://content.v.daum.net/v/Eczkw6osx1</link>
+            <guid>https://content.v.daum.net/v/Eczkw6osx1</guid>
+            <pubDate>Wed, 05 Jan 2022 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[씨네플레이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Fcineplay%2F20220103054835104occr.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA['범죄도시' 마동석의 실제 모델인 유아교육과(?) 출신의 이 남자]]></title>
             <link>https://content.v.daum.net/v/EjeBOFTpWE</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 03 Jan 2022 07:17:43 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Fmaxmovie%2F2022010306154836986jc.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA["브로맨스 그만하고 싶습니다" 진심 털어놓은 배우]]></title>
-            <link>https://content.v.daum.net/v/EQ3EcApN0W</link>
-            <guid>https://content.v.daum.net/v/EQ3EcApN0W</guid>
-            <pubDate>Mon, 03 Jan 2022 07:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Fmaxmovie%2F20220103060745218klzi.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
