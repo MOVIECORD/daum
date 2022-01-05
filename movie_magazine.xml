@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 07:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 08:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 05 Jan 2022 07:17:27 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F05%2FBoiledMovie%2F20220105063344214wdxg.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[조진웅X최우식의 2022년 첫 범죄 영화, 어땠나?]]></title>
+            <link>https://content.v.daum.net/v/EGBczmqlRg</link>
+            <guid>https://content.v.daum.net/v/EGBczmqlRg</guid>
+            <pubDate>Wed, 05 Jan 2022 08:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F05%2Ffanzeel%2F20220105033949114dzjr.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[정석만 모았다! 올타임 베스트 겨울 영화 12편]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 04 Jan 2022 02:07:45 GMT</pubDate>
             <content:encoded><![CDATA[씨네플레이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Fcineplay%2F20220103045737120k3sz.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[천하의 이병헌이 볼때마다 너무 무섭다며 벌벌 떨었다는 무명 배우]]></title>
-            <link>https://content.v.daum.net/v/E4s9d6Ecfv</link>
-            <guid>https://content.v.daum.net/v/E4s9d6Ecfv</guid>
-            <pubDate>Mon, 03 Jan 2022 14:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Ffeelthemovie%2F20220103140345589vaoq.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
