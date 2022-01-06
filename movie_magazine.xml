@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 04:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 05:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 06 Jan 2022 04:23:20 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F05%2Fmaxmovie%2F20220105070801496afop.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 신년 초, 2030 청년들 위한 대박 '소식']]></title>
+            <link>https://content.v.daum.net/v/EZ4l5K9Xbj</link>
+            <guid>https://content.v.daum.net/v/EZ4l5K9Xbj</guid>
+            <pubDate>Thu, 06 Jan 2022 05:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F05%2Fmaxmovie%2F2022010507201765737oc.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[분장 시간만 6시간 걸려 '명품 브랜드 회장'으로 변신]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 04 Jan 2022 06:21:21 GMT</pubDate>
             <content:encoded><![CDATA[씨네플레이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Fcineplay%2F20220103050520108m1wt.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[1위는? 장르별로 보는 2021년 최고 흥행작]]></title>
-            <link>https://content.v.daum.net/v/EWn3Ioxqfb</link>
-            <guid>https://content.v.daum.net/v/EWn3Ioxqfb</guid>
-            <pubDate>Tue, 04 Jan 2022 06:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[씨네플레이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Fcineplay%2F20220103055726917w4ak.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
