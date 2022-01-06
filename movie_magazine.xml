@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 07:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 08:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 06 Jan 2022 03:20:41 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F06%2Ffanzeel%2F20220106013256229umja.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA['입으로만 액션 연기'하는 후배들 꼬집은 성룡]]></title>
+            <link>https://content.v.daum.net/v/EKb8TwFKqC</link>
+            <guid>https://content.v.daum.net/v/EKb8TwFKqC</guid>
+            <pubDate>Thu, 06 Jan 2022 08:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F06%2FBoiledMovie%2F20220106005330019qonx.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[김재원과 유진이 출연을 거절한, 대박을 친 전설의 한국 영화]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 04 Jan 2022 03:18:40 GMT</pubDate>
             <content:encoded><![CDATA[무비스트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F04%2FMOVIST%2F20220104005115333ohjm.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[17년 만에 한 작품에서 만나는 두 배우]]></title>
-            <link>https://content.v.daum.net/v/EKg2zIPKX5</link>
-            <guid>https://content.v.daum.net/v/EKg2zIPKX5</guid>
-            <pubDate>Tue, 04 Jan 2022 02:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F04%2FBoiledMovie%2F20220104004255406hqb2.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
