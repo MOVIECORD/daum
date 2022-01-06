@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 02:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 03:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라디오 생방송 중 복면 괴한이 난입했다]]></title>
+            <link>https://content.v.daum.net/v/El9YwEQyxU</link>
+            <guid>https://content.v.daum.net/v/El9YwEQyxU</guid>
+            <pubDate>Thu, 06 Jan 2022 03:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F06%2Ffanzeel%2F20220106013256229umja.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[김재원과 유진이 출연을 거절한, 대박을 친 전설의 한국 영화]]></title>
             <link>https://content.v.daum.net/v/E3uOMVL78D</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 05 Jan 2022 02:10:08 GMT</pubDate>
             <content:encoded><![CDATA[씨네플레이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Fcineplay%2F20220103052049180w2e0.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[봉준호 감독이 팬이라 밝힌 일본의 이 감독]]></title>
-            <link>https://content.v.daum.net/v/Eh6QzKZODn</link>
-            <guid>https://content.v.daum.net/v/Eh6QzKZODn</guid>
-            <pubDate>Tue, 04 Jan 2022 06:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[씨네플레이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F03%2Fcineplay%2F20220103051003320ikj6.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
