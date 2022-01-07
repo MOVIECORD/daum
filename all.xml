@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 02:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 03:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,20 +71,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd26d9eb682eda5d237bf3cd0bfc2bf36fcb97458" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[피드백 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130332</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130332</guid>
-            <pubDate>Fri, 31 Dec 2021 12:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcacacddbb61b9024b49c9a18b7779202ff0694c5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
             <pubDate>Tue, 04 Jan 2022 08:20:48 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[피드백 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130332</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130332</guid>
+            <pubDate>Fri, 31 Dec 2021 12:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcacacddbb61b9024b49c9a18b7779202ff0694c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[램 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -821,6 +821,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4654fb18ea620529ee10a13cb99a98b0077b919e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[2022년 개봉이 기다려지는 한국영화 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/Englxvv0zo</link>
+            <guid>https://content.v.daum.net/v/Englxvv0zo</guid>
+            <pubDate>Fri, 07 Jan 2022 03:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[테일러콘텐츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F07%2Ftailorcontents_cv%2F2022010701575651306sh.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[7,600억 벌었던 레전드 애니메이션, 속편 어땠나? (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/Eq7rH0iunT</link>
+            <guid>https://content.v.daum.net/v/Eq7rH0iunT</guid>
+            <pubDate>Fri, 07 Jan 2022 03:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F06%2Ffanzeel%2F20220106084256002jhs6.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[왓챠 신작! 하마구치 류스케 <해피 아워>, <경계선>, <영웅본색> 등 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EtNYz080da</link>
             <guid>https://content.v.daum.net/v/EtNYz080da</guid>
@@ -963,22 +979,6 @@
             <pubDate>Tue, 04 Jan 2022 08:21:44 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F04%2Fmaxmovie%2F20220104061846117pcd0.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 경찰 조직의 비밀? 때깔 좋지만 아쉬운 건.. (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/E3wv80v0uP</link>
-            <guid>https://content.v.daum.net/v/E3wv80v0uP</guid>
-            <pubDate>Tue, 04 Jan 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F04%2Fmaxmovie%2F202201040609327121xfo.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[본의 아니게 신조어로 메릴 스트립 능욕한 MZ세대 배우들 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EIFvc4Lwzl</link>
-            <guid>https://content.v.daum.net/v/EIFvc4Lwzl</guid>
-            <pubDate>Tue, 04 Jan 2022 07:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F04%2Fharmony%2F20220104053402931bzyo.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[놀라운 영화 ‘돈룩업(Don't look up)’ (다음 영화 ─ 브런치)]]></title>
