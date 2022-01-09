@@ -4,17 +4,9 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 15:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 02:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[꼬마 유령]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=88116</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=88116</guid>
-            <pubDate>Thu, 30 Dec 2021 06:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F439afa148bc34cf2045c01f600d5a7f5866ee790" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[네이비씰: 어둠의 전쟁]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=47700</link>
@@ -120,12 +112,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2249F13654B613D52D" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[요요마와 실크로드 앙상블]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=96973</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=96973</guid>
+            <pubDate>Sun, 09 Jan 2022 02:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a012d8310f343d4b99467a299a41d6075cf285f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[너브]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=103727</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=103727</guid>
             <pubDate>Sat, 08 Jan 2022 02:07:17 GMT</pubDate>
             <content:encoded><![CDATA[22.01.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e6a205403f80227575fb0eb741a5d3e492996e4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[슬립타이트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=64770</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=64770</guid>
+            <pubDate>Sun, 09 Jan 2022 02:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2522D44851820DB50D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[톰과 릴리 : 그들만의 공간]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=108774</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=108774</guid>
+            <pubDate>Sun, 09 Jan 2022 02:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d0bca67cd3e63d8fcb6e09914b6d1fc791b8219" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
