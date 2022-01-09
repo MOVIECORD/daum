@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 03:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 04:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c2b62f78abc95f849768b1d9c1a595cbc7d1b7d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[어나더 라운드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142798</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142798</guid>
+            <pubDate>Fri, 31 Dec 2021 02:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6725b99746d3a2ad064f65305fb939065b2f4a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[청춘적니]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151331</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151331</guid>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 06 Jan 2022 02:13:51 GMT</pubDate>
             <content:encoded><![CDATA[22.01.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8b551cefa7a747042b1b713a33207b210cf2c26f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[어나더 라운드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142798</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142798</guid>
-            <pubDate>Fri, 31 Dec 2021 02:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6725b99746d3a2ad064f65305fb939065b2f4a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아이 스틸 빌리브]]></title>
