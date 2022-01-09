@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 10:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 11:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상에 어떻게 이런 일이..공중에 매달린 톰 홀랜드의 무서운 근황]]></title>
+            <link>https://content.v.daum.net/v/EcqY4GIMSa</link>
+            <guid>https://content.v.daum.net/v/EcqY4GIMSa</guid>
+            <pubDate>Sun, 09 Jan 2022 11:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F09%2Ffeelthemovie%2F20220109105908872xo5u.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[10년 맞이 살풀이? 재평가받고 있는 <어메이징 스파이더맨> 시리즈 장면들]]></title>
             <link>https://content.v.daum.net/v/Ewge0Joryi</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jan 2022 07:17:29 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F06%2FBoiledMovie%2F20220106041322262gala.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[라디오 생방송 중 복면 괴한이 난입했다]]></title>
-            <link>https://content.v.daum.net/v/El9YwEQyxU</link>
-            <guid>https://content.v.daum.net/v/El9YwEQyxU</guid>
-            <pubDate>Thu, 06 Jan 2022 03:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F06%2Ffanzeel%2F20220106013256229umja.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
