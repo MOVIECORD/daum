@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 04:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 05:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,38 @@
             <pubDate>Wed, 05 Jan 2022 03:18:17 GMT</pubDate>
             <content:encoded><![CDATA[22.01.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F14065F244B138C6737" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[네이비씰: 어둠의 전쟁]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=47700</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=47700</guid>
+            <pubDate>Mon, 10 Jan 2022 05:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a75d7530cf4936da869a104b93662f890645b51" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유닛 7]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=70477</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=70477</guid>
+            <pubDate>Mon, 10 Jan 2022 05:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2249F13654B613D52D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[슬립타이트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=64770</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=64770</guid>
+            <pubDate>Mon, 10 Jan 2022 05:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2522D44851820DB50D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[톰과 릴리 : 그들만의 공간]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=108774</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=108774</guid>
+            <pubDate>Mon, 10 Jan 2022 05:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d0bca67cd3e63d8fcb6e09914b6d1fc791b8219" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
