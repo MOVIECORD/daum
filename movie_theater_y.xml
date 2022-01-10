@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 03:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 04:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,20 +87,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[피드백]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130332</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130332</guid>
-            <pubDate>Wed, 05 Jan 2022 02:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcacacddbb61b9024b49c9a18b7779202ff0694c5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[램]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150927</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150927</guid>
             <pubDate>Thu, 30 Dec 2021 06:20:26 GMT</pubDate>
             <content:encoded><![CDATA[21.12.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F569f056e9ef23a5cb5722952e964c7d00df52893" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[피드백]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130332</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130332</guid>
+            <pubDate>Wed, 05 Jan 2022 02:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcacacddbb61b9024b49c9a18b7779202ff0694c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[타이거마스크]]></title>
