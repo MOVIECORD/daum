@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 04:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 05:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -93,6 +93,14 @@
             <pubDate>Wed, 12 Jan 2022 03:19:40 GMT</pubDate>
             <content:encoded><![CDATA[22.01.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F21eb83076e935f70718fb36f56e90723b1740302" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
+            <pubDate>Wed, 12 Jan 2022 05:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
