@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 10:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 11:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -63,20 +63,20 @@
             <content:encoded><![CDATA[21.11.26]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[청춘적니 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151331</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151331</guid>
-            <pubDate>Wed, 05 Jan 2022 02:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ddd97f36e8a34f2f6b95cea5ba4f8d60ff472ae" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[클리포드 더 빅 레드 독 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151925</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151925</guid>
             <pubDate>Wed, 05 Jan 2022 10:19:01 GMT</pubDate>
             <content:encoded><![CDATA[22.01.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F071b7d47acb1998d13e3f159cfd6523173bfa3d5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[청춘적니 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151331</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151331</guid>
+            <pubDate>Wed, 05 Jan 2022 02:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ddd97f36e8a34f2f6b95cea5ba4f8d60ff472ae" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킹스맨: 퍼스트 에이전트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -119,6 +119,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[러브레터 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3262</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3262</guid>
+            <pubDate>Sat, 01 Jan 2022 02:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc723b1e188dbdcbbbbb5d9fc4d6cd757c5529f27" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[해피 뉴 이어 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149881</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149881</guid>
@@ -133,14 +141,6 @@
             <pubDate>Thu, 30 Dec 2021 06:20:33 GMT</pubDate>
             <content:encoded><![CDATA[22.01.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd26d9eb682eda5d237bf3cd0bfc2bf36fcb97458" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[러브레터 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=3262</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=3262</guid>
-            <pubDate>Sat, 01 Jan 2022 02:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc723b1e188dbdcbbbbb5d9fc4d6cd757c5529f27" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[램 (다음영화 영화관 ─ 현재상영)]]></title>
