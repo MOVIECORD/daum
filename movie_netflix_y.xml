@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 15:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 03:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26202665919eddb46ccc4869d92f80980210f8fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[복사기]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154167</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154167</guid>
+            <pubDate>Wed, 12 Jan 2022 03:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa3733dd876f6c42aeaaf4ee30fe0d8d7be21ad83" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[리버댄스 - 애니메이션 어드벤처]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150713</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150713</guid>
@@ -32,12 +40,27 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdbc3b0478faab26b5b2686cfe9d1d0e2873f7b78" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[이것은 코미디가 아니다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156838</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156838</guid>
+            <pubDate>Wed, 12 Jan 2022 03:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.14]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[로열 트리트먼트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151511</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151511</guid>
             <pubDate>Thu, 30 Dec 2021 06:20:47 GMT</pubDate>
             <content:encoded><![CDATA[22.01.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7439aff9028a973d58911fd81e4640876c3f2861" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[반딧불이 딘딘과 용감한 곤충 탐험대]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134539</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134539</guid>
+            <pubDate>Wed, 12 Jan 2022 03:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9c799ecf8a31f4d29ddeb4d4065fda7eda1cb1b5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[짱구는 못말려 극장판 : 정면승부! 로봇아빠의 역습]]></title>
@@ -62,6 +85,14 @@
             <pubDate>Mon, 10 Jan 2022 06:21:30 GMT</pubDate>
             <content:encoded><![CDATA[22.01.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1202F04C4F7CF40224" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮌헨 - 전쟁의 문턱에서]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155093</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155093</guid>
+            <pubDate>Wed, 12 Jan 2022 03:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F21eb83076e935f70718fb36f56e90723b1740302" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

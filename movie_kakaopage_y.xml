@@ -4,7 +4,7 @@
         <title>[다음영화] 카카오페이지 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 15:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 03:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 10 Jan 2022 02:07:57 GMT</pubDate>
             <content:encoded><![CDATA[22.01.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7ba671cda7d16fda78fea827e047aff1744adfb5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[굿바이, 버터플라이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144826</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144826</guid>
+            <pubDate>Wed, 12 Jan 2022 03:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff9287950a43a5c712ee98abe2a44fb7799f7321d" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
