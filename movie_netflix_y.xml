@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 02:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 03:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -95,12 +95,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[폭포]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153275</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153275</guid>
+            <pubDate>Thu, 13 Jan 2022 03:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d7bffd04b2d562cd380776523e26ddd8fcc5b46" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[실: 인연의 시작]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143762</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143762</guid>
             <pubDate>Thu, 13 Jan 2022 02:11:00 GMT</pubDate>
             <content:encoded><![CDATA[22.02.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faa7cb7d0fa4303e74de2a1ba047ef610b7fb47e3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[왓 어 걸 원츠]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=36692</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=36692</guid>
+            <pubDate>Thu, 13 Jan 2022 03:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F116F1B10AC62075F0E" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
