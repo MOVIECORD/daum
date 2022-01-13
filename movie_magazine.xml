@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 07:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 08:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 13 Jan 2022 06:21:40 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F13%2Fmaxmovie%2F20220113045628596t8pq.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[캐스팅 거절한 배우 기사에 '싫어요' 눌렀다는 감독님]]></title>
+            <link>https://content.v.daum.net/v/EXqaR2YtZz</link>
+            <guid>https://content.v.daum.net/v/EXqaR2YtZz</guid>
+            <pubDate>Thu, 13 Jan 2022 08:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F13%2FBoiledMovie%2F20220113020421016s1zm.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[60년 된 뮤지컬 영화는 왜 다시 극장을 찾았나?]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 11 Jan 2022 07:17:58 GMT</pubDate>
             <content:encoded><![CDATA[무비스트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F11%2FMOVIST%2F20220111064612900kywq.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['숏컷' 이후 매일 리즈 갱신 중인 대세 '배우'의 근황]]></title>
-            <link>https://content.v.daum.net/v/EBk1wJjMbX</link>
-            <guid>https://content.v.daum.net/v/EBk1wJjMbX</guid>
-            <pubDate>Wed, 12 Jan 2022 03:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F11%2Fmaxmovie%2F20220111043146667c2yl.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
