@@ -4,17 +4,9 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 15:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 02:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[그렇게 난 갱스터와 사랑에 빠졌다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156839</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156839</guid>
-            <pubDate>Tue, 11 Jan 2022 02:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faf031a220a98b1e6dc9f7a9b591da7ec365869b5" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[브레이즌]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156506</link>
@@ -101,6 +93,14 @@
             <pubDate>Wed, 12 Jan 2022 05:17:46 GMT</pubDate>
             <content:encoded><![CDATA[22.01.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[실: 인연의 시작]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143762</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143762</guid>
+            <pubDate>Thu, 13 Jan 2022 02:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faa7cb7d0fa4303e74de2a1ba047ef610b7fb47e3" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
