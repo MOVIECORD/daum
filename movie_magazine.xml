@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 14:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 15:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칼 든 강도를 마주해 충격을 받은 10대 소년이 운동을 하자, 30년 후..]]></title>
+            <link>https://content.v.daum.net/v/EIBZhA2WkW</link>
+            <guid>https://content.v.daum.net/v/EIBZhA2WkW</guid>
+            <pubDate>Thu, 13 Jan 2022 15:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F13%2Ffeelthemovie%2F20220113144128025ep3c.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[왓챠 신작! <티탄>, <한니발 완전판>, <며느라기2..ing> 등]]></title>
             <link>https://content.v.daum.net/v/E93gvim7UQ</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 11 Jan 2022 07:17:58 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F11%2Ffeelthemovie%2F20220111064919809ccym.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 이건 꼭 봐야 해! OTT 기대작①]]></title>
-            <link>https://content.v.daum.net/v/EG4nzM2n3n</link>
-            <guid>https://content.v.daum.net/v/EG4nzM2n3n</guid>
-            <pubDate>Tue, 11 Jan 2022 07:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F11%2FMOVIST%2F20220111064612900kywq.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
