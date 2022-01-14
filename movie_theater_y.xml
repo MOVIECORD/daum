@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 11:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 12:28:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[특송]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132303</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132303</guid>
-            <pubDate>Wed, 12 Jan 2022 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba021bacaf87ba110d48e406408feccafb6f96a1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[씽2게더]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=138207</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=138207</guid>
             <pubDate>Wed, 05 Jan 2022 02:09:05 GMT</pubDate>
             <content:encoded><![CDATA[22.01.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[특송]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132303</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132303</guid>
+            <pubDate>Wed, 12 Jan 2022 03:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba021bacaf87ba110d48e406408feccafb6f96a1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[웨스트 사이드 스토리]]></title>
@@ -135,6 +135,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd26d9eb682eda5d237bf3cd0bfc2bf36fcb97458" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[엔칸토: 마법의 세계]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
+            <pubDate>Fri, 14 Jan 2022 12:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155229</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155229</guid>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 13 Jan 2022 02:10:36 GMT</pubDate>
             <content:encoded><![CDATA[22.01.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c545acd0162e80f4af0192bb2e3c4f614f7d6a0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[비올레타]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=66302</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=66302</guid>
-            <pubDate>Fri, 14 Jan 2022 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7225f52615bb1065fbf41346dcfc24c9bc0f4c78" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
