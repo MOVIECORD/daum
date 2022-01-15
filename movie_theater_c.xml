@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 08:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 09:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64e31dd2502a095db212e0e568d95fea72e1b4cf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[블루버스데이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156706</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156706</guid>
+            <pubDate>Fri, 14 Jan 2022 06:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F582408a9c34cc917383386c7b196d3ca79ab8fd1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[도쿄 리벤저스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152016</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152016</guid>
@@ -56,12 +64,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b8e6746fb9c79ca0b83092701601c518caaedbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[블루버스데이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156706</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156706</guid>
-            <pubDate>Fri, 14 Jan 2022 06:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F582408a9c34cc917383386c7b196d3ca79ab8fd1" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[미싱타는 여자들]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145234</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145234</guid>
+            <pubDate>Mon, 10 Jan 2022 11:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70deb49a1e0cda735262b62efad968bd0d3cfb58" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[탈명검: 풍운재기]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 03 Jan 2022 05:17:21 GMT</pubDate>
             <content:encoded><![CDATA[22.01.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F50fb67fb941dc8288c0cb5bb486bb4d2c09cc6cb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[미싱타는 여자들]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145234</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145234</guid>
-            <pubDate>Mon, 10 Jan 2022 11:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70deb49a1e0cda735262b62efad968bd0d3cfb58" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[레이징 파이어]]></title>
