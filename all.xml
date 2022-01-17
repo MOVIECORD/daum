@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 14:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 15:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -271,14 +271,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0cbe92fa37910c5bbeed2916c5e9fd541412875" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[좀비 살아있다 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155998</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155998</guid>
-            <pubDate>Mon, 17 Jan 2022 08:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[22.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2fe0eaf0de8b870d7b7b2fd32c14fae0b2e9c0f7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[워 서바이버 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154960</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154960</guid>
@@ -325,6 +317,14 @@
             <pubDate>Tue, 04 Jan 2022 09:17:19 GMT</pubDate>
             <content:encoded><![CDATA[22.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F029b4274c87c1b97e2a256ef4a42372aa63a39f7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[좀비 살아있다 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155998</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155998</guid>
+            <pubDate>Mon, 17 Jan 2022 08:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[22.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2fe0eaf0de8b870d7b7b2fd32c14fae0b2e9c0f7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[어머니, 당신을 위해 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
