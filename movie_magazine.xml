@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 02:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 03:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자고 일어나니 3m 강아지가 나한테 온다면?]]></title>
+            <link>https://content.v.daum.net/v/ErdRMfuzPj</link>
+            <guid>https://content.v.daum.net/v/ErdRMfuzPj</guid>
+            <pubDate>Mon, 17 Jan 2022 03:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Ffanzeel%2F202201170249363073pga.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[이게 우리나라 로맨스 영화? 한국에서 절대 나오기 힘든 사랑 이야기]]></title>
             <link>https://content.v.daum.net/v/Epi3vZ6Zkb</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 13 Jan 2022 07:17:48 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F13%2Fharmony%2F20220113054557758qgl9.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[일본에서 '이 영화'가 리메이크 된다고?]]></title>
-            <link>https://content.v.daum.net/v/ERzxCrprEo</link>
-            <guid>https://content.v.daum.net/v/ERzxCrprEo</guid>
-            <pubDate>Thu, 13 Jan 2022 06:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F13%2FBoiledMovie%2F20220113061631389bx5z.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
