@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2022-01-18T02:11:14.605Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 18 Jan 2022 03:20:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[악인은 너무 많다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=62330</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=62330</guid>
+            <pubDate>Tue, 18 Jan 2022 03:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F202BA23E4EC0F3B407" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[플로리스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=43918</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=43918</guid>
+            <pubDate>Tue, 18 Jan 2022 03:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F13790C5050B2DE9222" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[킥복서 리턴즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=87944</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=87944</guid>
+            <pubDate>Tue, 18 Jan 2022 03:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa27c19ff516acf10b46581e40f68578eee4ff969" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[랑데부]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=26810</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=26810</guid>
+            <pubDate>Tue, 18 Jan 2022 03:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1544441549B5F6FAC2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
