@@ -4,41 +4,9 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 15:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 02:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[소름]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=2939</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=2939</guid>
-            <pubDate>Mon, 03 Jan 2022 02:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F13110210A8F1DED190" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[...ing]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=36634</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=36634</guid>
-            <pubDate>Mon, 03 Jan 2022 02:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F12110210A90B2C1FE9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[크레이지]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=47735</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=47735</guid>
-            <pubDate>Thu, 06 Jan 2022 08:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66f116d8d09817a28cbfe8387581add97ad67290" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[대최면술사]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=85650</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=85650</guid>
-            <pubDate>Tue, 04 Jan 2022 02:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2cc2cfb08dbc6c582901f22c4c4ca32445ca59ab" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[로봇 오버로드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=92131</link>
@@ -62,14 +30,6 @@
             <pubDate>Tue, 04 Jan 2022 02:07:31 GMT</pubDate>
             <content:encoded><![CDATA[22.01.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4eb79ba9c44c1b13c87da9a295daea5a8cc1b745" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[타샤 튜더]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=123564</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=123564</guid>
-            <pubDate>Mon, 03 Jan 2022 02:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e6f17d874e5b1773a1c935da91a9324ec1af444" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유닛 7]]></title>
@@ -710,6 +670,14 @@
             <pubDate>Sun, 16 Jan 2022 02:12:10 GMT</pubDate>
             <content:encoded><![CDATA[22.01.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3c3c71cf79ba36ef1b6dbb26be232d7e028fd40f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마스터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=99826</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=99826</guid>
+            <pubDate>Tue, 18 Jan 2022 02:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3eb4832d929c08f27277bd195f36e45199045b2e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
