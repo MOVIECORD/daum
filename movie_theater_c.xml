@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 08:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 09:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,12 +96,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F25deee2592c6e3b9e6a4a60330d06314f0df4334" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[임신한 나무와 도깨비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135087</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135087</guid>
+            <pubDate>Wed, 19 Jan 2022 09:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6817287fb1801a21489e24614bc029025a4469f2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[효자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156226</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156226</guid>
             <pubDate>Mon, 17 Jan 2022 08:21:33 GMT</pubDate>
             <content:encoded><![CDATA[22.01.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fef746ff4cc7ea7b2a0d182ccb26071212c176845" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[가슴이 떨리는 건 너 때문]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151100</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151100</guid>
+            <pubDate>Wed, 19 Jan 2022 09:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9265a1ffb8b226e85ffc8438d2ab77e479931148" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[걸 위드 더 카메라]]></title>
@@ -150,21 +166,6 @@
             <pubDate>Wed, 19 Jan 2022 01:56:28 GMT</pubDate>
             <content:encoded><![CDATA[22.01.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdf232b4226dc998a6426c0794c00f62bbf5a5b20" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[로열 트리트먼트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151511</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151511</guid>
-            <pubDate>Wed, 19 Jan 2022 01:56:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7439aff9028a973d58911fd81e4640876c3f2861" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[송정미 음악회 2021 크리스마스 인 러브]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157265</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157265</guid>
-            <pubDate>Wed, 19 Jan 2022 01:56:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.20]]></content:encoded>
         </item>
     </channel>
 </rss>
