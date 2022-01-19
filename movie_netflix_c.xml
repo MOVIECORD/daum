@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 02:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 03:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa08b79a5a491e3f94787560809f1e3bc44aa5da9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[하늘의 침묵]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=107321</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=107321</guid>
+            <pubDate>Wed, 19 Jan 2022 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fca04c90fd27ed1ad2ef4063f019f619fe216957b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유혹]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=109100</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=109100</guid>
+            <pubDate>Wed, 19 Jan 2022 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f50bf7ff810d3dacbe8e5fc175f18149aaabfdb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[은하]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=93626</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=93626</guid>
+            <pubDate>Wed, 19 Jan 2022 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f997439f7b84cfe53cf65e4e8022d24d515acc3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[더 히든]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142196</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142196</guid>
@@ -150,6 +174,14 @@
             <pubDate>Tue, 18 Jan 2022 08:21:57 GMT</pubDate>
             <content:encoded><![CDATA[22.02.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e6a205403f80227575fb0eb741a5d3e492996e4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[데드풀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=54082</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=54082</guid>
+            <pubDate>Wed, 19 Jan 2022 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd6e7e6d4bf9a6329352380775b6aef8a5bf28250" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
