@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 10:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 11:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,20 +79,20 @@
             <content:encoded><![CDATA[22.01.12]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[킹스맨: 퍼스트 에이전트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
-            <pubDate>Thu, 09 Dec 2021 01:53:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[블루버스데이 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156706</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156706</guid>
             <pubDate>Fri, 14 Jan 2022 06:20:50 GMT</pubDate>
             <content:encoded><![CDATA[22.01.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F582408a9c34cc917383386c7b196d3ca79ab8fd1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[킹스맨: 퍼스트 에이전트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
+            <pubDate>Thu, 09 Dec 2021 01:53:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[청춘적니 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -119,20 +119,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73c8b8db17bf32ea113257ad68acb88fbed102f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[도쿄 리벤저스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152016</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152016</guid>
-            <pubDate>Thu, 13 Jan 2022 02:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b8e6746fb9c79ca0b83092701601c518caaedbd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[러브레터 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=3262</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=3262</guid>
             <pubDate>Sat, 01 Jan 2022 02:08:16 GMT</pubDate>
             <content:encoded><![CDATA[22.01.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc723b1e188dbdcbbbbb5d9fc4d6cd757c5529f27" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄 리벤저스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152016</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152016</guid>
+            <pubDate>Thu, 13 Jan 2022 02:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b8e6746fb9c79ca0b83092701601c518caaedbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[클리포드 더 빅 레드 독 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2621,6 +2621,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fc57b302b914f7b9d672a745839bf97669ffe0b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[12세 연상 아내랑 12년 연애하고, 결혼한지 5년만에 이혼한 아쿠아맨 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EZ37e05iPm</link>
+            <guid>https://content.v.daum.net/v/EZ37e05iPm</guid>
+            <pubDate>Wed, 19 Jan 2022 11:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2Fharmony%2F20220119075228699ucso.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[어느새 훌쩍 자란 '기생충'의 다송이 근황 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EecvsibHiF</link>
             <guid>https://content.v.daum.net/v/EecvsibHiF</guid>
@@ -2771,14 +2779,6 @@
             <pubDate>Mon, 17 Jan 2022 03:20:36 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Ffanzeel%2F202201170249363073pga.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이게 우리나라 로맨스 영화? 한국에서 절대 나오기 힘든 사랑 이야기 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/Epi3vZ6Zkb</link>
-            <guid>https://content.v.daum.net/v/Epi3vZ6Zkb</guid>
-            <pubDate>Mon, 17 Jan 2022 02:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F17%2Ffeelthemovie%2F202201170112412857xbh.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[이름만 구찌에서 진정한 구찌로 (다음 영화 ─ 브런치)]]></title>
