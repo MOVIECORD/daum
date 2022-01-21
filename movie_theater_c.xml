@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 05:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 06:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 19 Jan 2022 09:16:28 GMT</pubDate>
             <content:encoded><![CDATA[22.02.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9265a1ffb8b226e85ffc8438d2ab77e479931148" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[시카리오: 나이트 오브 이스케이프]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149547</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149547</guid>
+            <pubDate>Thu, 20 Jan 2022 02:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3c52914457fdb972312f199af95d5eefd9a8c437" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[원 세컨드]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 21 Jan 2022 03:15:53 GMT</pubDate>
             <content:encoded><![CDATA[22.02.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69ca8c34d6cc98b2e4e1741ada46752738d65703" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[시카리오: 나이트 오브 이스케이프]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149547</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149547</guid>
-            <pubDate>Thu, 20 Jan 2022 02:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3c52914457fdb972312f199af95d5eefd9a8c437" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바이스 시티]]></title>
