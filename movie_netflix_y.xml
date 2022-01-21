@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 04:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 05:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Fri, 14 Jan 2022 02:09:23 GMT</pubDate>
             <content:encoded><![CDATA[22.02.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7b1e7fa3137d7db385dafb235188968dc430f2e6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[팬 걸]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146212</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146212</guid>
+            <pubDate>Fri, 21 Jan 2022 05:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26be640d256a3b3de98d8028483729e5c2cc8c24" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[모럴센스]]></title>
