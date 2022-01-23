@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 06:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 07:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -119,14 +119,6 @@
             <content:encoded><![CDATA[22.01.12]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블루버스데이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156706</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156706</guid>
-            <pubDate>Wed, 19 Jan 2022 01:56:19 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F582408a9c34cc917383386c7b196d3ca79ab8fd1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[프리! 더 파이널 스트로크 전편]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154033</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154033</guid>
@@ -141,6 +133,14 @@
             <pubDate>Thu, 13 Jan 2022 02:10:36 GMT</pubDate>
             <content:encoded><![CDATA[22.01.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73c8b8db17bf32ea113257ad68acb88fbed102f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블루버스데이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156706</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156706</guid>
+            <pubDate>Wed, 19 Jan 2022 01:56:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F582408a9c34cc917383386c7b196d3ca79ab8fd1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[러브레터]]></title>
