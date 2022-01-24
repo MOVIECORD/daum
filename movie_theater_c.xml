@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 07:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 08:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Thu, 20 Jan 2022 02:12:40 GMT</pubDate>
             <content:encoded><![CDATA[22.01.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3c52914457fdb972312f199af95d5eefd9a8c437" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블러드써스티]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147624</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147624</guid>
+            <pubDate>Mon, 24 Jan 2022 08:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F42a2aec2775ac63db4b0df516541fcab6e70804f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[가슴이 떨리는 건 너 때문]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Jan 2022 02:12:40 GMT</pubDate>
             <content:encoded><![CDATA[22.01.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F464fa8928ec19725595e0b3773314a0fd4dcd61f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156225</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156225</guid>
-            <pubDate>Sat, 22 Jan 2022 14:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38b0e88e80a3085f5202468dabb4cd69465966e0" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
