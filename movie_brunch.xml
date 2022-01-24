@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 02:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 03:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화: 황금의 결투(A Stranger in Town)]]></title>
+            <link>https://brunch.co.kr/@@blQN/379</link>
+            <guid>https://brunch.co.kr/@@blQN/379</guid>
+            <pubDate>Mon, 24 Jan 2022 03:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이재형]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FblQN%2Fimage%2FMkkshGJtZrOolWHG0BU6Hi7G5_Y.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[이름만 구찌에서 진정한 구찌로]]></title>
             <link>https://brunch.co.kr/@@a7Xi/92</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Dec 2021 06:21:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FCnCyk22s2sUlyb-4_lzWUv9SIbk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[너에게 해주고 싶었던 말이 정말 많아]]></title>
-            <link>https://brunch.co.kr/@@bBHs/7</link>
-            <guid>https://brunch.co.kr/@@bBHs/7</guid>
-            <pubDate>Wed, 22 Dec 2021 05:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>진하백]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbBHs%2Fimage%2FQ1oA1KpcW9Jzi0CIuSmw5nQAn6M.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
