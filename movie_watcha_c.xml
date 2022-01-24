@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 04:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 05:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -988,6 +988,38 @@
             <pubDate>Mon, 17 Jan 2022 06:21:35 GMT</pubDate>
             <content:encoded><![CDATA[22.01.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fmovie-private%2F19631e361eac034926f0a19830e4595a43390053" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[910712 희정]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=57725</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=57725</guid>
+            <pubDate>Mon, 24 Jan 2022 05:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F15304C0B4BFA4DAB2D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터 컴퍼니]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=74428</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=74428</guid>
+            <pubDate>Mon, 24 Jan 2022 05:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2343F95052FDB38529" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[리멤버]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=74847</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=74847</guid>
+            <pubDate>Mon, 24 Jan 2022 05:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F13281B4950AB0B001D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[빅 웨딩]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=67522</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=67522</guid>
+            <pubDate>Mon, 24 Jan 2022 05:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F030EAB4D5199B79213" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

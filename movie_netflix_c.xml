@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 04:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 05:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F124D3E10B1B3CC48EB" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[쉬즈 올 댓]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3351</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3351</guid>
+            <pubDate>Mon, 24 Jan 2022 05:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F146F1B10AC61E45B01" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[너브]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=103727</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=103727</guid>
@@ -110,6 +118,30 @@
             <pubDate>Wed, 19 Jan 2022 03:16:04 GMT</pubDate>
             <content:encoded><![CDATA[22.02.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd6e7e6d4bf9a6329352380775b6aef8a5bf28250" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[맘마미아!]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=43220</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=43220</guid>
+            <pubDate>Mon, 24 Jan 2022 05:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F13492810B0CDC4CAEB" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[황당한 외계인: 폴]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=58335</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=58335</guid>
+            <pubDate>Mon, 24 Jan 2022 05:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F135CDA404D6B703524" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[19곰 테드2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=84683</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=84683</guid>
+            <pubDate>Mon, 24 Jan 2022 05:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd558c83dcc9ba40a25b807f0cd6eb5145c57b4a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
