@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2022-01-24T06:22:58.455Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 24 Jan 2022 07:18:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인사동 스캔들]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=47747</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=47747</guid>
+            <pubDate>Mon, 24 Jan 2022 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1426801849D2E0AF5D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마이웨이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=54089</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=54089</guid>
+            <pubDate>Mon, 24 Jan 2022 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1213C34D4ECF3BEE04" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[구르믈 버서난 달처럼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=50132</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=50132</guid>
+            <pubDate>Mon, 24 Jan 2022 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1263480C4BC34B5381" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[홍길동의 후예]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=52136</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=52136</guid>
+            <pubDate>Mon, 24 Jan 2022 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1814A4274AEA65B637" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[필스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=69767</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=69767</guid>
+            <pubDate>Mon, 24 Jan 2022 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F275B0F49527882AE33" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[타마코 러브 스토리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=86564</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=86564</guid>
+            <pubDate>Mon, 24 Jan 2022 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F276BF24D53F4139933" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[페어웰, 마이 퀸]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=69694</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=69694</guid>
+            <pubDate>Mon, 24 Jan 2022 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2102EA4F5279925E20" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[세이빙 산타]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=79937</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=79937</guid>
+            <pubDate>Mon, 24 Jan 2022 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2527294C529802AB16" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나쁜 사랑]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=87966</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=87966</guid>
+            <pubDate>Mon, 24 Jan 2022 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30003daaf1cef1e2edb8f099a44a7a3c02ff18df" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[굿 매너스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114278</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114278</guid>
+            <pubDate>Mon, 24 Jan 2022 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5aacc9529317cd4a0602c7fdb7ed8729e8028d2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>

@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 06:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 07:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 24 Jan 2022 06:22:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FiKj3rgIPvDw8tO2K4NxCVptRu1c.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '윤희에게', 한 중년의 고독과 성장]]></title>
+            <link>https://brunch.co.kr/@@1ifc/33</link>
+            <guid>https://brunch.co.kr/@@1ifc/33</guid>
+            <pubDate>Mon, 24 Jan 2022 07:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>윤밤]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ifc%2Fimage%2F-wKZQaaHHLvCC1G6dDBc8JGPI3A" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[이름만 구찌에서 진정한 구찌로]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 03 Jan 2022 06:21:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Editor M]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9KDM%2Fimage%2F0rFFjNZYbIL0_PlPI8xcSHoegKs.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘램’ 소름 끼치는 공포보단 기괴함이 자아내는 불쾌감만]]></title>
-            <link>https://brunch.co.kr/@@cqS0/125</link>
-            <guid>https://brunch.co.kr/@@cqS0/125</guid>
-            <pubDate>Thu, 30 Dec 2021 06:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcqS0%2Fimage%2FQAfmPn9sRsfPv14Vf87Y-QHb-_0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
