@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 04:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 05:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 25 Jan 2022 03:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FO2xRIWJcERUmskDUOJhLUdjwBlk.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[모리타니안,세계 유일의 관타나모 옥중기]]></title>
+            <link>https://brunch.co.kr/@@6wHY/513</link>
+            <guid>https://brunch.co.kr/@@6wHY/513</guid>
+            <pubDate>Tue, 25 Jan 2022 05:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2FL9Tb4Ica1SE0iRmhn85XRAZCQgM.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화: 황금의 결투(A Stranger in Town)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 03 Jan 2022 06:21:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>피링스]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F46ud%2Fimage%2FirJ0NTrp3OT18hnclibUZarqy7g.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<퍼스널 쇼퍼>, 뭔가 있지만 알 수 없는]]></title>
-            <link>https://brunch.co.kr/@@ce2X/9</link>
-            <guid>https://brunch.co.kr/@@ce2X/9</guid>
-            <pubDate>Mon, 03 Jan 2022 06:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정숨]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fce2X%2Fimage%2FKM_GhD66yFLLC12X8uEVwX8T1UI.jfif" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
