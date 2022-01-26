@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 06:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 07:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 17 Jan 2022 08:21:33 GMT</pubDate>
             <content:encoded><![CDATA[22.01.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84163ca3fc7817e3321d4b290c9aef61407bb336" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해리포터와 불사조 기사단]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=40878</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=40878</guid>
+            <pubDate>Wed, 26 Jan 2022 07:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10AB8BAE5D51" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블러드써스티]]></title>
@@ -157,14 +165,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=157026</guid>
             <pubDate>Tue, 25 Jan 2022 02:05:06 GMT</pubDate>
             <content:encoded><![CDATA[22.02.01]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[짬뽕비권]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156901</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156901</guid>
-            <pubDate>Wed, 26 Jan 2022 04:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbd85964b242485c1108bb29a728394f8d524a0f8" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
