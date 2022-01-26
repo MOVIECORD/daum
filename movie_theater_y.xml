@@ -4,9 +4,25 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 15:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 02:07:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해적: 도깨비 깃발]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127223</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127223</guid>
+            <pubDate>Wed, 26 Jan 2022 02:06:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff4d297b408910fa79dd5056f0918d373545d9611" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[킹메이커]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=118715</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=118715</guid>
+            <pubDate>Wed, 26 Jan 2022 02:06:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F825baa1e98d8f33e4801d88b3a302739039c5cc4" length="0" type="image//thumb/C408x596/"/>
+        </item>
         <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
@@ -112,13 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[비욘드라이브 더 무비 : 엔시티 레조넌스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155555</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155555</guid>
-            <pubDate>Thu, 06 Jan 2022 02:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[프랑스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150559</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150559</guid>
@@ -151,20 +160,11 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b8e6746fb9c79ca0b83092701601c518caaedbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[블루버스데이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156706</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156706</guid>
-            <pubDate>Mon, 24 Jan 2022 04:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F582408a9c34cc917383386c7b196d3ca79ab8fd1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터 앤 미세스 아델만]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=110209</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=110209</guid>
-            <pubDate>Tue, 25 Jan 2022 10:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F25deee2592c6e3b9e6a4a60330d06314f0df4334" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[비욘드라이브 더 무비 : 엔시티 레조넌스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155555</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155555</guid>
+            <pubDate>Thu, 06 Jan 2022 02:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.12]]></content:encoded>
         </item>
     </channel>
 </rss>
