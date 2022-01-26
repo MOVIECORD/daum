@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 04:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 05:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,14 @@
             <pubDate>Mon, 24 Jan 2022 09:15:18 GMT</pubDate>
             <content:encoded><![CDATA[22.01.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f867041b89259fb0f1ebd40d9b1596a020f0d4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[작은 아씨들]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127122</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127122</guid>
+            <pubDate>Wed, 26 Jan 2022 05:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d80cc8636c644aabd2597fc090183101579244282177" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
