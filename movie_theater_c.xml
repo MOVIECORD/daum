@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 06:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 07:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[인어가 잠든 집]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=122789</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=122789</guid>
-            <pubDate>Thu, 20 Jan 2022 02:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18d1f6ee800263474c57c0bb2aa3240e664a689d" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[듄]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
@@ -22,6 +14,14 @@
             <pubDate>Thu, 27 Jan 2022 05:15:16 GMT</pubDate>
             <content:encoded><![CDATA[22.02.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인어가 잠든 집]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122789</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122789</guid>
+            <pubDate>Thu, 20 Jan 2022 02:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18d1f6ee800263474c57c0bb2aa3240e664a689d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[덩케르크]]></title>
@@ -72,14 +72,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F42a2aec2775ac63db4b0df516541fcab6e70804f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[짬뽕비권]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156901</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156901</guid>
-            <pubDate>Wed, 26 Jan 2022 12:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbd85964b242485c1108bb29a728394f8d524a0f8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[창극 변강쇠 점 찍고 옹녀]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157268</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157268</guid>
@@ -127,6 +119,22 @@
             <content:encoded><![CDATA[22.02.01]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[짬뽕비권]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156901</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156901</guid>
+            <pubDate>Wed, 26 Jan 2022 12:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbd85964b242485c1108bb29a728394f8d524a0f8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 마더]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146731</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146731</guid>
+            <pubDate>Thu, 27 Jan 2022 07:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbaf77f7a554227fbbded052634ac9d85f8e8ba33" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[홈 팀]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156507</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156507</guid>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 27 Jan 2022 01:59:34 GMT</pubDate>
             <content:encoded><![CDATA[22.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff078b4fe9fbb675a236043d413cf042c3c8e6dad" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[콜로니: 지구 귀환 프로젝트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148442</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148442</guid>
-            <pubDate>Thu, 27 Jan 2022 01:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[22.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5776e3f66b51e7fd12b9703ba30a7cb37fa6e7a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
