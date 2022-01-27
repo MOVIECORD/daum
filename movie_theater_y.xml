@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 11:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 12:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[킹스맨: 퍼스트 에이전트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
+            <pubDate>Wed, 22 Dec 2021 01:56:53 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[특송]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132303</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132303</guid>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 27 Jan 2022 01:59:26 GMT</pubDate>
             <content:encoded><![CDATA[22.01.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffb397d5dfbc6b8f241e7c87910738ac70945b811" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[킹스맨: 퍼스트 에이전트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
-            <pubDate>Wed, 22 Dec 2021 01:56:53 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[청춘적니]]></title>
