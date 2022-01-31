@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 06:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 07:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ee3e94ab72ab91fbb2dce546aa5a79152bb9901" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[하우스 오브 구찌]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=54204</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=54204</guid>
-            <pubDate>Wed, 12 Jan 2022 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6943a9508e5f9dc4764c57aecc8654af3e24e8f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[어나더 라운드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142798</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142798</guid>
             <pubDate>Wed, 19 Jan 2022 01:56:19 GMT</pubDate>
             <content:encoded><![CDATA[22.01.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6725b99746d3a2ad064f65305fb939065b2f4a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[하우스 오브 구찌]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=54204</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=54204</guid>
+            <pubDate>Wed, 12 Jan 2022 03:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6943a9508e5f9dc4764c57aecc8654af3e24e8f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[인어가 잠든 집]]></title>
@@ -96,20 +96,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb42c72550f6c76f3c0ab9906ba50aea889b8676a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[특송]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132303</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132303</guid>
-            <pubDate>Wed, 12 Jan 2022 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba021bacaf87ba110d48e406408feccafb6f96a1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[킹스맨: 퍼스트 에이전트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
             <pubDate>Wed, 22 Dec 2021 01:56:53 GMT</pubDate>
             <content:encoded><![CDATA[21.12.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[특송]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132303</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132303</guid>
+            <pubDate>Wed, 12 Jan 2022 03:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba021bacaf87ba110d48e406408feccafb6f96a1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[웨스트 사이드 스토리]]></title>
