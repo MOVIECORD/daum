@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 01:57:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 02:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a40f6025e785344c32443ed10f7614960cf0c75" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 천재 추리 탐정 셜록홈즈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134532</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134532</guid>
-            <pubDate>Sun, 30 Jan 2022 06:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84163ca3fc7817e3321d4b290c9aef61407bb336" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[장민호 드라마 최종회]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157110</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157110</guid>
             <pubDate>Mon, 24 Jan 2022 02:04:20 GMT</pubDate>
             <content:encoded><![CDATA[22.01.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64e31dd2502a095db212e0e568d95fea72e1b4cf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미싱타는 여자들]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145234</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145234</guid>
+            <pubDate>Mon, 31 Jan 2022 02:28:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70deb49a1e0cda735262b62efad968bd0d3cfb58" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
