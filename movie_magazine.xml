@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 15:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 01:57:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스파이더맨의 다정한 동반자 엠제이]]></title>
+            <link>https://content.v.daum.net/v/Eao3rDRBXJ</link>
+            <guid>https://content.v.daum.net/v/Eao3rDRBXJ</guid>
+            <pubDate>Mon, 31 Jan 2022 01:57:17 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼히어로 스토리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F30%2Fhero_nitko%2F20220130141327183rcud.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[한국 최고의 배우들을 불러놓고..멋진 퀄리티로 완성한 단편영화]]></title>
             <link>https://content.v.daum.net/v/EY2VkaDAFW</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Jan 2022 02:00:31 GMT</pubDate>
             <content:encoded><![CDATA[씨네플레이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2Fcineplay%2F20220125084749304agao.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[대체 결말이 어떻길래..영화 역사상 가장 충격적인 엔딩이라는 이 영화]]></title>
-            <link>https://content.v.daum.net/v/EfaEakdRJP</link>
-            <guid>https://content.v.daum.net/v/EfaEakdRJP</guid>
-            <pubDate>Wed, 26 Jan 2022 14:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F26%2Ffeelthemovie%2F20220126135701485q35b.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
