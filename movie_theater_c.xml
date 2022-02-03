@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 12:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 13:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6409063751c1662760b10d83406c7be116e61708" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[피그]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
-            <pubDate>Wed, 02 Feb 2022 05:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[애니멀 체인지]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143295</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143295</guid>
@@ -110,6 +102,14 @@
             <pubDate>Thu, 03 Feb 2022 10:16:48 GMT</pubDate>
             <content:encoded><![CDATA[22.02.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc19dfdd279275c1aea9b0c4dba703474815cf470" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[피그]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
+            <pubDate>Wed, 02 Feb 2022 05:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아웃브레이크 호텔]]></title>
