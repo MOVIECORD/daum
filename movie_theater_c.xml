@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 09:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 10:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,20 +96,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a42553276351cb243c6da25b28c78bc5a1bddfe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[온 세상이 하얗다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145313</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145313</guid>
-            <pubDate>Tue, 01 Feb 2022 06:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fea1daee5417623b1ea9b99e89a8dd637462f91b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 마더]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146731</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146731</guid>
             <pubDate>Thu, 27 Jan 2022 07:15:34 GMT</pubDate>
             <content:encoded><![CDATA[22.02.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbaf77f7a554227fbbded052634ac9d85f8e8ba33" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[리코리쉬 피자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154397</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154397</guid>
+            <pubDate>Thu, 03 Feb 2022 10:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc19dfdd279275c1aea9b0c4dba703474815cf470" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아웃브레이크 호텔]]></title>
@@ -126,6 +126,14 @@
             <pubDate>Sat, 29 Jan 2022 01:53:00 GMT</pubDate>
             <content:encoded><![CDATA[22.02.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9265a1ffb8b226e85ffc8438d2ab77e479931148" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[온 세상이 하얗다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145313</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145313</guid>
+            <pubDate>Tue, 01 Feb 2022 06:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fea1daee5417623b1ea9b99e89a8dd637462f91b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[늦봄 2020]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 03 Feb 2022 01:55:58 GMT</pubDate>
             <content:encoded><![CDATA[22.02.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e1fe5fdafab3c3cdcc37a4167ac0871008266b4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[톨 걸 2]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157400</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157400</guid>
-            <pubDate>Thu, 03 Feb 2022 01:55:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a7cd485fa19bf5f458143d6b09f5c2cde74b024" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
