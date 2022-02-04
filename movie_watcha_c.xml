@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 03:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 04:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -451,6 +451,22 @@
             <pubDate>Thu, 03 Feb 2022 07:16:02 GMT</pubDate>
             <content:encoded><![CDATA[22.02.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2944d041641df52534ec92da8468cf74a2a82dea" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[플라워 쇼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=102638</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=102638</guid>
+            <pubDate>Fri, 04 Feb 2022 04:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd38c97f87332573b02e3c8c2f2f561c0f09322ed" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[포트 블리스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=93384</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=93384</guid>
+            <pubDate>Fri, 04 Feb 2022 04:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F514298fe78c78d904355c6aef9fd0270b4cd3f34" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
