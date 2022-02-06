@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 15:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 02:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 순정 만화 로맨스, 극장도 녹일까?]]></title>
+            <link>https://content.v.daum.net/v/EgGalDrtha</link>
+            <guid>https://content.v.daum.net/v/EgGalDrtha</guid>
+            <pubDate>Sun, 06 Feb 2022 02:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Ffanzeel%2F20220204093709759a4bb.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[옆집 남자 짝사랑해서 늘 몰래 훔쳐보던 소녀]]></title>
             <link>https://content.v.daum.net/v/Eez9QtpdIB</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 03 Feb 2022 04:20:48 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F03%2FBoiledMovie%2F202202030346344902nct.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['알라딘'으로 스타 됐지만, 후속작 없던 배우의 근황]]></title>
-            <link>https://content.v.daum.net/v/EkDH9p9Lks</link>
-            <guid>https://content.v.daum.net/v/EkDH9p9Lks</guid>
-            <pubDate>Thu, 03 Feb 2022 04:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F28%2Ffanzeel%2F20220128025834450nzsk.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
