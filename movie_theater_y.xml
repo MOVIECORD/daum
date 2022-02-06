@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 11:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 12:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,11 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73c8b8db17bf32ea113257ad68acb88fbed102f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[파이어 셧 업 인 마이 본즈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157026</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157026</guid>
-            <pubDate>Sun, 06 Feb 2022 11:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.01]]></content:encoded>
+            <title><![CDATA[도쿄 리벤저스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152016</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152016</guid>
+            <pubDate>Sun, 06 Feb 2022 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b8e6746fb9c79ca0b83092701601c518caaedbd" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
