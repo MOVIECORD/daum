@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 05:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 06:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F643b02b93e9de836850b9d09d680648b2114e41c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[355]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133360</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133360</guid>
+            <pubDate>Fri, 28 Jan 2022 08:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7b41c3d7c6d2c849ef2eaa0a3f9299220d43382a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[나의 촛불]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=138913</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=138913</guid>
@@ -56,12 +64,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6409063751c1662760b10d83406c7be116e61708" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[355]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133360</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133360</guid>
-            <pubDate>Fri, 28 Jan 2022 08:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7b41c3d7c6d2c849ef2eaa0a3f9299220d43382a" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[굿 보스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154390</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154390</guid>
+            <pubDate>Thu, 03 Feb 2022 01:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1af68ec1c62973dbd480b30717789a277341dfa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[만년이 지나도 변하지 않는 게 있어]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 29 Jan 2022 01:53:00 GMT</pubDate>
             <content:encoded><![CDATA[22.02.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f4cb722ef68ec2542df05e4eab6c90f0b272bd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[굿 보스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154390</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154390</guid>
-            <pubDate>Thu, 03 Feb 2022 01:55:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1af68ec1c62973dbd480b30717789a277341dfa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[가슴이 떨리는 건 너 때문]]></title>
