@@ -4,7 +4,7 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 15:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 02:00:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,30 @@
             <pubDate>Fri, 04 Feb 2022 01:50:19 GMT</pubDate>
             <content:encoded><![CDATA[22.02.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc044bad9d2045a160f43524351aebde9cd033a7f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[레드 스카이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=78193</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=78193</guid>
+            <pubDate>Mon, 07 Feb 2022 01:59:43 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F084e19f124b5ad0edd82ea4be5aaa78f9febfc4a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[매기스 플랜]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=96948</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=96948</guid>
+            <pubDate>Mon, 07 Feb 2022 01:59:43 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdac46f02c2dda3b4eb56f7fdd9e30458493a67fb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 소노 시온: 소노 시온이라는 생물]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=104326</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=104326</guid>
+            <pubDate>Mon, 07 Feb 2022 01:59:43 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e1358877bc962a3cab2adde0d303ae85da1b9ac" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

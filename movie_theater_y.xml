@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 15:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 02:00:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[씽2게더]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138207</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138207</guid>
-            <pubDate>Wed, 05 Jan 2022 02:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[하우스 오브 구찌]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=54204</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=54204</guid>
             <pubDate>Wed, 12 Jan 2022 03:19:20 GMT</pubDate>
             <content:encoded><![CDATA[22.01.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6943a9508e5f9dc4764c57aecc8654af3e24e8f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[씽2게더]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138207</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138207</guid>
+            <pubDate>Wed, 05 Jan 2022 02:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[태일이]]></title>
@@ -94,22 +94,6 @@
             <pubDate>Tue, 01 Feb 2022 04:19:51 GMT</pubDate>
             <content:encoded><![CDATA[22.01.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72d325e53b31484452635da25839b1f28762f426" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[데드락: 라스트 리벤지]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156608</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156608</guid>
-            <pubDate>Sun, 06 Feb 2022 07:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0371ebaaaa98e6f6f273d90c7020b67c1c4b1bce" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[해피 뉴 이어]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149881</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149881</guid>
-            <pubDate>Sun, 06 Feb 2022 02:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F682f49a1be1b6c735b778efb8f5da94ec58a9c89" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[특송]]></title>
@@ -160,12 +144,27 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffb397d5dfbc6b8f241e7c87910738ac70945b811" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프랑스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150559</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150559</guid>
-            <pubDate>Sun, 06 Feb 2022 08:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73c8b8db17bf32ea113257ad68acb88fbed102f" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[도쿄 리벤저스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152016</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152016</guid>
+            <pubDate>Mon, 07 Feb 2022 01:58:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b8e6746fb9c79ca0b83092701601c518caaedbd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[데드락: 라스트 리벤지]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156608</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156608</guid>
+            <pubDate>Sun, 06 Feb 2022 07:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0371ebaaaa98e6f6f273d90c7020b67c1c4b1bce" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[파이어 셧 업 인 마이 본즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157026</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157026</guid>
+            <pubDate>Mon, 07 Feb 2022 01:58:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.01]]></content:encoded>
         </item>
     </channel>
 </rss>
