@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 03:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 04:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ee3e94ab72ab91fbb2dce546aa5a79152bb9901" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[애니멀 체인지 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143295</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143295</guid>
-            <pubDate>Wed, 09 Feb 2022 03:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a42553276351cb243c6da25b28c78bc5a1bddfe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[가슴이 떨리는 건 너 때문 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151100</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151100</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 02 Feb 2022 11:13:29 GMT</pubDate>
             <content:encoded><![CDATA[22.01.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70deb49a1e0cda735262b62efad968bd0d3cfb58" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 천재 추리 탐정 셜록홈즈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134532</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134532</guid>
+            <pubDate>Wed, 09 Feb 2022 04:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84163ca3fc7817e3321d4b290c9aef61407bb336" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -248,14 +248,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a22458070066e11c9b01cf75c61a84e503b0da1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[보드랍게 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141857</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141857</guid>
-            <pubDate>Tue, 08 Feb 2022 09:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36726e9be76606f13e409f16d8e4982756a9258a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[피그 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
@@ -325,6 +317,14 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=157786</guid>
             <pubDate>Wed, 09 Feb 2022 02:05:57 GMT</pubDate>
             <content:encoded><![CDATA[22.02.10]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모럴센스 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148636</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148636</guid>
+            <pubDate>Mon, 17 Jan 2022 05:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e1fe5fdafab3c3cdcc37a4167ac0871008266b4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[데드풀 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1637,6 +1637,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fea1daee5417623b1ea9b99e89a8dd637462f91b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[수학 포기자 고등학생들을 몰래 과외 해준다는 경비원의 놀라운 정체 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/ErKdnjHfSH</link>
+            <guid>https://content.v.daum.net/v/ErKdnjHfSH</guid>
+            <pubDate>Wed, 09 Feb 2022 04:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F09%2Ffeelthemovie%2F20220209041021446mfnq.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[지난 해 '최악의 연기' 보여준 배우는 누구? (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EWM67KY7Dq</link>
+            <guid>https://content.v.daum.net/v/EWM67KY7Dq</guid>
+            <pubDate>Wed, 09 Feb 2022 04:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F09%2Fharmony%2F20220209031215041vcw8.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[함께 죽기 위해 태백으로 간 남녀에게 벌어진 일 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EQ1g2SUrcf</link>
             <guid>https://content.v.daum.net/v/EQ1g2SUrcf</guid>
@@ -1779,22 +1795,6 @@
             <pubDate>Sat, 05 Feb 2022 01:40:03 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Ffeelthemovie%2F20220204151706253fcwd.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[너무 예쁘고 성숙해서 중학생때 여고생을 연기한 문근영 친구 정체 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/E7ckEnAzst</link>
-            <guid>https://content.v.daum.net/v/E7ckEnAzst</guid>
-            <pubDate>Fri, 04 Feb 2022 10:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Ffeelthemovie%2F20220204100715018u3xa.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[송강호와 오정세의 투 샷을 볼 수 있다는 김지운 감독의 신작 '거미집' (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EPuciyMwFH</link>
-            <guid>https://content.v.daum.net/v/EPuciyMwFH</guid>
-            <pubDate>Fri, 04 Feb 2022 10:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Fharmony%2F20220204062024373yxud.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[12명의 성난 사람들 (1957) (다음 영화 ─ 브런치)]]></title>
