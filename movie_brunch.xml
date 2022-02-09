@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 07:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 08:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 09 Feb 2022 07:16:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>블루챔버]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4Xlg%2Fimage%2Ff818gzta54GitKHiHcKMjUMUqVI.PNG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[철의 여인이 보낸 사계절]]></title>
+            <link>https://brunch.co.kr/@@bIh4/24</link>
+            <guid>https://brunch.co.kr/@@bIh4/24</guid>
+            <pubDate>Wed, 09 Feb 2022 08:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>후숙아보카도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fguest%2Fimage%2FkKZ26oP-jYBfyS5UIAqZ6XhLyAQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[하나의 집을 둘러싼 각기 다른 욕망]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 10 Jan 2022 10:20:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>ANTIEGG 안티에그]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fb93X%2Fimage%2F_kHBAt86BPYO8LZ1K3X4I6T-Xz0.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[세 명의 악인과 돈가방만으로 들춰낸 미국 근대사의 이면]]></title>
-            <link>https://brunch.co.kr/@@cZbl/76</link>
-            <guid>https://brunch.co.kr/@@cZbl/76</guid>
-            <pubDate>Mon, 10 Jan 2022 10:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김노엘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcZbl%2Fimage%2FttEkB4Pys33_44BGAfvTEhcHgSQ.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
