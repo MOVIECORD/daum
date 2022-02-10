@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 09:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 10:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알고보니 과거 '이효리 연기 선생'이었던 연기신]]></title>
+            <link>https://content.v.daum.net/v/EVmQFDkO21</link>
+            <guid>https://content.v.daum.net/v/EVmQFDkO21</guid>
+            <pubDate>Thu, 10 Feb 2022 10:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F10%2FBoiledMovie%2F20220210093447776m8hs.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[제94회 아카데미 후보 발표, <파워 오브 도그> 12개 부문 노미!]]></title>
             <link>https://content.v.daum.net/v/E03GGtDSTF</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 09 Feb 2022 04:20:53 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F09%2Ffeelthemovie%2F20220209041021446mfnq.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 해 '최악의 연기' 보여준 배우는 누구?]]></title>
-            <link>https://content.v.daum.net/v/EWM67KY7Dq</link>
-            <guid>https://content.v.daum.net/v/EWM67KY7Dq</guid>
-            <pubDate>Wed, 09 Feb 2022 04:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F09%2Fharmony%2F20220209031215041vcw8.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
