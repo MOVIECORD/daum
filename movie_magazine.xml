@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 04:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 05:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 11 Feb 2022 04:21:08 GMT</pubDate>
             <content:encoded><![CDATA[무비스트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F11%2FMOVIST%2F202202110125576635yt9.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[서현이 보여주는 은밀한 '취향 존중' 로맨스]]></title>
+            <link>https://content.v.daum.net/v/EGufvStptw</link>
+            <guid>https://content.v.daum.net/v/EGufvStptw</guid>
+            <pubDate>Fri, 11 Feb 2022 05:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F10%2Ffanzeel%2F202202100643326395vly.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[최근 대세인 이 두 스타 배우가 부부라고?]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 09 Feb 2022 06:20:18 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F09%2Ffeelthemovie%2F20220209055854038waah.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 개봉일 확정한 <더 배트맨>, 이전과 다른 점은..]]></title>
-            <link>https://content.v.daum.net/v/ER8aAwqiqU</link>
-            <guid>https://content.v.daum.net/v/ER8aAwqiqU</guid>
-            <pubDate>Wed, 09 Feb 2022 06:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F09%2Fmaxmovie%2F20220209055520525f2my.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
