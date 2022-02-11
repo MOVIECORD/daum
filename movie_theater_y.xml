@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 06:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 07:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6409063751c1662760b10d83406c7be116e61708" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[덩케르크]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=103389</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=103389</guid>
-            <pubDate>Wed, 09 Feb 2022 02:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F643b02b93e9de836850b9d09d680648b2114e41c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[만년이 지나도 변하지 않는 게 있어]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151289</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151289</guid>
             <pubDate>Wed, 09 Feb 2022 02:05:48 GMT</pubDate>
             <content:encoded><![CDATA[22.02.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69ca8c34d6cc98b2e4e1741ada46752738d65703" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[덩케르크]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=103389</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=103389</guid>
+            <pubDate>Wed, 09 Feb 2022 02:05:48 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F643b02b93e9de836850b9d09d680648b2114e41c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈]]></title>
