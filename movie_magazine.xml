@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 02:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 03:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Thu, 10 Feb 2022 14:15:42 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F10%2Ffeelthemovie%2F20220210140159438ihbv.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[알고보니 과거 '이효리 연기 선생'이었던 연기신]]></title>
-            <link>https://content.v.daum.net/v/EVmQFDkO21</link>
-            <guid>https://content.v.daum.net/v/EVmQFDkO21</guid>
-            <pubDate>Thu, 10 Feb 2022 10:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F10%2FBoiledMovie%2F20220210093447776m8hs.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[제94회 아카데미 후보 발표, <파워 오브 도그> 12개 부문 노미!]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 09 Feb 2022 06:20:18 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F09%2Fmaxmovie%2F20220209055520525f2my.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[도경수 X 원진아 X 신예은 <말할 수 없는 비밀> 크랭크업]]></title>
+            <link>https://content.v.daum.net/v/ENj4OImz5z</link>
+            <guid>https://content.v.daum.net/v/ENj4OImz5z</guid>
+            <pubDate>Fri, 11 Feb 2022 03:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[무비스트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F09%2FMOVIST%2F202202090434288256rpu.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
