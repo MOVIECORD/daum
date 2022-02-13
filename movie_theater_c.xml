@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 06:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 07:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Wed, 09 Feb 2022 02:05:57 GMT</pubDate>
             <content:encoded><![CDATA[22.02.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb4ffadecba0fc33e38fe6e5a5c3b76ad2723e63a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[이상한 나라의 수학자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
-            <pubDate>Sun, 13 Feb 2022 06:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[리프레쉬]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Sat, 12 Feb 2022 04:20:39 GMT</pubDate>
             <content:encoded><![CDATA[22.02.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7995f4f72901d18744d706f36d1b7537a02a9365" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[하트 샷]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157621</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157621</guid>
+            <pubDate>Sun, 13 Feb 2022 07:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe899938c0287e1c8d5af29135b62f5fb70eda20b" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
