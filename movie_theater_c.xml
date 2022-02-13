@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 03:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 04:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[리프레쉬]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156902</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156902</guid>
+            <pubDate>Wed, 09 Feb 2022 10:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73338fc8c8d231e2becd4bea0bf9095c9e9c231" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[대한민국 대통령]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157385</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157385</guid>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 11 Feb 2022 06:20:14 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F42293789d7345e049fdab5cf0b3b44c02ac12496" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[리프레쉬]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156902</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156902</guid>
-            <pubDate>Wed, 09 Feb 2022 10:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73338fc8c8d231e2becd4bea0bf9095c9e9c231" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출]]></title>
