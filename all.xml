@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70deb49a1e0cda735262b62efad968bd0d3cfb58" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[프리! 더 파이널 스트로크 전편 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154033</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154033</guid>
+            <pubDate>Mon, 14 Feb 2022 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72d325e53b31484452635da25839b1f28762f426" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[늦봄 2020 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149542</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149542</guid>
             <pubDate>Mon, 14 Feb 2022 02:27:11 GMT</pubDate>
             <content:encoded><![CDATA[22.02.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c10da60de4f359b2f71163a237270663075799f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 마더 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146731</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146731</guid>
-            <pubDate>Mon, 14 Feb 2022 05:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbaf77f7a554227fbbded052634ac9d85f8e8ba33" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[언차티드 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -280,6 +280,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F42293789d7345e049fdab5cf0b3b44c02ac12496" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[스크림 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154526</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154526</guid>
+            <pubDate>Mon, 14 Feb 2022 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd615f49fe381ac00cd48f0f8789746e911af66b4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아웃브레이크 호텔 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154966</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154966</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 14 Feb 2022 04:19:59 GMT</pubDate>
             <content:encoded><![CDATA[22.02.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F57375c5670d07c3d0cd63a3c4c675af444715cf1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[밴드스탠드 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157843</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157843</guid>
-            <pubDate>Fri, 11 Feb 2022 08:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F535846f181b899f9d99bed80722bc226defdd722" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그래도 지구는 평평하다 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1152,6 +1152,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fea1daee5417623b1ea9b99e89a8dd637462f91b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[크리스틴 스튜어트, <스펜서>로 첫 아카데미 여우주연상 노미! (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/E0QnYxmpFk</link>
+            <guid>https://content.v.daum.net/v/E0QnYxmpFk</guid>
+            <pubDate>Mon, 14 Feb 2022 09:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[무비스트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F14%2FMOVIST%2F20220214012434794gngy.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA['닥터 스트레인지 2' 예고편 엄청난 떡밥 총정리 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EHkBoIzzoR</link>
             <guid>https://content.v.daum.net/v/EHkBoIzzoR</guid>
@@ -1304,14 +1312,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F11%2Fmaxmovie%2F2022021103575745920me.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[가스총 살인마 '하비에르 바르뎀' 180도 바뀐 근황 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EXel77nDdG</link>
-            <guid>https://content.v.daum.net/v/EXel77nDdG</guid>
-            <pubDate>Fri, 11 Feb 2022 06:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F11%2Fmaxmovie%2F20220211034057448ulaf.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[멈추고 선택하라 그리고 진짜 나의 길을 향해 걸으라 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@2ub/849</link>
             <guid>https://brunch.co.kr/@@2ub/849</guid>
@@ -1326,6 +1326,22 @@
             <pubDate>Mon, 14 Feb 2022 08:20:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민디]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdzZw%2Fimage%2Fdaj3k8q9gSR7naLXxe-PdaivQIQ.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022-1] 누군가의 최애 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@a0m0/10</link>
+            <guid>https://brunch.co.kr/@@a0m0/10</guid>
+            <pubDate>Mon, 14 Feb 2022 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>란테]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa0m0%2Fimage%2Fno-WiRpYc215fSgY_K6yZ8fBh-o" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA["콜드 워" 파벨 파블리코브스키, 2018 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@a9KE/7</link>
+            <guid>https://brunch.co.kr/@@a9KE/7</guid>
+            <pubDate>Mon, 14 Feb 2022 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>samak]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa9KE%2Fimage%2FDtApYUAc-KKTiMkRW8U2-Xd-mmU.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[로미오와 줄리엣의 백년해로 (다음 영화 ─ 브런치)]]></title>
@@ -1454,22 +1470,6 @@
             <pubDate>Mon, 24 Jan 2022 06:22:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FiKj3rgIPvDw8tO2K4NxCVptRu1c.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '윤희에게', 한 중년의 고독과 성장 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@1ifc/33</link>
-            <guid>https://brunch.co.kr/@@1ifc/33</guid>
-            <pubDate>Mon, 24 Jan 2022 07:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>윤밤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ifc%2Fimage%2F-wKZQaaHHLvCC1G6dDBc8JGPI3A" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이름만 구찌에서 진정한 구찌로 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@a7Xi/92</link>
-            <guid>https://brunch.co.kr/@@a7Xi/92</guid>
-            <pubDate>Mon, 17 Jan 2022 02:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>레이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa7Xi%2Fimage%2FRz293aHwqgcgQ7RRS1CH7I5cY6E.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>

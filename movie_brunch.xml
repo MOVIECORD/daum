@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Mon, 14 Feb 2022 08:20:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민디]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdzZw%2Fimage%2Fdaj3k8q9gSR7naLXxe-PdaivQIQ.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022-1] 누군가의 최애]]></title>
+            <link>https://brunch.co.kr/@@a0m0/10</link>
+            <guid>https://brunch.co.kr/@@a0m0/10</guid>
+            <pubDate>Mon, 14 Feb 2022 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>란테]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa0m0%2Fimage%2Fno-WiRpYc215fSgY_K6yZ8fBh-o" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA["콜드 워" 파벨 파블리코브스키, 2018]]></title>
+            <link>https://brunch.co.kr/@@a9KE/7</link>
+            <guid>https://brunch.co.kr/@@a9KE/7</guid>
+            <pubDate>Mon, 14 Feb 2022 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>samak]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa9KE%2Fimage%2FDtApYUAc-KKTiMkRW8U2-Xd-mmU.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[로미오와 줄리엣의 백년해로]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 24 Jan 2022 06:22:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FiKj3rgIPvDw8tO2K4NxCVptRu1c.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '윤희에게', 한 중년의 고독과 성장]]></title>
-            <link>https://brunch.co.kr/@@1ifc/33</link>
-            <guid>https://brunch.co.kr/@@1ifc/33</guid>
-            <pubDate>Mon, 24 Jan 2022 07:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>윤밤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ifc%2Fimage%2F-wKZQaaHHLvCC1G6dDBc8JGPI3A" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이름만 구찌에서 진정한 구찌로]]></title>
-            <link>https://brunch.co.kr/@@a7Xi/92</link>
-            <guid>https://brunch.co.kr/@@a7Xi/92</guid>
-            <pubDate>Mon, 17 Jan 2022 02:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>레이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa7Xi%2Fimage%2FRz293aHwqgcgQ7RRS1CH7I5cY6E.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
