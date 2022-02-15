@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 09:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 10:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이미 글로벌스타가 된 그녀의 9번째 해외작품 캐스팅]]></title>
+            <link>https://content.v.daum.net/v/E16YCza93B</link>
+            <guid>https://content.v.daum.net/v/E16YCza93B</guid>
+            <pubDate>Tue, 15 Feb 2022 10:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fharmony%2F20220215081909945gdsz.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[지구에 달 추락, 재난 블록버스터 <문폴> 3월 개봉]]></title>
             <link>https://content.v.daum.net/v/EJBIsiAafE</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Feb 2022 01:57:55 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F12%2Ffeelthemovie%2F20220212062500148gx1a.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[김지운 감독 <거미집> 송강호 이어 임수정, 오정세 등 캐스팅]]></title>
-            <link>https://content.v.daum.net/v/EjDRaq7QC9</link>
-            <guid>https://content.v.daum.net/v/EjDRaq7QC9</guid>
-            <pubDate>Mon, 14 Feb 2022 01:57:55 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F14%2FMOVIST%2F20220214012213021wpwe.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>

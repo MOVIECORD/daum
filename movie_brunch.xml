@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 09:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 10:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 15 Feb 2022 09:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김예훈]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaET1%2Fimage%2Fj130wawYrMcjZC5ZSC9g8q2qNSs.jfif" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<나일 강의 죽음> 리뷰]]></title>
+            <link>https://brunch.co.kr/@@5uYQ/297</link>
+            <guid>https://brunch.co.kr/@@5uYQ/297</guid>
+            <pubDate>Tue, 15 Feb 2022 10:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>킴지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5uYQ%2Fimage%2FOunrYcWgKQtfAZ3g6ZjGiotX0Vw" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[멈추고 선택하라 그리고 진짜 나의 길을 향해 걸으라]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jan 2022 05:15:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2FL9Tb4Ica1SE0iRmhn85XRAZCQgM.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화: 황금의 결투(A Stranger in Town)]]></title>
-            <link>https://brunch.co.kr/@@blQN/379</link>
-            <guid>https://brunch.co.kr/@@blQN/379</guid>
-            <pubDate>Mon, 24 Jan 2022 03:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이재형]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FblQN%2Fimage%2FMkkshGJtZrOolWHG0BU6Hi7G5_Y.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
