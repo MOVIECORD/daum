@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 08:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 09:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리더의 품격]]></title>
+            <link>https://brunch.co.kr/@@aET1/25</link>
+            <guid>https://brunch.co.kr/@@aET1/25</guid>
+            <pubDate>Tue, 15 Feb 2022 09:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김예훈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaET1%2Fimage%2Fj130wawYrMcjZC5ZSC9g8q2qNSs.jfif" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[멈추고 선택하라 그리고 진짜 나의 길을 향해 걸으라]]></title>
             <link>https://brunch.co.kr/@@2ub/849</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Jan 2022 03:20:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이재형]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FblQN%2Fimage%2FMkkshGJtZrOolWHG0BU6Hi7G5_Y.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[형보다 혼란스럽고 산만한 동생 해적]]></title>
-            <link>https://brunch.co.kr/@@5jTv/94</link>
-            <guid>https://brunch.co.kr/@@5jTv/94</guid>
-            <pubDate>Mon, 24 Jan 2022 06:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FiKj3rgIPvDw8tO2K4NxCVptRu1c.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
