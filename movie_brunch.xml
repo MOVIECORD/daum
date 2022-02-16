@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 02:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 03:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PTA의 응답하라 1970년대]]></title>
+            <link>https://brunch.co.kr/@@dyYe/4</link>
+            <guid>https://brunch.co.kr/@@dyYe/4</guid>
+            <pubDate>Wed, 16 Feb 2022 03:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Widermovie]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdyYe%2Fimage%2FD8ViaqxaPtO1lrIsoy_nokR28yI.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[리더의 품격]]></title>
             <link>https://brunch.co.kr/@@aET1/25</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jan 2022 03:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FO2xRIWJcERUmskDUOJhLUdjwBlk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[모리타니안,세계 유일의 관타나모 옥중기]]></title>
-            <link>https://brunch.co.kr/@@6wHY/513</link>
-            <guid>https://brunch.co.kr/@@6wHY/513</guid>
-            <pubDate>Tue, 25 Jan 2022 05:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2FL9Tb4Ica1SE0iRmhn85XRAZCQgM.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>

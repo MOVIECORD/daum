@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 02:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 03:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,20 +216,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3047b13f3da6fa0f486ccd55269a11a2891356c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[피그 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
-            <pubDate>Mon, 07 Feb 2022 10:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[매미소리 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=135097</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=135097</guid>
             <pubDate>Mon, 14 Feb 2022 08:19:35 GMT</pubDate>
             <content:encoded><![CDATA[22.02.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad66879f4ba1aba5bba06be6d3cf44f8b2490c6f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[피그 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
+            <pubDate>Mon, 07 Feb 2022 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[전투왕 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -246,6 +246,14 @@
             <pubDate>Fri, 11 Feb 2022 06:20:14 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F42293789d7345e049fdab5cf0b3b44c02ac12496" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
+            <pubDate>Mon, 14 Feb 2022 12:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스크림 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -294,14 +302,6 @@
             <pubDate>Mon, 14 Feb 2022 12:25:07 GMT</pubDate>
             <content:encoded><![CDATA[22.03.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F04dd4d9cec80ba1857d24f2b68cc4f97748c0b05" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
-            <pubDate>Mon, 14 Feb 2022 12:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[대한민국 대통령 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -632,6 +632,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F24650A4D54B76E2C31" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[데스 디파잉: 어느 마술사의 사랑 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=45357</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=45357</guid>
+            <pubDate>Tue, 15 Feb 2022 10:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F120D7C10AD58BF081A" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[기숙학교: 금지된 일탈 ([다음영화] 왓챠 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=66646</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=66646</guid>
@@ -960,6 +968,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F07ed94f1fc02864128c4b2b86151886a7dad2392" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[2022 절대 놓치면 안 되는 넷플릭스 영화 8편 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/E8drjuKKtY</link>
+            <guid>https://content.v.daum.net/v/E8drjuKKtY</guid>
+            <pubDate>Wed, 16 Feb 2022 03:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F15%2Fharmony%2F20220215114004600tnsq.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[강아지를 무지개다리 보낸 8살 아이에게 벌어진 일 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EMFosVCZMI</link>
+            <guid>https://content.v.daum.net/v/EMFosVCZMI</guid>
+            <pubDate>Wed, 16 Feb 2022 03:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F16%2Ffanzeel%2F20220216025326343le3i.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[지금껏 <마블>에서 보지 못했던 잔혹 '히어로'가 온다 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EvKsyew8As</link>
             <guid>https://content.v.daum.net/v/EvKsyew8As</guid>
@@ -1104,20 +1128,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F14%2FMOVIST%2F20220214012331919zxf7.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[제작비만 1조 8000억, '반지의 제왕' 드라마 예고편 드디어 공개 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EvES9NUxlh</link>
-            <guid>https://content.v.daum.net/v/EvES9NUxlh</guid>
-            <pubDate>Mon, 14 Feb 2022 07:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F14%2FBoiledMovie%2F202202140439106317uev.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[때깔은 고운데, 지루함만 남긴 레전드 추리물 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/ERPbuhHh9u</link>
-            <guid>https://content.v.daum.net/v/ERPbuhHh9u</guid>
-            <pubDate>Mon, 14 Feb 2022 05:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F14%2Ffanzeel%2F202202140421489678wpw.jpeg" length="0" type="image//thumb/S510x290/"/>
+            <title><![CDATA[PTA의 응답하라 1970년대 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@dyYe/4</link>
+            <guid>https://brunch.co.kr/@@dyYe/4</guid>
+            <pubDate>Wed, 16 Feb 2022 03:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Widermovie]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdyYe%2Fimage%2FD8ViaqxaPtO1lrIsoy_nokR28yI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[리더의 품격 (다음 영화 ─ 브런치)]]></title>
@@ -1270,14 +1286,6 @@
             <pubDate>Tue, 25 Jan 2022 03:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FO2xRIWJcERUmskDUOJhLUdjwBlk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[모리타니안,세계 유일의 관타나모 옥중기 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@6wHY/513</link>
-            <guid>https://brunch.co.kr/@@6wHY/513</guid>
-            <pubDate>Tue, 25 Jan 2022 05:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2FL9Tb4Ica1SE0iRmhn85XRAZCQgM.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
