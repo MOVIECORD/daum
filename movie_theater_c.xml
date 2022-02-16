@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 06:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 07:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,28 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfb87a998ee56aa40424b98ff57417953704a6cd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[이상한 나라의 수학자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
+            <pubDate>Mon, 14 Feb 2022 12:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141023</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141023</guid>
             <pubDate>Thu, 10 Feb 2022 01:59:35 GMT</pubDate>
             <content:encoded><![CDATA[22.02.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3047b13f3da6fa0f486ccd55269a11a2891356c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[매미소리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135097</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135097</guid>
-            <pubDate>Mon, 14 Feb 2022 08:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad66879f4ba1aba5bba06be6d3cf44f8b2490c6f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[피그]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
-            <pubDate>Mon, 07 Feb 2022 10:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[전투왕]]></title>
@@ -80,12 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc9c1782e91802ecd86c54104285f45f1cf31a535" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[이상한 나라의 수학자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
-            <pubDate>Mon, 14 Feb 2022 12:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[피그]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
+            <pubDate>Mon, 07 Feb 2022 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[매미소리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135097</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135097</guid>
+            <pubDate>Mon, 14 Feb 2022 08:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad66879f4ba1aba5bba06be6d3cf44f8b2490c6f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[역으로 가는 길을 알려줘]]></title>
