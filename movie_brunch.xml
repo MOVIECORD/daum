@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 05:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 06:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Wed, 16 Feb 2022 03:18:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Widermovie]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdyYe%2Fimage%2FD8ViaqxaPtO1lrIsoy_nokR28yI.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[맑게 빛나는 첫 이별 이야기]]></title>
+            <link>https://brunch.co.kr/@@9Uc8/299</link>
+            <guid>https://brunch.co.kr/@@9Uc8/299</guid>
+            <pubDate>Wed, 16 Feb 2022 06:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Kyung film]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9Uc8%2Fimage%2FGkUgmAdrr9H-BiDjZ5mFiBftd6c.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<리코리쉬 피자> 나이 값 못하게 만드는 사랑]]></title>
+            <link>https://brunch.co.kr/@@dl6I/6</link>
+            <guid>https://brunch.co.kr/@@dl6I/6</guid>
+            <pubDate>Wed, 16 Feb 2022 06:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>딜레탕트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fdl6I%2Fimage%2FFxiYp1Zzdv8En-9UBiySPyXnimY.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[리더의 품격]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 25 Jan 2022 03:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>시네피에]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbbwZ%2Fimage%2F0U-xsGQ6vGucB4XByWuwaNnK_po.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<엔칸토>와 엄친아, 엄친딸들의 나라]]></title>
-            <link>https://brunch.co.kr/@@17gy/96</link>
-            <guid>https://brunch.co.kr/@@17gy/96</guid>
-            <pubDate>Tue, 25 Jan 2022 03:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>나종호]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F17gy%2Fimage%2FqZBW_3xLn_Fn9wB8ZG0VQJgADbQ.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[화려한 제국을 침공하는 짙은 그림자]]></title>
-            <link>https://brunch.co.kr/@@5jTv/95</link>
-            <guid>https://brunch.co.kr/@@5jTv/95</guid>
-            <pubDate>Tue, 25 Jan 2022 03:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FO2xRIWJcERUmskDUOJhLUdjwBlk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
