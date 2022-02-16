@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 08:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 09:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 16 Feb 2022 06:22:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>딜레탕트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fdl6I%2Fimage%2FFxiYp1Zzdv8En-9UBiySPyXnimY.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[남은 자들을 위한 소네트]]></title>
+            <link>https://brunch.co.kr/@@5CxR/70</link>
+            <guid>https://brunch.co.kr/@@5CxR/70</guid>
+            <pubDate>Wed, 16 Feb 2022 09:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Anonymoushilarious]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5CxR%2Fimage%2Fxob7S7_z3BmQla5336dRmfkNp4A" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[쥬라기 월드 도미니언, 솔직히 예고편 보고 울었어요.]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 29 Jan 2022 14:14:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>쟈근]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8mt4%2Fimage%2F4X8SjfdfZVRRg8wpLK2jaQk__8o.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[전략적인 혹은 자학적인]]></title>
-            <link>https://brunch.co.kr/@@1ibV/986</link>
-            <guid>https://brunch.co.kr/@@1ibV/986</guid>
-            <pubDate>Fri, 28 Jan 2022 02:00:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 박동수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ibV%2Fimage%2Fgqfhiv0XT8rfnsHz0_RKXA3eToA.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
