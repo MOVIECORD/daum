@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 03:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 04:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,22 @@
             <pubDate>Thu, 17 Feb 2022 03:17:37 GMT</pubDate>
             <content:encoded><![CDATA[22.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2704934C53A7C37A21" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스나이퍼 레거시]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=113621</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=113621</guid>
+            <pubDate>Thu, 17 Feb 2022 04:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faad8d34bf046840521b3e44e9df755d64c3f63c9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[짱구는 못말려 : 폭풍을 부르는 석양의 떡잎마을 방범대]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=46913</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=46913</guid>
+            <pubDate>Thu, 17 Feb 2022 04:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1343EE10B090C4BB1A" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
