@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 08:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 09:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 17 Feb 2022 01:55:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>혜남세아]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcnXy%2Fimage%2F2QJqjjvb0GsdDHr86aitfbDlrRc" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[터질 것 같은 가슴으로 응시하는 예술]]></title>
+            <link>https://brunch.co.kr/@@4BM1/30</link>
+            <guid>https://brunch.co.kr/@@4BM1/30</guid>
+            <pubDate>Thu, 17 Feb 2022 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>코프키노 KOPFKINO]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4BM1%2Fimage%2FrfH7fmaR_YxUsOHDBzJRF2jL_Go.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[PTA의 응답하라 1970년대]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 09 Feb 2022 08:20:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>후숙아보카도]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fguest%2Fimage%2FkKZ26oP-jYBfyS5UIAqZ6XhLyAQ.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[하나의 집을 둘러싼 각기 다른 욕망]]></title>
-            <link>https://brunch.co.kr/@@18al/169</link>
-            <guid>https://brunch.co.kr/@@18al/169</guid>
-            <pubDate>Fri, 28 Jan 2022 06:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>songoflucia]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F18al%2Fimage%2FVn3-NZoqlpmv_8q_blxeM8DhQmM.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
