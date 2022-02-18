@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 07:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 08:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 18 Feb 2022 07:16:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>동선]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcOjc%2Fimage%2FlXu3YRaKvqUWgBly8gSbZfYDjTk.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[자신만의 것]]></title>
+            <link>https://brunch.co.kr/@@4TZB/25</link>
+            <guid>https://brunch.co.kr/@@4TZB/25</guid>
+            <pubDate>Fri, 18 Feb 2022 08:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이종하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4TZB%2Fimage%2FhKwrv_N_pPq5pe_aGHXkPYV6mW4.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[다시 만날 수 있을까?]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 11 Feb 2022 02:03:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>강유현]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F907a%2Fimage%2FY7rMIx_8AgmQOsCFSVnridO_DEc.jfif" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[추리를 가려버린 아름다운 막장극]]></title>
-            <link>https://brunch.co.kr/@@5jTv/99</link>
-            <guid>https://brunch.co.kr/@@5jTv/99</guid>
-            <pubDate>Fri, 11 Feb 2022 06:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FHfTdlXpn1auDKBdavkevAVH0aYc.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
