@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 09:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 10:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 18 Feb 2022 09:17:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>수수]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaXVY%2Fimage%2Fmbn1Wux75nedUyjUd31dVivCOGA.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[8살 아이에게 배우는 '이별의 슬픔을 이겨내는 방법']]></title>
+            <link>https://brunch.co.kr/@@5LYu/177</link>
+            <guid>https://brunch.co.kr/@@5LYu/177</guid>
+            <pubDate>Fri, 18 Feb 2022 10:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Jade in x]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5LYu%2Fimage%2FBM5H9qmJWdM-maQnQLNhEw6YrFE.jfif" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[다시 만날 수 있을까?]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Feb 2022 09:16:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>samak]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa9KE%2Fimage%2FDtApYUAc-KKTiMkRW8U2-Xd-mmU.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[로미오와 줄리엣의 백년해로]]></title>
-            <link>https://brunch.co.kr/@@avOU/114</link>
-            <guid>https://brunch.co.kr/@@avOU/114</guid>
-            <pubDate>Fri, 11 Feb 2022 02:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>마하]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FavOU%2Fimage%2Fhqwfb_MGLz-fGzXtGmNNcDyl1rw" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
