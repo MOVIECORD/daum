@@ -4,9 +4,25 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 05:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 06:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어느 가족의 보기 좋은 수다 한 판]]></title>
+            <link>https://brunch.co.kr/@@85B/50</link>
+            <guid>https://brunch.co.kr/@@85B/50</guid>
+            <pubDate>Mon, 21 Feb 2022 06:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이현우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F85B%2Fimage%2FBFjAlmr-fXjlzhn-1-lxrA5rxt0.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[(바쁜) 우리가 (지금) 글을 써야 하는 이유]]></title>
+            <link>https://brunch.co.kr/@@4NmP/93</link>
+            <guid>https://brunch.co.kr/@@4NmP/93</guid>
+            <pubDate>Mon, 21 Feb 2022 06:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>송곳독서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4NmP%2Fimage%2FiZlCFZ8B29sJ9Lj8_eB_XHuUqeU.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[서로에게 고마운 존재가 가족이야]]></title>
             <link>https://brunch.co.kr/@@cxln/51</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 14 Feb 2022 08:20:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민디]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdzZw%2Fimage%2Fdaj3k8q9gSR7naLXxe-PdaivQIQ.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022-1] 누군가의 최애]]></title>
-            <link>https://brunch.co.kr/@@a0m0/10</link>
-            <guid>https://brunch.co.kr/@@a0m0/10</guid>
-            <pubDate>Mon, 14 Feb 2022 09:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>란테]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa0m0%2Fimage%2Fno-WiRpYc215fSgY_K6yZ8fBh-o" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA["콜드 워" 파벨 파블리코브스키, 2018]]></title>
-            <link>https://brunch.co.kr/@@a9KE/7</link>
-            <guid>https://brunch.co.kr/@@a9KE/7</guid>
-            <pubDate>Mon, 14 Feb 2022 09:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>samak]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa9KE%2Fimage%2FDtApYUAc-KKTiMkRW8U2-Xd-mmU.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
