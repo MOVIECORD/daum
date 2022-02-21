@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 04:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서로에게 고마운 존재가 가족이야]]></title>
+            <link>https://brunch.co.kr/@@cxln/51</link>
+            <guid>https://brunch.co.kr/@@cxln/51</guid>
+            <pubDate>Mon, 21 Feb 2022 05:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>해야]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fcxln%2Fimage%2F5dOuVTaDCqtNwmXT97qQDkcB2Lw" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[영화 '코다'와 그림 한 컷]]></title>
             <link>https://brunch.co.kr/@@6E2L/24</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Feb 2022 09:16:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>samak]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa9KE%2Fimage%2FDtApYUAc-KKTiMkRW8U2-Xd-mmU.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[로미오와 줄리엣의 백년해로]]></title>
-            <link>https://brunch.co.kr/@@avOU/114</link>
-            <guid>https://brunch.co.kr/@@avOU/114</guid>
-            <pubDate>Mon, 21 Feb 2022 04:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>마하]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FavOU%2Fimage%2Fhqwfb_MGLz-fGzXtGmNNcDyl1rw" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
