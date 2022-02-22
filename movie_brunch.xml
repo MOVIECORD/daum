@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 06:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 07:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8yk0%2Fimage%2F1svExbyQXJWN99OPKYS2cKK68AI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[스크림, 성실한 리퀄]]></title>
+            <link>https://brunch.co.kr/@@6wHY/540</link>
+            <guid>https://brunch.co.kr/@@6wHY/540</guid>
+            <pubDate>Tue, 22 Feb 2022 07:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2FFV_J8bxUOgV_mmn3rrecyWCCrNU.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<윤희에게>, 곧 끝나갈 겨울과 다가오는 봄을 생각하며]]></title>
+            <link>https://brunch.co.kr/@@dF4h/14</link>
+            <guid>https://brunch.co.kr/@@dF4h/14</guid>
+            <pubDate>Tue, 22 Feb 2022 07:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>JS]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdF4h%2Fimage%2FzNXcAzBvkZU3AuGxwTx58IsnkLA.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[어느 가족의 보기 좋은 수다 한 판]]></title>
             <link>https://brunch.co.kr/@@85B/50</link>
             <guid>https://brunch.co.kr/@@85B/50</guid>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 21 Feb 2022 09:18:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>구너]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2FdC%2Fimage%2FjExy0yxRJmA_vtMNIs9l2Hjb8QE.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[서로에게 고마운 존재가 가족이야]]></title>
-            <link>https://brunch.co.kr/@@cxln/51</link>
-            <guid>https://brunch.co.kr/@@cxln/51</guid>
-            <pubDate>Mon, 21 Feb 2022 05:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>해야]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fcxln%2Fimage%2F5dOuVTaDCqtNwmXT97qQDkcB2Lw" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '코다'와 그림 한 컷]]></title>
-            <link>https://brunch.co.kr/@@6E2L/24</link>
-            <guid>https://brunch.co.kr/@@6E2L/24</guid>
-            <pubDate>Fri, 18 Feb 2022 02:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Mumuraeyo]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6E2L%2Fimage%2F0YiBQZbF3ysCPCqusM8F2VnmGoM.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
