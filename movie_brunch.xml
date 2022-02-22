@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 03:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[놓아줌으로써 시작되는 인연의 가능성]]></title>
+            <link>https://brunch.co.kr/@@5E08/99</link>
+            <guid>https://brunch.co.kr/@@5E08/99</guid>
+            <pubDate>Tue, 22 Feb 2022 03:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Veni Jun]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5E08%2Fimage%2FaFhWy18-kjDCIBRjpPp_jy-yg6M.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[어느 가족의 보기 좋은 수다 한 판]]></title>
             <link>https://brunch.co.kr/@@85B/50</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Feb 2022 03:18:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Widermovie]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdyYe%2Fimage%2FD8ViaqxaPtO1lrIsoy_nokR28yI.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[맑게 빛나는 첫 이별 이야기]]></title>
-            <link>https://brunch.co.kr/@@9Uc8/299</link>
-            <guid>https://brunch.co.kr/@@9Uc8/299</guid>
-            <pubDate>Wed, 16 Feb 2022 06:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Kyung film]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9Uc8%2Fimage%2FGkUgmAdrr9H-BiDjZ5mFiBftd6c.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
