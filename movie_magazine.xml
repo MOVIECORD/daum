@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 10:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 11:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인도에서 리메이크된다는 '밥 잘 사주는 예쁜 누나']]></title>
+            <link>https://content.v.daum.net/v/E4sjGzm1MD</link>
+            <guid>https://content.v.daum.net/v/E4sjGzm1MD</guid>
+            <pubDate>Tue, 22 Feb 2022 11:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F22%2Fharmony%2F20220222090646097r643.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[스태프가 화장실까지 따라가서 지퍼 내려준 사연]]></title>
             <link>https://content.v.daum.net/v/EOiXJrAjNe</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 18 Feb 2022 08:20:05 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Ffeelthemovie%2F202202180754322635stw.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[디즈니+] 2월 3주차 신작 – '그리드' '쓰리 빌보드']]></title>
-            <link>https://content.v.daum.net/v/E2xpLc0U6Q</link>
-            <guid>https://content.v.daum.net/v/E2xpLc0U6Q</guid>
-            <pubDate>Fri, 18 Feb 2022 08:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[테일러콘텐츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F18%2Ftailorcontents_cv%2F20220218075148404ktor.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
