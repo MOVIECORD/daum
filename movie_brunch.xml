@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 05:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 06:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,22 @@
             <pubDate>Tue, 22 Feb 2022 05:15:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>수리]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6pBX%2Fimage%2F0NYJiVZlJjRYi6pPMIhJem0BUfk.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[멋진 주체가 아이들임을.]]></title>
+            <link>https://brunch.co.kr/@@8KXD/56</link>
+            <guid>https://brunch.co.kr/@@8KXD/56</guid>
+            <pubDate>Tue, 22 Feb 2022 06:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>becky]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8KXD%2Fimage%2FK6b2ipEcsBHylwWCDPmXoXu9Ai4.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[맥도날드는 왜 맥도날드의 설립자가 되지 못했을까?]]></title>
+            <link>https://brunch.co.kr/@@8yk0/131</link>
+            <guid>https://brunch.co.kr/@@8yk0/131</guid>
+            <pubDate>Tue, 22 Feb 2022 06:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>개짱이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8yk0%2Fimage%2F1svExbyQXJWN99OPKYS2cKK68AI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[어느 가족의 보기 좋은 수다 한 판]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 18 Feb 2022 02:05:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Mumuraeyo]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6E2L%2Fimage%2F0YiBQZbF3ysCPCqusM8F2VnmGoM.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[사라지지 않는 인종차별의 공포와 고통]]></title>
-            <link>https://brunch.co.kr/@@2ViD/679</link>
-            <guid>https://brunch.co.kr/@@2ViD/679</guid>
-            <pubDate>Fri, 18 Feb 2022 07:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>가려진 시간]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2ViD%2Fimage%2FUJoeT4u1Kj7cKqBFMKia7gUzZvg.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 사람들]]></title>
-            <link>https://brunch.co.kr/@@cOjc/120</link>
-            <guid>https://brunch.co.kr/@@cOjc/120</guid>
-            <pubDate>Fri, 18 Feb 2022 07:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>동선]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcOjc%2Fimage%2FlXu3YRaKvqUWgBly8gSbZfYDjTk.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
