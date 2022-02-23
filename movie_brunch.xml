@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 06:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 07:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Wed, 23 Feb 2022 05:16:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 박동수]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ibV%2Fimage%2FgTrH8IOs1ONeuexChDDSTCxbN5M.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 『길버트 그레이프』와 책상다리]]></title>
+            <link>https://brunch.co.kr/@@dH6G/26</link>
+            <guid>https://brunch.co.kr/@@dH6G/26</guid>
+            <pubDate>Wed, 23 Feb 2022 07:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Hwain]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdH6G%2Fimage%2FtlNV-h_KODG9KESYn98jIpHwPYI.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이견의 거리]]></title>
+            <link>https://brunch.co.kr/@@dalY/24</link>
+            <guid>https://brunch.co.kr/@@dalY/24</guid>
+            <pubDate>Wed, 23 Feb 2022 07:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>시네마뮤즈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdalY%2Fimage%2FMRh3-dFfSD20GJ-cgJTz3Q-ve9U.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[하늘과 바람과 '동주'와 시: 별이 된 청춘들]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 22 Feb 2022 08:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>우르슬라]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcZNH%2Fimage%2Fe-MD0u6P27Lh7XYPORrpKEdQCeI.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[예측불허의 엇나감으로 완성된 부활에 대한 신화적 이야기]]></title>
-            <link>https://brunch.co.kr/@@dyYe/5</link>
-            <guid>https://brunch.co.kr/@@dyYe/5</guid>
-            <pubDate>Tue, 22 Feb 2022 08:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Widermovie]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdyYe%2Fimage%2FZ1pss6BQqTen-On6w0x2EiNXmx0.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 가족의 보기 좋은 수다 한 판]]></title>
-            <link>https://brunch.co.kr/@@85B/50</link>
-            <guid>https://brunch.co.kr/@@85B/50</guid>
-            <pubDate>Mon, 21 Feb 2022 06:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이현우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F85B%2Fimage%2FBFjAlmr-fXjlzhn-1-lxrA5rxt0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
