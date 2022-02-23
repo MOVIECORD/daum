@@ -4,9 +4,25 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 08:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 09:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 서 있던 지점들을 이으면]]></title>
+            <link>https://brunch.co.kr/@@5pob/37</link>
+            <guid>https://brunch.co.kr/@@5pob/37</guid>
+            <pubDate>Wed, 23 Feb 2022 09:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이소]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5pob%2Fimage%2F87c7ARf22HabECAxrH07PWdgd78.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화, <에린 브리코비치>]]></title>
+            <link>https://brunch.co.kr/@@xuA/210</link>
+            <guid>https://brunch.co.kr/@@xuA/210</guid>
+            <pubDate>Wed, 23 Feb 2022 09:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>반팔청춘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FxuA%2Fimage%2FPuX8ES1Z3nwDjJFk8sF1VZ1ql3c.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[끝내 이 영화를 지지할 수 없는 이유]]></title>
             <link>https://brunch.co.kr/@@d7ni/29</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 22 Feb 2022 05:15:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>수리]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6pBX%2Fimage%2F0NYJiVZlJjRYi6pPMIhJem0BUfk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[멋진 주체가 아이들임을.]]></title>
-            <link>https://brunch.co.kr/@@8KXD/56</link>
-            <guid>https://brunch.co.kr/@@8KXD/56</guid>
-            <pubDate>Tue, 22 Feb 2022 06:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>becky]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8KXD%2Fimage%2FK6b2ipEcsBHylwWCDPmXoXu9Ai4.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[맥도날드는 왜 맥도날드의 설립자가 되지 못했을까?]]></title>
-            <link>https://brunch.co.kr/@@8yk0/131</link>
-            <guid>https://brunch.co.kr/@@8yk0/131</guid>
-            <pubDate>Tue, 22 Feb 2022 06:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>개짱이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8yk0%2Fimage%2F1svExbyQXJWN99OPKYS2cKK68AI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
