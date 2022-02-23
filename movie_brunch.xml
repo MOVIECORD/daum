@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 15:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 02:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[끝내 이 영화를 지지할 수 없는 이유]]></title>
+            <link>https://brunch.co.kr/@@d7ni/29</link>
+            <guid>https://brunch.co.kr/@@d7ni/29</guid>
+            <pubDate>Wed, 23 Feb 2022 02:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박수영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fd7ni%2Fimage%2FT2WkIzM5EeeGCw77-62_xkC54jU.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[하늘과 바람과 '동주'와 시: 별이 된 청춘들]]></title>
             <link>https://brunch.co.kr/@@h1K/14</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 21 Feb 2022 07:16:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>나담]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcZdV%2Fimage%2Fi5b6wWEnV0H9mR1WqTfKz8Njmm0.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[부정한 날개를 단 경쟁]]></title>
-            <link>https://brunch.co.kr/@@4HwF/69</link>
-            <guid>https://brunch.co.kr/@@4HwF/69</guid>
-            <pubDate>Mon, 21 Feb 2022 07:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장샛별]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4HwF%2Fimage%2FgHM9MEdtFMVwG6BGH-MTg-40x1c.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
