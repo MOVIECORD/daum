@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 03:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 04:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 23 Feb 2022 02:09:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박수영]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fd7ni%2Fimage%2FT2WkIzM5EeeGCw77-62_xkC54jU.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA['스틸라이프' 영화를 보고]]></title>
+            <link>https://brunch.co.kr/@@aXia/149</link>
+            <guid>https://brunch.co.kr/@@aXia/149</guid>
+            <pubDate>Wed, 23 Feb 2022 04:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>커피 한잔의 여유]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaXia%2Fimage%2F6V8NuC5_bgZLjVUYT7BsV6m4AoA" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[하늘과 바람과 '동주'와 시: 별이 된 청춘들]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 21 Feb 2022 06:21:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>송곳독서]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4NmP%2Fimage%2FiZlCFZ8B29sJ9Lj8_eB_XHuUqeU.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[에드워드 양의 <공포분자>]]></title>
-            <link>https://brunch.co.kr/@@cZdV/1</link>
-            <guid>https://brunch.co.kr/@@cZdV/1</guid>
-            <pubDate>Mon, 21 Feb 2022 07:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>나담]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcZdV%2Fimage%2Fi5b6wWEnV0H9mR1WqTfKz8Njmm0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>

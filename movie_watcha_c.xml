@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 03:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 04:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -709,6 +709,30 @@
             <pubDate>Mon, 14 Feb 2022 05:15:32 GMT</pubDate>
             <content:encoded><![CDATA[22.02.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f60445233695c6a94c41723966189d151bf5dc7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[가장 따뜻한 색, 블루]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=79172</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=79172</guid>
+            <pubDate>Wed, 23 Feb 2022 04:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2523AD4952AE77E639" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[악마의 무덤]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=51593</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=51593</guid>
+            <pubDate>Wed, 23 Feb 2022 04:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F250059589a30003a013a13c93f6ece40ad429653" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[채플린 회고]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=39469</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=39469</guid>
+            <pubDate>Wed, 23 Feb 2022 04:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F19435C174BEA15302D" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
