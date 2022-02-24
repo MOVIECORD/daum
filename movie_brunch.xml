@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 05:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 06:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Thu, 24 Feb 2022 03:16:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김혜원]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4VgN%2Fimage%2Fiw38jOI2NKtpwexPcHgU_ZT0FXk.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[인생은 원래, 그럼에도 불구하고]]></title>
+            <link>https://brunch.co.kr/@@66eG/5</link>
+            <guid>https://brunch.co.kr/@@66eG/5</guid>
+            <pubDate>Thu, 24 Feb 2022 06:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>임나은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F66eG%2Fimage%2FWxCAE1uvpZhrOj3pqepugoLxrcY" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[제 아내는 죽었는데, 왜 제 앞에 있는거죠?]]></title>
+            <link>https://brunch.co.kr/@@ciuQ/4</link>
+            <guid>https://brunch.co.kr/@@ciuQ/4</guid>
+            <pubDate>Thu, 24 Feb 2022 06:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>그릭]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FciuQ%2Fimage%2Fd9jPjjoeh1yoSPyxDSDGpSvTVWc.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[당신이 서 있던 지점들을 이으면]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 22 Feb 2022 05:15:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Widermovie]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdyYe%2Fimage%2F_ywz1ZNnpjiYR6zk0N6i-zq9kwc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[메이드 카페에서 발견한 삶의 의미와 세대 간의 화합]]></title>
-            <link>https://brunch.co.kr/@@2ViD/681</link>
-            <guid>https://brunch.co.kr/@@2ViD/681</guid>
-            <pubDate>Tue, 22 Feb 2022 05:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>가려진 시간]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2ViD%2Fimage%2FM3LAdszvs7roa-OoDv2yWXv_sS4.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[상남자는 헨리넥을 입는다.]]></title>
-            <link>https://brunch.co.kr/@@dztV/4</link>
-            <guid>https://brunch.co.kr/@@dztV/4</guid>
-            <pubDate>Tue, 22 Feb 2022 05:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>블루로카]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdztV%2Fimage%2F5cBDH0UnZg1UXIdvqznB4c-7_4w.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
