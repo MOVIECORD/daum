@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 07:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 08:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24762d676781d179fb46a227c30857fa7adfae3c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[소피의 세계]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154150</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154150</guid>
+            <pubDate>Wed, 23 Feb 2022 02:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F04dd4d9cec80ba1857d24f2b68cc4f97748c0b05" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[그 남자는 타이타닉을 보고 싶지 않았다]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153324</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153324</guid>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 23 Feb 2022 02:07:59 GMT</pubDate>
             <content:encoded><![CDATA[22.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0987eac3e24f2d5f381759537ff2aeada4ea7661" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[소피의 세계]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154150</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154150</guid>
-            <pubDate>Wed, 23 Feb 2022 02:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F04dd4d9cec80ba1857d24f2b68cc4f97748c0b05" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나이트 레이더스]]></title>

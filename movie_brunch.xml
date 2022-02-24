@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 07:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 08:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,22 @@
             <pubDate>Thu, 24 Feb 2022 07:17:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>독당근]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fguest%2Fimage%2FwODvRZb8zYSuyCEzcNXPJPYypog.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[후회하는 당신에게]]></title>
+            <link>https://brunch.co.kr/@@5Lfo/42</link>
+            <guid>https://brunch.co.kr/@@5Lfo/42</guid>
+            <pubDate>Thu, 24 Feb 2022 08:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>사하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5Lfo%2Fimage%2F9Elkcif417Jp_C708nchPT_nYc4.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브 마이 카]]></title>
+            <link>https://brunch.co.kr/@@8vHh/2574</link>
+            <guid>https://brunch.co.kr/@@8vHh/2574</guid>
+            <pubDate>Thu, 24 Feb 2022 08:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>교관]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fguest%2Fimage%2FW0Z1SKO71PDdZXW8ldjZ2IXxShI.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[당신이 서 있던 지점들을 이으면]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 22 Feb 2022 08:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>드플레]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1I3x%2Fimage%2FGHYPH_gdbmLYNB1Ks5gmqSAXiZA.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[놓아줌으로써 시작되는 인연의 가능성]]></title>
-            <link>https://brunch.co.kr/@@5E08/99</link>
-            <guid>https://brunch.co.kr/@@5E08/99</guid>
-            <pubDate>Tue, 22 Feb 2022 03:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Veni Jun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5E08%2Fimage%2FaFhWy18-kjDCIBRjpPp_jy-yg6M.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<시라노> 외모에 가려진 진실한 사랑]]></title>
-            <link>https://brunch.co.kr/@@6dyt/789</link>
-            <guid>https://brunch.co.kr/@@6dyt/789</guid>
-            <pubDate>Tue, 22 Feb 2022 05:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FK9gTjlvyuFLZHYg6xLThdWHU2Ls.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
