@@ -4,9 +4,25 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 02:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 03:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그을린 사랑 (Incendies)]]></title>
+            <link>https://brunch.co.kr/@@9b9F/55</link>
+            <guid>https://brunch.co.kr/@@9b9F/55</guid>
+            <pubDate>Thu, 24 Feb 2022 03:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이영철]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9b9F%2Fimage%2FBwiyuxOeXpQEXEh_flShqMI4h5A.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[버스는 떠난다]]></title>
+            <link>https://brunch.co.kr/@@4VgN/117</link>
+            <guid>https://brunch.co.kr/@@4VgN/117</guid>
+            <pubDate>Thu, 24 Feb 2022 03:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김혜원]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4VgN%2Fimage%2Fiw38jOI2NKtpwexPcHgU_ZT0FXk.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[당신이 서 있던 지점들을 이으면]]></title>
             <link>https://brunch.co.kr/@@5pob/37</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 22 Feb 2022 05:15:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>블루로카]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdztV%2Fimage%2F5cBDH0UnZg1UXIdvqznB4c-7_4w.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA["파워 오브 도그"와 "리코리쉬 피자" 사이에서]]></title>
-            <link>https://brunch.co.kr/@@9KDM/52</link>
-            <guid>https://brunch.co.kr/@@9KDM/52</guid>
-            <pubDate>Tue, 22 Feb 2022 05:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Editor M]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9KDM%2Fimage%2FYIWoRBHvdqZnuY1NdjwENs6C6IE.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA["죽어버렸으면" 이 영화, 정말 '결혼 이야기' 맞나요]]></title>
-            <link>https://brunch.co.kr/@@6pBX/116</link>
-            <guid>https://brunch.co.kr/@@6pBX/116</guid>
-            <pubDate>Tue, 22 Feb 2022 05:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>수리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6pBX%2Fimage%2F0NYJiVZlJjRYi6pPMIhJem0BUfk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
