@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 08:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 09:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Thu, 24 Feb 2022 08:20:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>교관]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fguest%2Fimage%2FW0Z1SKO71PDdZXW8ldjZ2IXxShI.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[조금 밋밋한 톰 홀랜드와 마크 월버그의 모험]]></title>
+            <link>https://brunch.co.kr/@@9Uc8/303</link>
+            <guid>https://brunch.co.kr/@@9Uc8/303</guid>
+            <pubDate>Thu, 24 Feb 2022 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Kyung film]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9Uc8%2Fimage%2FpOgSyid4p9_x-K0zeqD30HBMuYo.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[당신이 서 있던 지점들을 이으면]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Feb 2022 08:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FzMNnP8oMXe-oVU9Mlj-p_y941nM.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘말’에 서린 비극의 기운]]></title>
-            <link>https://brunch.co.kr/@@1I3x/162</link>
-            <guid>https://brunch.co.kr/@@1I3x/162</guid>
-            <pubDate>Tue, 22 Feb 2022 08:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>드플레]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1I3x%2Fimage%2FGHYPH_gdbmLYNB1Ks5gmqSAXiZA.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
