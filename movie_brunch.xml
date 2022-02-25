@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 08:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 09:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성공을 선택해야 할까? 꿈을 선택해야 할까?]]></title>
+            <link>https://brunch.co.kr/@@7QLd/21</link>
+            <guid>https://brunch.co.kr/@@7QLd/21</guid>
+            <pubDate>Fri, 25 Feb 2022 09:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박준철]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7QLd%2Fimage%2FdmAhTIksUGWytN-6_umY50er5xY" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[결국 속은 건 나 자신이었네]]></title>
             <link>https://brunch.co.kr/@@5jTv/103</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 23 Feb 2022 09:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이소]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5pob%2Fimage%2F87c7ARf22HabECAxrH07PWdgd78.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화, <에린 브로코비치>]]></title>
-            <link>https://brunch.co.kr/@@xuA/210</link>
-            <guid>https://brunch.co.kr/@@xuA/210</guid>
-            <pubDate>Wed, 23 Feb 2022 09:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>반팔청춘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FxuA%2Fimage%2FPuX8ES1Z3nwDjJFk8sF1VZ1ql3c.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
