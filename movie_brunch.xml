@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 02:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 03:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Fri, 25 Feb 2022 02:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화킬러]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F76WY%2Fimage%2FsfvSr7wgSXXpdJegEupDxFHGBoc.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[어나더 <어 퍼펙트 필름>]]></title>
+            <link>https://brunch.co.kr/@@aoKz/30</link>
+            <guid>https://brunch.co.kr/@@aoKz/30</guid>
+            <pubDate>Fri, 25 Feb 2022 03:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaoKz%2Fimage%2FyVcfXY4nLDAaYHC4e9N7c-BhgM4.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[82년생 마라맛 베로니카]]></title>
+            <link>https://brunch.co.kr/@@7GHw/247</link>
+            <guid>https://brunch.co.kr/@@7GHw/247</guid>
+            <pubDate>Fri, 25 Feb 2022 03:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Munalogi]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7GHw%2Fimage%2F8ecsuDG5MYtV-qsHYw5kd1Vac6o.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[그을린 사랑 (Incendies)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 23 Feb 2022 07:16:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>시네마뮤즈]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdalY%2Fimage%2FMRh3-dFfSD20GJ-cgJTz3Q-ve9U.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 예스맨 - No라고 말하지 못하면 벌어지는 일]]></title>
-            <link>https://brunch.co.kr/@@4alG/8</link>
-            <guid>https://brunch.co.kr/@@4alG/8</guid>
-            <pubDate>Wed, 23 Feb 2022 08:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김홍걸]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4alG%2Fimage%2FWbrjIAqjY778Rb32Zc50njurFWo.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[텍사스 전기톱 학살 2022, 성의 없는 게으름]]></title>
-            <link>https://brunch.co.kr/@@6wHY/541</link>
-            <guid>https://brunch.co.kr/@@6wHY/541</guid>
-            <pubDate>Wed, 23 Feb 2022 08:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2FFSx6t_Wz3E8KJmSs1wA6JCTvCb8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
