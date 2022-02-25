@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 05:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 06:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
             <pubDate>Fri, 25 Feb 2022 04:21:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>종종]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbHSp%2Fimage%2F9hqySBnE3Q8kuTljAY21UvGyE9k.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[꽃다발 같은 사랑을 했다]]></title>
+            <link>https://brunch.co.kr/@@6IKp/25</link>
+            <guid>https://brunch.co.kr/@@6IKp/25</guid>
+            <pubDate>Fri, 25 Feb 2022 06:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>나무]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6IKp%2Fimage%2FX-Dli4_MG4miq9TEMSFvoORrZoc.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[정치가 스포츠에 개입할 때. 넷플릭스 <이카로스>]]></title>
+            <link>https://brunch.co.kr/@@7i7a/33</link>
+            <guid>https://brunch.co.kr/@@7i7a/33</guid>
+            <pubDate>Fri, 25 Feb 2022 06:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김가루]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7i7a%2Fimage%2F3ZtiA8PBsu80pZCGLmaar4iXkFk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[그을린 사랑 (Incendies)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 23 Feb 2022 04:21:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>커피 한잔의 여유]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaXia%2Fimage%2F6V8NuC5_bgZLjVUYT7BsV6m4AoA" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[시퀄, 프리퀄, 리퀄, 스핀오프를 다시 생각해보기]]></title>
-            <link>https://brunch.co.kr/@@1ibV/992</link>
-            <guid>https://brunch.co.kr/@@1ibV/992</guid>
-            <pubDate>Wed, 23 Feb 2022 05:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 박동수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ibV%2Fimage%2FgTrH8IOs1ONeuexChDDSTCxbN5M.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 『길버트 그레이프』와 책상다리]]></title>
-            <link>https://brunch.co.kr/@@dH6G/26</link>
-            <guid>https://brunch.co.kr/@@dH6G/26</guid>
-            <pubDate>Wed, 23 Feb 2022 07:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Hwain]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdH6G%2Fimage%2FtlNV-h_KODG9KESYn98jIpHwPYI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
