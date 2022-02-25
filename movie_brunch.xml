@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 03:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 04:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 25 Feb 2022 03:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Munalogi]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7GHw%2Fimage%2F8ecsuDG5MYtV-qsHYw5kd1Vac6o.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 널 많이 좋아했구나,<바다가 들린다>]]></title>
+            <link>https://brunch.co.kr/@@bHSp/236</link>
+            <guid>https://brunch.co.kr/@@bHSp/236</guid>
+            <pubDate>Fri, 25 Feb 2022 04:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>종종]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbHSp%2Fimage%2F9hqySBnE3Q8kuTljAY21UvGyE9k.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[그을린 사랑 (Incendies)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 23 Feb 2022 07:16:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Hwain]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdH6G%2Fimage%2FtlNV-h_KODG9KESYn98jIpHwPYI.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이견의 거리]]></title>
-            <link>https://brunch.co.kr/@@dalY/24</link>
-            <guid>https://brunch.co.kr/@@dalY/24</guid>
-            <pubDate>Wed, 23 Feb 2022 07:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>시네마뮤즈]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdalY%2Fimage%2FMRh3-dFfSD20GJ-cgJTz3Q-ve9U.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
