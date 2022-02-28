@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 06:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 07:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,6 +175,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d5cfe621b59a46627ef503b8396e23f84861a48" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[위크엔드 어웨이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158359</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158359</guid>
+            <pubDate>Mon, 28 Feb 2022 07:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8669b7ca4b0bfb9fc5f9651ab10f4880847e6b6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[송가인 더 드라마]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147786</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147786</guid>
@@ -189,6 +197,14 @@
             <pubDate>Mon, 21 Feb 2022 06:20:40 GMT</pubDate>
             <content:encoded><![CDATA[22.03.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F576a9e5f52939a4f017c55b153d136aa9331d704" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[너의 거짓말이 좋아]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158315</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158315</guid>
+            <pubDate>Mon, 28 Feb 2022 07:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7cb050f96fbba311b9c1927deffdd1d37b2a6851" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[배드 헤어]]></title>
@@ -261,6 +277,22 @@
             <pubDate>Thu, 24 Feb 2022 08:19:48 GMT</pubDate>
             <content:encoded><![CDATA[22.03.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe6ac7f3c0f11ed15aacc96fccdd4a959469ab775" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙 크랩]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157594</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157594</guid>
+            <pubDate>Mon, 28 Feb 2022 07:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa524496e0c6d2a0410fc8d275b185332637da272" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[벚꽃 같은 나의 연인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157998</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157998</guid>
+            <pubDate>Mon, 28 Feb 2022 07:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F302ce174c8500df51c95844acb0a703df5ad4dbb" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
