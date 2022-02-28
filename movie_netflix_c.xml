@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 03:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 04:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1526,6 +1526,14 @@
             <pubDate>Mon, 21 Feb 2022 05:15:23 GMT</pubDate>
             <content:encoded><![CDATA[22.03.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F256DC45051EF424736" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[헝거게임 : 판엠의 불꽃]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=65338</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=65338</guid>
+            <pubDate>Mon, 28 Feb 2022 04:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1468A6474F795F9928" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
