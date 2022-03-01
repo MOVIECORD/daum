@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 04:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 05:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무례한 질문에 사이다 답변날린 정호연]]></title>
+            <link>https://content.v.daum.net/v/EHAytqbLJ5</link>
+            <guid>https://content.v.daum.net/v/EHAytqbLJ5</guid>
+            <pubDate>Tue, 01 Mar 2022 05:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F01%2Fharmony%2F20220301021504180mv6f.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[연기력이 너무 뛰어나서 '남학생 연기'하는 여성 배우]]></title>
             <link>https://content.v.daum.net/v/E4rpSKfhTr</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 25 Feb 2022 08:20:18 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fmaxmovie%2F20220225070440560xens.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[할리우드 스타 배우가 김태리에게 아프다고 울상 지은 사연]]></title>
-            <link>https://content.v.daum.net/v/E5CMDkrbkb</link>
-            <guid>https://content.v.daum.net/v/E5CMDkrbkb</guid>
-            <pubDate>Fri, 25 Feb 2022 08:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Ffeelthemovie%2F20220225071124839ojcj.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
