@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 02:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 03:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장르영화인을 꿈꾼다면! 환상영화학교로]]></title>
+            <link>https://content.v.daum.net/v/Exs2RZglPF</link>
+            <guid>https://content.v.daum.net/v/Exs2RZglPF</guid>
+            <pubDate>Wed, 02 Mar 2022 03:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[무비스트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2FMOVIST%2F202203020234237754zit.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[이선균 '끝까지 간다', 넷플릭스에서 리메이크했다]]></title>
             <link>https://content.v.daum.net/v/EwVWPxMRyD</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 28 Feb 2022 02:07:43 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F26%2Ffeelthemovie%2F20220226010201480t7kj.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 '배트맨'·마블, 3월 극장 살릴까?]]></title>
-            <link>https://content.v.daum.net/v/Eg0SFIRle1</link>
-            <guid>https://content.v.daum.net/v/Eg0SFIRle1</guid>
-            <pubDate>Sun, 27 Feb 2022 02:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F24%2Ffanzeel%2F20220224092553622ggat.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
