@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 07:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 08:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1672f6d3d5ff3c7fc0fc71c0e76a15eb80b85360" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[고양이들의 아파트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144623</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144623</guid>
+            <pubDate>Wed, 02 Mar 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe017563a2672ded7b71fdd0a2984cff79c0edb79" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[레벤느망]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153217</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153217</guid>
@@ -76,8 +84,8 @@
             <link>https://movie.daum.net/moviedb/main?movieId=132877</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132877</guid>
             <pubDate>Thu, 03 Mar 2022 06:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[22.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F175b7aeb8166ab0bdca2cdb89cf4c1fe8d5bc1ee" length="0" type="image//thumb/C408x596/"/>
+            <content:encoded><![CDATA[22.03.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc982f39016322391451456b3fe9bb9f82fa74950" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블랙라이트]]></title>
@@ -88,20 +96,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7bbd91ede7bdcd4d0073c1159e3c3dfb8a6ff048" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[고양이들의 아파트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144623</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144623</guid>
-            <pubDate>Wed, 02 Mar 2022 09:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe017563a2672ded7b71fdd0a2984cff79c0edb79" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[인베이젼 2022]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152493</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152493</guid>
             <pubDate>Sun, 27 Feb 2022 09:15:48 GMT</pubDate>
             <content:encoded><![CDATA[22.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff5c204a3748c166fa3c2dad2ef95eaa28aaa0140" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이돌레시피]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147185</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147185</guid>
+            <pubDate>Thu, 03 Mar 2022 08:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[22.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd1a17a58798052ec541be6c96095f29e12e47ed8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[애덤 프로젝트]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 03 Mar 2022 02:15:36 GMT</pubDate>
             <content:encoded><![CDATA[22.03.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0bdb2e7e1c40136aca855ee4852fd0ee77bb7675" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아망떼]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143815</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143815</guid>
-            <pubDate>Thu, 03 Mar 2022 02:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fae8efdd73444f0d513d45531b8361971711652bc" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
