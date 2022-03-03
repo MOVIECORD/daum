@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 08:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 09:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,22 +24,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F078788d56d0f8c82b1d3022d5ef05b14d951ac3d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
-            <pubDate>Fri, 25 Feb 2022 02:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[그 남자는 타이타닉을 보고 싶지 않았다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153324</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153324</guid>
-            <pubDate>Tue, 22 Feb 2022 08:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24953039c163640cbb39f43dccb852f1df697783" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스펜서]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
@@ -54,6 +38,14 @@
             <pubDate>Wed, 02 Mar 2022 09:15:56 GMT</pubDate>
             <content:encoded><![CDATA[22.03.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe017563a2672ded7b71fdd0a2984cff79c0edb79" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그 남자는 타이타닉을 보고 싶지 않았다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153324</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153324</guid>
+            <pubDate>Tue, 22 Feb 2022 08:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24953039c163640cbb39f43dccb852f1df697783" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[레벤느망]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Thu, 03 Mar 2022 06:20:31 GMT</pubDate>
             <content:encoded><![CDATA[22.03.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc982f39016322391451456b3fe9bb9f82fa74950" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블랙라이트]]></title>
