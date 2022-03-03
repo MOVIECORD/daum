@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 04:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 05:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 03 Mar 2022 03:20:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>은수]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcyhF%2Fimage%2FXS510JpXABNChHyd3NAlTiucvvs.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<더 배트맨/The Batman>]]></title>
+            <link>https://brunch.co.kr/@@9Oli/442</link>
+            <guid>https://brunch.co.kr/@@9Oli/442</guid>
+            <pubDate>Thu, 03 Mar 2022 05:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>팬서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9Oli%2Fimage%2FCSGqQio3FpTIvNDbkeWPWpJk2XI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 순수의 시대]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 28 Feb 2022 04:22:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>인현]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6qrT%2Fimage%2FKw4ub9ICTIGIgCQw4Orhzia9Hz8.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[성공을 선택해야 할까? 꿈을 선택해야 할까?]]></title>
-            <link>https://brunch.co.kr/@@7QLd/21</link>
-            <guid>https://brunch.co.kr/@@7QLd/21</guid>
-            <pubDate>Fri, 25 Feb 2022 09:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박준철]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7QLd%2Fimage%2FdmAhTIksUGWytN-6_umY50er5xY" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
