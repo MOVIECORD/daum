@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 06:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 07:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,12 +216,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4533abe93340e36af540a7983d3dfc7f79ce0cb2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[유어 러브 송 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138924</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138924</guid>
+            <pubDate>Thu, 03 Mar 2022 02:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96a9baeced0424f6271b699e009e0d52dd166922" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[벨파스트 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152920</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152920</guid>
             <pubDate>Wed, 23 Feb 2022 04:20:28 GMT</pubDate>
             <content:encoded><![CDATA[22.03.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어거스트 버진 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132877</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132877</guid>
+            <pubDate>Thu, 03 Mar 2022 06:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[22.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F175b7aeb8166ab0bdca2cdb89cf4c1fe8d5bc1ee" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블랙라이트 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -246,14 +262,6 @@
             <pubDate>Sun, 27 Feb 2022 09:15:48 GMT</pubDate>
             <content:encoded><![CDATA[22.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff5c204a3748c166fa3c2dad2ef95eaa28aaa0140" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[어거스트 버진 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132877</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132877</guid>
-            <pubDate>Thu, 03 Mar 2022 06:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[22.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F175b7aeb8166ab0bdca2cdb89cf4c1fe8d5bc1ee" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[애덤 프로젝트 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -302,14 +310,6 @@
             <pubDate>Tue, 01 Mar 2022 07:15:45 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3472a25d3f3448b0a113f2c7684418417d2d372" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[유어 러브 송 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138924</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138924</guid>
-            <pubDate>Thu, 03 Mar 2022 02:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96a9baeced0424f6271b699e009e0d52dd166922" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[캐슬 폴스: 머니 게임 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2712,6 +2712,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe1d2a645e3058eadfa324ddfee3ce5b3a4ce26cb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[역대급 기대작, 막상 뚜껑 열어보니 OOOO이다 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EorfdxCuWj</link>
+            <guid>https://content.v.daum.net/v/EorfdxCuWj</guid>
+            <pubDate>Thu, 03 Mar 2022 07:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F03%2Fmaxmovie%2F20220303063905878l38h.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[극악무도한 소년범죄, 처절한 현실을 타개할 방법은.. (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EZ4QR0bcYf</link>
+            <guid>https://content.v.daum.net/v/EZ4QR0bcYf</guid>
+            <pubDate>Thu, 03 Mar 2022 07:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F03%2Fmaxmovie%2F20220303063146596iuo7.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 돌아온, 반가운 리암 니슨 할아버지 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/E6XDOxZu6a</link>
+            <guid>https://content.v.daum.net/v/E6XDOxZu6a</guid>
+            <pubDate>Thu, 03 Mar 2022 07:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F03%2Fmaxmovie%2F20220303160111774mmhs.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[영화 '기생충' 때문에 결혼 전에 이혼부터 할 뻔 한 배우 커플 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/Eh0pLt4hOR</link>
             <guid>https://content.v.daum.net/v/Eh0pLt4hOR</guid>
@@ -2750,14 +2774,6 @@
             <pubDate>Thu, 03 Mar 2022 02:16:32 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2Ffeelthemovie%2F20220302160654942isa9.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[공개 연애 7년했는데.. 애인 사진 처음 공개 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/Ep3WadkByZ</link>
-            <guid>https://content.v.daum.net/v/Ep3WadkByZ</guid>
-            <pubDate>Thu, 03 Mar 2022 02:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2Fharmony%2F20220302101647381yzb6.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[페드로 알모도바르 X 페넬로페 크루즈 <패러렐 마더스> 개봉 (다음 영화 ─ 매거진)]]></title>
@@ -2854,22 +2870,6 @@
             <pubDate>Wed, 02 Mar 2022 02:15:00 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F28%2Ffanzeel%2F20220228025305984m1cl.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[2월 4주 북미박스] <스튜디오666> <시라노> 8, 9위 데뷔 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EvkSW9PQHs</link>
-            <guid>https://content.v.daum.net/v/EvkSW9PQHs</guid>
-            <pubDate>Wed, 02 Mar 2022 02:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2FMOVIST%2F20220302014922535wzd7.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[무비스트! 이번 주 영화 어때? 3월 1주차 영화평 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EcDJrWbFl0</link>
-            <guid>https://content.v.daum.net/v/EcDJrWbFl0</guid>
-            <pubDate>Wed, 02 Mar 2022 02:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F02%2FMOVIST%2F20220302014751036b5na.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 킹메이커 (다음 영화 ─ 브런치)]]></title>
