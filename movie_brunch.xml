@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 05:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 06:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Fri, 04 Mar 2022 05:17:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>가려진 시간]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2ViD%2Fimage%2FYTd2wd_6LsVkcKUVDwu0sP0Kvmc.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[스펜서 (2021)]]></title>
+            <link>https://brunch.co.kr/@@b5EX/105</link>
+            <guid>https://brunch.co.kr/@@b5EX/105</guid>
+            <pubDate>Fri, 04 Mar 2022 06:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>popofilm]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fb5EX%2Fimage%2FFll3iu0SdzT4aZL_srO4cwCnCdI.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 킹메이커]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Mar 2022 04:22:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>은수]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcyhF%2Fimage%2FYRF0X5zZkOzVIPwpLRyipP48qd0.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[피자와 해변]]></title>
-            <link>https://brunch.co.kr/@@11gq/116</link>
-            <guid>https://brunch.co.kr/@@11gq/116</guid>
-            <pubDate>Wed, 02 Mar 2022 04:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>soripza]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F11gq%2Fimage%2FEViGPIjmseK6qCnf_QwQ_1vaJIE.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
