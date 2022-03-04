@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 02:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 03:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 04 Mar 2022 02:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김홍걸]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4alG%2Fimage%2FwK26XAvujwSOw4eYJODx2jI-R98.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[코다(Child of Deaf Adults)]]></title>
+            <link>https://brunch.co.kr/@@aGZ8/54</link>
+            <guid>https://brunch.co.kr/@@aGZ8/54</guid>
+            <pubDate>Fri, 04 Mar 2022 03:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>흐르는 강물처럼]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaGZ8%2Fimage%2FlhTFqMwUIJtomQiEWKiWRuLb7uA.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 킹메이커]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 28 Feb 2022 03:18:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>문윤범b]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fd2xK%2Fimage%2FK7rqfbYx3rJ96yv5LU5x6WoIFwo.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니의 PC주의와 뮬란의 오류]]></title>
-            <link>https://brunch.co.kr/@@2ViD/683</link>
-            <guid>https://brunch.co.kr/@@2ViD/683</guid>
-            <pubDate>Mon, 28 Feb 2022 04:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>가려진 시간]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2ViD%2Fimage%2FED4ii9u0Rc_kFHump97JXsS33tQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
