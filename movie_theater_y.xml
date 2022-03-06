@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 06:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 07:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd615f49fe381ac00cd48f0f8789746e911af66b4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[킹메이커]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=118715</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=118715</guid>
-            <pubDate>Wed, 26 Jan 2022 02:06:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F825baa1e98d8f33e4801d88b3a302739039c5cc4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[시라노]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154521</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154521</guid>
@@ -152,12 +144,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[광대: 소리꾼]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134682</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134682</guid>
-            <pubDate>Sun, 06 Mar 2022 04:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa14c44098029f19485400580d5b9bad9161bc9bb" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[듄]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
+            <pubDate>Sun, 06 Mar 2022 07:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[킹메이커]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=118715</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=118715</guid>
+            <pubDate>Wed, 26 Jan 2022 02:06:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F825baa1e98d8f33e4801d88b3a302739039c5cc4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출]]></title>
