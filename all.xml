@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 13:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 14:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F04dd4d9cec80ba1857d24f2b68cc4f97748c0b05" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[서바이벌리스트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153196</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153196</guid>
-            <pubDate>Sat, 19 Feb 2022 08:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe81c662b5e2ccae35acceaa153a1fa31b59070b1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
@@ -78,6 +70,14 @@
             <pubDate>Thu, 24 Feb 2022 02:10:40 GMT</pubDate>
             <content:encoded><![CDATA[22.03.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e6dbadeab9d0cf45189a0c008dc429a0fd1352e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[서바이벌리스트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153196</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153196</guid>
+            <pubDate>Sat, 19 Feb 2022 08:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe81c662b5e2ccae35acceaa153a1fa31b59070b1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[우리가 사랑이라고 믿는 것 (다음영화 영화관 ─ 현재상영)]]></title>
