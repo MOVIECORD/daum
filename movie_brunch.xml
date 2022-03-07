@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 03:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 04:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
             <pubDate>Mon, 07 Mar 2022 03:18:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김진만]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FZdN%2Fimage%2FfmJqstN_3IM9CiDyhe1dCCyAmI0.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[미국이 본 북한, B급 코미디 영화 ‘인터뷰’]]></title>
+            <link>https://brunch.co.kr/@@8jeE/155</link>
+            <guid>https://brunch.co.kr/@@8jeE/155</guid>
+            <pubDate>Mon, 07 Mar 2022 04:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>파도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8jeE%2Fimage%2F5ZPr6guNzkzy4QyAg8KEKcvsJV4.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[미움이 사람을 죽일 수 있을까? 믿음 대로 될지어다]]></title>
+            <link>https://brunch.co.kr/@@3gV3/5</link>
+            <guid>https://brunch.co.kr/@@3gV3/5</guid>
+            <pubDate>Mon, 07 Mar 2022 04:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>최대혁]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3gV3%2Fimage%2Fq--JJasvDyZLWBoh82kPn9vh7lY.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<공포분자>(1986) 에드워드 양]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 03 Mar 2022 05:16:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>팬서]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9Oli%2Fimage%2FCSGqQio3FpTIvNDbkeWPWpJk2XI.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 순수의 시대]]></title>
-            <link>https://brunch.co.kr/@@4alG/12</link>
-            <guid>https://brunch.co.kr/@@4alG/12</guid>
-            <pubDate>Wed, 02 Mar 2022 02:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김홍걸]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4alG%2Fimage%2FlfmmnqPNct_M3x4SKeuTUcpe9Io.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 배트맨>]]></title>
-            <link>https://brunch.co.kr/@@dvhk/5</link>
-            <guid>https://brunch.co.kr/@@dvhk/5</guid>
-            <pubDate>Wed, 02 Mar 2022 02:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>KimKlaus]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fdvhk%2Fimage%2FJrJKenosJcRyPbh49dXB0RNh1ec.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
