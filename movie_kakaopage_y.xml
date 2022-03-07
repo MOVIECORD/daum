@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/kakaopage?flag=Y</id>
-    <title>[다음영화] 카카오페이지 ─ 공개예정</title>
-    <updated>2022-03-07T07:17:51.476Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 카카오페이지 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 07 Mar 2022 08:21:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인민을 위해 복무하라]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144815</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144815</guid>
+            <pubDate>Mon, 07 Mar 2022 08:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8794ab82e2da32c0efa0187c65735d6249e37d43" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[협객: 도원매영]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156918</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156918</guid>
+            <pubDate>Mon, 07 Mar 2022 08:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76f4b85d0e0fd091bd60944a9352650587011240" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아메리칸 시빌 워]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157767</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157767</guid>
+            <pubDate>Mon, 07 Mar 2022 08:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05978441b66f9f2428af79dba3c72d1077657766" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
