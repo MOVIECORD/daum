@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 05:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 06:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 08 Mar 2022 05:16:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FKxh1HEuIWWcY0RQ9N68zKi-T39g.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[굿모닝 프레지던트를 통해 보는 평범한 일반 대통령]]></title>
+            <link>https://brunch.co.kr/@@4Ypp/522</link>
+            <guid>https://brunch.co.kr/@@4Ypp/522</guid>
+            <pubDate>Tue, 08 Mar 2022 06:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>생활심리학자 형아쌤]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4Ypp%2Fimage%2Fs4EhX6jj9xmFaoO0s2rETY1G9Gk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[삶이 담긴 '아리아']]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 04 Mar 2022 03:20:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>흐르는 강물처럼]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaGZ8%2Fimage%2FlhTFqMwUIJtomQiEWKiWRuLb7uA.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[리들러의 시점으로 다시 쓰는, <더 배트맨>]]></title>
-            <link>https://brunch.co.kr/@@5E08/101</link>
-            <guid>https://brunch.co.kr/@@5E08/101</guid>
-            <pubDate>Fri, 04 Mar 2022 05:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Veni Jun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5E08%2Fimage%2FoHKAM_Ab8vqHv6nco7jVbjzkNwY.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
