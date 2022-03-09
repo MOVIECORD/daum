@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 02:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 03:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그 남자는 타이타닉을 보고 싶지 않았다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153324</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153324</guid>
-            <pubDate>Tue, 22 Feb 2022 08:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24953039c163640cbb39f43dccb852f1df697783" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스펜서]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
             <pubDate>Mon, 21 Feb 2022 04:21:32 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1672f6d3d5ff3c7fc0fc71c0e76a15eb80b85360" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그 남자는 타이타닉을 보고 싶지 않았다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153324</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153324</guid>
+            <pubDate>Tue, 22 Feb 2022 08:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24953039c163640cbb39f43dccb852f1df697783" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[고양이들의 아파트]]></title>
