@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 02:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 03:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 찍다가 연인 되었는데.. 개봉 전에 헤어진 상황]]></title>
+            <link>https://content.v.daum.net/v/E5iqBQxGIv</link>
+            <guid>https://content.v.daum.net/v/E5iqBQxGIv</guid>
+            <pubDate>Thu, 10 Mar 2022 03:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F10%2FBoiledMovie%2F20220310030125235a9yx.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[이 장애인이 위험천만한 1,000km 여정에 나선 이유]]></title>
             <link>https://content.v.daum.net/v/EI8LOvNjMK</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 08 Mar 2022 02:11:33 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Ffanzeel%2F20220307101303237o7zk.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[한국영화·드라마 리메이크하고 싶어서 줄 서 있는 요즘]]></title>
-            <link>https://content.v.daum.net/v/EKAF7vu2ub</link>
-            <guid>https://content.v.daum.net/v/EKAF7vu2ub</guid>
-            <pubDate>Tue, 08 Mar 2022 02:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2FBoiledMovie%2F20220308011644817l1k6.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
