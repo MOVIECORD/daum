@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 05:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 06:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스물다섯 스물하나' 찬란하게 빛나는 청춘 드라마]]></title>
+            <link>https://content.v.daum.net/v/EeaFyCTmns</link>
+            <guid>https://content.v.daum.net/v/EeaFyCTmns</guid>
+            <pubDate>Mon, 14 Mar 2022 06:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[테일러콘텐츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Ftailorcontents_cv%2F20220314055155105lh0p.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[리암 니슨, 이젠 '라이트 세이버' 들어야 할 때다]]></title>
             <link>https://content.v.daum.net/v/EmVOXJ4IVP</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 11 Mar 2022 02:17:49 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F10%2Ffeelthemovie%2F20220310014740859s7i7.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[한때는 금서였지만 이제는 영화로 만들어질 만큼 유명해진 소설들]]></title>
-            <link>https://content.v.daum.net/v/EkZaAQVn9a</link>
-            <guid>https://content.v.daum.net/v/EkZaAQVn9a</guid>
-            <pubDate>Fri, 11 Mar 2022 02:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[씨네플레이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F10%2Fcineplay%2F202203100039080745lom.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
