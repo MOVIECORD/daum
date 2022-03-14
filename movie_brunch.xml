@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 04:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 05:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,22 @@
             <pubDate>Mon, 14 Mar 2022 04:27:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김진만]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FZdN%2Fimage%2FXc4fH00MQqZXreD3vKXOtIaSGmQ.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘결과’보다 ‘과정’을 사랑한 사람들의 이야기]]></title>
+            <link>https://brunch.co.kr/@@535y/494</link>
+            <guid>https://brunch.co.kr/@@535y/494</guid>
+            <pubDate>Mon, 14 Mar 2022 05:37:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Rabbitgumi]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F535y%2Fimage%2Fi9r07uOjv2zkiCZMWon9hLArp5Q.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[대서사극, 채움과 넘침]]></title>
+            <link>https://brunch.co.kr/@@1ZDA/88</link>
+            <guid>https://brunch.co.kr/@@1ZDA/88</guid>
+            <pubDate>Mon, 14 Mar 2022 05:37:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Albert 이홍규]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ZDA%2Fimage%2FI-qR-tyuIo66tcyPprFERmWTAuM.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 『크립토주』 와 존중과 배려]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 08 Mar 2022 02:11:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>지운]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdJ8Q%2Fimage%2FTH1haDMV2OUijy8QelbpSCzKlKI.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[향수를 소환할 땐 세 번 외쳐요]]></title>
-            <link>https://brunch.co.kr/@@dJ8Q/4</link>
-            <guid>https://brunch.co.kr/@@dJ8Q/4</guid>
-            <pubDate>Tue, 08 Mar 2022 02:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>지운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdJ8Q%2Fimage%2FHRq6qurMbBGXfUv_Ouo1jiBV748.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[83세 배트맨과 36세 로버트 패틴슨]]></title>
-            <link>https://brunch.co.kr/@@9KDM/56</link>
-            <guid>https://brunch.co.kr/@@9KDM/56</guid>
-            <pubDate>Tue, 08 Mar 2022 02:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Editor M]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9KDM%2Fimage%2F2XOvUhnLOgLgtMyC9BDJi6uu-hQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
