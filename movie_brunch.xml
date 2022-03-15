@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 02:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 03:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 15 Mar 2022 02:17:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>피터팬]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaXte%2Fimage%2FcS61AmB3t6Rc9Z81k2oEZe0EuDM.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 ‘프렌치 디스패치’를 보고]]></title>
+            <link>https://brunch.co.kr/@@is2/214</link>
+            <guid>https://brunch.co.kr/@@is2/214</guid>
+            <pubDate>Tue, 15 Mar 2022 03:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>최종신]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fis2%2Fimage%2FPTYja5Z8TlNRyUjsA0EFEWuATzI.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[살아라]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 10 Mar 2022 03:21:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>더티너디]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcZcG%2Fimage%2FX320JB2fv--6VeROkQbzWVhiGwE" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[Opinion] 이 탐험의 끝은 말이야]]></title>
-            <link>https://brunch.co.kr/@@9Y0A/124</link>
-            <guid>https://brunch.co.kr/@@9Y0A/124</guid>
-            <pubDate>Thu, 10 Mar 2022 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>은민]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9Y0A%2Fimage%2FgfnKT9s9wfvbTclz0pvm1W73by0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>

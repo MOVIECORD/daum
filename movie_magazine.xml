@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 02:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 03:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스펜서' 거꾸로 된 동화를 멋지게 장식한 한 여성의 이야기]]></title>
+            <link>https://content.v.daum.net/v/EIe6NBEBEQ</link>
+            <guid>https://content.v.daum.net/v/EIe6NBEBEQ</guid>
+            <pubDate>Tue, 15 Mar 2022 03:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[테일러콘텐츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F15%2Ftailorcontents_cv%2F20220315031430090yxkz.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA['데드풀 3'의 배우·감독이 뭉친 넷플릭스 SF 영화]]></title>
             <link>https://content.v.daum.net/v/E9bnIdx9eF</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 11 Mar 2022 07:16:56 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F11%2Ffeelthemovie%2F20220311062648731h3oa.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[봉준호 감독의 극찬을 이끌어낸 이 소녀의 '정체']]></title>
-            <link>https://content.v.daum.net/v/EAxTHKEdu2</link>
-            <guid>https://content.v.daum.net/v/EAxTHKEdu2</guid>
-            <pubDate>Fri, 11 Mar 2022 07:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F11%2Fmaxmovie%2F20220311061526253e6az.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
