@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 04:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 05:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 15 Mar 2022 03:19:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>최종신]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fis2%2Fimage%2FPTYja5Z8TlNRyUjsA0EFEWuATzI.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[쉘부르의 우산 (1964)]]></title>
+            <link>https://brunch.co.kr/@@cZNH/52</link>
+            <guid>https://brunch.co.kr/@@cZNH/52</guid>
+            <pubDate>Tue, 15 Mar 2022 05:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>우르슬라]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcZNH%2Fimage%2Fm5jWoaaduU5-ievuqNjbNlhxpGk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[살아라]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 10 Mar 2022 02:23:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>HKids]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4OVc%2Fimage%2Fz6lZYzcdZM16jxHImZLDWFub7sc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 사랑이라고 믿는 것,  노력이라는 단어가 무색하게]]></title>
-            <link>https://brunch.co.kr/@@cZcG/25</link>
-            <guid>https://brunch.co.kr/@@cZcG/25</guid>
-            <pubDate>Thu, 10 Mar 2022 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>더티너디]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcZcG%2Fimage%2FX320JB2fv--6VeROkQbzWVhiGwE" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
