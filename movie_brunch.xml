@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 03:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 04:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 16 Mar 2022 02:23:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이현우]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F85B%2Fimage%2FtsF9jlHKhrCcC2D40AzCSMiNLAE.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[날씨를 기다리는 일은 꼭 기적과도 같아서]]></title>
+            <link>https://brunch.co.kr/@@mW7/1385</link>
+            <guid>https://brunch.co.kr/@@mW7/1385</guid>
+            <pubDate>Wed, 16 Mar 2022 04:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김동진]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FmW7%2Fimage%2FtXTbO4TIhU7V4AgF6b5pZMzlZq0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[무엇인가 특별한 일이 일어났다]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Mar 2022 04:27:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>keeeyview]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9uuJ%2Fimage%2FY9lZQdWFDtj8V4XpgW43-hsMLTY" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 이불킥이어도 그때는 진지했다]]></title>
-            <link>https://brunch.co.kr/@@ZdN/49</link>
-            <guid>https://brunch.co.kr/@@ZdN/49</guid>
-            <pubDate>Mon, 14 Mar 2022 04:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김진만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FZdN%2Fimage%2FXc4fH00MQqZXreD3vKXOtIaSGmQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
