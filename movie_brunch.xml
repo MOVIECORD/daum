@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 05:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 06:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,22 @@
             <pubDate>Wed, 16 Mar 2022 05:17:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>가을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcofZ%2Fimage%2Fs6fYCbmNMsPbRaqlvOZ4LAnLWJs.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[[영화] 나이트메어 앨리(Nightmare Alley)]]></title>
+            <link>https://brunch.co.kr/@@c9ZQ/28</link>
+            <guid>https://brunch.co.kr/@@c9ZQ/28</guid>
+            <pubDate>Wed, 16 Mar 2022 06:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>프리양]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fc9ZQ%2Fimage%2FZwW87h8eyp6Sj6Fe1IjP9pwgWVk.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<스펜서>이젠, 왕비를 퇴직할게]]></title>
+            <link>https://brunch.co.kr/@@6dyt/800</link>
+            <guid>https://brunch.co.kr/@@6dyt/800</guid>
+            <pubDate>Wed, 16 Mar 2022 06:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2Fg7Rx8H7TRdrbydcm-BlDUmq1uoQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[무엇인가 특별한 일이 일어났다]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 14 Mar 2022 02:14:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>동선]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcOjc%2Fimage%2FXYVSDRgWWYXsSqmZg1Iol98KJT8.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[실존 인물을 스크린으로 소환하는 이유]]></title>
-            <link>https://brunch.co.kr/@@a7Xi/96</link>
-            <guid>https://brunch.co.kr/@@a7Xi/96</guid>
-            <pubDate>Mon, 14 Mar 2022 02:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>레이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa7Xi%2Fimage%2FP6qEaY7kuX-CsPSLD_5nwwsdPIU.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[두 번 묻지 않고 앞으로만 쭉]]></title>
-            <link>https://brunch.co.kr/@@5fpi/313</link>
-            <guid>https://brunch.co.kr/@@5fpi/313</guid>
-            <pubDate>Mon, 14 Mar 2022 04:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2F6GC9zt4w7h3sJ_p9-rzckW6IDtA.jfif" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
