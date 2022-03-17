@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 11:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 12:30:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37c7b1c61c83eb6ada6f6193afc56dc7c9881165" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[고양이들의 아파트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144623</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144623</guid>
-            <pubDate>Thu, 17 Mar 2022 02:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3741882ac3d1e790de3cf934aaf4bd886c5565ea" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[하늘의 푸르름을 아는 사람이여]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=135548</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=135548</guid>
             <pubDate>Wed, 16 Mar 2022 02:22:01 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4dc4721df05c4b46cfffc11f7859037956ec50d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[고양이들의 아파트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144623</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144623</guid>
+            <pubDate>Thu, 17 Mar 2022 02:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3741882ac3d1e790de3cf934aaf4bd886c5565ea" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[안테벨룸]]></title>
