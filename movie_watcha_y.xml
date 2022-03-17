@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 05:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 06:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 15 Mar 2022 02:17:30 GMT</pubDate>
             <content:encoded><![CDATA[22.03.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F742009ef2b6df1e793ab096883b7f14321881faf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 버블]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151513</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151513</guid>
-            <pubDate>Mon, 14 Mar 2022 06:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F064f740d53cc0c88023ff630847545cf092e1f63" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
