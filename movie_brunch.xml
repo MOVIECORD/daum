@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 02:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 03:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Fri, 18 Mar 2022 02:22:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FUboqlCAUpManEXzr7zoNVRNPKW4.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[타임 패러독스]]></title>
+            <link>https://brunch.co.kr/@@5Xv/251</link>
+            <guid>https://brunch.co.kr/@@5Xv/251</guid>
+            <pubDate>Fri, 18 Mar 2022 03:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>볼파란]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5Xv%2Fimage%2F0phhBe78mOwLiEIfTMaobmLdfaA.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[너는 나보다 더 용감해,<굿 다이노>]]></title>
+            <link>https://brunch.co.kr/@@bHSp/107</link>
+            <guid>https://brunch.co.kr/@@bHSp/107</guid>
+            <pubDate>Fri, 18 Mar 2022 03:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>종종]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbHSp%2Fimage%2FT5EeaPs3VNiL-Gj7sukQKZU8PnM.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[나는 내가 빌리가 될 줄 알았다. <빌리 엘리어트>]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 15 Mar 2022 09:18:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcqS0%2Fimage%2FE0pAmlVi0jOmJhi2MbFMIzfP66A.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<소년 시절의 너>를 보고]]></title>
-            <link>https://brunch.co.kr/@@2WSW/24</link>
-            <guid>https://brunch.co.kr/@@2WSW/24</guid>
-            <pubDate>Tue, 15 Mar 2022 09:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>재현]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2WSW%2Fimage%2FnR_OxXXQlztjlyicQkOALJHEYT0.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<파워 오브 도그> 개의 세력에서 구하소서]]></title>
-            <link>https://brunch.co.kr/@@dr8K/6</link>
-            <guid>https://brunch.co.kr/@@dr8K/6</guid>
-            <pubDate>Tue, 15 Mar 2022 09:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>권씨네]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fdr8K%2Fimage%2FJcQBoayvKw-TfsmTnH2pxrdoQOE.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
