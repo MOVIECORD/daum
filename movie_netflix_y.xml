@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 04:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 05:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Fri, 18 Mar 2022 03:20:10 GMT</pubDate>
             <content:encoded><![CDATA[22.04.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F181a5fcef97d3f3084c4a69edb05cbd464af3b4f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[야차]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133674</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133674</guid>
+            <pubDate>Fri, 18 Mar 2022 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f71c6ce6a6e6ca5f72b3cf4de1a528a80f49df5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[댄싱 온 글래스]]></title>
