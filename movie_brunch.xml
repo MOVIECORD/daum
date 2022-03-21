@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 04:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 05:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Mon, 21 Mar 2022 03:25:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FuAFE56HgpllTg58uJE3J_CEhCdE.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브 마이 카. 상실의 시대에서.]]></title>
+            <link>https://brunch.co.kr/@@8wgD/45</link>
+            <guid>https://brunch.co.kr/@@8wgD/45</guid>
+            <pubDate>Mon, 21 Mar 2022 05:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>허리케인봉]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8wgD%2Fimage%2FqAmiLjYBendWNzpyjoJ72LCMjAc.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화가 좋았는데, 이제는 미드만 본다]]></title>
+            <link>https://brunch.co.kr/@@5eG/91</link>
+            <guid>https://brunch.co.kr/@@5eG/91</guid>
+            <pubDate>Mon, 21 Mar 2022 05:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>보노]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5eG%2Fimage%2FpOWYSRYK3roe0RClq-qtDEkMGV4.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<문폴> 재난영화 특화된 롤랜드 에머리히라는 장르]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 16 Mar 2022 02:23:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>청우]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8EUf%2Fimage%2FJdbSSKh7jZ6FN2j4Y6Vkp4tts4w.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[악몽으로 기억하는 첫 만남]]></title>
-            <link>https://brunch.co.kr/@@9EQ8/35</link>
-            <guid>https://brunch.co.kr/@@9EQ8/35</guid>
-            <pubDate>Wed, 16 Mar 2022 02:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박진서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9EQ8%2Fimage%2FH9TF77or73d1BUtj1JXRI72b2Kw.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[드레스를 입은 허수아비는 어떻게 자유를 되찾는가?]]></title>
-            <link>https://brunch.co.kr/@@5a3L/71</link>
-            <guid>https://brunch.co.kr/@@5a3L/71</guid>
-            <pubDate>Wed, 16 Mar 2022 02:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>코두 codu]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5a3L%2Fimage%2Ft4LVRxqErmkLFvoRZgJLaQqW-zk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
