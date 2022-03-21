@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 05:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 06:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Mon, 21 Mar 2022 05:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>보노]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5eG%2Fimage%2FpOWYSRYK3roe0RClq-qtDEkMGV4.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[저도 매일 아프거든요. 항상.]]></title>
+            <link>https://brunch.co.kr/@@33a/706</link>
+            <guid>https://brunch.co.kr/@@33a/706</guid>
+            <pubDate>Mon, 21 Mar 2022 06:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>페리테일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F33a%2Fimage%2FHFJ9GDuzYDaH-vKMSqClMSt4uoY.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이 고난에 동참하시겠습니까?]]></title>
+            <link>https://brunch.co.kr/@@1eVg/261</link>
+            <guid>https://brunch.co.kr/@@1eVg/261</guid>
+            <pubDate>Mon, 21 Mar 2022 06:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>sanghai park]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1eVg%2Fimage%2FcldCs7dFVisPaJBrtoWa7cg_dAQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<문폴> 재난영화 특화된 롤랜드 에머리히라는 장르]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 17 Mar 2022 03:19:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>그릭]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FciuQ%2Fimage%2FemrkSwmsBEUcQVGvZVWnmEA59OI.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[바다가 들린다]]></title>
-            <link>https://brunch.co.kr/@@cFfE/5</link>
-            <guid>https://brunch.co.kr/@@cFfE/5</guid>
-            <pubDate>Thu, 17 Mar 2022 06:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>hodie]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcFfE%2Fimage%2Fjy-E6EEFMpPBEcziLWWg6ltBjcY.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아바타 2>영상 20분을 보고 눈물흘린 조 샐다나]]></title>
-            <link>https://brunch.co.kr/@@8EUf/403</link>
-            <guid>https://brunch.co.kr/@@8EUf/403</guid>
-            <pubDate>Wed, 16 Mar 2022 02:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>청우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8EUf%2Fimage%2FJdbSSKh7jZ6FN2j4Y6Vkp4tts4w.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
