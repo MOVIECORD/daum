@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 11:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 12:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,12 +40,52 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feea99b0bcf2e10b9ed6f4d0fa9c2c9b11064dd29" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[데이 릴리즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=110919</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=110919</guid>
+            <pubDate>Tue, 22 Mar 2022 12:29:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ab6f71e6d6098238c9e9ec91dc0604d0f932fba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[마다가스카 2]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=44754</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=44754</guid>
-            <pubDate>Tue, 22 Mar 2022 11:14:54 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2022 12:29:58 GMT</pubDate>
             <content:encoded><![CDATA[22.03.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126DB210B223879A32" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[백조 공주]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=17678</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=17678</guid>
+            <pubDate>Tue, 22 Mar 2022 12:29:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10ACFA2C58ED" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[꺼져버려 종양군]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=96159</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=96159</guid>
+            <pubDate>Tue, 22 Mar 2022 12:29:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F496d16327d1d2b201a67b157cdbb2770622ecd0a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[몬스터 하우스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41448</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41448</guid>
+            <pubDate>Tue, 22 Mar 2022 12:29:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F12110210A8FCB624EE" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[다이아몬드 하이스트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=106983</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=106983</guid>
+            <pubDate>Tue, 22 Mar 2022 12:29:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe8f9943261c9e591093dee10b8130c89bf401754" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

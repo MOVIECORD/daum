@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 11:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 12:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4dc4721df05c4b46cfffc11f7859037956ec50d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[고양이들의 아파트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144623</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144623</guid>
+            <pubDate>Thu, 17 Mar 2022 02:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3741882ac3d1e790de3cf934aaf4bd886c5565ea" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[도어맨]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144409</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144409</guid>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 17 Mar 2022 10:18:58 GMT</pubDate>
             <content:encoded><![CDATA[22.01.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F825baa1e98d8f33e4801d88b3a302739039c5cc4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[고양이들의 아파트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144623</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144623</guid>
-            <pubDate>Thu, 17 Mar 2022 02:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3741882ac3d1e790de3cf934aaf4bd886c5565ea" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드라이브 마이 카]]></title>
@@ -139,7 +139,7 @@
             <title><![CDATA[유어 러브 송]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=138924</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=138924</guid>
-            <pubDate>Tue, 22 Mar 2022 11:14:25 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2022 12:29:28 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96a9baeced0424f6271b699e009e0d52dd166922" length="0" type="image//thumb/C408x596/"/>
         </item>
