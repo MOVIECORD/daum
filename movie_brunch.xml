@@ -4,9 +4,25 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 15:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미래소년, 아니면 명탐정]]></title>
+            <link>https://brunch.co.kr/@@9EQ8/36</link>
+            <guid>https://brunch.co.kr/@@9EQ8/36</guid>
+            <pubDate>Tue, 22 Mar 2022 02:28:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박진서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9EQ8%2Fimage%2Fsg5mgI21Pu9_H-c87MA4Zpxy9JE.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[[3] <오만과 편견(Pride&Prejudice)>]]></title>
+            <link>https://brunch.co.kr/@@c9Kq/40</link>
+            <guid>https://brunch.co.kr/@@c9Kq/40</guid>
+            <pubDate>Tue, 22 Mar 2022 02:28:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>FEELM]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fc9Kq%2Fimage%2FwWsBlF4aSuDWjth05eDCkSKBWP8.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[영국 왕실, 안녕히 계세요!]]></title>
             <link>https://brunch.co.kr/@@5jTv/111</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 17 Mar 2022 03:19:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>프리즘 리플렉팅]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FT0F%2Fimage%2FttEYnMkWPmIlTR3nmUUpt_yY4wg.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[춤추듯 몸부림치던, 몸부림치듯 춤추던]]></title>
-            <link>https://brunch.co.kr/@@ZdN/50</link>
-            <guid>https://brunch.co.kr/@@ZdN/50</guid>
-            <pubDate>Thu, 17 Mar 2022 03:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김진만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FZdN%2Fimage%2FxmYcXvRTw0uBqgo2npee-ghiVXM.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[아스라한 여름밤의 꿈]]></title>
-            <link>https://brunch.co.kr/@@ciuQ/10</link>
-            <guid>https://brunch.co.kr/@@ciuQ/10</guid>
-            <pubDate>Thu, 17 Mar 2022 03:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>그릭]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FciuQ%2Fimage%2FemrkSwmsBEUcQVGvZVWnmEA59OI.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
