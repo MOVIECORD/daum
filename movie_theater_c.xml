@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 07:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc982f39016322391451456b3fe9bb9f82fa74950" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[모비우스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129103</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129103</guid>
+            <pubDate>Thu, 17 Mar 2022 02:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4cd77f84e430daa5f9e4b30bd10fa8bfd53c0bd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[사랑 후의 두 여자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146201</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146201</guid>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 15 Mar 2022 10:19:34 GMT</pubDate>
             <content:encoded><![CDATA[22.03.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f69300e7e973ad35ab1c80aa00c91f0adbc1e9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[모비우스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129103</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129103</guid>
-            <pubDate>Thu, 17 Mar 2022 02:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4cd77f84e430daa5f9e4b30bd10fa8bfd53c0bd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[7인의 악인전]]></title>

@@ -4,7 +4,7 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 07:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Thu, 17 Mar 2022 02:18:39 GMT</pubDate>
             <content:encoded><![CDATA[22.03.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd85292d36495497c3e5ceda08c19615f573a96a1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 레이서]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147248</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147248</guid>
+            <pubDate>Tue, 22 Mar 2022 08:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8dc66c8b2560bf2492db16a7fe33d73ac15528ec" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[콜리션]]></title>
