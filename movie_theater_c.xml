@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 04:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 05:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,12 +103,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ac6afd6ce9c957440c76d731f81503c2d5b3d42" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[배니싱: 미제사건]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=140348</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=140348</guid>
+            <pubDate>Wed, 23 Mar 2022 02:34:32 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff392ca90d072bef911fc418c4b52e383e234421e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[더 컨테이젼: 바이러스의 습격]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=122270</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122270</guid>
             <pubDate>Mon, 21 Mar 2022 08:22:19 GMT</pubDate>
             <content:encoded><![CDATA[22.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd2d0371991a5735e4edddb52c08dd68a3bafed4c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[불도저에 탄 소녀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153127</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153127</guid>
+            <pubDate>Wed, 23 Mar 2022 05:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d93fdcc0efc92362da8b5e73eb5db83e44d6190" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나의 집은 어디인가]]></title>
@@ -135,14 +151,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d5265daadb87d26b0c2936383ed22e201d34564" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[배니싱: 미제사건]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=140348</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=140348</guid>
-            <pubDate>Wed, 23 Mar 2022 02:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff392ca90d072bef911fc418c4b52e383e234421e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 시그널]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149546</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149546</guid>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 23 Mar 2022 02:34:32 GMT</pubDate>
             <content:encoded><![CDATA[22.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff5c204a3748c166fa3c2dad2ef95eaa28aaa0140" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[컴온 컴온]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153655</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153655</guid>
-            <pubDate>Wed, 23 Mar 2022 02:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[22.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c6bcbfd6d5276a4b9fcba94dc332615db1b1bb0" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
