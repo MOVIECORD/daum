@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 08:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 09:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc982f39016322391451456b3fe9bb9f82fa74950" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[사랑 후의 두 여자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146201</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146201</guid>
-            <pubDate>Sun, 13 Mar 2022 08:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ca067234bc4a4f10b1fd8a3cba5071276843f0d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[배니싱: 미제사건]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=140348</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=140348</guid>
@@ -80,6 +72,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc36719e994b92baa8bd3792663755aeed47606b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[사랑 후의 두 여자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146201</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146201</guid>
+            <pubDate>Sun, 13 Mar 2022 08:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ca067234bc4a4f10b1fd8a3cba5071276843f0d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[B컷]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157433</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157433</guid>
@@ -101,6 +101,14 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=158797</guid>
             <pubDate>Mon, 21 Mar 2022 02:28:09 GMT</pubDate>
             <content:encoded><![CDATA[22.03.31]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[파리, 13구]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152019</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152019</guid>
+            <pubDate>Wed, 23 Mar 2022 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fffa49b84630a69dc84c1138358a461eab82c1dff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드라이]]></title>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 23 Mar 2022 02:34:32 GMT</pubDate>
             <content:encoded><![CDATA[22.03.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d5265daadb87d26b0c2936383ed22e201d34564" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 시그널]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149546</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149546</guid>
-            <pubDate>Wed, 23 Mar 2022 02:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd241cc8046e67a0230a48c67effed151ed03a901" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
