@@ -4,17 +4,9 @@
         <title>[다음영화] 카카오페이지 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 15:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 02:35:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[브릭스턴 테일]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148122</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148122</guid>
-            <pubDate>Thu, 17 Mar 2022 02:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02d25662f049c6f9656d9272698d50596092f944" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[라스트 드라이버]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=138060</link>
@@ -22,6 +14,14 @@
             <pubDate>Thu, 17 Mar 2022 02:18:46 GMT</pubDate>
             <content:encoded><![CDATA[22.03.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbbb1cb55f589050866d933784418a223b074701b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인투 더 보이드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157964</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157964</guid>
+            <pubDate>Wed, 23 Mar 2022 02:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F492c6d03f82d0aea14c665c235c24371aac3f667" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
