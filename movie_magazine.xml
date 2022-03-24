@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 05:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 06:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<한화이글스: 클럽하우스>부터 <스파이럴>까지 골라 보자!]]></title>
+            <link>https://content.v.daum.net/v/E0zSamGg6N</link>
+            <guid>https://content.v.daum.net/v/E0zSamGg6N</guid>
+            <pubDate>Thu, 24 Mar 2022 06:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[무비스트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2FMOVIST%2F20220324061024020rh48.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[60초 만에 마스터! <아이스 에이지> 시리즈 6편]]></title>
             <link>https://content.v.daum.net/v/EYcU8sl0ef</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Mar 2022 02:28:45 GMT</pubDate>
             <content:encoded><![CDATA[무비스트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F22%2FMOVIST%2F20220322000755972d8a2.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA["아들과 상의 마쳐" 안락사 하기로 결심한 세기의 미남 배우]]></title>
-            <link>https://content.v.daum.net/v/Eq5tPnKGXT</link>
-            <guid>https://content.v.daum.net/v/Eq5tPnKGXT</guid>
-            <pubDate>Tue, 22 Mar 2022 02:28:45 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F21%2Ffeelthemovie%2F20220321014839133rapt.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
