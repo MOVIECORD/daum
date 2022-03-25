@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 04:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 05:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 25 Mar 2022 02:22:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>청우]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8EUf%2Fimage%2FMKRFeBc30eN-a5Clf2v5Yq-HjmA.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<그래비티>-자신을 짓누르는 중력을 딛고 서다]]></title>
+            <link>https://brunch.co.kr/@@907a/35</link>
+            <guid>https://brunch.co.kr/@@907a/35</guid>
+            <pubDate>Fri, 25 Mar 2022 05:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>강유현]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F907a%2Fimage%2F0j9fA0Jv0mPmv3V2MEiaXK0GDMo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[매드맥스 분노의 도로 오디션 비하인드 이미지]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 21 Mar 2022 05:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>허리케인봉]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8wgD%2Fimage%2FqAmiLjYBendWNzpyjoJ72LCMjAc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화가 좋았는데, 이제는 미드만 본다]]></title>
-            <link>https://brunch.co.kr/@@5eG/91</link>
-            <guid>https://brunch.co.kr/@@5eG/91</guid>
-            <pubDate>Mon, 21 Mar 2022 05:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>보노]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5eG%2Fimage%2FpOWYSRYK3roe0RClq-qtDEkMGV4.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
