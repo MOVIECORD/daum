@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 10:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 11:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 28 Mar 2022 03:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박성아]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdOk1%2Fimage%2FPBJSZdhK1bvpkpV3JRMhhyJ5AeM.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[한국시장을 사로잡을 애플티비 반전의 신호탄]]></title>
+            <link>https://brunch.co.kr/@@2ViD/698</link>
+            <guid>https://brunch.co.kr/@@2ViD/698</guid>
+            <pubDate>Mon, 28 Mar 2022 11:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>가려진 시간]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2ViD%2Fimage%2F3GnShA9w2EHBMfZxqLQw0rggm2o.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[오직, 온 세상인 사랑]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 23 Mar 2022 02:35:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>선이정]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FrsA%2Fimage%2Fx-r8EFWqVtpjW8dS2Wf4tlRxfX8.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[킹 리차드*유리천장에 맞선 부성애]]></title>
-            <link>https://brunch.co.kr/@@6wHY/555</link>
-            <guid>https://brunch.co.kr/@@6wHY/555</guid>
-            <pubDate>Wed, 23 Mar 2022 02:35:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2FEYl33TQuJ8Wm8xIhHTChM_h3GPY.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
