@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 04:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 05:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd241cc8046e67a0230a48c67effed151ed03a901" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[재춘언니]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145292</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145292</guid>
-            <pubDate>Tue, 15 Mar 2022 10:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f69300e7e973ad35ab1c80aa00c91f0adbc1e9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[패러렐 마더스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152343</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152343</guid>
             <pubDate>Fri, 18 Mar 2022 08:20:10 GMT</pubDate>
             <content:encoded><![CDATA[22.03.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58a3b0cf3f22998a0f53d73dad7a5f6d8b8d3d3f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[재춘언니]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145292</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145292</guid>
+            <pubDate>Tue, 15 Mar 2022 10:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f69300e7e973ad35ab1c80aa00c91f0adbc1e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[사랑 후의 두 여자]]></title>
@@ -80,12 +80,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F736ee84e6960e8e64a898957df6c60e197eec4b0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 컨테이젼: 바이러스의 습격]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=122270</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=122270</guid>
-            <pubDate>Mon, 21 Mar 2022 08:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[22.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd2d0371991a5735e4edddb52c08dd68a3bafed4c" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[약속의 네버랜드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147082</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147082</guid>
+            <pubDate>Mon, 28 Mar 2022 05:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe23122c18f309d12cfc7a8a71bb6b35b57da18de" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[불도저에 탄 소녀]]></title>
@@ -112,6 +112,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb42cf790edec5ac8578ab9792434ca94b3e50e9d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 컨테이젼: 바이러스의 습격]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122270</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122270</guid>
+            <pubDate>Mon, 21 Mar 2022 08:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd2d0371991a5735e4edddb52c08dd68a3bafed4c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[FBI 데스트랩]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151411</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151411</guid>
@@ -126,6 +134,14 @@
             <pubDate>Mon, 28 Mar 2022 02:39:42 GMT</pubDate>
             <content:encoded><![CDATA[22.04.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8285990df23537649fc30d2f5725ff9a55d3ef7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[앰뷸런스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154784</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154784</guid>
+            <pubDate>Mon, 28 Mar 2022 05:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F112dd823e87e52a7203bb658c92cf86eb6237add" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나의 집은 어디인가]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 24 Mar 2022 02:27:03 GMT</pubDate>
             <content:encoded><![CDATA[22.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c6bcbfd6d5276a4b9fcba94dc332615db1b1bb0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[대명금의위]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156605</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156605</guid>
-            <pubDate>Thu, 24 Mar 2022 02:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F16d7fa13480c53dc44aa6f0a1a86c8673ae59012" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[대명금의위2: 척살무사]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156753</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156753</guid>
-            <pubDate>Thu, 24 Mar 2022 02:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5f6e9d08ac37da94264286810e5bcab91458b863" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
