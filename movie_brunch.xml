@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 06:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 07:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
             <pubDate>Tue, 29 Mar 2022 06:22:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>최다함 문화소믈리에]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1lcG%2Fimage%2FhmOyKA9ykO4qxBUkRCT1h86DctM.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[잃어버린 나의 골목길]]></title>
+            <link>https://brunch.co.kr/@@c1lg/97</link>
+            <guid>https://brunch.co.kr/@@c1lg/97</guid>
+            <pubDate>Tue, 29 Mar 2022 07:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Mr 펭귄씨]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fc1lg%2Fimage%2Fg0pgN0WwqWsKzJdrgiSgY0KQ-1Y.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[소리 없이 빛나는 세 장면]]></title>
+            <link>https://brunch.co.kr/@@Ww5/287</link>
+            <guid>https://brunch.co.kr/@@Ww5/287</guid>
+            <pubDate>Tue, 29 Mar 2022 07:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Robinsoon]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FWw5%2Fimage%2FTZ6eerVWbBMkhzm7w2aFHsdkjmU.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[[Movie] 돈룩업-오만한 저희가 은총을 구하나이다]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 24 Mar 2022 02:28:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Widermovie]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdyYe%2Fimage%2FGN3SbgWTn4_jm-UiK8DnW9rAd1A.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[플로리다 프로젝트 & 내 이름은 꾸제트]]></title>
-            <link>https://brunch.co.kr/@@1qTm/59</link>
-            <guid>https://brunch.co.kr/@@1qTm/59</guid>
-            <pubDate>Thu, 24 Mar 2022 02:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>달팽이구름]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1qTm%2Fimage%2FX735ec6zd8yFJDuEzeSuL0_Ken0.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[지금의 디즈니를 있게 한 고전 명작]]></title>
-            <link>https://brunch.co.kr/@@bIdi/101</link>
-            <guid>https://brunch.co.kr/@@bIdi/101</guid>
-            <pubDate>Thu, 24 Mar 2022 05:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>조현준의 영화리뷰]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbIdi%2Fimage%2FLHPYCNEXAOefKskGsgQpw7Ad9CA.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
