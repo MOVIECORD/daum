@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 06:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 07:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[B컷 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157433</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157433</guid>
-            <pubDate>Mon, 21 Mar 2022 03:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F22bbb15e8a2a67232a02dc09b87b8aff202a5609" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[드라이 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149227</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149227</guid>
             <pubDate>Tue, 15 Mar 2022 10:19:34 GMT</pubDate>
             <content:encoded><![CDATA[22.03.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ac6afd6ce9c957440c76d731f81503c2d5b3d42" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[B컷 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157433</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157433</guid>
+            <pubDate>Mon, 21 Mar 2022 03:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F22bbb15e8a2a67232a02dc09b87b8aff202a5609" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa44461b8b66480bfed5a5c458ee63f964c6794b4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[벨파스트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152920</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152920</guid>
-            <pubDate>Wed, 23 Feb 2022 04:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[사랑 후의 두 여자 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146201</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146201</guid>
@@ -110,6 +102,14 @@
             <pubDate>Tue, 01 Mar 2022 07:15:45 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3472a25d3f3448b0a113f2c7684418417d2d372" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[벨파스트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152920</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152920</guid>
+            <pubDate>Wed, 23 Feb 2022 04:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2094,6 +2094,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64d2b19cbeebda93224194bc5a2ab716bf802aa1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[김혜수가 촬영 3주 전부터 죽고 싶다고 할 정도로 힘들어 했던 작품 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/ExYHwqwCVt</link>
+            <guid>https://content.v.daum.net/v/ExYHwqwCVt</guid>
+            <pubDate>Wed, 30 Mar 2022 07:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F30%2Ffeelthemovie%2F20220330071115629tplh.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[한석규, 이병헌이 거절한 세계적으로 대성공한 명작 작품 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EIbkSuY9KZ</link>
+            <guid>https://content.v.daum.net/v/EIbkSuY9KZ</guid>
+            <pubDate>Wed, 30 Mar 2022 07:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F30%2Ffeelthemovie%2F20220330062136626zvvs.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 미투 사건으로 5년간 개봉 못했던 영화, 결국.. (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EtFQ5H8iyK</link>
+            <guid>https://content.v.daum.net/v/EtFQ5H8iyK</guid>
+            <pubDate>Wed, 30 Mar 2022 07:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F30%2Fmaxmovie%2F20220330063806091te8e.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[역대급 배우진으로 개봉 전부터 난리 난 마블 <신작> (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/ELh4TWJQxR</link>
+            <guid>https://content.v.daum.net/v/ELh4TWJQxR</guid>
+            <pubDate>Wed, 30 Mar 2022 07:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F30%2Fmaxmovie%2F20220330062134406bqyr.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[여성과 모성에서 역사로 <패러럴 마더스> (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EDVxJRTVz6</link>
             <guid>https://content.v.daum.net/v/EDVxJRTVz6</guid>
@@ -2220,38 +2252,6 @@
             <pubDate>Mon, 28 Mar 2022 07:17:52 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F28%2Fmaxmovie%2F20220328161534843omsv.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[아내모욕에 시상식서 폭력 쓴 배우가 울면서 한 수상소감은.. (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/Ef2CGryMVV</link>
-            <guid>https://content.v.daum.net/v/Ef2CGryMVV</guid>
-            <pubDate>Mon, 28 Mar 2022 07:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F28%2Fmaxmovie%2F20220328065926935nfq7.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔작으로 칸영화제 최연소 주연상 수상한 배우 근황 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EHdUToPe9D</link>
-            <guid>https://content.v.daum.net/v/EHdUToPe9D</guid>
-            <pubDate>Mon, 28 Mar 2022 06:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F28%2FBoiledMovie%2F20220328050625473wcuu.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[아마도 대한민국에서 가장 무섭고 살벌한 이 모녀 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EM3LVAJHfQ</link>
-            <guid>https://content.v.daum.net/v/EM3LVAJHfQ</guid>
-            <pubDate>Mon, 28 Mar 2022 05:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F28%2Ffeelthemovie%2F20220328042600647ybyr.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[전세계가 지켜보는 아카데미 시상식에서 주먹을 날린 윌 스미스 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/E0p1B11B7E</link>
-            <guid>https://content.v.daum.net/v/E0p1B11B7E</guid>
-            <pubDate>Mon, 28 Mar 2022 04:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F28%2FBoiledMovie%2F20220328041004974at3k.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영원한 어둠은 없다 (다음 영화 ─ 브런치)]]></title>
@@ -2398,20 +2398,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5uYQ%2Fimage%2FjLZeNowIX9VJWKIhnXDW3ZgCrds" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[아카데미가 주목한 두 편의 넷플릭스 단편 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@9lOS/158</link>
-            <guid>https://brunch.co.kr/@@9lOS/158</guid>
-            <pubDate>Tue, 29 Mar 2022 02:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2FUi7iASFtO8jG1vwY4o5BHMX9-jw.jpg" length="0" type="image//thumb/S510x290/"/>
+            <title><![CDATA[<시라노> 리뷰 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@5uYQ/300</link>
+            <guid>https://brunch.co.kr/@@5uYQ/300</guid>
+            <pubDate>Wed, 30 Mar 2022 07:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>킴지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5uYQ%2Fimage%2FwUfs2bfnAtlJYwt2gPkXsQcPj3U" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[<킹 리차드> 능력주의의 현실을 환기시키는 부성애 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5XLU/454</link>
-            <guid>https://brunch.co.kr/@@5XLU/454</guid>
-            <pubDate>Tue, 29 Mar 2022 02:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FnvC_okUThPeH4rScWmegyjF4mFs.jpg" length="0" type="image//thumb/S510x290/"/>
+            <title><![CDATA[‘베놈’ 실수의 반복? 모비우스가 남긴 아쉬움 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@2ViD/699</link>
+            <guid>https://brunch.co.kr/@@2ViD/699</guid>
+            <pubDate>Wed, 30 Mar 2022 07:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>가려진 시간]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2ViD%2Fimage%2FlKX9qJYe1Q9b3-VXRDwh1RBH5Ow.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
