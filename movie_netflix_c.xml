@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 08:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 09:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -576,6 +576,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F29bc58974e2583fda515e49f8af3ff51eb7bca16" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[변신]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=126721</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=126721</guid>
+            <pubDate>Wed, 30 Mar 2022 09:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3c67b43ee2f346e79a171a24775f9ff71566361865289" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[곤지암]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=118604</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=118604</guid>
+            <pubDate>Wed, 30 Mar 2022 09:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd999ebfe5e1caf123382fa37dd4b140b4d487349" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[나이브스 아웃]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127153</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127153</guid>
@@ -702,6 +718,22 @@
             <pubDate>Tue, 29 Mar 2022 03:31:53 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd37b8393245c461b87614fb6db136e191540368768866" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[컨저링 2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=94486</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=94486</guid>
+            <pubDate>Wed, 30 Mar 2022 09:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2fcacc0c6a963cb72504fd9d017a53650f54e021" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[컨저링]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=77979</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=77979</guid>
+            <pubDate>Wed, 30 Mar 2022 09:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F246B664A5223FF1E12" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
