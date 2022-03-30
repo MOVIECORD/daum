@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 05:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 06:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,13 @@
             <pubDate>Wed, 30 Mar 2022 05:16:14 GMT</pubDate>
             <content:encoded><![CDATA[22.03.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8013f85b868f4f4abd901b4c416be76d1552224646309" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[추락한 스타: 그는 무엇을 잘못했나]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158579</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158579</guid>
+            <pubDate>Wed, 30 Mar 2022 06:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애프터 썬셋]]></title>
@@ -87,6 +94,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2d70a5fc37dd0e65d5d5b818864ec20e87e32ac" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[고티카]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=37480</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=37480</guid>
+            <pubDate>Wed, 30 Mar 2022 06:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F11110210A909F9D326" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[십개월의 미래]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141859</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141859</guid>
@@ -141,6 +156,22 @@
             <pubDate>Mon, 28 Mar 2022 06:21:57 GMT</pubDate>
             <content:encoded><![CDATA[22.04.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcdc136eb6dc107c8ec4950f7cac75e5331df0d92" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[추즈 오어 다이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159047</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159047</guid>
+            <pubDate>Wed, 30 Mar 2022 06:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0bee642923fd29f92bf24fc490b81bae1a7b7293" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[여름밤을 달려 봐]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159050</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159050</guid>
+            <pubDate>Wed, 30 Mar 2022 06:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc05d688c38720efb26d1a134278d97d730870fd4" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
