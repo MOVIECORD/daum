@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 02:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 03:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=157433</guid>
             <pubDate>Wed, 30 Mar 2022 02:37:38 GMT</pubDate>
             <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb56e0a08f34d52385c318bef8d4485e46044cff3" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F22bbb15e8a2a67232a02dc09b87b8aff202a5609" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드라이]]></title>
@@ -88,20 +88,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa44461b8b66480bfed5a5c458ee63f964c6794b4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[사랑 후의 두 여자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146201</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146201</guid>
-            <pubDate>Wed, 30 Mar 2022 02:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ca067234bc4a4f10b1fd8a3cba5071276843f0d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[벨파스트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152920</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152920</guid>
             <pubDate>Wed, 23 Mar 2022 02:34:25 GMT</pubDate>
             <content:encoded><![CDATA[22.03.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑 후의 두 여자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146201</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146201</guid>
+            <pubDate>Wed, 30 Mar 2022 02:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ca067234bc4a4f10b1fd8a3cba5071276843f0d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[문폴]]></title>
@@ -144,20 +144,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3741882ac3d1e790de3cf934aaf4bd886c5565ea" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[도어맨]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144409</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144409</guid>
-            <pubDate>Sun, 27 Mar 2022 08:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37c7b1c61c83eb6ada6f6193afc56dc7c9881165" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
-            <pubDate>Mon, 28 Mar 2022 02:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[듄]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
+            <pubDate>Wed, 30 Mar 2022 03:31:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[어거스트 버진]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 29 Mar 2022 02:38:02 GMT</pubDate>
             <content:encoded><![CDATA[22.03.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc982f39016322391451456b3fe9bb9f82fa74950" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[우리가 사랑이라고 믿는 것]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134485</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134485</guid>
+            <pubDate>Wed, 30 Mar 2022 03:31:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59f14769d01ff2e8ec75a72ce36be48c7a28d755" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 02:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 03:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb42cf790edec5ac8578ab9792434ca94b3e50e9d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[로망스 돌]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138836</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138836</guid>
+            <pubDate>Wed, 30 Mar 2022 02:37:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d2b95e7f7ab986aebc6105aa409ce7357f81b30" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[스텔라]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=120972</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=120972</guid>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 30 Mar 2022 02:37:45 GMT</pubDate>
             <content:encoded><![CDATA[22.04.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0bd104af8fa8ed021dcb323699c5c68c99df87e0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[로망스 돌]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138836</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138836</guid>
-            <pubDate>Wed, 30 Mar 2022 02:37:45 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d2b95e7f7ab986aebc6105aa409ce7357f81b30" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 버블]]></title>
