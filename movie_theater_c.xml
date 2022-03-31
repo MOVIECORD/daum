@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 10:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 11:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbfd1a30b31cd4184063f9c2c53a1d050c1ad54f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[루이스 웨인: 사랑을 그린 고양이 화가]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153607</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153607</guid>
+            <pubDate>Mon, 28 Mar 2022 02:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8285990df23537649fc30d2f5725ff9a55d3ef7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[앵커]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=135501</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=135501</guid>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 30 Mar 2022 02:37:45 GMT</pubDate>
             <content:encoded><![CDATA[22.04.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d2b95e7f7ab986aebc6105aa409ce7357f81b30" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[루이스 웨인: 사랑을 그린 고양이 화가]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153607</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153607</guid>
-            <pubDate>Mon, 28 Mar 2022 02:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8285990df23537649fc30d2f5725ff9a55d3ef7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[불도저에 탄 소녀]]></title>
@@ -136,14 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F947d7735379fa7f69e850057fe098cad19841bbf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[3.5교시]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158870</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158870</guid>
-            <pubDate>Thu, 31 Mar 2022 02:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1884098047353aa44e0cec24b367bad2302e5113" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[야차]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=133674</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=133674</guid>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 31 Mar 2022 05:16:22 GMT</pubDate>
             <content:encoded><![CDATA[22.04.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F791f833d5acbb13f17b61500054d50c79b05519a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[파일럿: 배틀 포 서바이벌]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155017</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155017</guid>
+            <pubDate>Thu, 31 Mar 2022 11:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc52643031b610d01804fa9bc017297378960e6c0" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
