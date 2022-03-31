@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 08:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 09:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Thu, 31 Mar 2022 06:22:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박병운]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2V6i%2Fimage%2FgcHFsabgV9qKr4P772vM8TJ3nNg.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[해밀턴]]></title>
+            <link>https://brunch.co.kr/@@zKf/324</link>
+            <guid>https://brunch.co.kr/@@zKf/324</guid>
+            <pubDate>Thu, 31 Mar 2022 09:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>아쉬타카]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FzKf%2Fimage%2Fc4GfJR5B1JV-FZ71JaHnybTvLag.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[[영화리뷰] - <듄(2021)>]]></title>
+            <link>https://brunch.co.kr/@@dV6x/1</link>
+            <guid>https://brunch.co.kr/@@dV6x/1</guid>
+            <pubDate>Thu, 31 Mar 2022 09:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>재아]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdV6x%2Fimage%2FAkrxgYso377KCG2VmUfcQpDNxII.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영원한 어둠은 없다]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 30 Mar 2022 06:23:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>킴지]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5uYQ%2Fimage%2FzvugTr6IBSlhav_D1SEbI4NruKg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<안테벨룸> 리뷰]]></title>
-            <link>https://brunch.co.kr/@@5uYQ/302</link>
-            <guid>https://brunch.co.kr/@@5uYQ/302</guid>
-            <pubDate>Wed, 30 Mar 2022 06:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>킴지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5uYQ%2Fimage%2FwraUj0JGguWcq-x3r_KUydba-6Q" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<리코리쉬 피자> 리뷰]]></title>
-            <link>https://brunch.co.kr/@@5uYQ/301</link>
-            <guid>https://brunch.co.kr/@@5uYQ/301</guid>
-            <pubDate>Wed, 30 Mar 2022 06:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>킴지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5uYQ%2Fimage%2FjLZeNowIX9VJWKIhnXDW3ZgCrds" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
