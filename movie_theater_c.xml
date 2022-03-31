@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 04:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 05:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Wed, 23 Mar 2022 05:16:14 GMT</pubDate>
             <content:encoded><![CDATA[22.04.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d93fdcc0efc92362da8b5e73eb5db83e44d6190" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴 파워 오브 러브 : 더 무비]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158452</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158452</guid>
-            <pubDate>Tue, 29 Mar 2022 04:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbd34505a44a846ca734f63e581cc28f83f435a8c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[FBI 데스트랩]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 31 Mar 2022 02:35:09 GMT</pubDate>
             <content:encoded><![CDATA[22.04.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc3ee0978b4b97f6a302bb58d690b99ae429223cb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[행복을 전하는 편지]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145703</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145703</guid>
+            <pubDate>Thu, 31 Mar 2022 05:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F791f833d5acbb13f17b61500054d50c79b05519a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 04:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 05:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,6 +87,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F11110210A909F9D326" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[분닥 세인트 2 : 올 세인트 데이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=53975</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=53975</guid>
+            <pubDate>Thu, 31 Mar 2022 05:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F116A95184B826A6825" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[십개월의 미래]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141859</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141859</guid>
@@ -165,6 +173,14 @@
             <pubDate>Wed, 30 Mar 2022 06:22:55 GMT</pubDate>
             <content:encoded><![CDATA[22.04.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc05d688c38720efb26d1a134278d97d730870fd4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마릴린 먼로 미스터리: 비공개 테이프]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159073</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159073</guid>
+            <pubDate>Thu, 31 Mar 2022 05:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F32bf3607a442aac754b26de8492dbad46206b688" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
