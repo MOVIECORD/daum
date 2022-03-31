@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 03:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 04:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f69300e7e973ad35ab1c80aa00c91f0adbc1e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 배트맨]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
+            <pubDate>Tue, 01 Mar 2022 02:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc69ee37e41d9fed49935446d3a6697f7467df4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[B컷]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157433</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157433</guid>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 30 Mar 2022 02:37:38 GMT</pubDate>
             <content:encoded><![CDATA[22.03.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ac6afd6ce9c957440c76d731f81503c2d5b3d42" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 배트맨]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
-            <pubDate>Tue, 01 Mar 2022 02:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc69ee37e41d9fed49935446d3a6697f7467df4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스펜서]]></title>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ca067234bc4a4f10b1fd8a3cba5071276843f0d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뱅드림! 팝핀‘ 드림!]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156955</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156955</guid>
-            <pubDate>Thu, 24 Mar 2022 02:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5850d17f2763ce9382810e46da277c047331a826" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[문폴]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141644</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141644</guid>
@@ -150,6 +142,14 @@
             <pubDate>Mon, 28 Mar 2022 12:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.12.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뱅드림! 팝핀‘ 드림!]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156955</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156955</guid>
+            <pubDate>Thu, 24 Mar 2022 02:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5850d17f2763ce9382810e46da277c047331a826" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유어 러브 송]]></title>
