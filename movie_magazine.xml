@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 05:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 06:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그냥 마블한테 영화좀 만들어 달라고 부탁하지 그랬어요]]></title>
+            <link>https://content.v.daum.net/v/EH1PojrAkx</link>
+            <guid>https://content.v.daum.net/v/EH1PojrAkx</guid>
+            <pubDate>Fri, 01 Apr 2022 06:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Ffeelthemovie%2F20220401054252028aqhq.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[결혼은 먼 이야기라 생각한 신민아가 결혼을 하고 싶다고 결심한 이유]]></title>
             <link>https://content.v.daum.net/v/Ext187Hj9v</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 30 Mar 2022 07:18:26 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F30%2Fmaxmovie%2F20220330062134406bqyr.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[여성과 모성에서 역사로 <패러렐 마더스>]]></title>
-            <link>https://content.v.daum.net/v/EDVxJRTVz6</link>
-            <guid>https://content.v.daum.net/v/EDVxJRTVz6</guid>
-            <pubDate>Wed, 30 Mar 2022 06:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F30%2FMOVIST%2F20220330061329275ti2o.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
