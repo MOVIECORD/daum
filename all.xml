@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 04:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 05:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,20 +144,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f36239c8793130463da1803b3290db64c0bc554" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
-            <pubDate>Mon, 28 Mar 2022 12:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[유어 러브 송 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=138924</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=138924</guid>
             <pubDate>Wed, 23 Mar 2022 08:21:05 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96a9baeced0424f6271b699e009e0d52dd166922" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
+            <pubDate>Mon, 28 Mar 2022 12:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -440,6 +440,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F29bc58974e2583fda515e49f8af3ff51eb7bca16" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[미쓰백 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=106812</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=106812</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F52567b7f6d7b40de80547f3df5baf7dc1539220839363" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[완벽한 타인 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=117910</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=117910</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb9834885f7747d78e132b66c0cf46a21541478705054" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[1987 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=108595</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=108595</guid>
@@ -448,12 +464,60 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd12d8d80e0e8f99bc3a468ed133649f6fd52d9a7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[꾼 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=103971</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=103971</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fde8b2928aeb18d55742a7252294eb118cd3526b5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극한직업 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=119859</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=119859</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4e00e81f2b6f4d2eb65b3387240cc3c01547608409838" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[변신 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=126721</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=126721</guid>
             <pubDate>Wed, 30 Mar 2022 09:16:52 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3c67b43ee2f346e79a171a24775f9ff71566361865289" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[국가부도의 날 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114124</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114124</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F274291ad9da34893b93fa702335536501540800387124" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해치지않아 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=125368</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=125368</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c338815e70f4fd7a4a3567f9d3abb0e1579055467364" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[공작 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=109169</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=109169</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe6cb5f4ebacddbce19b5592c793f63711eb25fa3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[골든슬럼버 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=108886</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=108886</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faae02966ac7073a898fc18815db09e541386d0d8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[협상 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -472,6 +536,62 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd999ebfe5e1caf123382fa37dd4b140b4d487349" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[그것만이 내 세상 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=108632</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=108632</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd01572b0c0851e1746daeea012f0a8841d2253a4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[탐정: 리턴즈 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=112705</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=112705</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F10ecb6735ab9b3fbe079448fabf511d0016c2227" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[동네사람들 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=113942</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=113942</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faeb124079dbb49c3899ade70171ab4421541745894149" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 기억해 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=108058</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=108058</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a14ec1b5b5ab5c76c8e31b0728323b93b7e468e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해피뻐스데이 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=111204</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=111204</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c4b83f8701930327d33b2b1c154a364f8b37ee6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[죄 많은 소녀 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=115437</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=115437</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2b091d13308b39f73aa5de39520997d8b84bbfcb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[머니백 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=102275</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=102275</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F599c776e1546a03948ff6534c7b01fca703d92bb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[나이브스 아웃 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127153</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127153</guid>
@@ -488,6 +608,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ae980868a704430b451dea057462c971540190615508" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[배반의 장미 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=121154</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=121154</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbddbf6be3f2d4d5e835a113f457de9341537238798862" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[시간위의 집 디 오리지널 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=84667</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=84667</guid>
@@ -502,6 +630,14 @@
             <pubDate>Thu, 31 Mar 2022 02:35:17 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb410d0984dd6174ce3353dc6782dcb896a78cf33" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[부라더 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=108602</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=108602</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F34725073a09f902e5f24db727d7022aaa7cf7442" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[원더스트럭 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -741,6 +877,46 @@
             <pubDate>Thu, 31 Mar 2022 05:16:41 GMT</pubDate>
             <content:encoded><![CDATA[22.04.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F116A95184B826A6825" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이더맨 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3557</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3557</guid>
+            <pubDate>Fri, 01 Apr 2022 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F136F1B10AB75C4B0EA" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이더맨 2 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=35022</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=35022</guid>
+            <pubDate>Fri, 01 Apr 2022 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F116F1B10AB75CD33EE" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이더맨 3 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41211</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41211</guid>
+            <pubDate>Fri, 01 Apr 2022 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10AB43A7CF2E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[솔트 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=50445</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=50445</guid>
+            <pubDate>Fri, 01 Apr 2022 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F132C531A4C1ED6DF68" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[행복을 찾아서 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=42696</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=42696</guid>
+            <pubDate>Fri, 01 Apr 2022 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd87eb52410d9c20b0fd2b57c933b092e1547147" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[십개월의 미래 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -1407,6 +1583,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8wED%2Fimage%2FFGuY4FY8vMVUlBYQceALtTOdqus" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[코로나 시대를 위한 따뜻한 웃음의 힐링 판타지 코미디 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@2ViD/700</link>
+            <guid>https://brunch.co.kr/@@2ViD/700</guid>
+            <pubDate>Fri, 01 Apr 2022 05:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>가려진 시간]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2ViD%2Fimage%2FXFAuX1sWP4vpp72aph9abphQwtU.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[모나코, 몬테 칼로 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@cYHh/37</link>
             <guid>https://brunch.co.kr/@@cYHh/37</guid>
@@ -1525,14 +1709,6 @@
             <pubDate>Wed, 30 Mar 2022 06:23:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>킴지]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5uYQ%2Fimage%2FguulrJqvjvf6p3SyUhwF6Sx5SJ4" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<해적: 도깨비 깃발> 리뷰 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5uYQ/307</link>
-            <guid>https://brunch.co.kr/@@5uYQ/307</guid>
-            <pubDate>Wed, 30 Mar 2022 06:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>킴지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5uYQ%2Fimage%2FEsKBn_v3A8_hHK566nRiXzet4Rw" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
