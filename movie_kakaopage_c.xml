@@ -4,7 +4,7 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 15:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 02:31:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,30 @@
             <pubDate>Wed, 30 Mar 2022 02:38:20 GMT</pubDate>
             <content:encoded><![CDATA[22.04.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05ae8a14b68784c148fab4f25d6c217d950341e5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어느 독재자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=88068</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=88068</guid>
+            <pubDate>Sat, 02 Apr 2022 02:31:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4bd76e2750781b1f989daff7b80c251a7f50a91b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[개에게 처음 이름을 지어준 날]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=104883</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=104883</guid>
+            <pubDate>Sat, 02 Apr 2022 02:31:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d1b7167cb746b776980caa5ad7ab5fba3d2e791" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라라랜드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=95306</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=95306</guid>
+            <pubDate>Sat, 02 Apr 2022 02:31:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0e371de6f342a66143c49af3dd2b204342bbb5aa" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

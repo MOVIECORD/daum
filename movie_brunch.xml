@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 15:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 02:31:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Fri, 01 Apr 2022 05:16:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>가려진 시간]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2ViD%2Fimage%2FXFAuX1sWP4vpp72aph9abphQwtU.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[모나코, 몬테 칼로]]></title>
-            <link>https://brunch.co.kr/@@cYHh/37</link>
-            <guid>https://brunch.co.kr/@@cYHh/37</guid>
-            <pubDate>Thu, 31 Mar 2022 05:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Engineer]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcYHh%2Fimage%2F4szBd5l1gZ_ZvTd5v-Q5bGLSVJQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[[아미 오브 더 데드]]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 30 Mar 2022 06:23:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>킴지]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5uYQ%2Fimage%2FguulrJqvjvf6p3SyUhwF6Sx5SJ4" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<해적: 도깨비 깃발> 리뷰]]></title>
+            <link>https://brunch.co.kr/@@5uYQ/307</link>
+            <guid>https://brunch.co.kr/@@5uYQ/307</guid>
+            <pubDate>Sat, 02 Apr 2022 02:31:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>킴지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5uYQ%2Fimage%2FEsKBn_v3A8_hHK566nRiXzet4Rw" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
