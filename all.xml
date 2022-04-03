@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 15:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 02:31:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f69300e7e973ad35ab1c80aa00c91f0adbc1e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드라이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149227</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149227</guid>
-            <pubDate>Tue, 15 Mar 2022 10:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ac6afd6ce9c957440c76d731f81503c2d5b3d42" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 시그널 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149546</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149546</guid>
             <pubDate>Thu, 24 Mar 2022 02:27:03 GMT</pubDate>
             <content:encoded><![CDATA[22.03.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd241cc8046e67a0230a48c67effed151ed03a901" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149227</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149227</guid>
+            <pubDate>Tue, 15 Mar 2022 10:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ac6afd6ce9c957440c76d731f81503c2d5b3d42" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스펜서 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -112,22 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa44461b8b66480bfed5a5c458ee63f964c6794b4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[문폴 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141644</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141644</guid>
-            <pubDate>Tue, 01 Mar 2022 07:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3472a25d3f3448b0a113f2c7684418417d2d372" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[벨파스트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152920</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152920</guid>
-            <pubDate>Wed, 23 Feb 2022 04:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
@@ -136,12 +120,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[문폴 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141644</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141644</guid>
+            <pubDate>Tue, 01 Mar 2022 07:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3472a25d3f3448b0a113f2c7684418417d2d372" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[뱅드림! 팝핀‘ 드림! (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156955</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156955</guid>
             <pubDate>Thu, 17 Mar 2022 02:17:59 GMT</pubDate>
             <content:encoded><![CDATA[22.03.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5850d17f2763ce9382810e46da277c047331a826" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[벨파스트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152920</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152920</guid>
+            <pubDate>Wed, 23 Feb 2022 04:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유어 러브 송 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f36239c8793130463da1803b3290db64c0bc554" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
-            <pubDate>Sat, 02 Apr 2022 12:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[로망스 돌 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138836</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138836</guid>
+            <pubDate>Sun, 03 Apr 2022 02:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d2b95e7f7ab986aebc6105aa409ce7357f81b30" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[앰뷸런스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1120,6 +1120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb98c87fbf28101a143b671ae6fc8d592aa3aa03f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[4·3과 5·18 생각나게 해주는 스페인 영화, 왜? (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/E5jdjPQVi2</link>
+            <guid>https://content.v.daum.net/v/E5jdjPQVi2</guid>
+            <pubDate>Sun, 03 Apr 2022 02:31:46 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2Ffanzeel%2F20220401140023048hkgv.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[친구의 자살 파헤치던 경찰에게 벌어진 일 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/Eu2ROY8jbs</link>
             <guid>https://content.v.daum.net/v/Eu2ROY8jbs</guid>
@@ -1270,14 +1278,6 @@
             <pubDate>Thu, 31 Mar 2022 02:35:57 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F30%2Ffeelthemovie%2F20220330145724798uakq.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 크루즈의 한국 사랑! <탑건: 매버릭> 전 세계 최초 국내 개봉 확정 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/E6WDGOwD7d</link>
-            <guid>https://content.v.daum.net/v/E6WDGOwD7d</guid>
-            <pubDate>Thu, 31 Mar 2022 02:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F30%2FMOVIST%2F20220330235146949bxr8.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<아이스 에이지 벅의 대모험> 리뷰 (다음 영화 ─ 브런치)]]></title>
