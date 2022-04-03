@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 12:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 13:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F22bbb15e8a2a67232a02dc09b87b8aff202a5609" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[유어 러브 송]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138924</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138924</guid>
-            <pubDate>Wed, 23 Mar 2022 08:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96a9baeced0424f6271b699e009e0d52dd166922" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[킹 리차드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152650</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152650</guid>
             <pubDate>Thu, 24 Mar 2022 02:26:55 GMT</pubDate>
             <content:encoded><![CDATA[22.03.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa44461b8b66480bfed5a5c458ee63f964c6794b4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유어 러브 송]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138924</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138924</guid>
+            <pubDate>Wed, 23 Mar 2022 08:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96a9baeced0424f6271b699e009e0d52dd166922" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[벨파스트]]></title>
