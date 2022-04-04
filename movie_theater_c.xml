@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 09:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 10:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Mon, 04 Apr 2022 07:17:23 GMT</pubDate>
             <content:encoded><![CDATA[22.04.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65ebcdd5602f23feced76bda6d3c63cb18d4615b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[신비한 동물들과 덤블도어의 비밀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=131275</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=131275</guid>
+            <pubDate>Fri, 01 Apr 2022 02:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F144a58726e78372bc4b79a789058a8e443dc3e22" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[말임씨를 부탁해]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 31 Mar 2022 11:15:11 GMT</pubDate>
             <content:encoded><![CDATA[22.04.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc52643031b610d01804fa9bc017297378960e6c0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[신비한 동물들과 덤블도어의 비밀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=131275</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=131275</guid>
-            <pubDate>Fri, 01 Apr 2022 02:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F144a58726e78372bc4b79a789058a8e443dc3e22" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
