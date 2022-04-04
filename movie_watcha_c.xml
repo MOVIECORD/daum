@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 07:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 08:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,22 @@
             <pubDate>Thu, 31 Mar 2022 05:16:49 GMT</pubDate>
             <content:encoded><![CDATA[22.04.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05ae8a14b68784c148fab4f25d6c217d950341e5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼독스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=118359</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=118359</guid>
+            <pubDate>Mon, 04 Apr 2022 08:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37279d0304211df625e9e46ca126605336ee9cff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어느날]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=104789</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=104789</guid>
+            <pubDate>Mon, 04 Apr 2022 08:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4cb05733887cf4a57da21b4fbe38b9b5bf82547d" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
