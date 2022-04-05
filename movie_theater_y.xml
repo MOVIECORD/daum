@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 14:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 15:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[리디밍 러브]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154879</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154879</guid>
+            <pubDate>Tue, 05 Apr 2022 10:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fccbb20ebcbd54b9d461962f7af826bde5122b805" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[킹 리차드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152650</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152650</guid>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 23 Mar 2022 02:34:25 GMT</pubDate>
             <content:encoded><![CDATA[22.03.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[리디밍 러브]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154879</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154879</guid>
-            <pubDate>Tue, 05 Apr 2022 10:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fccbb20ebcbd54b9d461962f7af826bde5122b805" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유어 러브 송]]></title>
