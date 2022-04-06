@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 07:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 08:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fff592eaf75d3d45cf494a95973b5879e7fe79857" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[패러렐 마더스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152343</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152343</guid>
-            <pubDate>Fri, 18 Mar 2022 08:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58a3b0cf3f22998a0f53d73dad7a5f6d8b8d3d3f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스펜서 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
@@ -104,20 +96,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe807f2e93a1d028b73c1ac89cbcb4e0748965aa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
-            <pubDate>Mon, 14 Feb 2022 12:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
             <pubDate>Tue, 15 Feb 2022 03:16:58 GMT</pubDate>
             <content:encoded><![CDATA[22.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc69ee37e41d9fed49935446d3a6697f7467df4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[패러렐 마더스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152343</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152343</guid>
+            <pubDate>Fri, 18 Mar 2022 08:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58a3b0cf3f22998a0f53d73dad7a5f6d8b8d3d3f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
+            <pubDate>Mon, 14 Feb 2022 12:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1624,6 +1624,117 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F43b80d991582bdefb07602d506d6dd15e5b31307" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[생존자들: 더 레스큐 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148629</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148629</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbd46c9a8b925a453d068098ee432d5ec8f1ca889" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[가인 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148822</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148822</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지원자_김경희.엠케이브이 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133976</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133976</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[개는 구덩이를 판다 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154539</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154539</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab08a354dfe4e7bbe3ef8d25fd78d4110f39df9a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[불효자 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134865</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134865</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F016cb164f6f84f0b9ea1dddf9d9774dd1567437278484" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[체크메이트 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149834</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149834</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[즐거운 나의 집 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146960</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146960</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[31, 내리다 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124340</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124340</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F723cc7c7917ab8c9c7f4a87e192b7a97074bf646" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[구명조끼를 한 해적선장 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134874</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134874</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e98116e0e74592be6138c7c7edf9b11567440904454" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[감자 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134195</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134195</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f8d06aaf6de422aa399df41bf41975b1565324322686" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[상화 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141653</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141653</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세가지 소원 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148305</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148305</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[압구리길다방 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146110</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146110</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공모전 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147982</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147982</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송지훈 김영민 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146395</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146395</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.08]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아사코 ([다음영화] 왓챠 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=121054</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=121054</guid>
@@ -1800,12 +1911,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F947d7735379fa7f69e850057fe098cad19841bbf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[美 흥행순위 2위 '감독'이 화려하게 돌아왔다! (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EUoJzAoZ12</link>
+            <guid>https://content.v.daum.net/v/EUoJzAoZ12</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F06%2Fmaxmovie%2F202204060720175949b1v.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[임창정이 자기 아들들이 볼까봐 두렵다는 자신의 출연작 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EGgFcIi5dG</link>
             <guid>https://content.v.daum.net/v/EGgFcIi5dG</guid>
             <pubDate>Wed, 06 Apr 2022 07:18:04 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F05%2Ffeelthemovie%2F20220405145300004qom1.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[학폭 가해자 부모의 뻔뻔함 "내 아들은 절대 아니야" (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EFJ6CFCMSp</link>
+            <guid>https://content.v.daum.net/v/EFJ6CFCMSp</guid>
+            <pubDate>Wed, 06 Apr 2022 08:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F06%2Fmaxmovie%2F20220406160648875xwvx.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[오스카 이후.. '엄청난 후폭풍' 감당하고 있는 윌 스미스 (다음 영화 ─ 매거진)]]></title>
@@ -1942,22 +2069,6 @@
             <pubDate>Mon, 04 Apr 2022 08:21:59 GMT</pubDate>
             <content:encoded><![CDATA[무비스트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F04%2FMOVIST%2F20220404170814931vtds.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[루퍼트 샌더스 감독 X 빌 스카스가드, <크로우> 리부트 확정 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EBwHY68ub8</link>
-            <guid>https://content.v.daum.net/v/EBwHY68ub8</guid>
-            <pubDate>Mon, 04 Apr 2022 08:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F04%2FMOVIST%2F20220404170741857ilhj.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[오스카 폭행 논란 윌 스미스, 아카데미 회원 자격 자진 반납 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EbbfungGzt</link>
-            <guid>https://content.v.daum.net/v/EbbfungGzt</guid>
-            <pubDate>Mon, 04 Apr 2022 08:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F04%2FMOVIST%2F20220404170720778bnlp.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[자유는 죽음과 함께한다_<아무르> (다음 영화 ─ 브런치)]]></title>
