@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 03:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 04:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,22 @@
             <pubDate>Wed, 06 Apr 2022 03:31:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>jose]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4Yhm%2Fimage%2F35oyZdkfoXCN9Nj8k7dy9fPEj1g.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[말임씨가 발견해낸 온기]]></title>
+            <link>https://brunch.co.kr/@@535y/500</link>
+            <guid>https://brunch.co.kr/@@535y/500</guid>
+            <pubDate>Wed, 06 Apr 2022 04:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Rabbitgumi]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F535y%2Fimage%2F1KhDHVz3u-tixpq3ocuekQJT5EI.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[허무의 미학]]></title>
+            <link>https://brunch.co.kr/@@Pvq/42</link>
+            <guid>https://brunch.co.kr/@@Pvq/42</guid>
+            <pubDate>Wed, 06 Apr 2022 04:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>수안]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FPvq%2Fimage%2FnFEV7gO8wC8rJF6xWw0s9iZH7n8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 <중경삼림> 해석/리뷰]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 01 Apr 2022 02:58:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FJqbhvFrRB0z-IrkrMMfAKwgj3-U.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[세 곡으로 본 장국영]]></title>
-            <link>https://brunch.co.kr/@@8wED/38</link>
-            <guid>https://brunch.co.kr/@@8wED/38</guid>
-            <pubDate>Fri, 01 Apr 2022 02:58:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장동원]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8wED%2Fimage%2FFGuY4FY8vMVUlBYQceALtTOdqus" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 시대를 위한 따뜻한 웃음의 힐링 판타지 코미디]]></title>
-            <link>https://brunch.co.kr/@@2ViD/700</link>
-            <guid>https://brunch.co.kr/@@2ViD/700</guid>
-            <pubDate>Fri, 01 Apr 2022 05:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>가려진 시간]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2ViD%2Fimage%2FXFAuX1sWP4vpp72aph9abphQwtU.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
