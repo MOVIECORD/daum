@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 02:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 03:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 06 Apr 2022 02:36:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김진만]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FZdN%2Fimage%2Fz0R7J-R1apct_OebNAkSz_NMmFw.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[살아가도록 해요.]]></title>
+            <link>https://brunch.co.kr/@@4Yhm/114</link>
+            <guid>https://brunch.co.kr/@@4Yhm/114</guid>
+            <pubDate>Wed, 06 Apr 2022 03:31:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>jose]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4Yhm%2Fimage%2F35oyZdkfoXCN9Nj8k7dy9fPEj1g.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 <중경삼림> 해석/리뷰]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Apr 2022 05:16:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>가려진 시간]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2ViD%2Fimage%2FXFAuX1sWP4vpp72aph9abphQwtU.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[아미 오브 더 데드]]]></title>
-            <link>https://brunch.co.kr/@@2V6i/138</link>
-            <guid>https://brunch.co.kr/@@2V6i/138</guid>
-            <pubDate>Thu, 31 Mar 2022 06:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박병운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2V6i%2Fimage%2FgcHFsabgV9qKr4P772vM8TJ3nNg.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
