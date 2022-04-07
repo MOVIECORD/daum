@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 04:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 05:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0836f6e5edb005ba8c37d5dc4980e5cde33a03fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[쓰리: 아직 끝나지 않았다 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145278</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145278</guid>
-            <pubDate>Tue, 05 Apr 2022 07:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7d13d519278c4ed6f8fb3845423f310b4d8bfde" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[헝거 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142532</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142532</guid>
@@ -326,6 +318,14 @@
             <pubDate>Thu, 31 Mar 2022 03:29:28 GMT</pubDate>
             <content:encoded><![CDATA[22.04.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70f1914207877f7e7a697d31d24ce5f4be680634" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[로스트 시티 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156501</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156501</guid>
+            <pubDate>Thu, 07 Apr 2022 05:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8daf38510106ff04027dbfd242ac1b5e330e844a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나의 첫 번째 슈퍼스타 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1440,6 +1440,77 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d71b7112060244224a8f9abbf27703b965b8903" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[나는 베프를 죽였다 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=140495</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=140495</guid>
+            <pubDate>Thu, 07 Apr 2022 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나는 마약왕의 딸이다 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137104</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137104</guid>
+            <pubDate>Thu, 07 Apr 2022 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feca0bc1ddc5f4ca197aae0d380edf2411574770328098" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그 남자의 비밀: 교수와 제자 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137103</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137103</guid>
+            <pubDate>Thu, 07 Apr 2022 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8d8f667f722b47c4ba5ff0b7fcb5517a1574768457684" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[틴 뱀파이어 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137141</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137141</guid>
+            <pubDate>Thu, 07 Apr 2022 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f1d6380116b4174b4e2aefa5ce249b01574945728558" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[침대 아래 스토커 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137332</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137332</guid>
+            <pubDate>Thu, 07 Apr 2022 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fde20ea924bb24d6698ed93c3517543c11575734813819" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[숲속괴담: 다크포레스트 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114438</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114438</guid>
+            <pubDate>Thu, 07 Apr 2022 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3323fbc8718813263c4aa23ae6bbe7b88d2d220" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[세기의 로맨스2: 해리왕자 왕실부부 이야기 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137106</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137106</guid>
+            <pubDate>Thu, 07 Apr 2022 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd91c6093064494c9a8515173f36d7131574771834202" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[호숫가 살인사건: 톤우드 미스터리 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137068</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137068</guid>
+            <pubDate>Thu, 07 Apr 2022 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba8a074a1e1c40028197777d1869bcba1574772555206" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[주홍글씨: 나의 소녀 성장기 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=113182</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=113182</guid>
+            <pubDate>Thu, 07 Apr 2022 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F973c0eaf145905433cd2adfdc8b3aa88ffafc2a2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[나의 소녀시대 ([다음영화] 왓챠 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=97123</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=97123</guid>
@@ -2038,6 +2109,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F947d7735379fa7f69e850057fe098cad19841bbf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[도올 김용옥이 직접 예명을 지어준 여자 연예인의 반전 근황 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EgyfWn0iLz</link>
+            <guid>https://content.v.daum.net/v/EgyfWn0iLz</guid>
+            <pubDate>Thu, 07 Apr 2022 05:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2Ffeelthemovie%2F20220407045210086bino.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[내면의 아이에게 토닥토닥 <태어나길 잘했어> (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/Ef57hXNkip</link>
             <guid>https://content.v.daum.net/v/Ef57hXNkip</guid>
@@ -2188,14 +2267,6 @@
             <pubDate>Tue, 05 Apr 2022 04:22:12 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F05%2Ffanzeel%2F20220405035349394hjuy.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[너무 잘 어울리는 웨딩 화보 때문에..진짜 결혼할것 같았던 남녀 스타 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EA0EZ32IA7</link>
-            <guid>https://content.v.daum.net/v/EA0EZ32IA7</guid>
-            <pubDate>Tue, 05 Apr 2022 02:30:22 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F04%2Ffeelthemovie%2F20220404144634507ji9y.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[자유는 죽음과 함께한다_<아무르> (다음 영화 ─ 브런치)]]></title>
