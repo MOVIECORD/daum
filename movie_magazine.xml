@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 02:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 03:29:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내면의 아이에게 토닥토닥 <태어나길 잘했어>]]></title>
+            <link>https://content.v.daum.net/v/Ef57hXNkip</link>
+            <guid>https://content.v.daum.net/v/Ef57hXNkip</guid>
+            <pubDate>Thu, 07 Apr 2022 03:29:47 GMT</pubDate>
+            <content:encoded><![CDATA[무비스트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FMOVIST%2F20220407030523494nhkn.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[어쩌다 '모비우스'는 로튼 16% 영화가 됐나?]]></title>
             <link>https://content.v.daum.net/v/EJljyVRBpi</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 05 Apr 2022 02:30:22 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F04%2Ffeelthemovie%2F20220404144634507ji9y.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<파친코> 코고나다 감독 신작 <애프터 양>, 전주국제영화제에서 미리 만난다]]></title>
-            <link>https://content.v.daum.net/v/EC3DUJyFLx</link>
-            <guid>https://content.v.daum.net/v/EC3DUJyFLx</guid>
-            <pubDate>Tue, 05 Apr 2022 02:30:22 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F04%2FMOVIST%2F202204042332519544dbo.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
