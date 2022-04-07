@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 05:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 06:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=157577</guid>
             <pubDate>Wed, 30 Mar 2022 02:37:59 GMT</pubDate>
             <content:encoded><![CDATA[22.04.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F10dda01eb940da5d5fa3e0c1460fb8b59ab697af" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64b916d08c6e2e471e91153cc5f659d0aac3ed37" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[돌아온 포스]]></title>
@@ -80,6 +80,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab1a372dd93ced3c357eabb8e01f3f5d6003267" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 퍼지: 포에버]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150064</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150064</guid>
+            <pubDate>Thu, 07 Apr 2022 06:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7bb553c779f40761833efc1295cda04d55dda432" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[말괄량이 길들이기]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159223</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159223</guid>
+            <pubDate>Thu, 07 Apr 2022 06:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F563447a6de5e798eea4f8e70f76bf8b156d70d0a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[추즈 오어 다이]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159047</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159047</guid>
@@ -142,6 +158,14 @@
             <pubDate>Wed, 06 Apr 2022 09:17:23 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F408d0db1e994b13976585302bccceabab2f24a0b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[버블]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158055</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158055</guid>
+            <pubDate>Thu, 07 Apr 2022 06:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2244bf32b342e70e7424a42b58f250b8b7c8c62c" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
