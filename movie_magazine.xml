@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 08:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 09:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 07 Apr 2022 08:22:09 GMT</pubDate>
             <content:encoded><![CDATA[무비스트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FMOVIST%2F20220407170605502otmr.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[인기 뮤지컬 공연실황 <뮤지컬 킹키부츠 라이브>, CGV에서 만난다]]></title>
+            <link>https://content.v.daum.net/v/EKPZThnDYY</link>
+            <guid>https://content.v.daum.net/v/EKPZThnDYY</guid>
+            <pubDate>Thu, 07 Apr 2022 09:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[무비스트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F07%2FMOVIST%2F20220407170524095vvss.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[평화롭던 일본 '고아원'에서 생긴 충격적인 '사건']]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 05 Apr 2022 09:17:42 GMT</pubDate>
             <content:encoded><![CDATA[무비스트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F05%2FMOVIST%2F20220405175517799tfum.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[특별한 '스텔라' 타고 벌이는 맹추격전 <스텔라>]]></title>
-            <link>https://content.v.daum.net/v/EWsQ03z1tr</link>
-            <guid>https://content.v.daum.net/v/EWsQ03z1tr</guid>
-            <pubDate>Tue, 05 Apr 2022 07:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F05%2FMOVIST%2F20220405071231624cqsz.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
