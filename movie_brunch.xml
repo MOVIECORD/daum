@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 02:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 03:36:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 08 Apr 2022 02:43:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>킴지]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5uYQ%2Fimage%2FpUv5hcNmi5jMrJHZUTJFw4isNPs" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<앰뷸런스>의 질주에 담긴 치유의 드라마]]></title>
+            <link>https://brunch.co.kr/@@5XLU/460</link>
+            <guid>https://brunch.co.kr/@@5XLU/460</guid>
+            <pubDate>Fri, 08 Apr 2022 03:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FW4qJKoE0d-mUZXjZLblLXRPJ9zI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[자유는 죽음과 함께한다_<아무르>]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 04 Apr 2022 02:46:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이치현]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaUxD%2Fimage%2F-iiI5PuO4UlwNT2_U3XVXQ_pqwE.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아이스 에이지 벅의 대모험> 리뷰]]></title>
-            <link>https://brunch.co.kr/@@bEbi/38</link>
-            <guid>https://brunch.co.kr/@@bEbi/38</guid>
-            <pubDate>Fri, 01 Apr 2022 02:58:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>jcob why]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbEbi%2Fimage%2Fgwz0gU8J2_a3zd8UBvXzCL0jL3g.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
