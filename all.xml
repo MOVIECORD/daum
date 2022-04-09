@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 13:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 14:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8ca142bd911045e25d8e8e1f1afcb1d1a118bfab" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스텔라 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=120972</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=120972</guid>
-            <pubDate>Mon, 28 Mar 2022 08:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbfd1a30b31cd4184063f9c2c53a1d050c1ad54f0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[루이스 웨인: 사랑을 그린 고양이 화가 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153607</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153607</guid>
             <pubDate>Mon, 28 Mar 2022 02:39:42 GMT</pubDate>
             <content:encoded><![CDATA[22.04.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37230e2362f90e0aca27af4c7db1ea1a2448e5fa" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스텔라 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=120972</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=120972</guid>
+            <pubDate>Mon, 28 Mar 2022 08:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbfd1a30b31cd4184063f9c2c53a1d050c1ad54f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
