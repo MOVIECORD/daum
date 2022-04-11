@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 04:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 05:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbfd1a30b31cd4184063f9c2c53a1d050c1ad54f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[루이스 웨인: 사랑을 그린 고양이 화가]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153607</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153607</guid>
-            <pubDate>Wed, 06 Apr 2022 02:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37230e2362f90e0aca27af4c7db1ea1a2448e5fa" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[수퍼 소닉2]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156264</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156264</guid>
             <pubDate>Wed, 06 Apr 2022 02:35:27 GMT</pubDate>
             <content:encoded><![CDATA[22.04.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb225500f78c419aec04f5a1c6f1bc3290832c22" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[루이스 웨인: 사랑을 그린 고양이 화가]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153607</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153607</guid>
+            <pubDate>Wed, 06 Apr 2022 02:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37230e2362f90e0aca27af4c7db1ea1a2448e5fa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[앰뷸런스]]></title>
@@ -80,20 +80,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f69300e7e973ad35ab1c80aa00c91f0adbc1e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 시그널]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149546</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149546</guid>
-            <pubDate>Thu, 31 Mar 2022 02:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd241cc8046e67a0230a48c67effed151ed03a901" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[약속의 네버랜드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147082</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147082</guid>
             <pubDate>Thu, 07 Apr 2022 02:28:18 GMT</pubDate>
             <content:encoded><![CDATA[22.04.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe23122c18f309d12cfc7a8a71bb6b35b57da18de" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 시그널]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149546</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149546</guid>
+            <pubDate>Thu, 31 Mar 2022 02:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd241cc8046e67a0230a48c67effed151ed03a901" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아메리칸 저스티스]]></title>

@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 04:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 05:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Mon, 11 Apr 2022 02:49:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>PSH]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fcbly%2Fimage%2FyiXzqtc_IVQpA1h0-BDszCiD4vs.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[야차]]></title>
+            <link>https://brunch.co.kr/@@3xO/1065</link>
+            <guid>https://brunch.co.kr/@@3xO/1065</guid>
+            <pubDate>Mon, 11 Apr 2022 05:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>백건우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3xO%2Fimage%2FJqXbMeQ1I2nKXlyB7VG9ojV5aQQ.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘청춘’과 ‘달리기’의 상관관계]]></title>
+            <link>https://brunch.co.kr/@@vux/843</link>
+            <guid>https://brunch.co.kr/@@vux/843</guid>
+            <pubDate>Mon, 11 Apr 2022 05:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>송석주]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fvux%2Fimage%2FmSikJS-4TkVcDyRHaarHPRSihF4.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[나는 왜 너를 사랑하는가?]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 04 Apr 2022 02:46:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>가려진 시간]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2ViD%2Fimage%2FDfftVLkc_BckkF2bm2NXJ2aCWTE.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 존재해야 할 존재]]></title>
-            <link>https://brunch.co.kr/@@bVjz/16</link>
-            <guid>https://brunch.co.kr/@@bVjz/16</guid>
-            <pubDate>Mon, 04 Apr 2022 02:46:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>달여름]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fguest%2Fimage%2F2b59acnwclIcs8RiLhQ3nVeBv-s.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[그러므로 다시 살아가기 위해서]]></title>
-            <link>https://brunch.co.kr/@@4Bq/277</link>
-            <guid>https://brunch.co.kr/@@4Bq/277</guid>
-            <pubDate>Mon, 04 Apr 2022 02:46:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민용준]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4Bq%2Fimage%2FVafp-Jk431cYlvcOKOmcji2XGHE.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
