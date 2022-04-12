@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 07:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 08:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보자마자 한마디! 끝까지 긴장감 있는 <앵커>]]></title>
+            <link>https://content.v.daum.net/v/EWCpFMqCIr</link>
+            <guid>https://content.v.daum.net/v/EWCpFMqCIr</guid>
+            <pubDate>Tue, 12 Apr 2022 08:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[무비스트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F12%2FMOVIST%2F20220412075612417zqww.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[영화 촬영하다 진짜 연인이 된 두 커플이 전한 놀라운 소식]]></title>
             <link>https://content.v.daum.net/v/Eiaq4LRBE5</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 11 Apr 2022 02:49:40 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Ffeelthemovie%2F20220410233654095kipm.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스와 작업중인 전도연의 안타까운 소식]]></title>
-            <link>https://content.v.daum.net/v/EQM9gEaStV</link>
-            <guid>https://content.v.daum.net/v/EQM9gEaStV</guid>
-            <pubDate>Mon, 11 Apr 2022 02:49:40 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Ffeelthemovie%2F202204101138041024hrd.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
