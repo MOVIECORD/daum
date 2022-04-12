@@ -4,9 +4,25 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 15:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 02:42:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <코다> 리뷰/명장면]]></title>
+            <link>https://brunch.co.kr/@@9W8e/75</link>
+            <guid>https://brunch.co.kr/@@9W8e/75</guid>
+            <pubDate>Tue, 12 Apr 2022 02:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>한의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9W8e%2Fimage%2FT4hzXCrKSMjO2iQ4BksV0ZWuuzk.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[프리즘처럼 세상을 비춘 예술가]]></title>
+            <link>https://brunch.co.kr/@@5jTv/117</link>
+            <guid>https://brunch.co.kr/@@5jTv/117</guid>
+            <pubDate>Tue, 12 Apr 2022 02:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FuqxKF4-0s1-OqgOUvo1fRju1pWA.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[영화 <타짜>에서 짝귀는 왜 도박 빚이 생겼을까?]]></title>
             <link>https://brunch.co.kr/@@cbly/166</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 06 Apr 2022 04:22:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>수안]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FPvq%2Fimage%2FnFEV7gO8wC8rJF6xWw0s9iZH7n8.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <중경삼림> 해석/리뷰]]></title>
-            <link>https://brunch.co.kr/@@9W8e/72</link>
-            <guid>https://brunch.co.kr/@@9W8e/72</guid>
-            <pubDate>Tue, 05 Apr 2022 02:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>한의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9W8e%2Fimage%2Fyr4neaKfwZY2m3sRoaO9e9SHhAA.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 소중한 순간은 언제인가요?]]></title>
-            <link>https://brunch.co.kr/@@dQQK/6</link>
-            <guid>https://brunch.co.kr/@@dQQK/6</guid>
-            <pubDate>Mon, 04 Apr 2022 02:46:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김병준]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdQQK%2Fimage%2FVpd239BN8iLGXKcV0RF24N8gCZE.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
