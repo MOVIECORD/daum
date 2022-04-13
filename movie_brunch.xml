@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 15:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 02:45:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<몽마르트 파파>: 삶은 아주 길고, 또 느리다]]></title>
+            <link>https://brunch.co.kr/@@cuvj/26</link>
+            <guid>https://brunch.co.kr/@@cuvj/26</guid>
+            <pubDate>Wed, 13 Apr 2022 02:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>하이유월]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fcuvj%2Fimage%2FqLj1bgLc8ISf70oYjAF4m4Hh7aw.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[영화 <코다> 리뷰/명장면]]></title>
             <link>https://brunch.co.kr/@@9W8e/75</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 06 Apr 2022 02:36:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>블루오핀]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fbbaj%2Fimage%2FvP1ZcJsEPiksXCA7CbseEaSOovo.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 _ 연애 빠진 로맨스, 2021]]></title>
-            <link>https://brunch.co.kr/@@9sbp/262</link>
-            <guid>https://brunch.co.kr/@@9sbp/262</guid>
-            <pubDate>Wed, 06 Apr 2022 02:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>푸른살이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9sbp%2Fimage%2FwWkaJV3r5gz5Fp29wzOd-owqQLY.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
