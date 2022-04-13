@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 06:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 07:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 13 Apr 2022 02:45:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>하이유월]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fcuvj%2Fimage%2FqLj1bgLc8ISf70oYjAF4m4Hh7aw.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<공기살인>피해자는 있는데 가해자는 없는 살인 사건]]></title>
+            <link>https://brunch.co.kr/@@6dyt/809</link>
+            <guid>https://brunch.co.kr/@@6dyt/809</guid>
+            <pubDate>Wed, 13 Apr 2022 07:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FZnU3MgAqowAnIohTysIrP08A1ik.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 <코다> 리뷰/명장면]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 06 Apr 2022 02:36:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>최종신]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fis2%2Fimage%2FSCAVhIc-w0y-H3ykclwTbat-hgE.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화_ 스펜서]]></title>
-            <link>https://brunch.co.kr/@@bbaj/2</link>
-            <guid>https://brunch.co.kr/@@bbaj/2</guid>
-            <pubDate>Wed, 06 Apr 2022 02:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>블루오핀]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fbbaj%2Fimage%2FvP1ZcJsEPiksXCA7CbseEaSOovo.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
