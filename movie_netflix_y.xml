@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 05:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 06:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F408d0db1e994b13976585302bccceabab2f24a0b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[두 축제가 만날 때]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159389</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159389</guid>
+            <pubDate>Thu, 14 Apr 2022 06:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fddee8f459f08908f5a3d53c09987f5673e0f6bbc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[버블]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158055</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158055</guid>
@@ -150,6 +158,14 @@
             <pubDate>Tue, 12 Apr 2022 08:22:09 GMT</pubDate>
             <content:encoded><![CDATA[22.05.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F146F1B10AC933EABBA" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[할로윈 킬즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138629</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138629</guid>
+            <pubDate>Thu, 14 Apr 2022 06:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97c167b78606b8f5044b59d39f8b815523cb71e3" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
