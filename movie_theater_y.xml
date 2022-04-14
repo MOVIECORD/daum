@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 08:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 09:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d93fdcc0efc92362da8b5e73eb5db83e44d6190" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[태어나길 잘했어]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145345</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145345</guid>
-            <pubDate>Thu, 14 Apr 2022 02:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0bd104af8fa8ed021dcb323699c5c68c99df87e0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뜨거운 피]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=125271</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125271</guid>
@@ -118,6 +110,14 @@
             <pubDate>Thu, 07 Apr 2022 02:28:18 GMT</pubDate>
             <content:encoded><![CDATA[22.04.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8790545a8d95fb723e1324a51ea07d76fd95cfe2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[태어나길 잘했어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145345</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145345</guid>
+            <pubDate>Thu, 14 Apr 2022 02:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0bd104af8fa8ed021dcb323699c5c68c99df87e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그리스도 디 오리진]]></title>
