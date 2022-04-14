@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 02:46:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 03:39:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,12 +96,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7d13d519278c4ed6f8fb3845423f310b4d8bfde" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 컨트랙터]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158108</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158108</guid>
-            <pubDate>Wed, 13 Apr 2022 09:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2928ad9d96f653cd1ad73130e5114b7a6f923922" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[부기나이트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158065</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158065</guid>
+            <pubDate>Thu, 14 Apr 2022 03:38:57 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03bae2e3001dcb78ff5294a95dd8651881af8491" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[배드 가이즈]]></title>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18164fd5a0cf491a40d317e9e026abf948e7b503" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 컨트랙터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158108</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158108</guid>
+            <pubDate>Wed, 13 Apr 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2928ad9d96f653cd1ad73130e5114b7a6f923922" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 귀멸의 칼날: 무한열차편]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145371</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145371</guid>
             <pubDate>Thu, 14 Apr 2022 02:45:27 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2733bbc22a93d16bace5658738322df204bbf01" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[다녀와요, 다녀왔습니다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159384</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159384</guid>
-            <pubDate>Thu, 14 Apr 2022 02:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7b9c7d903d54842449478238805ec3ff3247198f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
