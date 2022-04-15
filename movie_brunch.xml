@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 07:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 08:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 15 Apr 2022 04:37:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>카페라덴]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbToY%2Fimage%2Fn9TrkO0X_SWVFrpEJSLWVZZ5b4k" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[섬세하게 쌓아올린 사랑을 보고싶은 사람들에게]]></title>
+            <link>https://brunch.co.kr/@@bU2J/3</link>
+            <guid>https://brunch.co.kr/@@bU2J/3</guid>
+            <pubDate>Fri, 15 Apr 2022 08:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>히도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbU2J%2Fimage%2FxoPNjsQbNbn5PtENjndmHjVVU-8.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<소설가의 영화> 많이 밝아진 홍상수스타일의 진화]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 11 Apr 2022 02:49:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>PSH]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fcbly%2Fimage%2FyiXzqtc_IVQpA1h0-BDszCiD4vs.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[야차]]></title>
-            <link>https://brunch.co.kr/@@3xO/1065</link>
-            <guid>https://brunch.co.kr/@@3xO/1065</guid>
-            <pubDate>Mon, 11 Apr 2022 05:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>백건우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3xO%2Fimage%2FJqXbMeQ1I2nKXlyB7VG9ojV5aQQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
