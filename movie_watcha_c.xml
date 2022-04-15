@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 04:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 05:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -269,6 +269,14 @@
             <pubDate>Wed, 13 Apr 2022 05:16:36 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb6ecd8c2a939c66c41086dfbb0f98c4dce4caea" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엘리노어 릭비: 그남자 그여자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=90435</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=90435</guid>
+            <pubDate>Fri, 15 Apr 2022 05:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09209de0f866a2168f95bdcab3180b233952a126" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
