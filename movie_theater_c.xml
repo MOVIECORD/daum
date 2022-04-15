@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 11:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 12:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e205ec697a1386b146b4f8c709f06bcf72c84f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[위대한 계약: 파주, 책, 도시]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144626</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144626</guid>
-            <pubDate>Fri, 08 Apr 2022 09:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1bea011b7292b8961e961f34e92d600781e83444" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[팔마]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153560</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153560</guid>
@@ -150,6 +142,14 @@
             <pubDate>Thu, 14 Apr 2022 02:45:27 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ee1c83f20ea5234ff165cf4601610e7e2bef343" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[위대한 계약: 파주, 책, 도시]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144626</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144626</guid>
+            <pubDate>Fri, 08 Apr 2022 09:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1bea011b7292b8961e961f34e92d600781e83444" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[열대왕사]]></title>
