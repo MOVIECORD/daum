@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 09:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 10:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,36 +32,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa1c758159fc2be91c7c3ec1c8b4efbf60dd1dfff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[모비우스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129103</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129103</guid>
-            <pubDate>Wed, 30 Mar 2022 02:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8ca142bd911045e25d8e8e1f1afcb1d1a118bfab" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[복지식당]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149619</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149619</guid>
             <pubDate>Thu, 14 Apr 2022 02:45:20 GMT</pubDate>
             <content:encoded><![CDATA[22.04.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3870e8e86508f8a99d4704e4136a46156bb606c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[스텔라]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=120972</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=120972</guid>
-            <pubDate>Wed, 06 Apr 2022 02:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbfd1a30b31cd4184063f9c2c53a1d050c1ad54f0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[루이스 웨인: 사랑을 그린 고양이 화가]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153607</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153607</guid>
-            <pubDate>Wed, 06 Apr 2022 02:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37230e2362f90e0aca27af4c7db1ea1a2448e5fa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하빗]]></title>
@@ -72,6 +48,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30a2e0ef79641841e489f9fb36b9e8137161d3a6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[모비우스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129103</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129103</guid>
+            <pubDate>Wed, 30 Mar 2022 02:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8ca142bd911045e25d8e8e1f1afcb1d1a118bfab" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[루이스 웨인: 사랑을 그린 고양이 화가]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153607</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153607</guid>
+            <pubDate>Wed, 06 Apr 2022 02:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37230e2362f90e0aca27af4c7db1ea1a2448e5fa" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 주술회전 0]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
@@ -80,12 +72,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[앰뷸런스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154784</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154784</guid>
+            <title><![CDATA[스텔라]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=120972</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=120972</guid>
             <pubDate>Wed, 06 Apr 2022 02:35:27 GMT</pubDate>
             <content:encoded><![CDATA[22.04.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F112dd823e87e52a7203bb658c92cf86eb6237add" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbfd1a30b31cd4184063f9c2c53a1d050c1ad54f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드라이]]></title>
@@ -96,12 +88,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ac6afd6ce9c957440c76d731f81503c2d5b3d42" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뜨거운 피]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=125271</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=125271</guid>
-            <pubDate>Wed, 23 Mar 2022 02:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[앰뷸런스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154784</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154784</guid>
+            <pubDate>Wed, 06 Apr 2022 02:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F112dd823e87e52a7203bb658c92cf86eb6237add" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[태어나길 잘했어]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Sat, 16 Apr 2022 06:21:20 GMT</pubDate>
             <content:encoded><![CDATA[22.04.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd8fb123e9f9540b2ac041a469d44c73de46b9b52" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뜨거운 피]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=125271</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=125271</guid>
+            <pubDate>Wed, 23 Mar 2022 02:34:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그리스도 디 오리진]]></title>
