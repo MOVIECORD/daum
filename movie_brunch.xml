@@ -4,9 +4,25 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 15:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 02:56:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 사랑을 보여줘]]></title>
+            <link>https://brunch.co.kr/@@1Ftz/25</link>
+            <guid>https://brunch.co.kr/@@1Ftz/25</guid>
+            <pubDate>Mon, 18 Apr 2022 02:56:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김수학]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1Ftz%2Fimage%2F4v1f464F5829qSReXMcmJ-eUAww.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[지금, 여기로부터]]></title>
+            <link>https://brunch.co.kr/@@dXMI/1</link>
+            <guid>https://brunch.co.kr/@@dXMI/1</guid>
+            <pubDate>Mon, 18 Apr 2022 02:56:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>구구]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdXMI%2Fimage%2F76fnAObJ5S1sLb8hO29KH-6gzdk.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[영화_내가 죽던 날]]></title>
             <link>https://brunch.co.kr/@@bbaj/9</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 12 Apr 2022 03:34:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Robinsoon]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FWw5%2Fimage%2FxCIJPoxM7qTueNB9DLZ3S7odKdQ.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['루이스 웨인' 오직 사랑하는 사람만이 사랑받는다]]></title>
-            <link>https://brunch.co.kr/@@4Bq/279</link>
-            <guid>https://brunch.co.kr/@@4Bq/279</guid>
-            <pubDate>Tue, 12 Apr 2022 08:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민용준]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4Bq%2Fimage%2F0IBu-ZTkuUR8urcREqAUrbrf8JU.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <타짜>에서 짝귀는 왜 도박 빚이 생겼을까?]]></title>
-            <link>https://brunch.co.kr/@@cbly/166</link>
-            <guid>https://brunch.co.kr/@@cbly/166</guid>
-            <pubDate>Mon, 11 Apr 2022 02:49:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>PSH]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fcbly%2Fimage%2FyiXzqtc_IVQpA1h0-BDszCiD4vs.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
