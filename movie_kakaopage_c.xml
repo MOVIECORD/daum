@@ -4,7 +4,7 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 08:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 10:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,6 +152,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffdd7ef575f74872fe591af78eb9d124a238cfd19" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[맨션 오브 블러드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=79948</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=79948</guid>
+            <pubDate>Mon, 18 Apr 2022 10:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F0273FD3751C1BEC926" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[조크스터스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=109855</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=109855</guid>
@@ -176,6 +184,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fda8b8526dd7988123180e9e6cdee5546126a06b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[하우스 오브 VHS]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=111313</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=111313</guid>
+            <pubDate>Mon, 18 Apr 2022 10:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fccb9437af678936c94f980b201d376718fc75d4e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[필드 프릭]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=122115</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122115</guid>
@@ -198,6 +214,14 @@
             <pubDate>Mon, 18 Apr 2022 08:23:01 GMT</pubDate>
             <content:encoded><![CDATA[22.05.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F219e71e0a413bf9d6cf1e803dbf37c8e3f0e75d6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블러드 레드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122120</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122120</guid>
+            <pubDate>Mon, 18 Apr 2022 10:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f4ce7e5e1f66216e4f16255d6afb6ae2b5bb689" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
