@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 06:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 07:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F112dd823e87e52a7203bb658c92cf86eb6237add" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[태어나길 잘했어]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145345</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145345</guid>
-            <pubDate>Thu, 14 Apr 2022 02:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e0e694e88c0b7992201bf9f04560fb7e2ee2aa8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[웨이트: 감각에 눈뜰 때]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158314</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158314</guid>
@@ -150,6 +142,14 @@
             <pubDate>Thu, 07 Apr 2022 02:28:18 GMT</pubDate>
             <content:encoded><![CDATA[22.04.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d93fdcc0efc92362da8b5e73eb5db83e44d6190" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[태어나길 잘했어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145345</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145345</guid>
+            <pubDate>Thu, 14 Apr 2022 02:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e0e694e88c0b7992201bf9f04560fb7e2ee2aa8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뱅드림! 팝핀‘ 드림!]]></title>

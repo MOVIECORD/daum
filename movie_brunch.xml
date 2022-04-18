@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 06:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 07:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 18 Apr 2022 05:18:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>아쉬타카]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FzKf%2Fimage%2F8Cys5Yyxb2SRKB7iMH-KvNwtWN0.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[멈춰버린 마법]]></title>
+            <link>https://brunch.co.kr/@@dyYe/10</link>
+            <guid>https://brunch.co.kr/@@dyYe/10</guid>
+            <pubDate>Mon, 18 Apr 2022 07:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Widermovie]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdyYe%2Fimage%2Fb2uC0F3BxJSocIfd4g_bBTWBpQ0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화_내가 죽던 날]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 12 Apr 2022 02:42:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FuqxKF4-0s1-OqgOUvo1fRju1pWA.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['오은영 매직'이 우려스러운 이유]]></title>
-            <link>https://brunch.co.kr/@@G9l/183</link>
-            <guid>https://brunch.co.kr/@@G9l/183</guid>
-            <pubDate>Tue, 12 Apr 2022 03:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>홍밀밀]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FG9l%2Fimage%2FQjMdtn4AOXdUwmgzMEBYyRRxU8Q.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
