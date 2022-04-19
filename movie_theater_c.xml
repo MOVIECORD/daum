@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 03:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 03:58:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e205ec697a1386b146b4f8c709f06bcf72c84f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[봄날]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149857</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149857</guid>
-            <pubDate>Fri, 15 Apr 2022 05:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3227ac46817162e7bb329fc01fc42653afb5a9e9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[4월은 너의 거짓말]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=106431</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=106431</guid>
@@ -120,12 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd81126e85d2138ecba2356a42c5b2090c3d9406f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[평평남녀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151414</guid>
-            <pubDate>Tue, 12 Apr 2022 10:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcc7b4c33de1f3cd34618ff18ffdb631e965dc0b2" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[팔마]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153560</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153560</guid>
+            <pubDate>Wed, 13 Apr 2022 12:29:36 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F300380e866a133d52d2ee2c1c60f911102b158b8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[봄날]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149857</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149857</guid>
+            <pubDate>Fri, 15 Apr 2022 05:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3227ac46817162e7bb329fc01fc42653afb5a9e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[위대한 계약: 파주, 책, 도시]]></title>
@@ -136,12 +136,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1bea011b7292b8961e961f34e92d600781e83444" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[팔마]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153560</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153560</guid>
-            <pubDate>Wed, 13 Apr 2022 12:29:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F300380e866a133d52d2ee2c1c60f911102b158b8" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[평평남녀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151414</guid>
+            <pubDate>Tue, 12 Apr 2022 10:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcc7b4c33de1f3cd34618ff18ffdb631e965dc0b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[헝거]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7b9c7d903d54842449478238805ec3ff3247198f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[달빛 그림자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154035</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154035</guid>
-            <pubDate>Sat, 16 Apr 2022 04:22:00 GMT</pubDate>
+            <title><![CDATA[내가 처음으로 사랑한 소녀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155453</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155453</guid>
+            <pubDate>Tue, 19 Apr 2022 03:57:31 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F361c8c90714f0f41a93de2e54b5655444990a164" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F810a231057c615dcf9b74c14a0c9ba325b105980" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
