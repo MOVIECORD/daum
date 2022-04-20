@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 03:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 04:48:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <코다> 리뷰]]></title>
+            <link>https://brunch.co.kr/@@7R2d/114</link>
+            <guid>https://brunch.co.kr/@@7R2d/114</guid>
+            <pubDate>Wed, 20 Apr 2022 04:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유쾌한 주용씨]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7R2d%2Fimage%2F6UcXvnNWrIFpF5EaxwJdWjuHWDA.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[파주, 책이라는 꿈을 꾸었던 사람들의 도시]]></title>
             <link>https://brunch.co.kr/@@9lOS/166</link>
@@ -14,6 +22,14 @@
             <pubDate>Wed, 20 Apr 2022 03:11:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2FyLQGqbx3RHhSRSk1VYLock4VINk.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[엔터테인먼트를 좇아 달린다]]></title>
+            <link>https://brunch.co.kr/@@d7ni/34</link>
+            <guid>https://brunch.co.kr/@@d7ni/34</guid>
+            <pubDate>Wed, 20 Apr 2022 04:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박수영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fd7ni%2Fimage%2FQL_BaH93coeGYUE4hN6Z7c94IzQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 <러빙 빈센트> 리뷰/평론]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 18 Apr 2022 03:43:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>딜레탕트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fdl6I%2Fimage%2F30_tVNnAEawvATtfrrAv7WJi1x0.PNG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[스릴러보다 더 위태로운, 일하는 여성의 내일]]></title>
-            <link>https://brunch.co.kr/@@ZdN/56</link>
-            <guid>https://brunch.co.kr/@@ZdN/56</guid>
-            <pubDate>Mon, 18 Apr 2022 03:43:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김진만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FZdN%2Fimage%2F3fsvjiykRrugOUWeYjSQ-hHDbxc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[나이트메어 앨리]]></title>
-            <link>https://brunch.co.kr/@@zKf/326</link>
-            <guid>https://brunch.co.kr/@@zKf/326</guid>
-            <pubDate>Mon, 18 Apr 2022 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>아쉬타카]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FzKf%2Fimage%2F8Cys5Yyxb2SRKB7iMH-KvNwtWN0.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
