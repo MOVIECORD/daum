@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 08:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 09:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18164fd5a0cf491a40d317e9e026abf948e7b503" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스텔라]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=120972</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=120972</guid>
-            <pubDate>Thu, 21 Apr 2022 08:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbfd1a30b31cd4184063f9c2c53a1d050c1ad54f0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[루이스 웨인: 사랑을 그린 고양이 화가]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153607</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153607</guid>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 21 Apr 2022 06:22:50 GMT</pubDate>
             <content:encoded><![CDATA[22.04.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa1c758159fc2be91c7c3ec1c8b4efbf60dd1dfff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[태어나길 잘했어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145345</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145345</guid>
+            <pubDate>Thu, 21 Apr 2022 09:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e0e694e88c0b7992201bf9f04560fb7e2ee2aa8" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
