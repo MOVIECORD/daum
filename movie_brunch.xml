@@ -4,9 +4,25 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 07:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 08:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<취미는 영화감상> 파이, 한 조각]]></title>
+            <link>https://brunch.co.kr/@@giK/18</link>
+            <guid>https://brunch.co.kr/@@giK/18</guid>
+            <pubDate>Thu, 21 Apr 2022 08:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>필로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FgiK%2Fimage%2F9EAtrsG8lpf1rJzac0sJQeVO_5U.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브 마이 카]]></title>
+            <link>https://brunch.co.kr/@@3xO/1068</link>
+            <guid>https://brunch.co.kr/@@3xO/1068</guid>
+            <pubDate>Thu, 21 Apr 2022 08:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>백건우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3xO%2Fimage%2FvoL5Jf4JVLV8eqHdHJaazKYp0KM.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[<코다> 삶의 양면을 보세요, 지금 당장]]></title>
             <link>https://brunch.co.kr/@@HI6/132</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 20 Apr 2022 08:26:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>솔립]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaRXQ%2Fimage%2FZb7NXx3o3Ahk6xzGAxwmAGArHxE.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화<그린 나이트> -죽어야 다시 살 수있다]]></title>
-            <link>https://brunch.co.kr/@@dIfq/22</link>
-            <guid>https://brunch.co.kr/@@dIfq/22</guid>
-            <pubDate>Wed, 20 Apr 2022 08:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>윤병옥]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdIfq%2Fimage%2FOJrAWyzkCqKCyoED3G23Wx74taw.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜 사랑을 보여줘]]></title>
-            <link>https://brunch.co.kr/@@1Ftz/25</link>
-            <guid>https://brunch.co.kr/@@1Ftz/25</guid>
-            <pubDate>Wed, 20 Apr 2022 08:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김수학]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1Ftz%2Fimage%2F4v1f464F5829qSReXMcmJ-eUAww.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
