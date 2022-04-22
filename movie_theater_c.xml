@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 06:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 07:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F629a7b819d9184571be3f5f6356ac989f6f18a9d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[배드 가이즈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156440</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156440</guid>
-            <pubDate>Wed, 20 Apr 2022 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e205ec697a1386b146b4f8c709f06bcf72c84f4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[봄날]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149857</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149857</guid>
             <pubDate>Wed, 20 Apr 2022 08:24:59 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3227ac46817162e7bb329fc01fc42653afb5a9e9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[배드 가이즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156440</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156440</guid>
+            <pubDate>Wed, 20 Apr 2022 08:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e205ec697a1386b146b4f8c709f06bcf72c84f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[서울괴담]]></title>
