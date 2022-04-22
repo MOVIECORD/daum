@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 03:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 04:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 22 Apr 2022 03:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Veni Jun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5E08%2Fimage%2FF6Wa5GVmpozq6AGLuK_BK6sA9Q4.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA['추억'을 떠올리며, 깨달은 '소중함']]></title>
+            <link>https://brunch.co.kr/@@dYs4/4</link>
+            <guid>https://brunch.co.kr/@@dYs4/4</guid>
+            <pubDate>Fri, 22 Apr 2022 04:48:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>나중]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdYs4%2Fimage%2FxuqoxhUTcdud9yvRuq8KDZqQFc0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<취미는 영화감상> 파이, 한 조각]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 20 Apr 2022 08:26:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>무사]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wZd%2Fimage%2Fc0CrB7TQWiytUGa0rA1SXCxny4Q.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영태기(영화 권태기)를 이기기 위해 영화제에 갑니다]]></title>
-            <link>https://brunch.co.kr/@@9Uc8/322</link>
-            <guid>https://brunch.co.kr/@@9Uc8/322</guid>
-            <pubDate>Wed, 20 Apr 2022 08:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Kyung film]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9Uc8%2Fimage%2FILciFzG4GECMXa50iZWmDvsSP88.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>

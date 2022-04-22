@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 03:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 04:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[뱅드림! 팝핀‘ 드림!]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156955</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156955</guid>
+            <pubDate>Fri, 22 Apr 2022 04:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5850d17f2763ce9382810e46da277c047331a826" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[모비우스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129103</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129103</guid>
@@ -144,12 +152,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8ca142bd911045e25d8e8e1f1afcb1d1a118bfab" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[코다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147452</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147452</guid>
-            <pubDate>Thu, 21 Apr 2022 13:30:34 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ba6bb0a7101dec0bfaed07659269edd1353ec66" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[위대한 계약: 파주, 책, 도시]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144626</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144626</guid>
+            <pubDate>Fri, 22 Apr 2022 04:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1bea011b7292b8961e961f34e92d600781e83444" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[태어나길 잘했어]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Apr 2022 09:18:30 GMT</pubDate>
             <content:encoded><![CDATA[22.04.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e0e694e88c0b7992201bf9f04560fb7e2ee2aa8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[하빗]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152470</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152470</guid>
-            <pubDate>Thu, 21 Apr 2022 15:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30a2e0ef79641841e489f9fb36b9e8137161d3a6" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
