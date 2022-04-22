@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 05:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 06:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<쓰리: 아직 끝나지 않았다> 트릭과 반전 없이도 섬뜩하다]]></title>
+            <link>https://content.v.daum.net/v/E9DBDuAm9W</link>
+            <guid>https://content.v.daum.net/v/E9DBDuAm9W</guid>
+            <pubDate>Fri, 22 Apr 2022 06:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[무비스트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2FMOVIST%2F20220422060247825xjyd.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[왜 그동안 안보이나 했더니..암투병 중이었던 그녀]]></title>
             <link>https://content.v.daum.net/v/EUGQr6EseY</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Apr 2022 03:03:26 GMT</pubDate>
             <content:encoded><![CDATA[무비스트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F21%2FMOVIST%2F20220421004308193fsmg.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 다시 뭉친다는 영화계 최고의 절친 월드 스타들]]></title>
-            <link>https://content.v.daum.net/v/EEFVOiyDS6</link>
-            <guid>https://content.v.daum.net/v/EEFVOiyDS6</guid>
-            <pubDate>Thu, 21 Apr 2022 03:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F20%2Ffeelthemovie%2F20220420155855277sh52.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
