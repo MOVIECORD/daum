@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 03:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 04:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3227ac46817162e7bb329fc01fc42653afb5a9e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[배드 가이즈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156440</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156440</guid>
-            <pubDate>Wed, 20 Apr 2022 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e205ec697a1386b146b4f8c709f06bcf72c84f4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[서울괴담]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150206</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150206</guid>
@@ -56,20 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37308bdf07795689f66f6cd299056ff13ea6eb35" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[몬스터아카데미]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157466</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157466</guid>
-            <pubDate>Wed, 20 Apr 2022 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5b45c8e553f8bc202b6f196b7d9f6d1d246a3cf8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[우연과 상상]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=148296</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=148296</guid>
             <pubDate>Thu, 21 Apr 2022 05:36:28 GMT</pubDate>
             <content:encoded><![CDATA[22.05.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac3fca4e494abc742f22c389bffa5f57f5a40b9d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[몬스터아카데미]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157466</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157466</guid>
+            <pubDate>Wed, 20 Apr 2022 08:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5b45c8e553f8bc202b6f196b7d9f6d1d246a3cf8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파리의 피아니스트: 후지코 헤밍의 시간들]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Thu, 21 Apr 2022 05:36:28 GMT</pubDate>
             <content:encoded><![CDATA[22.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4e4d10eedaf7c4d447dac1c02941be3ecc3b089f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[배드 가이즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156440</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156440</guid>
+            <pubDate>Wed, 20 Apr 2022 08:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e205ec697a1386b146b4f8c709f06bcf72c84f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 엉덩이 탐정: 수플레 섬의 비밀]]></title>
