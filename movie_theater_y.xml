@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 15:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 02:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a0d146d59b32103a7ce4a83f53e3fe59f7efdbe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[수퍼 소닉2]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156264</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156264</guid>
-            <pubDate>Wed, 06 Apr 2022 02:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb225500f78c419aec04f5a1c6f1bc3290832c22" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[로스트 시티]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156501</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156501</guid>
             <pubDate>Wed, 20 Apr 2022 03:09:54 GMT</pubDate>
             <content:encoded><![CDATA[22.04.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab6e52ac5c96d1ce8f6bacc44b1926cf9a190952" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[수퍼 소닉2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156264</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156264</guid>
+            <pubDate>Wed, 06 Apr 2022 02:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb225500f78c419aec04f5a1c6f1bc3290832c22" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 귀멸의 칼날: 무한열차편]]></title>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb491e00f195f70fe69364c79cd1ef40224b19608" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[열대왕사]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151328</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151328</guid>
-            <pubDate>Thu, 21 Apr 2022 03:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F437bb6ffee32d3bec749738c4cee4aa6ce1ef6b7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 주술회전 0]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
@@ -96,12 +88,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[청킹맨션]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145327</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145327</guid>
+            <title><![CDATA[열대왕사]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151328</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151328</guid>
             <pubDate>Thu, 21 Apr 2022 03:02:15 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7df95714777b0312b2103fb779ad3531bff061f4" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F437bb6ffee32d3bec749738c4cee4aa6ce1ef6b7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[소설가의 영화]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Thu, 21 Apr 2022 03:02:15 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18164fd5a0cf491a40d317e9e026abf948e7b503" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[청킹맨션]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145327</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145327</guid>
+            <pubDate>Thu, 21 Apr 2022 03:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7df95714777b0312b2103fb779ad3531bff061f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[루이스 웨인: 사랑을 그린 고양이 화가]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ac6afd6ce9c957440c76d731f81503c2d5b3d42" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[하빗]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152470</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152470</guid>
-            <pubDate>Sat, 23 Apr 2022 07:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30a2e0ef79641841e489f9fb36b9e8137161d3a6" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[말임씨를 부탁해]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151293</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151293</guid>
+            <pubDate>Sun, 24 Apr 2022 02:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa1c758159fc2be91c7c3ec1c8b4efbf60dd1dfff" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
