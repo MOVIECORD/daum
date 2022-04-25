@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 11:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 12:33:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b93b731530a106c46fd6d356bfe9c68a3131f57" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[앵커 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135501</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135501</guid>
-            <pubDate>Wed, 20 Apr 2022 08:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a0d146d59b32103a7ce4a83f53e3fe59f7efdbe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
             <pubDate>Wed, 20 Apr 2022 08:24:51 GMT</pubDate>
             <content:encoded><![CDATA[22.02.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[앵커 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135501</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135501</guid>
+            <pubDate>Wed, 20 Apr 2022 08:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a0d146d59b32103a7ce4a83f53e3fe59f7efdbe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[쓰리: 아직 끝나지 않았다 (다음영화 영화관 ─ 현재상영)]]></title>
