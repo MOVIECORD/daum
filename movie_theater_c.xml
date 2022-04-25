@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 08:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 09:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac3fca4e494abc742f22c389bffa5f57f5a40b9d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[아치의 노래, 정태춘]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
+            <pubDate>Mon, 25 Apr 2022 05:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1bee3139abfa2a9024e3b37dd02dcd7b475f0f70" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[몬스터아카데미]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157466</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157466</guid>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 24 Apr 2022 07:16:55 GMT</pubDate>
             <content:encoded><![CDATA[22.05.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe878d2022fbf3a7ad9587fcb1aa4c94f319c8d0e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아치의 노래, 정태춘]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
-            <pubDate>Mon, 25 Apr 2022 05:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1bee3139abfa2a9024e3b37dd02dcd7b475f0f70" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파리의 피아니스트: 후지코 헤밍의 시간들]]></title>
