@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 08:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 09:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,20 +200,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a99abb42cba19fe3e4580eef2d2ea5588792e0a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[배드 가이즈 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156440</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156440</guid>
-            <pubDate>Wed, 20 Apr 2022 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e205ec697a1386b146b4f8c709f06bcf72c84f4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[쿠폰의 여왕 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152086</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152086</guid>
             <pubDate>Thu, 21 Apr 2022 03:02:23 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F486913e489910ec8021fa2cf6a3b3e77230c933c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[배드 가이즈 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156440</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156440</guid>
+            <pubDate>Wed, 20 Apr 2022 08:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e205ec697a1386b146b4f8c709f06bcf72c84f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 컨트랙터 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -254,14 +254,6 @@
             <pubDate>Thu, 21 Apr 2022 05:36:28 GMT</pubDate>
             <content:encoded><![CDATA[22.05.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac3fca4e494abc742f22c389bffa5f57f5a40b9d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아치의 노래, 정태춘 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
-            <pubDate>Mon, 25 Apr 2022 05:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[몬스터아카데미 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -320,12 +312,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb0d248dbf15afbe15ebc2232d1e2c5e1ee47218f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[파리, 13구 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152019</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152019</guid>
-            <pubDate>Sun, 24 Apr 2022 07:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe878d2022fbf3a7ad9587fcb1aa4c94f319c8d0e" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[파리의 피아니스트: 후지코 헤밍의 시간들 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146407</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146407</guid>
+            <pubDate>Tue, 26 Apr 2022 09:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7a0a19bb6f0f5bf755b40410cd33e2e9eeca5bb7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이스케이프 런 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=99634</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=99634</guid>
+            <pubDate>Tue, 26 Apr 2022 09:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F663b86baa60edad88b1611eb10838fd5a9ca1f81" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[끝나지 않은 희망곡 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -2671,14 +2671,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3363ee069d09eb52aa14b2f508322b6b14ec54b8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[美 대표 부자 '기업인' -> 1조 투자 사기꾼 된 실존인물, 누구? (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EAKvTIpKqP</link>
-            <guid>https://content.v.daum.net/v/EAKvTIpKqP</guid>
-            <pubDate>Tue, 26 Apr 2022 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F26%2Fmaxmovie%2F20220426080432285ke2x.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[장례식이 배경이라 울어야하는 영화인데..왜 자꾸 웃음이 터지지 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EgbFZ32M8d</link>
             <guid>https://content.v.daum.net/v/EgbFZ32M8d</guid>
@@ -2829,6 +2821,14 @@
             <pubDate>Mon, 25 Apr 2022 04:27:48 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F24%2Ffeelthemovie%2F202204241423516619wak.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[최초로 '칸 폐막작'으로 선정된 한국영화 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EhdEpmtQtK</link>
+            <guid>https://content.v.daum.net/v/EhdEpmtQtK</guid>
+            <pubDate>Tue, 26 Apr 2022 09:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F25%2Fharmony%2F20220425023904403ia8f.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[리처드 커티스와 무대 (다음 영화 ─ 브런치)]]></title>
