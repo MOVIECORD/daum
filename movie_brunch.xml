@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 06:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 07:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 26 Apr 2022 06:23:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김인혁]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7wSU%2Fimage%2FJMLzwx7G58fROXRykeZC-0z9lLo.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<고령가 소년 살인사건> 리뷰]]></title>
+            <link>https://brunch.co.kr/@@9W8e/81</link>
+            <guid>https://brunch.co.kr/@@9W8e/81</guid>
+            <pubDate>Tue, 26 Apr 2022 07:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>한의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9W8e%2Fimage%2FiVUChrEYdSvQNuR6sB_rLw0C5Wk.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[어둠 속의 댄서]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 22 Apr 2022 03:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정말 많다]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fcl8F%2Fimage%2FzsMMEjhVTneWE2OzgMXV0cpu49g.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[지나간 시간과 선택에 대하여]]></title>
-            <link>https://brunch.co.kr/@@e2kB/1</link>
-            <guid>https://brunch.co.kr/@@e2kB/1</guid>
-            <pubDate>Fri, 22 Apr 2022 03:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>hhoon]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fe2kB%2Fimage%2FLTdwkRW0lY3ABKzMyN8w_TiM1Js.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
