@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 12:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 13:36:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5b45c8e553f8bc202b6f196b7d9f6d1d246a3cf8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[쓰리: 아직 끝나지 않았다 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145278</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145278</guid>
-            <pubDate>Wed, 20 Apr 2022 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7d13d519278c4ed6f8fb3845423f310b4d8bfde" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[소설가의 영화 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157399</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157399</guid>
@@ -158,6 +150,14 @@
             <pubDate>Wed, 20 Apr 2022 08:24:59 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7df95714777b0312b2103fb779ad3531bff061f4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[쓰리: 아직 끝나지 않았다 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145278</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145278</guid>
+            <pubDate>Wed, 20 Apr 2022 08:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7d13d519278c4ed6f8fb3845423f310b4d8bfde" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[말임씨를 부탁해 (다음영화 영화관 ─ 현재상영)]]></title>
