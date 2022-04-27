@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 10:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 11:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,14 +272,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a240fb5c1f9953a27f08c07160b1e0f8d91a2ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[어부바 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144227</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144227</guid>
-            <pubDate>Wed, 27 Apr 2022 03:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a55864ff642261af87b1e93afddc9e5f76f9f0e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[파리, 13구 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152019</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152019</guid>
@@ -326,6 +318,14 @@
             <pubDate>Wed, 27 Apr 2022 03:12:58 GMT</pubDate>
             <content:encoded><![CDATA[22.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffb28b16898227b7108a26cae0e8eb758fc31c6a7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아파치 정션: 무법자의 지대 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159416</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159416</guid>
+            <pubDate>Wed, 27 Apr 2022 11:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02394ac8ce1c0f9b596e4c4fbc717158c56250cf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[끝나지 않은 희망곡 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
