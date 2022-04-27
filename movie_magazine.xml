@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 14:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 15:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼 챔피언! 체육계를 휩쓴 히어로들]]></title>
+            <link>https://content.v.daum.net/v/EAyPr7whAu</link>
+            <guid>https://content.v.daum.net/v/EAyPr7whAu</guid>
+            <pubDate>Wed, 27 Apr 2022 15:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼히어로 스토리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F27%2Fhero_nitko%2F20220427144823080mbbz.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA['부녀 관계' 됐다는 두 배우, 어떤 사연이길래..]]></title>
             <link>https://content.v.daum.net/v/E207lbI0Bk</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Apr 2022 08:23:03 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F25%2Ffeelthemovie%2F20220425083039992wvgm.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[하루에 5끼 '3,700 칼로리'를 섭취한 월드 스타의 몸에 생긴 놀라운 변화]]></title>
-            <link>https://content.v.daum.net/v/EJ0AlDFwvs</link>
-            <guid>https://content.v.daum.net/v/EJ0AlDFwvs</guid>
-            <pubDate>Wed, 27 Apr 2022 08:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F25%2Ffeelthemovie%2F202204251453213501tyy.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
