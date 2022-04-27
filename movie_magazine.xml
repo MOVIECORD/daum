@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 03:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 04:45:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계적인 거장 영화 감독이 아이유를 캐스팅 하고 너무 만족한 이유]]></title>
+            <link>https://content.v.daum.net/v/EQKD2rPVxy</link>
+            <guid>https://content.v.daum.net/v/EQKD2rPVxy</guid>
+            <pubDate>Wed, 27 Apr 2022 04:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F27%2Ffeelthemovie%2F202204270024248352zrh.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[무슨 잘못을 저질렀기에..같은 교도소에 복역(?)중인 여성 스타들]]></title>
             <link>https://content.v.daum.net/v/E3QauKySe1</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 25 Apr 2022 07:18:32 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F25%2Fmaxmovie%2F20220425070008322obyk.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[쉴 새 없는 점프스케어! <서울괴담>]]></title>
-            <link>https://content.v.daum.net/v/EW2rVLOpnr</link>
-            <guid>https://content.v.daum.net/v/EW2rVLOpnr</guid>
-            <pubDate>Mon, 25 Apr 2022 07:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F25%2FMOVIST%2F20220425063952471arq0.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
