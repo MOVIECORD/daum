@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 05:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 06:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,22 @@
             <pubDate>Wed, 27 Apr 2022 05:29:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FGX_JpZH07j55R90_XyrnLkkc6xc.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[당신, 아직 거기 서 있나요?]]></title>
+            <link>https://brunch.co.kr/@@3b20/69</link>
+            <guid>https://brunch.co.kr/@@3b20/69</guid>
+            <pubDate>Wed, 27 Apr 2022 06:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이아련]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3b20%2Fimage%2FUL_cO1TA0szZgOeeWJxX3QjCX14.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<소설가의 영화>와 '소설가의 영화']]></title>
+            <link>https://brunch.co.kr/@@1ibV/1017</link>
+            <guid>https://brunch.co.kr/@@1ibV/1017</guid>
+            <pubDate>Wed, 27 Apr 2022 06:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 박동수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ibV%2Fimage%2FFBm-HZus-MfcbCEWG_31Sw_UwlY.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[리처드 커티스와 무대]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 25 Apr 2022 07:18:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2F3JEAO1WSBbVfX6JeELnY9pxUoOY.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[마법사와 머글 사이]]></title>
-            <link>https://brunch.co.kr/@@a7Xi/99</link>
-            <guid>https://brunch.co.kr/@@a7Xi/99</guid>
-            <pubDate>Mon, 25 Apr 2022 07:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>레이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa7Xi%2Fimage%2FTiA3JgvgSYztR_Et9QsezLAOkdY.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 로스트 시티]]></title>
-            <link>https://brunch.co.kr/@@bNwG/25</link>
-            <guid>https://brunch.co.kr/@@bNwG/25</guid>
-            <pubDate>Mon, 25 Apr 2022 08:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민드레]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbNwG%2Fimage%2F5NjF0lPILqTtNCjER_puaePhWB4.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
