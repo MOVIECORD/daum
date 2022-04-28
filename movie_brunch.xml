@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 07:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 08:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 28 Apr 2022 07:17:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>종종]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbHSp%2Fimage%2FDL-VlcpJadqLn2KkxIGS6XcamtE.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 모두가 거치는,<펭귄 하이웨이>]]></title>
+            <link>https://brunch.co.kr/@@bHSp/261</link>
+            <guid>https://brunch.co.kr/@@bHSp/261</guid>
+            <pubDate>Thu, 28 Apr 2022 08:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>종종]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbHSp%2Fimage%2Fb5cC03LEMqEBye2RmB8Wy7EdbnM.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<더 배트맨 2> 제작 공식 확정. 로버트 패틴슨 복귀]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 25 Apr 2022 06:24:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Editor M]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9KDM%2Fimage%2FtlOPIdzOjUPS-URBaVBdaKdmJOo.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[짐캐리가 그림을 그리는 이유]]></title>
-            <link>https://brunch.co.kr/@@15pS/430</link>
-            <guid>https://brunch.co.kr/@@15pS/430</guid>
-            <pubDate>Mon, 25 Apr 2022 06:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>윤영돈 코치]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F15pS%2Fimage%2FoSMXt_boRVsYoTp5YnLltFtEppE.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 07:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 08:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,7 +77,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=158108</guid>
             <pubDate>Tue, 26 Apr 2022 06:22:08 GMT</pubDate>
             <content:encoded><![CDATA[22.04.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b3a63c5362b9de4babb7f1e17eac9c2e31a9c70" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5e586173fb3ee83885a5e68fa8e8cae4b922895" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[앵커 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37308bdf07795689f66f6cd299056ff13ea6eb35" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[부기나이트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158065</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158065</guid>
-            <pubDate>Wed, 20 Apr 2022 11:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03bae2e3001dcb78ff5294a95dd8651881af8491" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[중경삼림 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=17033</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=17033</guid>
@@ -142,6 +134,14 @@
             <pubDate>Thu, 21 Apr 2022 03:02:23 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F810a231057c615dcf9b74c14a0c9ba325b105980" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[부기나이트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158065</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158065</guid>
+            <pubDate>Wed, 20 Apr 2022 11:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03bae2e3001dcb78ff5294a95dd8651881af8491" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[몬스터아카데미 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2380,6 +2380,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F016cf9fb2c21f1be2a915310a41007e6babaf578" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[완벽한 바비인형 비주얼로 돌아오는 '할리퀸' (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EIFYdi82Fu</link>
+            <guid>https://content.v.daum.net/v/EIFYdi82Fu</guid>
+            <pubDate>Thu, 28 Apr 2022 08:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F28%2Fharmony%2F20220428055423713h5fr.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[개봉 전부터 난리 난 마블 '기대작'의 상황 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/ElAmQwUDl3</link>
+            <guid>https://content.v.daum.net/v/ElAmQwUDl3</guid>
+            <pubDate>Thu, 28 Apr 2022 08:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F28%2Fmaxmovie%2F20220428071825560bida.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[강동원부터 아이유까지.. 마침내 공개되는 이들의 사연 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EODsxsZWK9</link>
+            <guid>https://content.v.daum.net/v/EODsxsZWK9</guid>
+            <pubDate>Thu, 28 Apr 2022 08:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F28%2Fmaxmovie%2F202204280708419679emd.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[크리스 프랫, <쥬라기 월드: 도미니언> 한국 최초 개봉 소식 알려! (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EbHrtWplPc</link>
             <guid>https://content.v.daum.net/v/EbHrtWplPc</guid>
@@ -2516,30 +2540,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F26%2Fharmony%2F20220426073524202j87h.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[봉준호 감독 영화에 출연했는데.. 부모님이 오열하신 사연 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EXEVRUmeSE</link>
-            <guid>https://content.v.daum.net/v/EXEVRUmeSE</guid>
-            <pubDate>Tue, 26 Apr 2022 11:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F26%2Fharmony%2F202204260217102970tow.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[장례식이 배경이라 울어야하는 영화인데..왜 자꾸 웃음이 터지지 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EgbFZ32M8d</link>
-            <guid>https://content.v.daum.net/v/EgbFZ32M8d</guid>
-            <pubDate>Tue, 26 Apr 2022 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F26%2Ffeelthemovie%2F202204260818233766rk5.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['영화' 찍다 사귄 배우&감독 '커플'이 전한 깜짝 소식! (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/E3j6gZ4gau</link>
-            <guid>https://content.v.daum.net/v/E3j6gZ4gau</guid>
-            <pubDate>Tue, 26 Apr 2022 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F26%2Fmaxmovie%2F20220426073537306rwyu.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[미국 이민자가 '파친코'에 열광하는 이유 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@8j2M/326</link>
             <guid>https://brunch.co.kr/@@8j2M/326</guid>
@@ -2554,6 +2554,14 @@
             <pubDate>Thu, 28 Apr 2022 07:17:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>종종]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbHSp%2Fimage%2FDL-VlcpJadqLn2KkxIGS6XcamtE.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 모두가 거치는,<펭귄 하이웨이> (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@bHSp/261</link>
+            <guid>https://brunch.co.kr/@@bHSp/261</guid>
+            <pubDate>Thu, 28 Apr 2022 08:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>종종]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbHSp%2Fimage%2Fb5cC03LEMqEBye2RmB8Wy7EdbnM.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<더 배트맨 2> 제작 공식 확정. 로버트 패틴슨 복귀 (다음 영화 ─ 브런치)]]></title>
@@ -2690,14 +2698,6 @@
             <pubDate>Mon, 25 Apr 2022 06:24:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Editor M]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9KDM%2Fimage%2FtlOPIdzOjUPS-URBaVBdaKdmJOo.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[짐캐리가 그림을 그리는 이유 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@15pS/430</link>
-            <guid>https://brunch.co.kr/@@15pS/430</guid>
-            <pubDate>Mon, 25 Apr 2022 06:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>윤영돈 코치]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F15pS%2Fimage%2FoSMXt_boRVsYoTp5YnLltFtEppE.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
