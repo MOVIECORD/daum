@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 10:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 11:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,22 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2733bbc22a93d16bace5658738322df204bbf01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[쿠폰의 여왕 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152086</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152086</guid>
-            <pubDate>Thu, 21 Apr 2022 03:02:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F486913e489910ec8021fa2cf6a3b3e77230c933c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[중경삼림 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=17033</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=17033</guid>
-            <pubDate>Wed, 20 Apr 2022 08:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb491e00f195f70fe69364c79cd1ef40224b19608" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 킹키부츠 라이브 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=140085</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=140085</guid>
@@ -136,12 +120,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5b45c8e553f8bc202b6f196b7d9f6d1d246a3cf8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[쿠폰의 여왕 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152086</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152086</guid>
+            <pubDate>Thu, 21 Apr 2022 03:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F486913e489910ec8021fa2cf6a3b3e77230c933c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[내가 처음으로 사랑한 소녀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155453</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155453</guid>
             <pubDate>Thu, 21 Apr 2022 03:02:23 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F810a231057c615dcf9b74c14a0c9ba325b105980" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[중경삼림 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=17033</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=17033</guid>
+            <pubDate>Wed, 20 Apr 2022 08:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb491e00f195f70fe69364c79cd1ef40224b19608" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[부기나이트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -212,7 +212,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=154400</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154400</guid>
             <pubDate>Tue, 26 Apr 2022 08:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.11]]></content:encoded>
+            <content:encoded><![CDATA[22.05.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb646c92a8e0ff72a19bf64c80bb049be40aaa2e4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -2436,6 +2436,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F016cf9fb2c21f1be2a915310a41007e6babaf578" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[소속사 계약한지 3일 만에 '칸 출품작' 주연 맡았던 연기 괴물 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/Ef7VWZii28</link>
+            <guid>https://content.v.daum.net/v/Ef7VWZii28</guid>
+            <pubDate>Fri, 29 Apr 2022 11:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F29%2FBoiledMovie%2F20220429071030448h3u9.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[영화 한 편 위해서 70벌의 반짝이 의상 준비한 할리우드 배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EPiY9YmAp1</link>
             <guid>https://content.v.daum.net/v/EPiY9YmAp1</guid>
@@ -2586,14 +2594,6 @@
             <pubDate>Thu, 28 Apr 2022 03:41:56 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F27%2Ffeelthemovie%2F20220427122202815bsu8.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[살아있는 바비 인형이 된 세계 최고의 미녀 월드 스타 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EGS894Cu0K</link>
-            <guid>https://content.v.daum.net/v/EGS894Cu0K</guid>
-            <pubDate>Fri, 29 Apr 2022 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F27%2Ffeelthemovie%2F20220427120920844syh1.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[말과 침묵 사이에는 (다음 영화 ─ 브런치)]]></title>
