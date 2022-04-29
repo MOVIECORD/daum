@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 13:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 14:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58b3acf69473d4e8dca11ad91fb1258bf49049a3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[크로스 더 라인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148184</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148184</guid>
+            <pubDate>Fri, 29 Apr 2022 14:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69c95c094daad3ae8471b8110b8822d328890db6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[파리, 13구]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152019</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152019</guid>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 28 Apr 2022 03:40:51 GMT</pubDate>
             <content:encoded><![CDATA[22.05.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F16fa6fb05d7128235d8f7763eb82914fc92b6d5b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[카사네 : 빼앗는 얼굴]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=124578</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=124578</guid>
-            <pubDate>Fri, 29 Apr 2022 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec3577f785625c7f827a807a209877268839ad62" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
