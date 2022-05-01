@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 10:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 11:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5f1bbf358d905c6a526940b1c81d3196015c3e7b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[세븐틴 파워 오브 러브 : 더 무비]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158452</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158452</guid>
-            <pubDate>Wed, 20 Apr 2022 03:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbd34505a44a846ca734f63e581cc28f83f435a8c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[봄날]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149857</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149857</guid>
@@ -40,12 +32,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3227ac46817162e7bb329fc01fc42653afb5a9e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[로스트 시티]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156501</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156501</guid>
+            <title><![CDATA[세븐틴 파워 오브 러브 : 더 무비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158452</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158452</guid>
             <pubDate>Wed, 20 Apr 2022 03:09:54 GMT</pubDate>
             <content:encoded><![CDATA[22.04.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab6e52ac5c96d1ce8f6bacc44b1926cf9a190952" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbd34505a44a846ca734f63e581cc28f83f435a8c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[서울괴담]]></title>
@@ -54,6 +46,14 @@
             <pubDate>Wed, 27 Apr 2022 03:12:50 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a99abb42cba19fe3e4580eef2d2ea5588792e0a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[로스트 시티]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156501</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156501</guid>
+            <pubDate>Wed, 20 Apr 2022 03:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab6e52ac5c96d1ce8f6bacc44b1926cf9a190952" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 컨트랙터]]></title>
