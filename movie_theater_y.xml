@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 11:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 12:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b93b731530a106c46fd6d356bfe9c68a3131f57" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[앵커]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135501</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135501</guid>
-            <pubDate>Wed, 20 Apr 2022 03:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a0d146d59b32103a7ce4a83f53e3fe59f7efdbe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[로스트 시티]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156501</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156501</guid>
@@ -118,6 +110,14 @@
             <pubDate>Thu, 28 Apr 2022 03:40:43 GMT</pubDate>
             <content:encoded><![CDATA[22.04.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03bae2e3001dcb78ff5294a95dd8651881af8491" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[앵커]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135501</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135501</guid>
+            <pubDate>Wed, 20 Apr 2022 03:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a0d146d59b32103a7ce4a83f53e3fe59f7efdbe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[몬스터아카데미]]></title>
