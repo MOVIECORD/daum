@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 05:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 06:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
             <pubDate>Mon, 02 May 2022 03:27:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2Ftfq-Jrm-VAp4nPgPIn5pyjzLz9M.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 JIFF, 이상일 <유랑의 달> 단평.]]></title>
+            <link>https://brunch.co.kr/@@1nzW/129</link>
+            <guid>https://brunch.co.kr/@@1nzW/129</guid>
+            <pubDate>Mon, 02 May 2022 06:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>성상민]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1nzW%2Fimage%2FoArdn4egeFcstJqjKb7D5V0fD6s" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[#08. 우리가 편집이라고 부르는 것들 : 파인 편집]]></title>
+            <link>https://brunch.co.kr/@@cQbg/11</link>
+            <guid>https://brunch.co.kr/@@cQbg/11</guid>
+            <pubDate>Mon, 02 May 2022 06:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>송둘기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcQbg%2Fimage%2FS1PAkgdORHUSn8b0rOjCnREusLY.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 '잔칫날', 남은 사람들의 내일에 관하여]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 27 Apr 2022 05:29:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정말 많다]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fcl8F%2Fimage%2FTaZV1Nws4Z7Yo7YhkfqeJeb8Axc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[칸 영화제가 그렇게 대단한가?]]></title>
-            <link>https://brunch.co.kr/@@cyWr/25</link>
-            <guid>https://brunch.co.kr/@@cyWr/25</guid>
-            <pubDate>Wed, 27 Apr 2022 05:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>무화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcyWr%2Fimage%2FAysbGVyiA8j_g0ItRckaCJPAKF8.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['한국산' 멜로 영화는 현재 멸종위기]]></title>
-            <link>https://brunch.co.kr/@@5jTv/109</link>
-            <guid>https://brunch.co.kr/@@5jTv/109</guid>
-            <pubDate>Wed, 27 Apr 2022 05:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FGX_JpZH07j55R90_XyrnLkkc6xc.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
