@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 08:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 09:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2733bbc22a93d16bace5658738322df204bbf01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 킹키부츠 라이브]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=140085</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=140085</guid>
-            <pubDate>Thu, 28 Apr 2022 03:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37308bdf07795689f66f6cd299056ff13ea6eb35" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[부기나이트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158065</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158065</guid>
@@ -142,6 +134,14 @@
             <pubDate>Wed, 20 Apr 2022 03:09:55 GMT</pubDate>
             <content:encoded><![CDATA[22.04.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb491e00f195f70fe69364c79cd1ef40224b19608" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 킹키부츠 라이브]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=140085</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=140085</guid>
+            <pubDate>Thu, 28 Apr 2022 03:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37308bdf07795689f66f6cd299056ff13ea6eb35" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[쿠폰의 여왕]]></title>
