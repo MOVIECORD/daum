@@ -4,17 +4,9 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 15:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 03:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스파이더맨: 파 프롬 홈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=122542</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=122542</guid>
-            <pubDate>Sat, 23 Apr 2022 12:28:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F984467734d0441d9bd342456607cefe31558926997358" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[내 남자가 약혼했다]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=117348</link>
@@ -38,6 +30,14 @@
             <pubDate>Sat, 23 Apr 2022 12:28:35 GMT</pubDate>
             <content:encoded><![CDATA[22.05.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f9750f09dac0f1b3659ae03cfe9ed7938be8d30" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[가타오 2 - 제왕의 부상]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=120117</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=120117</guid>
+            <pubDate>Tue, 03 May 2022 03:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76d3fd031df4ff19397bd9c2c81f6dbee77648e8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하하하]]></title>
@@ -414,6 +414,22 @@
             <pubDate>Sat, 23 Apr 2022 12:28:35 GMT</pubDate>
             <content:encoded><![CDATA[22.05.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F146F1B10ABA8980D9E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[토탈 리콜]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=59141</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=59141</guid>
+            <pubDate>Tue, 03 May 2022 03:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F190F7C50500630182F" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[택시 드라이버]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=1908</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=1908</guid>
+            <pubDate>Tue, 03 May 2022 03:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F146F1B10AD094A9A40" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
