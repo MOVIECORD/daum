@@ -4,9 +4,25 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 08:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 09:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#영화 추천 <쓰리, 아직 끝나지 않았다>]]></title>
+            <link>https://brunch.co.kr/@@2W0d/701</link>
+            <guid>https://brunch.co.kr/@@2W0d/701</guid>
+            <pubDate>Fri, 06 May 2022 09:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 홍수정]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2W0d%2Fimage%2FiPcLAbmMdya7Op8TRMaeMC5q2s8.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[닥터 스트레인지 : 대혼돈의 멀티버스]]></title>
+            <link>https://brunch.co.kr/@@bNwG/43</link>
+            <guid>https://brunch.co.kr/@@bNwG/43</guid>
+            <pubDate>Fri, 06 May 2022 09:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민드레]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbNwG%2Fimage%2F-hVIBotmocE-5ZNZJFXa03fvCNw.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[<우연과 상상> 우연이 초래한 긴장을 푸는 우연한 인연]]></title>
             <link>https://brunch.co.kr/@@5XLU/470</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 28 Apr 2022 05:05:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>멜랜Jina]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8j2M%2Fimage%2Fn8AjbJk4QaNni2O4IMR17yHY3xY.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 애는 안 물어요,<니 부모 얼굴이 보고 싶다>]]></title>
-            <link>https://brunch.co.kr/@@bHSp/265</link>
-            <guid>https://brunch.co.kr/@@bHSp/265</guid>
-            <pubDate>Thu, 28 Apr 2022 07:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>종종]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbHSp%2Fimage%2FDL-VlcpJadqLn2KkxIGS6XcamtE.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 모두가 거치는,<펭귄 하이웨이>]]></title>
-            <link>https://brunch.co.kr/@@bHSp/261</link>
-            <guid>https://brunch.co.kr/@@bHSp/261</guid>
-            <pubDate>Thu, 28 Apr 2022 08:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>종종]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbHSp%2Fimage%2Fb5cC03LEMqEBye2RmB8Wy7EdbnM.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
