@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 04:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 05:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[부기나이트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158065</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158065</guid>
-            <pubDate>Wed, 20 Apr 2022 11:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03bae2e3001dcb78ff5294a95dd8651881af8491" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[공기살인 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143705</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143705</guid>
@@ -128,20 +120,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b93b731530a106c46fd6d356bfe9c68a3131f57" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[중경삼림 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=17033</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=17033</guid>
-            <pubDate>Fri, 06 May 2022 02:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb491e00f195f70fe69364c79cd1ef40224b19608" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스프링 블라썸 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144187</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144187</guid>
             <pubDate>Thu, 05 May 2022 03:57:36 GMT</pubDate>
             <content:encoded><![CDATA[22.05.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a240fb5c1f9953a27f08c07160b1e0f8d91a2ff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[부기나이트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158065</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158065</guid>
+            <pubDate>Wed, 20 Apr 2022 11:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03bae2e3001dcb78ff5294a95dd8651881af8491" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[중경삼림 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=17033</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=17033</guid>
+            <pubDate>Fri, 06 May 2022 02:44:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb491e00f195f70fe69364c79cd1ef40224b19608" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[소설가의 영화 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1932,6 +1932,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26fcfe4b2ddbeeb1f68dabc88c75d9046e812e41" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[K팝 스타들을 카메라에 담았을 뿐인데..연간 100억원을 버는 이 남자 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EJz5PCbrA7</link>
+            <guid>https://content.v.daum.net/v/EJz5PCbrA7</guid>
+            <pubDate>Fri, 06 May 2022 05:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F06%2Ffeelthemovie%2F20220506051654709fla4.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[절친이어서 사귈일 없는데..실수로 뽀뽀했다는 두 남녀스타 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/E6cwDShlqC</link>
             <guid>https://content.v.daum.net/v/E6cwDShlqC</guid>
@@ -2082,14 +2090,6 @@
             <pubDate>Wed, 04 May 2022 03:03:19 GMT</pubDate>
             <content:encoded><![CDATA[무비스트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F04%2FMOVIST%2F20220504105947783pssp.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[4월 5주 북미 박스] <배드 가이즈> <수퍼 소닉2> <신비한 동물사전3> 선두 유지 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EkzlVyDkGh</link>
-            <guid>https://content.v.daum.net/v/EkzlVyDkGh</guid>
-            <pubDate>Wed, 04 May 2022 03:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F04%2FMOVIST%2F20220504103757296shvw.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<우연과 상상> 우연이 초래한 긴장을 푸는 우연한 인연 (다음 영화 ─ 브런치)]]></title>
