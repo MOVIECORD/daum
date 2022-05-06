@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 07:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 08:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb17a110cecd283111400ba4326990a4bf487e2fd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[매스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147303</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147303</guid>
+            <pubDate>Wed, 04 May 2022 03:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26ea483140c84ed654383d90f55f1f71eb36b502" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[올리 마키의 가장 행복한 날]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=102922</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=102922</guid>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 04 May 2022 03:02:24 GMT</pubDate>
             <content:encoded><![CDATA[22.05.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc62f01d24140efa3a2ca3f05b089195a8cd1f946" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[매스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147303</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147303</guid>
-            <pubDate>Wed, 04 May 2022 03:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26ea483140c84ed654383d90f55f1f71eb36b502" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[쏴!쏴!쏴!쏴!탕]]></title>
