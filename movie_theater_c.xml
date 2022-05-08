@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 12:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 13:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa3c61886cf010f788d3b7d4be9813e550c009076" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[허셀프]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137956</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137956</guid>
+            <pubDate>Sun, 01 May 2022 03:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b82a16f087f0b65f3152775872e1da070294744" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[잭 인 더 박스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158952</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158952</guid>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 29 Apr 2022 14:16:02 GMT</pubDate>
             <content:encoded><![CDATA[22.05.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69c95c094daad3ae8471b8110b8822d328890db6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[허셀프]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137956</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137956</guid>
-            <pubDate>Sun, 01 May 2022 03:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b82a16f087f0b65f3152775872e1da070294744" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[허황옥 3일, 잃어버린 2천 년의 기억]]></title>
