@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 11:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 12:34:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2733bbc22a93d16bace5658738322df204bbf01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[서울괴담 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150206</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150206</guid>
-            <pubDate>Wed, 20 Apr 2022 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a99abb42cba19fe3e4580eef2d2ea5588792e0a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 20 Apr 2022 11:16:04 GMT</pubDate>
             <content:encoded><![CDATA[22.04.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03bae2e3001dcb78ff5294a95dd8651881af8491" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[서울괴담 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150206</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150206</guid>
+            <pubDate>Wed, 20 Apr 2022 08:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a99abb42cba19fe3e4580eef2d2ea5588792e0a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[세븐틴 파워 오브 러브 : 더 무비 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1444,6 +1444,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26fcfe4b2ddbeeb1f68dabc88c75d9046e812e41" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[마블의 보이지 않는 손, 일루미나티 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/ErjALltQAk</link>
+            <guid>https://content.v.daum.net/v/ErjALltQAk</guid>
+            <pubDate>Mon, 09 May 2022 12:33:57 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼히어로 스토리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fhero_nitko%2F20220509115007893kuwg.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA['김지영→전소민' 의외의 조합 7인이 만난 놀라운 이유 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EDXSZ9UJxh</link>
             <guid>https://content.v.daum.net/v/EDXSZ9UJxh</guid>
@@ -1594,14 +1602,6 @@
             <pubDate>Fri, 06 May 2022 02:45:44 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F05%2Ffeelthemovie%2F20220505235935829zqbs.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[비가 '엄복동' 출연하려고 포기한 엄청난 미국 영화 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/E5RubZ6nn4</link>
-            <guid>https://content.v.daum.net/v/E5RubZ6nn4</guid>
-            <pubDate>Mon, 09 May 2022 09:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F05%2Ffeelthemovie%2F20220505155740697ctcv.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[확장하는 MCU, 본격 시험대 올랐다 (다음 영화 ─ 브런치)]]></title>
