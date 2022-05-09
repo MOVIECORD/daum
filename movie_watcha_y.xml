@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2022-05-09T04:32:18.598Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 09 May 2022 05:21:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고양이를 부탁해]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3186</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3186</guid>
+            <pubDate>Mon, 09 May 2022 05:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcaf0e113a9fccc8d6120a124d1c22d1e08c38434" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나도 아내가 있었으면 좋겠다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2442</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2442</guid>
+            <pubDate>Mon, 09 May 2022 05:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1240FB10AB8F164B6B" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
