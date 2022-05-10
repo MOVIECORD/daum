@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 02:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 03:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26ea483140c84ed654383d90f55f1f71eb36b502" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그대가 조국]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159431</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159431</guid>
-            <pubDate>Tue, 10 May 2022 02:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F99b73bfca733a429519855f9df87c7dd9cb653b8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[크로스 더 라인]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=148184</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=148184</guid>
@@ -110,6 +102,14 @@
             <pubDate>Mon, 02 May 2022 10:21:23 GMT</pubDate>
             <content:encoded><![CDATA[22.05.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F132ff09119a20dc7a1b3d67a4c1a9817c6347cb8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[데드캠핑 더라이브]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159148</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159148</guid>
+            <pubDate>Wed, 04 May 2022 03:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe74268d738b699a57aab379c5522ba3bca362fbe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[허황옥 3일, 잃어버린 2천 년의 기억]]></title>
@@ -136,14 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fe7ff3173dd268e17894030c2a285773ac24d2e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[데드캠핑 더라이브]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159148</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159148</guid>
-            <pubDate>Wed, 04 May 2022 03:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe74268d738b699a57aab379c5522ba3bca362fbe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[쏴!쏴!쏴!쏴!탕]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157387</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157387</guid>
@@ -165,6 +157,14 @@
             <pubDate>Wed, 04 May 2022 05:19:55 GMT</pubDate>
             <content:encoded><![CDATA[22.05.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fda2d23b772c5696bab4355263d88caf1ba9c11c4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[파이어스타터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157880</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157880</guid>
+            <pubDate>Tue, 10 May 2022 03:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa114e805976e9a2123c43c8cc6df08de7a5a0a4a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
