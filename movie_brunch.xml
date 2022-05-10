@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 04:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 05:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 10 May 2022 03:28:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>나는 누군가]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3kT%2Fimage%2FHVdyD9lpM-F4MpZIeZJYnGVb7Xg.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[전주의 전주 : 1일 차]]></title>
+            <link>https://brunch.co.kr/@@11gq/131</link>
+            <guid>https://brunch.co.kr/@@11gq/131</guid>
+            <pubDate>Tue, 10 May 2022 05:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>soripza]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F11gq%2Fimage%2FUwd5P-nngaUOgyEo7hqmz6jySdw.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 <조조 래빗>-토끼와 히틀러]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 04 May 2022 03:03:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2Fx_ZKU83EWDQlHnQy1WFskp2Mm2c.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[자기 소개하는 게 싫었던 진짜 이유]]></title>
-            <link>https://brunch.co.kr/@@G9l/185</link>
-            <guid>https://brunch.co.kr/@@G9l/185</guid>
-            <pubDate>Wed, 04 May 2022 03:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>홍밀밀]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FG9l%2Fimage%2F3XsDWs794-hHhVxh410D6WpN9mA.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
