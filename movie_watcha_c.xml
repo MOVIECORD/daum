@@ -4,17 +4,9 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 15:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 02:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[사망탑의 결전]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=910</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=910</guid>
-            <pubDate>Tue, 26 Apr 2022 05:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fd72446bfe28c3d05223aa8056b46ab03a2fe03" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[댄스 오브 드래곤]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=44084</link>
@@ -254,6 +246,22 @@
             <pubDate>Mon, 09 May 2022 05:21:00 GMT</pubDate>
             <content:encoded><![CDATA[22.05.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F186D884A5074F0281C" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그댄 나의 뱀파이어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=85327</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=85327</guid>
+            <pubDate>Tue, 10 May 2022 02:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F223C804E537A9E6535" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 마이 리틀 포니 : 이퀘스트리아 걸스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=80382</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=80382</guid>
+            <pubDate>Tue, 10 May 2022 02:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5271cd76090d48d690d49a42ea0bfa5cfeffe9b8" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

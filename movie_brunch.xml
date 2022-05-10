@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 15:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 02:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스프링 블라썸> 사랑이 피어나고, 소녀는 성인이 된다]]></title>
+            <link>https://brunch.co.kr/@@5XLU/474</link>
+            <guid>https://brunch.co.kr/@@5XLU/474</guid>
+            <pubDate>Tue, 10 May 2022 02:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FHQfeG3q-ztlj2Km_zEZp8cVpuvg.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[확장하는 MCU, 본격 시험대 올랐다]]></title>
             <link>https://brunch.co.kr/@@5jTv/126</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 02 May 2022 03:27:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2F43dKC3hv_KS9kxzbSkJpa03euCY.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[고통의 시간 속에서, 생존한 당신]]></title>
-            <link>https://brunch.co.kr/@@5jTv/122</link>
-            <guid>https://brunch.co.kr/@@5jTv/122</guid>
-            <pubDate>Mon, 02 May 2022 03:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2Ftfq-Jrm-VAp4nPgPIn5pyjzLz9M.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
