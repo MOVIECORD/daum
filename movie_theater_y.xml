@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 15:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 02:59:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Wed, 04 May 2022 03:02:16 GMT</pubDate>
             <content:encoded><![CDATA[22.05.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa645a5285e0758cc1fdff9b3aa72d5fb234a7fa9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[민스미트 작전]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154400</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154400</guid>
+            <pubDate>Wed, 11 May 2022 02:58:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb646c92a8e0ff72a19bf64c80bb049be40aaa2e4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엄마]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158429</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158429</guid>
+            <pubDate>Wed, 11 May 2022 02:58:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0f475c9526e0d12c705e71d0b93095fdcdf35169" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어부바]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144227</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144227</guid>
+            <pubDate>Wed, 11 May 2022 02:58:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a55864ff642261af87b1e93afddc9e5f76f9f0e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[배드 가이즈]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 06 May 2022 02:44:49 GMT</pubDate>
             <content:encoded><![CDATA[22.04.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb491e00f195f70fe69364c79cd1ef40224b19608" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[소설가의 영화]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157399</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157399</guid>
-            <pubDate>Tue, 10 May 2022 06:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18164fd5a0cf491a40d317e9e026abf948e7b503" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 귀멸의 칼날: 무한열차편]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145371</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145371</guid>
-            <pubDate>Thu, 21 Apr 2022 03:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2733bbc22a93d16bace5658738322df204bbf01" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[토르: 마법 검의 전설]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138639</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138639</guid>
-            <pubDate>Tue, 10 May 2022 11:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03a8bb6ad5808b31cdf0613f43d32feeb8f6c955" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
