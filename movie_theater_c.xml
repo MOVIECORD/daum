@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 06:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 07:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -119,6 +119,14 @@
             <content:encoded><![CDATA[22.05.18]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[봉명주공]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146014</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146014</guid>
+            <pubDate>Wed, 04 May 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fda2d23b772c5696bab4355263d88caf1ba9c11c4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[올리 마키의 가장 행복한 날]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=102922</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=102922</guid>
@@ -133,14 +141,6 @@
             <pubDate>Wed, 04 May 2022 03:02:24 GMT</pubDate>
             <content:encoded><![CDATA[22.05.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00f285f1f446e672e9c7d9dec8793d06e98434f9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[봉명주공]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146014</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146014</guid>
-            <pubDate>Wed, 04 May 2022 05:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fda2d23b772c5696bab4355263d88caf1ba9c11c4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파이어스타터]]></title>
