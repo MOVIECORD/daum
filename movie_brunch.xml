@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 07:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 08:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 24 May 2022 07:13:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Editor M]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9KDM%2Fimage%2FuzlGhQfFaQ-yTAvE2WYhaC0P54g.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[무지개 너머에는 무엇이 있었나]]></title>
+            <link>https://brunch.co.kr/@@7wSU/93</link>
+            <guid>https://brunch.co.kr/@@7wSU/93</guid>
+            <pubDate>Tue, 24 May 2022 08:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김인혁]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7wSU%2Fimage%2FXIdsfgOTP0SNKvO9XeYWAHCUpvQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 패왕별희 선택적 리뷰, 해석]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:42:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민드레]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbNwG%2Fimage%2FqM7vYg7VKjxvnAVFNgaWBRSPlF8.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[홍상수의 영화 & 소설가의 영화]]></title>
-            <link>https://brunch.co.kr/@@kOf/372</link>
-            <guid>https://brunch.co.kr/@@kOf/372</guid>
-            <pubDate>Tue, 24 May 2022 02:42:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>조영준]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FkOf%2Fimage%2FS4Rw7aF2ZQTECpyAtUTMtnBpZv0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
