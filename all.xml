@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 03:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 04:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -271,6 +271,14 @@
             <content:encoded><![CDATA[22.06.16]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[모어 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153828</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153828</guid>
+            <pubDate>Tue, 14 Jun 2022 23:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f17227af8b5decdc74b54f9f408488639d5e4d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[우스운게 딱! 좋아! (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160636</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160636</guid>
@@ -315,14 +323,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=160717</guid>
             <pubDate>Tue, 14 Jun 2022 23:11:33 GMT</pubDate>
             <content:encoded><![CDATA[22.06.22]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모어 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153828</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153828</guid>
-            <pubDate>Tue, 14 Jun 2022 23:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f17227af8b5decdc74b54f9f408488639d5e4d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[금단의 비즈니스 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1510,6 +1510,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa27c04fc9fd2d02df776e46e3f03c5f784d4bc76" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[26세기 우주전쟁, 드디어 한국 찾는다 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/ERizV0TJR2</link>
+            <guid>https://content.v.daum.net/v/ERizV0TJR2</guid>
+            <pubDate>Wed, 15 Jun 2022 04:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Ffanzeel%2F2022061503380454528ca.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[운동만 했는데 어깨가 넓어져 남자로 오해받은 여배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EDQOe5Vjog</link>
             <guid>https://content.v.daum.net/v/EDQOe5Vjog</guid>
@@ -1660,14 +1668,6 @@
             <pubDate>Mon, 13 Jun 2022 04:34:16 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Ffanzeel%2F20220613031532618xe6p.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[믿고 있었다구! 진화된 비주얼과 재미로 돌아온 '탑건: 매버릭' (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EqOYrbqQJt</link>
-            <guid>https://content.v.daum.net/v/EqOYrbqQJt</guid>
-            <pubDate>Mon, 13 Jun 2022 03:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[테일러콘텐츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Ftailorcontents_cv%2F20220613023702510avef.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<브로커> 수평의 여정이 수직적인 세상에 가져올 변화 (다음 영화 ─ 브런치)]]></title>
