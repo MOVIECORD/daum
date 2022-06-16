@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 01:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 03:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=155087</guid>
             <pubDate>Wed, 01 Jun 2022 23:13:38 GMT</pubDate>
             <content:encoded><![CDATA[22.06.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F40544401324b5cb1a9a6a36d2b9ce3cda1e1a6e1" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2ff37621bc0fe2e389f886157145543d817eabdd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[브로커 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65efe2b2983961db24d721052e3b93300660a1ec" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아부쟁이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135127</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135127</guid>
-            <pubDate>Fri, 10 Jun 2022 17:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F20fa83a7364fa0e48eb4c898616f7fc1f3218b63" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[이공삼칠 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159766</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159766</guid>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 26 May 2022 01:02:22 GMT</pubDate>
             <content:encoded><![CDATA[22.05.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbeb137937d5cdbe97b3f6bc8d885f8b639d09e64" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[매스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147303</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147303</guid>
+            <pubDate>Thu, 16 Jun 2022 03:03:11 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26ea483140c84ed654383d90f55f1f71eb36b502" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[탑건: 매버릭 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1129,6 +1129,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F51e6b2d66e9fee53221eb72703d1fabfe7edd43c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[경계의 저편 : I’LL BE HERE - 미래편 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=92921</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=92921</guid>
+            <pubDate>Thu, 16 Jun 2022 03:03:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08d0794e88b3ec11ae60df8bc05fc7a10792a0a3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[경계의 저편 : I’LL BE HERE - 과거편 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=92920</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=92920</guid>
+            <pubDate>Thu, 16 Jun 2022 03:03:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03621d6ebb8ab9c73585b91686160de9f50e7211" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[흡혈형사 나도열 ([다음영화] 왓챠 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=41334</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=41334</guid>
@@ -1303,6 +1319,22 @@
             <pubDate>Wed, 15 Jun 2022 03:30:58 GMT</pubDate>
             <content:encoded><![CDATA[22.06.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff6923e9a4b79e84bdfc6c09f2750de80c1ab6ca1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엘튼 존의 숨김 없는 이야기 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160703</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160703</guid>
+            <pubDate>Thu, 16 Jun 2022 03:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcf1f8f6de4db36d2c2dfeff9c01d3cddbf03ba97" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[에이미되찾기 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160698</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160698</guid>
+            <pubDate>Thu, 16 Jun 2022 03:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F41570258e9c62508c01a863492b1bed26ca6c627" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[연쇄살인마의 이중생활 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
@@ -1543,6 +1575,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa78717bf8834a9d22670edb3297c84e23d5e291a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[노래로 국민 첫사랑이 될 예정인 '기생충' 여배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EvgoNVucFe</link>
+            <guid>https://content.v.daum.net/v/EvgoNVucFe</guid>
+            <pubDate>Thu, 16 Jun 2022 03:04:14 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F16%2Ffeelthemovie%2F20220616011214551v7do.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[아이,아기들이 이 남자 스타를 너무 사랑하는 이유 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EFQvHCZLyO</link>
             <guid>https://content.v.daum.net/v/EFQvHCZLyO</guid>
@@ -1693,14 +1733,6 @@
             <pubDate>Mon, 13 Jun 2022 07:12:42 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Fmaxmovie%2F202206130628209084ajh.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[톱스타 아내 '배우'가 2년 만에 전한 반가운 '소식'! (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/ESh3ov1E8a</link>
-            <guid>https://content.v.daum.net/v/ESh3ov1E8a</guid>
-            <pubDate>Mon, 13 Jun 2022 07:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Fmaxmovie%2F20220613061907876seh6.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<브로커> 수평의 여정이 수직적인 세상에 가져올 변화 (다음 영화 ─ 브런치)]]></title>
