@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 17:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 18:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7735e0e609102480e1d39477c90a002bbac8494d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[베르네 부인의 장미정원 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152814</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152814</guid>
-            <pubDate>Thu, 09 Jun 2022 00:58:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F555ed3480a8ff028128f7e991798c5c0dc115eda" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[카시오페아 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159799</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159799</guid>
@@ -134,6 +126,14 @@
             <pubDate>Fri, 17 Jun 2022 04:25:57 GMT</pubDate>
             <content:encoded><![CDATA[22.06.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F20fa83a7364fa0e48eb4c898616f7fc1f3218b63" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[베르네 부인의 장미정원 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152814</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152814</guid>
+            <pubDate>Thu, 09 Jun 2022 00:58:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F555ed3480a8ff028128f7e991798c5c0dc115eda" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[벰 : 비컴 휴먼 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -232,6 +232,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8be597e34cb4288f91ced3bc507e58b341f6de76" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[이상한 나라의 아빠 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160717</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160717</guid>
+            <pubDate>Tue, 14 Jun 2022 23:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.22]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[갓길로 달리는 코뿔소 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149188</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149188</guid>
@@ -285,13 +292,6 @@
             <pubDate>Tue, 07 Jun 2022 05:11:03 GMT</pubDate>
             <content:encoded><![CDATA[22.06.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa5ec264d2d6d65603790d65e141d64544282210b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[이상한 나라의 아빠 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160717</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160717</guid>
-            <pubDate>Tue, 14 Jun 2022 23:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.22]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러브 앤 젤라토 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -651,6 +651,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=139420</guid>
             <pubDate>Thu, 16 Jun 2022 06:15:13 GMT</pubDate>
             <content:encoded><![CDATA[22.06.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe94a320f0510d906fec2bdab497734286de0a597" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[어 마우스풀 오브 에어 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
