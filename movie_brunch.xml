@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 08:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 09:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 21 Jun 2022 04:31:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FtYboFLHxALizDWx3Fq79Y7g5mos.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[아빠의 아픔을 인정하는 일]]></title>
+            <link>https://brunch.co.kr/@@53T1/108</link>
+            <guid>https://brunch.co.kr/@@53T1/108</guid>
+            <pubDate>Tue, 21 Jun 2022 09:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김진수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F53T1%2Fimage%2Fn6i1YOx1xcI7sOX23kl8j7JaSVw.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<스파이더헤드> 죗값 대신 실험에 참가한 죄수]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Jun 2022 03:00:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2FYMqQ9XfI2JdQfnIlcvJZO1HvHKs.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[브로커, 근데 이제 CJ가 묻은]]></title>
-            <link>https://brunch.co.kr/@@oNv/386</link>
-            <guid>https://brunch.co.kr/@@oNv/386</guid>
-            <pubDate>Thu, 09 Jun 2022 03:00:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>맑은구름]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FoNv%2Fimage%2FfnPw_55wcJOoBbG5MoB2hEeJhM4.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
