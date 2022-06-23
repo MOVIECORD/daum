@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 07:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 08:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Thu, 23 Jun 2022 07:16:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Roman]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F32u%2Fimage%2FRPEiwppJ2xQU4x3JnExhERSxGN4.PNG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[80년대가 우리에게 남긴 것]]></title>
+            <link>https://brunch.co.kr/@@bBQO/16</link>
+            <guid>https://brunch.co.kr/@@bBQO/16</guid>
+            <pubDate>Thu, 23 Jun 2022 08:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>섬소년]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbBQO%2Fimage%2F4lNs_orvHlRrF0--6YZl6r59Bbw.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[탑건: 매버릭(2021)]]></title>
+            <link>https://brunch.co.kr/@@6vVP/645</link>
+            <guid>https://brunch.co.kr/@@6vVP/645</guid>
+            <pubDate>Thu, 23 Jun 2022 08:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>깨닫는마음씨]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6vVP%2Fimage%2FM7ibsY7DAf1VbpKDV8SU1K86IwU" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[탑건 매버릭]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 21 Jun 2022 10:19:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Iatros]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fckda%2Fimage%2FnO6c0u9IsJ7m67ssNYceNmR7t4g.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[가능성의 우주로 떠날 수 있는 용기]]></title>
-            <link>https://brunch.co.kr/@@ZdN/66</link>
-            <guid>https://brunch.co.kr/@@ZdN/66</guid>
-            <pubDate>Tue, 21 Jun 2022 10:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김진만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FZdN%2Fimage%2FIL5rCYBK02Q-fM1N9CA4ZPARY1U.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[가족이 미울 때 보는 영화]]></title>
-            <link>https://brunch.co.kr/@@7KC/13</link>
-            <guid>https://brunch.co.kr/@@7KC/13</guid>
-            <pubDate>Tue, 21 Jun 2022 10:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>sooowhat]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7KC%2Fimage%2FlMe-joatQuCaMxFMvDbGjhHdb9Y.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
