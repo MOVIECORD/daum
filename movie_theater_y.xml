@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 12:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 13:54:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f17227af8b5decdc74b54f9f408488639d5e4d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[애프터 양]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151102</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151102</guid>
-            <pubDate>Wed, 01 Jun 2022 01:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[니얼굴]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145325</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145325</guid>
@@ -96,12 +88,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fd5fd3fbeb3cb974195b91a21e529e8234b97de" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[실종]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154171</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154171</guid>
-            <pubDate>Tue, 14 Jun 2022 23:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f876c14a22b4b8e9f9b81af9a7b68d4781b39bb" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[애프터 양]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151102</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151102</guid>
+            <pubDate>Wed, 01 Jun 2022 01:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블레이징 썬]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Fri, 24 Jun 2022 03:12:02 GMT</pubDate>
             <content:encoded><![CDATA[22.05.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa645a5285e0758cc1fdff9b3aa72d5fb234a7fa9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[실종]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154171</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154171</guid>
+            <pubDate>Tue, 14 Jun 2022 23:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f876c14a22b4b8e9f9b81af9a7b68d4781b39bb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[베르네 부인의 장미정원]]></title>
