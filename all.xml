@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 07:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 08:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56e58d88507f1668b65f853e2b8d5ec311f84285" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[고스트랜드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138164</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138164</guid>
-            <pubDate>Wed, 29 Jun 2022 01:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9207366796fb2f2d2e01f88bb9b53addaaaf9a45" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[쥬라기 월드: 도미니언 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139235</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139235</guid>
@@ -88,12 +80,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7267cd7cccb1af1d5fe306be5c0c63925282b19d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프리! 더 파이널 스트로크 후편 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159684</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159684</guid>
-            <pubDate>Thu, 23 Jun 2022 00:55:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa25ffc94823b7522564f7f2c9714b4314b97cae0" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[고스트랜드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138164</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138164</guid>
+            <pubDate>Wed, 29 Jun 2022 01:01:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9207366796fb2f2d2e01f88bb9b53addaaaf9a45" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[위대한 침묵 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -142,6 +134,14 @@
             <pubDate>Wed, 29 Jun 2022 12:22:48 GMT</pubDate>
             <content:encoded><![CDATA[22.06.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4b45df35e14a69d7a96579b4c612d2ba25ecd54" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프리! 더 파이널 스트로크 후편 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159684</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159684</guid>
+            <pubDate>Thu, 23 Jun 2022 00:55:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa25ffc94823b7522564f7f2c9714b4314b97cae0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[룸 쉐어링 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1896,6 +1896,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4JXY%2Fimage%2F_posEXTW6Icc5q8G6m7YYpET4H4.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[<탑건: 매버릭> 향수와 로망, 세습이 아닌 합심 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@1xRj/182</link>
+            <guid>https://brunch.co.kr/@@1xRj/182</guid>
+            <pubDate>Thu, 30 Jun 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>사서 유]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1xRj%2Fimage%2Fi4it9FHEcMONzqvmTiWkACPev1k.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[세상 달콤한 로맨틱 코미디 영화 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@dKrV/44</link>
+            <guid>https://brunch.co.kr/@@dKrV/44</guid>
+            <pubDate>Thu, 30 Jun 2022 08:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>규린]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdKrV%2Fimage%2F-FIzVyvwc6LUY9-O9OVLINxTiOw.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[36년이 완성한 '두 개의 기적' (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@2PU7/19</link>
             <guid>https://brunch.co.kr/@@2PU7/19</guid>
@@ -1974,22 +1990,6 @@
             <pubDate>Wed, 29 Jun 2022 08:18:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>축축한신발]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9biD%2Fimage%2F8ZluY-Orwrg-VmZC7w3NLeyOxRs" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[두 번의 살인과 사랑을 담은 이 영화의 묘미 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@2ViD/728</link>
-            <guid>https://brunch.co.kr/@@2ViD/728</guid>
-            <pubDate>Tue, 28 Jun 2022 04:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>가려진 시간]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2ViD%2Fimage%2FTY9ZZyx6h38czFg3XEhFIWpiM2s.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<탑건: 매버릭> 전설의 전관예우를 맞이하는 좋은예 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@6dyt/839</link>
-            <guid>https://brunch.co.kr/@@6dyt/839</guid>
-            <pubDate>Tue, 28 Jun 2022 10:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FCSTWKwS3P5aC5x9CzXbuscnlld4.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
