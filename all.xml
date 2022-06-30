@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 06:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 07:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -228,7 +228,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=157390</guid>
             <pubDate>Thu, 30 Jun 2022 01:00:35 GMT</pubDate>
             <content:encoded><![CDATA[22.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6024777e4b10e7032ec804a697da4f32c24de0f4" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb464f40518b366c0fd7fcad2548a18ce22a320f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[로스트 도터 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -278,14 +278,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4619f84419360c1690ebbe102d00e1fb81ccb19" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[메모리 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159049</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159049</guid>
-            <pubDate>Tue, 28 Jun 2022 04:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd9d6745d6ed49275e0054b03eb427a527c3df392" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[그레이 맨 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143179</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143179</guid>
@@ -324,6 +316,14 @@
             <pubDate>Thu, 30 Jun 2022 06:15:18 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F150c5eaa1da2d1bd5e20ceaa9e5ffa0ac825ab05" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[멘 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157861</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157861</guid>
+            <pubDate>Thu, 30 Jun 2022 07:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa1c7f4593477f59c9856bdcc31ae94ace3272b85" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[작은 아씨들 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1672,6 +1672,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3ef91f12141304c02cbf69ff7c958dcf9041dc64" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[조인성이 "난 너 없으면 안돼"라고 고백한 여배우의 살벌한 근황 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/U9Agv9dY5i</link>
+            <guid>https://content.v.daum.net/v/U9Agv9dY5i</guid>
+            <pubDate>Thu, 30 Jun 2022 07:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F30%2Ffeelthemovie%2F20220630030238376ecig.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[자신의 흑역사를 모른척 하고 있는 '토르' 감독 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/qUOBoYujNq</link>
+            <guid>https://content.v.daum.net/v/qUOBoYujNq</guid>
+            <pubDate>Thu, 30 Jun 2022 07:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F30%2Fharmony%2F202206300435252067msr.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[최근 이정재가 가장 인정한 배우, 두 사람이 자주 연락하게 된 사연은? (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/HUpEpQNFOD</link>
             <guid>https://content.v.daum.net/v/HUpEpQNFOD</guid>
@@ -1816,22 +1832,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F27%2Ffeelthemovie%2F20220627235403501kwin.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[흑백 한 컷 한 컷 포착한 삶의 의미 있는 순간 <컴온 컴온> (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/1jmTSwWQu7</link>
-            <guid>https://content.v.daum.net/v/1jmTSwWQu7</guid>
-            <pubDate>Tue, 28 Jun 2022 10:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F28%2FMOVIST%2F20220628081518623jb1t.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[한때 한국인이 사랑한 잊혀진 월드스타의 성공 근황 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/5L0EGC5JUL</link>
-            <guid>https://content.v.daum.net/v/5L0EGC5JUL</guid>
-            <pubDate>Tue, 28 Jun 2022 10:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F28%2Ffeelthemovie%2F20220628072237807bhv3.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[가끔은 첫째 답지 않아도 돼 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@1TrC/1282</link>
             <guid>https://brunch.co.kr/@@1TrC/1282</guid>
@@ -1870,6 +1870,30 @@
             <pubDate>Thu, 30 Jun 2022 06:16:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김봄]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaCat%2Fimage%2FBGUDyKVEXHgj20YiUOaOW8xqDA4" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<탑건: 매버릭>을 보며 계속 무언가를 떠올렸다 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@2W0d/726</link>
+            <guid>https://brunch.co.kr/@@2W0d/726</guid>
+            <pubDate>Thu, 30 Jun 2022 07:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 홍수정]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2W0d%2Fimage%2F4LlKC4cQCamaiRBV4t8ObVsWnYU.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<브로커>가 단순한 가족영화가 아닌 이유 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@vux/865</link>
+            <guid>https://brunch.co.kr/@@vux/865</guid>
+            <pubDate>Thu, 30 Jun 2022 07:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>송석주]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fvux%2Fimage%2Fv9-DnkFEOqIi2K8ZEdMl9ho70es.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[20. 나는 승진하고 싶지 않았다 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@4JXY/33</link>
+            <guid>https://brunch.co.kr/@@4JXY/33</guid>
+            <pubDate>Thu, 30 Jun 2022 07:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>재완]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4JXY%2Fimage%2F_posEXTW6Icc5q8G6m7YYpET4H4.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[36년이 완성한 '두 개의 기적' (다음 영화 ─ 브런치)]]></title>
@@ -1966,30 +1990,6 @@
             <pubDate>Tue, 28 Jun 2022 10:22:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FCSTWKwS3P5aC5x9CzXbuscnlld4.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['최후의 무비 스타' 톰 크루즈 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@9KDM/88</link>
-            <guid>https://brunch.co.kr/@@9KDM/88</guid>
-            <pubDate>Tue, 28 Jun 2022 10:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Editor M]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9KDM%2Fimage%2F1sAFgp6hUB5hBjHEkU_sHJUPCEY.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[헤어질 결심*불륜과 살인, 이중의 안개 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@6wHY/597</link>
-            <guid>https://brunch.co.kr/@@6wHY/597</guid>
-            <pubDate>Tue, 28 Jun 2022 10:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2F1xUq5T6_3c1-6yIIPFHrF-Hfwqc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<탑건:매버릭> 부제목이 '매버릭'일 수밖에 없는 이유 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@dWMH/12</link>
-            <guid>https://brunch.co.kr/@@dWMH/12</guid>
-            <pubDate>Tue, 28 Jun 2022 10:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>인턴작가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdWMH%2Fimage%2FQKge9EPMvwaKRJ6LW4ExjrweVHI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
