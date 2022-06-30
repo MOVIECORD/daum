@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 03:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 04:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가끔은 첫째 답지 않아도 돼]]></title>
+            <link>https://brunch.co.kr/@@1TrC/1282</link>
+            <guid>https://brunch.co.kr/@@1TrC/1282</guid>
+            <pubDate>Thu, 30 Jun 2022 04:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유수진]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1TrC%2Fimage%2F2nNpq8i5AhImFf5eZYQedChZfHI.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[36년이 완성한 '두 개의 기적']]></title>
             <link>https://brunch.co.kr/@@2PU7/19</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Jun 2022 03:52:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>허준혁]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7qUV%2Fimage%2FkFyr9c0v7AeKGtDZsT1Biz_feM0.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[그 무엇도 되지 못한, 찬란한 ‘모어(毛漁)’]]></title>
-            <link>https://brunch.co.kr/@@9lOS/177</link>
-            <guid>https://brunch.co.kr/@@9lOS/177</guid>
-            <pubDate>Mon, 27 Jun 2022 05:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2FtUMY_93kIYf9KMqIGBGmWYex3Vc.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
