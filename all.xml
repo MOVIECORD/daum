@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 05:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 06:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F752f858e8a0be174efa12f754d11b666bbc161be" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[브로커 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144096</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144096</guid>
-            <pubDate>Tue, 24 May 2022 02:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56e58d88507f1668b65f853e2b8d5ec311f84285" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[버즈 라이트이어 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155087</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155087</guid>
             <pubDate>Wed, 01 Jun 2022 23:13:38 GMT</pubDate>
             <content:encoded><![CDATA[22.06.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2ff37621bc0fe2e389f886157145543d817eabdd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[브로커 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144096</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144096</guid>
+            <pubDate>Tue, 24 May 2022 02:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56e58d88507f1668b65f853e2b8d5ec311f84285" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[쥬라기 월드: 도미니언 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -184,6 +184,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4b76d2dcf9d429d6ca8fefa7a2fc1171a322ae8c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[빅샤크4: 바다공룡 대모험 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154786</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154786</guid>
+            <pubDate>Thu, 23 Jun 2022 23:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F45816878ad3f3e5068eaa5284e7fbfed7aa7034e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[워헌트 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157390</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157390</guid>
@@ -245,14 +253,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=160990</guid>
             <pubDate>Wed, 22 Jun 2022 11:10:21 GMT</pubDate>
             <content:encoded><![CDATA[22.07.05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빅샤크4: 바다공룡 대모험 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154786</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154786</guid>
-            <pubDate>Thu, 23 Jun 2022 23:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F45816878ad3f3e5068eaa5284e7fbfed7aa7034e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[불멸의 여신 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1226,7 +1226,7 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fvux%2Fimage%2Fv9-DnkFEOqIi2K8ZEdMl9ho70es.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[20. 나는 승진하고 싶지 않았다 (다음 영화 ─ 브런치)]]></title>
+            <title><![CDATA[나는 승진하고 싶지 않았다 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@4JXY/33</link>
             <guid>https://brunch.co.kr/@@4JXY/33</guid>
             <pubDate>Thu, 30 Jun 2022 07:11:10 GMT</pubDate>
