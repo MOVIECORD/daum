@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 15:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 16:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fd5fd3fbeb3cb974195b91a21e529e8234b97de" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[룸 쉐어링 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152991</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152991</guid>
-            <pubDate>Fri, 10 Jun 2022 11:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2fc2eec21e37b525f4d1367368eeb24f6ab99b7f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[애프터 양 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151102</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151102</guid>
@@ -150,6 +142,14 @@
             <pubDate>Wed, 29 Jun 2022 01:01:24 GMT</pubDate>
             <content:encoded><![CDATA[22.06.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0a05de375b85d04f37644ccf52edbf3093e49fd2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[룸 쉐어링 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152991</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152991</guid>
+            <pubDate>Fri, 10 Jun 2022 11:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2fc2eec21e37b525f4d1367368eeb24f6ab99b7f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[모어 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -324,22 +324,6 @@
             <pubDate>Thu, 30 Jun 2022 07:10:04 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa1c7f4593477f59c9856bdcc31ae94ace3272b85" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[여배우는 오늘도 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=114779</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=114779</guid>
-            <pubDate>Thu, 23 Jun 2022 03:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e73622a3a53424d8ef3003b14629186aaf44780" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스티나 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=110044</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=110044</guid>
-            <pubDate>Tue, 28 Jun 2022 04:36:47 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2554c7d91339329ba1030876d6947df8fccca440" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오감도 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -841,14 +825,6 @@
             <pubDate>Wed, 29 Jun 2022 03:44:47 GMT</pubDate>
             <content:encoded><![CDATA[22.07.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8c710f4dc379f491a7628fccc56cc38643565d0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[부니베어: 로거빅 컴백홈 프로젝트 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=112968</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=112968</guid>
-            <pubDate>Mon, 20 Jun 2022 05:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F31af8873fe067c5e91ef79504fb1d840059b61cd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[위시유 ([다음영화] 왓챠 ─ 종료예정)]]></title>
