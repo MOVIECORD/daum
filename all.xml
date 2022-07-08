@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 07:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 08:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa25ffc94823b7522564f7f2c9714b4314b97cae0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[브로커 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144096</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144096</guid>
-            <pubDate>Tue, 24 May 2022 02:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56e58d88507f1668b65f853e2b8d5ec311f84285" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[컴온 컴온 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153655</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153655</guid>
@@ -112,12 +104,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=47111</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=47111</guid>
+            <pubDate>Fri, 08 Jul 2022 03:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4b45df35e14a69d7a96579b4c612d2ba25ecd54" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 윌벤져스: 수상한 캠핑대소동 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160414</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160414</guid>
             <pubDate>Thu, 09 Jun 2022 00:58:38 GMT</pubDate>
             <content:encoded><![CDATA[22.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7267cd7cccb1af1d5fe306be5c0c63925282b19d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[브로커 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144096</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144096</guid>
+            <pubDate>Tue, 24 May 2022 02:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56e58d88507f1668b65f853e2b8d5ec311f84285" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[쥬라기 월드: 도미니언 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Jul 2022 03:37:35 GMT</pubDate>
             <content:encoded><![CDATA[22.05.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa645a5285e0758cc1fdff9b3aa72d5fb234a7fa9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=47111</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=47111</guid>
-            <pubDate>Fri, 08 Jul 2022 03:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4b45df35e14a69d7a96579b4c612d2ba25ecd54" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[외계+인 1부 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -869,7 +869,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=161000</guid>
             <pubDate>Tue, 14 Jun 2022 04:44:56 GMT</pubDate>
             <content:encoded><![CDATA[22.07.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F46542506c849df603a3714445ef233f702b3f4de" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7476e403047fa6d2e1a98009f2e730cd099d5a22" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[위험한 관계 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -893,7 +893,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=159692</guid>
             <pubDate>Thu, 07 Jul 2022 06:16:21 GMT</pubDate>
             <content:encoded><![CDATA[22.07.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F42bfe4005276507c5722d852645bc63fb703be32" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2be8a565943fce94152abcb4238ccd287e3e173f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[요요를 위하여 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
