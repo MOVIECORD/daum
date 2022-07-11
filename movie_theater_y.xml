@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 03:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 04:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,11 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7ed8590331220db01687469edbc5e36899ea4b6e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[낙소스 섬의 아리아드네]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160990</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160990</guid>
-            <pubDate>Sun, 10 Jul 2022 09:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.05]]></content:encoded>
+            <title><![CDATA[극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=47111</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=47111</guid>
+            <pubDate>Mon, 11 Jul 2022 04:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4b45df35e14a69d7a96579b4c612d2ba25ecd54" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
