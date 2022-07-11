@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 12:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 13:38:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87e028dd21e93c52fb6e6935e8e6f5dff159c75a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[배드 럭 뱅잉]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148293</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148293</guid>
+            <pubDate>Tue, 05 Jul 2022 03:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc62cb08b5707192441930e5c1a5e443c5b7ce305" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[썸머 필름을 타고!]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153079</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153079</guid>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 08 Jul 2022 03:37:43 GMT</pubDate>
             <content:encoded><![CDATA[22.07.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ee37435d60123651b63067205f6437729b1e403" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[배드 럭 뱅잉]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148293</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148293</guid>
-            <pubDate>Tue, 05 Jul 2022 03:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc62cb08b5707192441930e5c1a5e443c5b7ce305" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[한산: 용의 출현]]></title>
