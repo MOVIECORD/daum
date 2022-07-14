@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 06:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 07:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 14 Jul 2022 04:44:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>티키타카존]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8QYM%2Fimage%2FBR6CYrFPkL_PHDRgcdTI2130S00.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 소리도 없이 리뷰, 해석]]></title>
+            <link>https://brunch.co.kr/@@5o0V/47</link>
+            <guid>https://brunch.co.kr/@@5o0V/47</guid>
+            <pubDate>Thu, 14 Jul 2022 07:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이승훈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5o0V%2Fimage%2F2RFI2WEk2TJLBjG604Z8XS7n0k4.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[질문을 이해할 수 없어 질문자를 공격하는]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 12 Jul 2022 09:18:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>온더락]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F941G%2Fimage%2FgXXthffr11WYC37k5rp1FsmvbOc.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[당신은 누구지? 영화 <큐어>]]></title>
-            <link>https://brunch.co.kr/@@RF6/568</link>
-            <guid>https://brunch.co.kr/@@RF6/568</guid>
-            <pubDate>Tue, 12 Jul 2022 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>서용마]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FRF6%2Fimage%2FyCwK9HczlAHiCcl22ddpFHO4p6U.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
