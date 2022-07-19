@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 05:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 06:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혼란과 꿈의 도시]]></title>
+            <link>https://brunch.co.kr/@@cMRj/44</link>
+            <guid>https://brunch.co.kr/@@cMRj/44</guid>
+            <pubDate>Tue, 19 Jul 2022 06:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>돌고래]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcMRj%2Fimage%2F7G6t8kXKGoPuDNXIzssCRwFX-jo.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[볼만한 리메이크 공포영화 추천 5편]]></title>
             <link>https://brunch.co.kr/@@8EUf/529</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 15 Jul 2022 05:41:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>지윤]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ErJ%2Fimage%2FT_-NvQDFH1b8Kjs3vHiSKN-10aI.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화의 착실함]]></title>
-            <link>https://brunch.co.kr/@@1ibV/1038</link>
-            <guid>https://brunch.co.kr/@@1ibV/1038</guid>
-            <pubDate>Fri, 15 Jul 2022 05:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 박동수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ibV%2Fimage%2FemK_iodnJ0s0ls-wzuDtNaRvo3Y.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
