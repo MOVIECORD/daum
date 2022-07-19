@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 21:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 22:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -255,14 +255,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffc1abfc2e08768205320c1f0bd671315fcdda3f5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[사랑의 무덤 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162116</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162116</guid>
-            <pubDate>Sat, 16 Jul 2022 01:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F966103879a186e6b50aec2eeed9b93a78c62482d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[왕좌의 법칙 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161163</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161163</guid>
@@ -325,6 +317,14 @@
             <pubDate>Sat, 16 Jul 2022 03:22:46 GMT</pubDate>
             <content:encoded><![CDATA[22.08.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa06c9b35565cd35183c00fd4a712906aef7ab197" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엔젤 하트 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2029</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2029</guid>
+            <pubDate>Tue, 19 Jul 2022 22:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc90998a344824c14386bf549dbb2856d219b4933" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아이 캔 스피크 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
