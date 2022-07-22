@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 07:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 08:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1404bb12eaa304032dee2b7f0f6e6e1452981837" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아이를 위한 아이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160090</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160090</guid>
-            <pubDate>Wed, 13 Jul 2022 01:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ee37435d60123651b63067205f6437729b1e403" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[범죄도시2 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
             <pubDate>Sat, 30 Apr 2022 02:55:19 GMT</pubDate>
             <content:encoded><![CDATA[22.05.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이를 위한 아이 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160090</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160090</guid>
+            <pubDate>Wed, 13 Jul 2022 01:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ee37435d60123651b63067205f6437729b1e403" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그레이 맨 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1151,14 +1151,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Ffeelthemovie%2F20220722064615587lepe.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA['태양의 후예' 이후 6년 만에 전해진 반가운 소식! (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/WvST9A5JCG</link>
-            <guid>https://content.v.daum.net/v/WvST9A5JCG</guid>
-            <pubDate>Fri, 22 Jul 2022 07:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fmaxmovie%2F202207220628431260zv1.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[본인들도 몰랐다! 알고보니 친척이었던 두 스타 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/81z4DFeWTw</link>
             <guid>https://content.v.daum.net/v/81z4DFeWTw</guid>
@@ -1167,7 +1159,7 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Ffeelthemovie%2F20220722062112643z2qk.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[아직까지도 만인의 연인으로 불리는 영국 전 왕비의 속마음은.. (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[故 다이애나 전 영국 왕세자비의 속마음은.. (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/GJjuI7o5vD</link>
             <guid>https://content.v.daum.net/v/GJjuI7o5vD</guid>
             <pubDate>Fri, 22 Jul 2022 06:17:31 GMT</pubDate>
@@ -1183,7 +1175,7 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2FMOVIST%2F202207220600541857xxe.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[고려 말 도사&2022년 외계인, 이 혼종영화의 정체는? (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[고려 말 도사 & 2022년 외계인, 이 혼종영화의 정체는? (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/PeeV1xI94L</link>
             <guid>https://content.v.daum.net/v/PeeV1xI94L</guid>
             <pubDate>Fri, 22 Jul 2022 06:17:31 GMT</pubDate>
@@ -1301,6 +1293,14 @@
             <pubDate>Wed, 20 Jul 2022 06:17:31 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F20%2Fmaxmovie%2F20220720055127813sftx.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[한국에서 일하다 한국인과 결혼해 정착한 일본 여배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/W8F9i6mBmP</link>
+            <guid>https://content.v.daum.net/v/W8F9i6mBmP</guid>
+            <pubDate>Fri, 22 Jul 2022 08:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F19%2Ffeelthemovie%2F20220719143236055xf3n.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<외계+인 1부>도사와 외계인의 사상누각 SF 판타지 (다음 영화 ─ 브런치)]]></title>
