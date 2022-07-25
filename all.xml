@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 19:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 20:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e56366cc091af9e955bc75c4442239f0addc39f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[멘 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157861</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157861</guid>
-            <pubDate>Wed, 20 Jul 2022 03:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1404bb12eaa304032dee2b7f0f6e6e1452981837" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엘비스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158210</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158210</guid>
@@ -86,6 +78,14 @@
             <pubDate>Mon, 25 Jul 2022 10:14:25 GMT</pubDate>
             <content:encoded><![CDATA[22.06.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa25ffc94823b7522564f7f2c9714b4314b97cae0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[멘 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157861</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157861</guid>
+            <pubDate>Wed, 20 Jul 2022 03:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1404bb12eaa304032dee2b7f0f6e6e1452981837" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[범죄도시2 (다음영화 영화관 ─ 현재상영)]]></title>
