@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 08:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 09:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,7 +308,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=153341</guid>
             <pubDate>Fri, 15 Jul 2022 04:59:17 GMT</pubDate>
             <content:encoded><![CDATA[22.08.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69a15f5b066ddbe82ed56a6f7587d5937c56ce91" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69b1bc2d7897d00081a009950e2fdee3ce42f7a8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[웨딩 시즌 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1287,6 +1287,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9qPK%2Fimage%2FYKv39nS3euUsVKp3z3-EHRqfUXE.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[탄탄한 서스펜스로 빚은 올해 최고의 엔딩 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@5fpi/371</link>
+            <guid>https://brunch.co.kr/@@5fpi/371</guid>
+            <pubDate>Mon, 25 Jul 2022 09:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FgMoNct0rJUIsxXkletoHIgKUdgQ.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[<외계+인 1부>도사와 외계인의 사상누각 SF 판타지 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@5XLU/503</link>
             <guid>https://brunch.co.kr/@@5XLU/503</guid>
@@ -1389,14 +1397,6 @@
             <pubDate>Tue, 19 Jul 2022 06:17:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>돌고래]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcMRj%2Fimage%2F7G6t8kXKGoPuDNXIzssCRwFX-jo.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<헤어질 결심> 네게 나는 처연함, 내게 너는 애절함 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@1xRj/188</link>
-            <guid>https://brunch.co.kr/@@1xRj/188</guid>
-            <pubDate>Thu, 21 Jul 2022 06:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>사서 유]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1xRj%2Fimage%2FZA1--uSQhuZ1hxJlJu3Z_2EqK8I.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
