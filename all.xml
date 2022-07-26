@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 12:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 13:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -223,14 +223,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec0746d8e1213e5ea232952fa98b4bfbe8fd8d1a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[베르히만 아일랜드 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152002</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152002</guid>
-            <pubDate>Tue, 26 Jul 2022 07:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fc399e3ee3b5783d821fe5859535137a9d2fb18" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[초록밤 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154227</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154227</guid>
@@ -245,6 +237,14 @@
             <pubDate>Wed, 13 Jul 2022 01:02:17 GMT</pubDate>
             <content:encoded><![CDATA[22.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F249d0cfc57de4f88a2e0efa08419f619d2c8e498" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[베르히만 아일랜드 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152002</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152002</guid>
+            <pubDate>Tue, 26 Jul 2022 07:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fc399e3ee3b5783d821fe5859535137a9d2fb18" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[DC 리그 오브 슈퍼-펫 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1435,7 +1435,7 @@
             <link>https://brunch.co.kr/@@6LlY/113</link>
             <guid>https://brunch.co.kr/@@6LlY/113</guid>
             <pubDate>Tue, 26 Jul 2022 06:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>노무사 L]]></content:encoded>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Lee]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6LlY%2Fimage%2FX0vApv3RcS1ulbAl1caVmk4gGxA.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
