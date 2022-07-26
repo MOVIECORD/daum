@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 23:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 01:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[미니언즈2 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132346</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132346</guid>
-            <pubDate>Wed, 20 Jul 2022 01:00:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1eef5d86e3c1771cf119e5ad96fe4c5540ed378a" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[외계+인 1부 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139606</link>
@@ -22,6 +14,14 @@
             <pubDate>Wed, 20 Jul 2022 01:00:58 GMT</pubDate>
             <content:encoded><![CDATA[22.07.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a8ab1dc3f771b8d54e4fc9c4e0a543c8e3007df" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미니언즈2 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132346</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132346</guid>
+            <pubDate>Wed, 20 Jul 2022 01:00:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1eef5d86e3c1771cf119e5ad96fe4c5540ed378a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[탑건: 매버릭 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1071,6 +1071,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[너무 긴장감 넘쳐서 140분간 화장실도 못가게 만든 영화 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/XVOsv0JGvg</link>
+            <guid>https://content.v.daum.net/v/XVOsv0JGvg</guid>
+            <pubDate>Tue, 26 Jul 2022 01:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F25%2Ffeelthemovie%2F20220725163935826egxc.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[자신의 '첫딸'에게 고가의 선물 공세를 한 톱스타 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/7qoU67o5hB</link>
+            <guid>https://content.v.daum.net/v/7qoU67o5hB</guid>
+            <pubDate>Tue, 26 Jul 2022 01:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F25%2Ffeelthemovie%2F202207251348546453fry.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[로다주→플로렌스 퓨까지! 역대급 캐스팅에 전세계가 난리났다! (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/bdKNs8rqax</link>
             <guid>https://content.v.daum.net/v/bdKNs8rqax</guid>
@@ -1213,22 +1229,6 @@
             <pubDate>Fri, 22 Jul 2022 06:17:31 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fmaxmovie%2F20220722054248929nrfd.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[김다미,신시아의 엄마인 '우월한 유전자'를 지닌 그녀 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/30gO9CqkSg</link>
-            <guid>https://content.v.daum.net/v/30gO9CqkSg</guid>
-            <pubDate>Fri, 22 Jul 2022 05:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Ffeelthemovie%2F20220722050348574vn0l.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['어벤져스' 감독의 2억 달러 넷플릭스 신작, 어땠나? (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/7ERvkxI9yx</link>
-            <guid>https://content.v.daum.net/v/7ERvkxI9yx</guid>
-            <pubDate>Fri, 22 Jul 2022 03:46:20 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F20%2Ffanzeel%2F20220720084642849onkr.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[여름 시장 '빅4' 중 뭘 볼까 (다음 영화 ─ 브런치)]]></title>
