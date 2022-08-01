@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 05:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F90bf775c4d0c24fa67e977aa589bb6fffdda5fe8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[미니언즈2 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132346</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132346</guid>
-            <pubDate>Wed, 20 Jul 2022 01:00:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1eef5d86e3c1771cf119e5ad96fe4c5540ed378a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[탑건: 매버릭 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114329</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114329</guid>
             <pubDate>Thu, 02 Jun 2022 04:41:47 GMT</pubDate>
             <content:encoded><![CDATA[22.06.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4eb261668eb43a125d0adc250a89adb48216c005" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미니언즈2 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132346</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132346</guid>
+            <pubDate>Wed, 20 Jul 2022 01:00:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1eef5d86e3c1771cf119e5ad96fe4c5540ed378a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[외계+인 1부 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -95,14 +95,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8bb59792be27ba3f51b20b427873611e15e1c1d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[로스트 도터 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153229</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153229</guid>
-            <pubDate>Thu, 30 Jun 2022 12:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9df47d6efeed17537772c9e82ec194abfda86403" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[큐어 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=26505</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=26505</guid>
@@ -133,6 +125,14 @@
             <pubDate>Sat, 30 Jul 2022 03:18:44 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F52af21829df3edeaa0e45335b646795bf3d14ddb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[로스트 도터 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153229</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153229</guid>
+            <pubDate>Thu, 30 Jun 2022 12:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9df47d6efeed17537772c9e82ec194abfda86403" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[배드 럭 뱅잉 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -551,6 +551,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6725b99746d3a2ad064f65305fb939065b2f4a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[레이버 데이 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=69142</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=69142</guid>
+            <pubDate>Mon, 01 Aug 2022 06:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F23759A35525CA13C1C" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[크레이지 리치 아시안 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=117759</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=117759</guid>
@@ -763,6 +771,14 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=162272</guid>
             <pubDate>Thu, 28 Jul 2022 05:23:50 GMT</pubDate>
             <content:encoded><![CDATA[22.08.17]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[몬스터 싱어: 매직 인 파리 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=63792</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=63792</guid>
+            <pubDate>Mon, 01 Aug 2022 06:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cb01acd1813872535e5ba45a8de589ed7ad7d0c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[강철의 연금술사 완결편 복수자 스카 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
