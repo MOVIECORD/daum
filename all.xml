@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 05:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 06:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0935ff55cf62deb0648292658709976c9f434f00" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뽀로로 극장판 드래곤캐슬 대모험 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160560</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160560</guid>
-            <pubDate>Wed, 13 Jul 2022 01:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F358e7c2af22c7e5c93e91253a9be82e553b2305c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[외계+인 1부 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139606</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139606</guid>
             <pubDate>Wed, 20 Jul 2022 01:00:58 GMT</pubDate>
             <content:encoded><![CDATA[22.07.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a8ab1dc3f771b8d54e4fc9c4e0a543c8e3007df" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뽀로로 극장판 드래곤캐슬 대모험 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160560</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160560</guid>
+            <pubDate>Wed, 13 Jul 2022 01:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F358e7c2af22c7e5c93e91253a9be82e553b2305c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[명탐정 코난: 할로윈의 신부 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -112,13 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69b1bc2d7897d00081a009950e2fdee3ce42f7a8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[비욘드 라이브 더 무비 : 엑소의 사다리 타고 세계여행3 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162118</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162118</guid>
-            <pubDate>Mon, 18 Jul 2022 01:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.27]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[토르: 러브 앤 썬더 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=133965</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=133965</guid>
@@ -141,6 +134,13 @@
             <pubDate>Sat, 06 Aug 2022 02:59:01 GMT</pubDate>
             <content:encoded><![CDATA[22.05.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[비욘드 라이브 더 무비 : 엑소의 사다리 타고 세계여행3 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162118</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162118</guid>
+            <pubDate>Mon, 18 Jul 2022 01:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.27]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[배드 럭 뱅잉 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1067,6 +1067,22 @@
             <pubDate>Mon, 08 Aug 2022 03:12:18 GMT</pubDate>
             <content:encoded><![CDATA[22.08.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fea0c6574ce3743d49e007ec6d2b15b381555301498885" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[기묘: 비밀의 집 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=113525</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=113525</guid>
+            <pubDate>Tue, 09 Aug 2022 06:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd8714ae28b45725cebfb822b5f9ecd39efdc9ab" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사일런트 스크림스 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=87176</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=87176</guid>
+            <pubDate>Tue, 09 Aug 2022 06:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e0340ecbbcd00a370161f86120ad688f76f07e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[우연과 상상 ([다음영화] 왓챠 ─ 공개예정)]]></title>
