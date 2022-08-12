@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 08:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 09:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,6 +279,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9658311d7ee1c1838b64de56e05ef703857b9065" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[어웨이크 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162275</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162275</guid>
+            <pubDate>Fri, 12 Aug 2022 09:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02b25a4de3f14fa652f7e89556b6c3c856bdde3e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[엔젤 하트 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=2029</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=2029</guid>
@@ -317,14 +325,6 @@
             <pubDate>Thu, 11 Aug 2022 09:12:38 GMT</pubDate>
             <content:encoded><![CDATA[22.08.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc30933797b74277cb448476dcd49cef03f93a732" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[큐브 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155062</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155062</guid>
-            <pubDate>Fri, 12 Aug 2022 01:01:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faffde7082f0bdad23ff6069d7dda4beb93a64838" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[불굴의 보디빌더 - 칼럼 본 모거 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1330,7 +1330,7 @@
             <guid>https://content.v.daum.net/v/F0XdMDGMAQ</guid>
             <pubDate>Fri, 12 Aug 2022 05:15:50 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F12%2Ffeelthemovie%2F20220812141025192zezx.jpg" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F12%2Ffeelthemovie%2F20220812180330473jppy.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[감독이 만나면 진짜 싸울까봐 걱정한 두 여배우 (다음 영화 ─ 매거진)]]></title>
