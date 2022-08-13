@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 15:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 16:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a73823a7439031dd6f85da7ac0d8d3f1800e7c6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[보일링 포인트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153341</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153341</guid>
-            <pubDate>Sat, 13 Aug 2022 00:59:18 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69b1bc2d7897d00081a009950e2fdee3ce42f7a8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[베르히만 아일랜드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152002</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152002</guid>
             <pubDate>Tue, 26 Jul 2022 07:12:14 GMT</pubDate>
             <content:encoded><![CDATA[22.08.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fc399e3ee3b5783d821fe5859535137a9d2fb18" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[보일링 포인트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153341</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153341</guid>
+            <pubDate>Sat, 13 Aug 2022 00:59:18 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69b1bc2d7897d00081a009950e2fdee3ce42f7a8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[놉 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -208,13 +208,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc1869d64ca473cfaf2fb7cf6ddccf0e276723320" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오싹한 동거 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160229</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160229</guid>
-            <pubDate>Thu, 11 Aug 2022 01:01:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.17]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[풀타임 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153278</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153278</guid>
@@ -253,6 +246,13 @@
             <pubDate>Fri, 29 Jul 2022 11:10:41 GMT</pubDate>
             <content:encoded><![CDATA[22.08.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a1d24d0498c47924b7bd91ea395b7e6a809b861" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오싹한 동거 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160229</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160229</guid>
+            <pubDate>Thu, 11 Aug 2022 01:01:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.17]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[녹턴 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -325,14 +325,6 @@
             <pubDate>Tue, 09 Aug 2022 23:12:59 GMT</pubDate>
             <content:encoded><![CDATA[22.08.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc90998a344824c14386bf549dbb2856d219b4933" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[루저의 역습 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=94132</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=94132</guid>
-            <pubDate>Mon, 08 Aug 2022 03:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcc4ccaea253abda172cd6dfb27bcca9cae743a36" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엑시트 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -804,14 +796,6 @@
             <pubDate>Mon, 08 Aug 2022 03:12:09 GMT</pubDate>
             <content:encoded><![CDATA[22.08.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0a9bc7406eb94984b4fe381d90fa8a5c1540556084895" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[무서운 이야기 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=72189</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=72189</guid>
-            <pubDate>Mon, 01 Aug 2022 04:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F191DB0495007CEF41C" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[올리버 트위스트 ([다음영화] 왓챠 ─ 종료예정)]]></title>
