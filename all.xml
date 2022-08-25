@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 07:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 08:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F39b036909e9b183e4b455f4fe20a0f178d443b65" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[모가디슈 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
+            <pubDate>Thu, 25 Aug 2022 08:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F78b1640091eab12a09b8c2e881120e26993aecb1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[9명의 번역가 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137162</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137162</guid>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 24 Aug 2022 23:13:01 GMT</pubDate>
             <content:encoded><![CDATA[22.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ef3b56da1f2c15aa0f41b5fe3264738d4d279e4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[블레이드 퍼피 워리어 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159301</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159301</guid>
-            <pubDate>Wed, 24 Aug 2022 23:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F888fef44c38ce124db77843ae2a29becbff6b86e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[요나와 버스터 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1229,6 +1229,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[넷플릭스, 전직 韓대통령의 비자금을 통쾌하게 털다 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/2DUhIkfOzO</link>
+            <guid>https://content.v.daum.net/v/2DUhIkfOzO</guid>
+            <pubDate>Thu, 25 Aug 2022 08:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F25%2Ffeelthemovie%2F20220825164343882qoty.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[20년 전, 놀랍게도 이정재 동생이었던 배우의 '근황' (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/K9KqfzhVrH</link>
+            <guid>https://content.v.daum.net/v/K9KqfzhVrH</guid>
+            <pubDate>Thu, 25 Aug 2022 08:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F25%2Fmaxmovie%2F20220825162845520oppl.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[범죄자된 스타의 팬이 탈덕하고 화나서 만든 이 영화 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/5nv9Z5kUxi</link>
             <guid>https://content.v.daum.net/v/5nv9Z5kUxi</guid>
@@ -1251,6 +1267,14 @@
             <pubDate>Thu, 25 Aug 2022 04:07:42 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F25%2Ffeelthemovie%2F20220825112229451isli.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[상받은 조여정에게 경쟁자 김혜수가 전한 감동의 말 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/8mfOEQ1iuh</link>
+            <guid>https://content.v.daum.net/v/8mfOEQ1iuh</guid>
+            <pubDate>Thu, 25 Aug 2022 08:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F25%2Ffeelthemovie%2F20220825111314220nquq.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[외계 물체가 나오는 뻔한 영화라고요? '놉' (다음 영화 ─ 매거진)]]></title>
@@ -1365,30 +1389,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F23%2Fmaxmovie%2F20220823151922335jtcj.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[무려 12년 전 '이정재' 딸의 놀라운 '근황' (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/YBy47bv8jl</link>
-            <guid>https://content.v.daum.net/v/YBy47bv8jl</guid>
-            <pubDate>Wed, 24 Aug 2022 09:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F23%2Fmaxmovie%2F20220823142857098ouxr.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[할리우드 대표 상남자 '아쿠아맨' 우리가 미처 몰랐던 모습들 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/q569bNKwrs</link>
-            <guid>https://content.v.daum.net/v/q569bNKwrs</guid>
-            <pubDate>Wed, 24 Aug 2022 09:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F23%2FBoiledMovie%2F20220823132122725dvkq.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[무서운 영화 찍다 진짜 무서운 사건 맞이한 박해일 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/5uypy2WQG4</link>
-            <guid>https://content.v.daum.net/v/5uypy2WQG4</guid>
-            <pubDate>Wed, 24 Aug 2022 09:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F23%2Ffeelthemovie%2F20220823111153313jgdm.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[거짓말은 왜 나쁜 거예요? (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@dyRD/49</link>
             <guid>https://brunch.co.kr/@@dyRD/49</guid>
@@ -1443,6 +1443,22 @@
             <pubDate>Thu, 25 Aug 2022 07:19:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>아쉬타카]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FzKf%2Fimage%2FA_zfCnq1b3gs_S2HR9RPxct79DM.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[[비상선언] 이 영화에서 느낀 어떤, '역전된' 불안감 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@Jku/563</link>
+            <guid>https://brunch.co.kr/@@Jku/563</guid>
+            <pubDate>Thu, 25 Aug 2022 08:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화 읽어주는 남자]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FJku%2Fimage%2FsjJU-ooBI3oioaOK7rZE67xtoW4.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[혼란한 시대와 혼란한 소년,<고령가 소년 살인사건> (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@bHSp/320</link>
+            <guid>https://brunch.co.kr/@@bHSp/320</guid>
+            <pubDate>Thu, 25 Aug 2022 08:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>종종]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbHSp%2Fimage%2F1IdLx729ldd5Bsx0Zy4QlI3w5cM.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 <어톤먼트> 리뷰 (1) (다음 영화 ─ 브런치)]]></title>
@@ -1531,22 +1547,6 @@
             <pubDate>Wed, 24 Aug 2022 09:13:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>라떼]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F757g%2Fimage%2F7p-TU-57s55o_KO36MIRbEBRDHg.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑하는 것들에 대해 자주 말하기로 해요 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@3A3N/387</link>
-            <guid>https://brunch.co.kr/@@3A3N/387</guid>
-            <pubDate>Wed, 24 Aug 2022 09:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>사월]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3A3N%2Fimage%2FL-QfsRKCJbqIEjq-5eKc1MXUbXc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[풀타임 - '엄마'라는 잔인한 직업 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@a8EL/2</link>
-            <guid>https://brunch.co.kr/@@a8EL/2</guid>
-            <pubDate>Wed, 24 Aug 2022 09:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>녹색광선]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa8EL%2Fimage%2Fw6Eva3pNoMvnLmviEUVfX1gOgu0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
