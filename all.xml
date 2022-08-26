@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 05:57:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 06:33:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,20 +96,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72cfc7293390c63db16779b67097d8703d2a5628" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[코코순이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152852</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152852</guid>
-            <pubDate>Thu, 25 Aug 2022 01:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fffbf26e4f2b5e51018e9854175554d23f1bd6dc7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[어웨이크 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162275</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162275</guid>
             <pubDate>Wed, 24 Aug 2022 09:12:38 GMT</pubDate>
             <content:encoded><![CDATA[22.08.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02b25a4de3f14fa652f7e89556b6c3c856bdde3e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[코코순이 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152852</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152852</guid>
+            <pubDate>Thu, 25 Aug 2022 01:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fffbf26e4f2b5e51018e9854175554d23f1bd6dc7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[DC 리그 오브 슈퍼-펫 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1375,12 +1375,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F38m4%2Fimage%2FqrBoFYXISs_-rAC6Eoq4q_kz_vo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[놉 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@21Me/454</link>
+            <guid>https://brunch.co.kr/@@21Me/454</guid>
+            <pubDate>Fri, 26 Aug 2022 06:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>사람]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F21Me%2Fimage%2Fx1MjOiJ56QSQob4-35VBl3BfeGs" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[타인이 준 상처가 아무리 커도 상관없습니다 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@aYgW/966</link>
             <guid>https://brunch.co.kr/@@aYgW/966</guid>
             <pubDate>Fri, 26 Aug 2022 05:57:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>지나온 시간들]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaYgW%2Fimage%2F9WZE4cHZVGBvYbCerMn2TSWlYUs.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[씁쓸한 환상동화,<하울의 움직이는 성> (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@bHSp/321</link>
+            <guid>https://brunch.co.kr/@@bHSp/321</guid>
+            <pubDate>Fri, 26 Aug 2022 06:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>종종]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbHSp%2Fimage%2Fjy95FrlE8dWQU7HELH79gKWXBtI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<헤어질 결심>: 그는 그녀를 결코 사랑하지 않았다. (다음 영화 ─ 브런치)]]></title>
@@ -1485,22 +1501,6 @@
             <pubDate>Thu, 25 Aug 2022 09:13:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Gozetto]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcDBo%2Fimage%2Ffh7baRjBkIn-Dv-1E6v1xL5lcuQ" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <어톤먼트> 리뷰 (1) (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@ccsE/47</link>
-            <guid>https://brunch.co.kr/@@ccsE/47</guid>
-            <pubDate>Thu, 25 Aug 2022 04:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>고봉주 변호사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FccsE%2Fimage%2FK4usqUok0VnW34ETtDvWrNBWhQM.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<불릿 트레인> 리뷰 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@dV0G/49</link>
-            <guid>https://brunch.co.kr/@@dV0G/49</guid>
-            <pubDate>Thu, 25 Aug 2022 10:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Sky]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdV0G%2Fimage%2FE_HLd1sHWszjb8UkaS1CRbh5bBo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
