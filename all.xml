@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 04:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 06:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F39b036909e9b183e4b455f4fe20a0f178d443b65" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[썬다운 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153226</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153226</guid>
-            <pubDate>Wed, 24 Aug 2022 09:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcb01dbb4d06b259aad785f851a0b1fb6be06a2bf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[노스맨 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156563</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156563</guid>
@@ -222,6 +214,14 @@
             <pubDate>Fri, 26 Aug 2022 11:11:27 GMT</pubDate>
             <content:encoded><![CDATA[22.09.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd1352c29bb2bb170d6a1d3d9b8582882691b4201" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[썬다운 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153226</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153226</guid>
+            <pubDate>Wed, 24 Aug 2022 09:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcb01dbb4d06b259aad785f851a0b1fb6be06a2bf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블랙폰 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1239,12 +1239,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03a8bb6ad5808b31cdf0613f43d32feeb8f6c955" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[이정재 만큼 잘했나? 해외서 난리난 정우성 감독 데뷔작 (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[연기 인생 32년 송강호의 첫 드라마 출연 소식 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/Y3B984HRRG</link>
+            <guid>https://content.v.daum.net/v/Y3B984HRRG</guid>
+            <pubDate>Tue, 30 Aug 2022 06:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F30%2FBoiledMovie%2F20220830144011770pncf.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA['부산행' 생존자인 정유미,김수안은 어떻게 됐을까? (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/WOrN3P5JF7</link>
+            <guid>https://content.v.daum.net/v/WOrN3P5JF7</guid>
+            <pubDate>Tue, 30 Aug 2022 06:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F30%2Ffeelthemovie%2F20220830140414149ioov.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이정재만큼 잘했나? 해외서 난리 난 정우성 감독 데뷔작 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/ZSmdafGMtE</link>
             <guid>https://content.v.daum.net/v/ZSmdafGMtE</guid>
             <pubDate>Tue, 30 Aug 2022 01:17:55 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F30%2Ffeelthemovie%2F20220830092013205jova.jpg" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F30%2Ffeelthemovie%2F20220830133014404ymip.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[10개 극장에서만 개봉했는데, 1000억원을 번 이 영화 (다음 영화 ─ 매거진)]]></title>
@@ -1252,7 +1268,7 @@
             <guid>https://content.v.daum.net/v/0cxLCLzcDV</guid>
             <pubDate>Tue, 30 Aug 2022 01:17:55 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F30%2Ffeelthemovie%2F20220830091013076mbun.jpg" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F30%2Ffeelthemovie%2F20220830133249045wgcr.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA['피노키오'로 한 판 붙는 디즈니와 넷플릭스 (다음 영화 ─ 매거진)]]></title>
@@ -1276,7 +1292,7 @@
             <guid>https://content.v.daum.net/v/yeN34e0guB</guid>
             <pubDate>Mon, 29 Aug 2022 07:20:06 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F29%2Ffeelthemovie%2F20220829152002662oexv.jpg" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F30%2Ffeelthemovie%2F20220830133228869kdcx.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[무려 소지섭 주연인데 2년간 개봉못한 이 영화,결국.. (다음 영화 ─ 매거진)]]></title>
@@ -1381,22 +1397,6 @@
             <pubDate>Mon, 29 Aug 2022 07:20:07 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F27%2FBoiledMovie%2F20220827215431866ttgy.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[만난 지 4일 만에 사랑에 빠져 결혼한 유명커플 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/tj0ksdparZ</link>
-            <guid>https://content.v.daum.net/v/tj0ksdparZ</guid>
-            <pubDate>Fri, 26 Aug 2022 09:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F26%2Fkinolights%2F20220826182433609eysk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['남북' 군사분계선에서 생긴 놀라운 '이야기' (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/W6AgIGNF67</link>
-            <guid>https://content.v.daum.net/v/W6AgIGNF67</guid>
-            <pubDate>Fri, 26 Aug 2022 05:57:02 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F26%2Fmaxmovie%2F20220826140629314dwct.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[내 맘대로 하는 영화 리뷰 <서울대작전> (다음 영화 ─ 브런치)]]></title>
