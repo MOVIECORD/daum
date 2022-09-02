@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 01:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 04:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 31 Aug 2022 04:28:06 GMT</pubDate>
             <content:encoded><![CDATA[22.09.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F54a1b97fdea3dfd4eb36ff459520d2eaa60de25e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[말하지 못한 이야기 - 세기의 레이스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163489</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163489</guid>
+            <pubDate>Fri, 02 Sep 2022 04:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d4047d5d77355d0139524c1adb8e1f3fcf8d2c4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[탄저균의 습격]]></title>
@@ -174,6 +182,14 @@
             <pubDate>Tue, 30 Aug 2022 04:18:03 GMT</pubDate>
             <content:encoded><![CDATA[22.09.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59887bfe86454a32d421dbdf4511b958ec481d47" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[언차티드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=61476</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=61476</guid>
+            <pubDate>Fri, 02 Sep 2022 04:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa9ecc8ab020ca4129e7fc79a7f3a86fa328e63d0" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
