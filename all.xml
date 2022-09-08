@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 05:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:44:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe7bdff5535dcfeb5692777f06bad03885d37c83f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[한여름밤의 재즈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135830</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135830</guid>
-            <pubDate>Wed, 24 Aug 2022 09:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd44eea1331bb2395966823b243c537f4d6c367f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[사랑할 땐 누구나 최악이 된다 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152038</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152038</guid>
@@ -120,20 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F111352a647a357d14be27a7f01b353c3b6007f45" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[한여름밤의 재즈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135830</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135830</guid>
+            <pubDate>Wed, 24 Aug 2022 09:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd44eea1331bb2395966823b243c537f4d6c367f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[놉 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152386</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152386</guid>
             <pubDate>Wed, 24 Aug 2022 09:12:38 GMT</pubDate>
             <content:encoded><![CDATA[22.08.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72b4fc6907bd4584c844f167e2a816c848e16286" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[다 잘된 거야 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152037</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152037</guid>
-            <pubDate>Wed, 24 Aug 2022 09:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F668eeffc1a2d85c23a88de5253b62fa5cda7e2a7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[불릿 트레인 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -158,6 +150,14 @@
             <pubDate>Wed, 31 Aug 2022 01:19:00 GMT</pubDate>
             <content:encoded><![CDATA[22.08.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F39b036909e9b183e4b455f4fe20a0f178d443b65" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[다 잘된 거야 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152037</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152037</guid>
+            <pubDate>Wed, 24 Aug 2022 09:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F668eeffc1a2d85c23a88de5253b62fa5cda7e2a7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -976,6 +976,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2264e64347cf3e3a9723d9aab4394422c68f4154" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[두 스타가 열애설이 났는데..부인하지 않았던 이유 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/qNTLQ3j3Wh</link>
+            <guid>https://content.v.daum.net/v/qNTLQ3j3Wh</guid>
+            <pubDate>Thu, 08 Sep 2022 06:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F08%2Ffeelthemovie%2F20220908154219395yfyy.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[친자매라 해도 속을것 같은 너무 닮은 두 여배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/69CdAsVsQ6</link>
             <guid>https://content.v.daum.net/v/69CdAsVsQ6</guid>
@@ -1126,14 +1134,6 @@
             <pubDate>Wed, 07 Sep 2022 01:17:00 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F07%2Ffeelthemovie%2F20220907092021091kusu.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔 27년 만에 SNS 개설한 배우가 '깜짝' 공개한 과거 사진은.. (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/B8k16xYx6B</link>
-            <guid>https://content.v.daum.net/v/B8k16xYx6B</guid>
-            <pubDate>Tue, 06 Sep 2022 09:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F06%2Fmaxmovie%2F20220906174600771ogmf.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<성적표의 김민영> 나는 너에게 몇 점짜리 친구야? (다음 영화 ─ 브런치)]]></title>
