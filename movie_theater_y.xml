@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 14:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 15:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e59327273cb5958f09929984ac86ba0b5264c48" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오! 마이 고스트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148313</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148313</guid>
-            <pubDate>Thu, 15 Sep 2022 01:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf3bc733b1f6ed2b94503747b06de0c10de7ab98" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[홈리스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141718</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141718</guid>
             <pubDate>Thu, 15 Sep 2022 01:17:25 GMT</pubDate>
             <content:encoded><![CDATA[22.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F367ade977955fecddf2695e0113d30bdf00d0442" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오! 마이 고스트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148313</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148313</guid>
+            <pubDate>Thu, 15 Sep 2022 01:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf3bc733b1f6ed2b94503747b06de0c10de7ab98" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[귀멸의 칼날: 장구저택 편]]></title>
