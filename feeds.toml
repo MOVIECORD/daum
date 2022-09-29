@@ -58,26 +58,6 @@ imageSelector = "img.img_thumb"
 contentSelector = "div.thumb_cont > span.txt_info > span"
 waitUntil = "networkidle"
 
-[movie_kakaopage_c]
-title = "[다음영화] 카카오페이지 ─ 종료예정"
-url = "https://movie.daum.net/premovie/kakaopage?flag=C"
-entrySelector = "ul.list_movieranking.aniposter_ott li"
-titleSelector = "a[class='link_txt']"
-linkSelector = "a.link_txt"
-imageSelector = "img.img_thumb"
-contentSelector = "div.thumb_cont > span.txt_info > span"
-waitUntil = "networkidle"
-
-[movie_kakaopage_y]
-title = "[다음영화] 카카오페이지 ─ 공개예정"
-url = "https://movie.daum.net/premovie/kakaopage?flag=Y"
-entrySelector = "ul.list_movieranking.aniposter_ott li"
-titleSelector = "a[class='link_txt']"
-linkSelector = "a.link_txt"
-imageSelector = "img.img_thumb"
-contentSelector = "div.thumb_cont > span.txt_info > span"
-waitUntil = "networkidle"
-
 [movie_magazine]
 title = "다음 영화 ─ 매거진"
 url = "https://movie.daum.net/contents/1boon"
