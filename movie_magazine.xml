@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 02:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 03:31:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박보영에게 작업하다가 심하게 맞은 무명 배우의 근황]]></title>
+            <link>https://v.daum.net/v/URgvTPo5hG</link>
+            <guid>https://v.daum.net/v/URgvTPo5hG</guid>
+            <pubDate>Wed, 23 Nov 2022 03:31:15 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F23%2Ffeelthemovie%2F20221123114108545fjfm.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[탕웨이 '철썩' 때리더니 이제는 연예인 매니저 하신다는 분]]></title>
             <link>https://v.daum.net/v/qM2eqES41l</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 21 Nov 2022 01:05:09 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F21%2Ffeelthemovie%2F20221121093027773plgx.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[현재 영화계에 좌절을 안기고 있는 문제의 게임]]></title>
-            <link>https://v.daum.net/v/GSvb6orqL5</link>
-            <guid>https://v.daum.net/v/GSvb6orqL5</guid>
-            <pubDate>Mon, 21 Nov 2022 01:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F21%2Ffeelthemovie%2F20221121092015767fffa.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
