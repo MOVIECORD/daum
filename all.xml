@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 23:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 01:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed557964599451b7e3ef1f12aed2f15e9883e443" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[세이레 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154169</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154169</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F258ebdb3a654571178729a3a53adafb5c2a8c89a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[양자경의 더 모든 날 모든 순간 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165692</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165692</guid>
             <pubDate>Mon, 21 Nov 2022 07:12:16 GMT</pubDate>
             <content:encoded><![CDATA[22.11.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e45ec5bc938b2ea30ed128ff5750f27196a3ded" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[세이레 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154169</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154169</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F258ebdb3a654571178729a3a53adafb5c2a8c89a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아마겟돈 타임 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -120,6 +120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4946ba99bae5035c349c417ff5988179fb6b0f99" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[프로메어 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132019</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132019</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.10.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ab23bca92d5fc1432985146956350744d52e316" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[내추럴 바이스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165388</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165388</guid>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
             <content:encoded><![CDATA[22.11.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc171adb6eaa6dff8bb70a1d07e8431e893237c08" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[프로메어 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132019</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132019</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.10.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ab23bca92d5fc1432985146956350744d52e316" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[한산 리덕스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -232,14 +232,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d2e2ccc30931c90897d5b2911c21b0fa6345a6c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그녀가 말했다 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162103</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162103</guid>
-            <pubDate>Tue, 22 Nov 2022 23:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fca1c85a530d3450ae10acc30664ecdc5f2de0eeb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[헤이지니&럭키강이 비밀의 문 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165116</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165116</guid>
@@ -270,6 +262,14 @@
             <pubDate>Wed, 23 Nov 2022 09:12:04 GMT</pubDate>
             <content:encoded><![CDATA[22.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F657958d06c71408ec28f21949a3a349768c6733b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그녀가 말했다 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162103</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162103</guid>
+            <pubDate>Tue, 22 Nov 2022 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fca1c85a530d3450ae10acc30664ecdc5f2de0eeb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[요정 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1072,6 +1072,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c30fd2ef0f5c4ed65ed3fec092803bb5d635083" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[자기 영화 개봉 전날까기 택배 알바하던 톱스타 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/9f0GaKNFcX</link>
+            <guid>https://v.daum.net/v/9f0GaKNFcX</guid>
+            <pubDate>Thu, 24 Nov 2022 01:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F24%2Ffeelthemovie%2F20221124100054572rfaj.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이게 램프 요정 지니의 진짜 모습이라고? (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/bpNKgbatXb</link>
+            <guid>https://v.daum.net/v/bpNKgbatXb</guid>
+            <pubDate>Thu, 24 Nov 2022 01:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F24%2Ffeelthemovie%2F20221124093734982whyg.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[임수정과 공유가 촬영장에서 귀여워한 무명배우의 근황 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/tRrrfW2meL</link>
+            <guid>https://v.daum.net/v/tRrrfW2meL</guid>
+            <pubDate>Thu, 24 Nov 2022 01:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F24%2Ffeelthemovie%2F20221124093030522kmva.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[시작 5분만에 객석에서 비명이 나온 이 영화 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/ZSGSkMNFWI</link>
             <guid>https://v.daum.net/v/ZSGSkMNFWI</guid>
@@ -1206,30 +1230,6 @@
             <pubDate>Mon, 21 Nov 2022 08:17:34 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F21%2FBoiledMovie%2F20221121163058936babb.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[17살에 항공사 최연소 모델이 된 화제의 소녀 근황 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/uVR0z2eWd8</link>
-            <guid>https://v.daum.net/v/uVR0z2eWd8</guid>
-            <pubDate>Mon, 21 Nov 2022 07:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F21%2Ffeelthemovie%2F20221121153540547huck.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[어느덧 43회 맞은 '청룡영화상 시상식' 재밌는 시상·수상 소감들 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/t70YWKMT1X</link>
-            <guid>https://v.daum.net/v/t70YWKMT1X</guid>
-            <pubDate>Wed, 23 Nov 2022 11:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F21%2FBoiledMovie%2F20221121134039116zbhw.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[안중근 역할 위해 14kg 감량했다는 배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/tU38MmWQ1g</link>
-            <guid>https://v.daum.net/v/tU38MmWQ1g</guid>
-            <pubDate>Wed, 23 Nov 2022 11:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F22%2FBoiledMovie%2F20221122125702942fzit.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 '같은 속옷을 입는 두 여자' 리뷰 (다음 영화 ─ 브런치)]]></title>
