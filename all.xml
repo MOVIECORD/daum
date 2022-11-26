@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 02:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 03:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed557964599451b7e3ef1f12aed2f15e9883e443" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프로메어 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132019</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132019</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.10.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ab23bca92d5fc1432985146956350744d52e316" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[창밖은 겨울 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149749</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149749</guid>
@@ -120,20 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa84755e53eb8e03b51d11099d1b809b419e12873" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[프로메어 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132019</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132019</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.10.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ab23bca92d5fc1432985146956350744d52e316" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아마겟돈 타임 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160384</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160384</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:37 GMT</pubDate>
             <content:encoded><![CDATA[22.11.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a21cc85744ed905cce18151c8bc4d0157ffd22b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[인생은 아름다워 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133709</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133709</guid>
-            <pubDate>Thu, 24 Nov 2022 03:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfe6a6b2431cb364e2330f417c3866e2fad97b18" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[세이레 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -144,20 +136,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F258ebdb3a654571178729a3a53adafb5c2a8c89a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[인생은 아름다워 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133709</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133709</guid>
+            <pubDate>Thu, 24 Nov 2022 03:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfe6a6b2431cb364e2330f417c3866e2fad97b18" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[자백 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=78417</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=78417</guid>
+            <pubDate>Sat, 26 Nov 2022 03:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.10.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4127deb531fea9b766461efb61da18af55697d3c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[한산 리덕스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165576</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165576</guid>
             <pubDate>Fri, 25 Nov 2022 16:15:22 GMT</pubDate>
             <content:encoded><![CDATA[22.11.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2bf54fa8046a42f42d63afbaf23d63d4fa81d8a4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[내추럴 바이스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165388</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165388</guid>
-            <pubDate>Fri, 25 Nov 2022 03:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f1d97928feff7b1fd05796e8baa14f1cfeb84c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 짙은 어둠의 스케르초 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1040,6 +1040,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7a26291dc2b6654909872a40364ae8c726132023" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[남자배우와 키 30cm 차이나 박스깔고 연기했다는 여배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/xmcI1E1idx</link>
+            <guid>https://v.daum.net/v/xmcI1E1idx</guid>
+            <pubDate>Sat, 26 Nov 2022 03:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F26%2FBoiledMovie%2F20221126114022039ohvx.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[실록 한 줄 '뻥튀기 영화' 중 최고가 될까? (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/GiQ6gKNFwF</link>
             <guid>https://v.daum.net/v/GiQ6gKNFwF</guid>
@@ -1190,14 +1198,6 @@
             <pubDate>Thu, 24 Nov 2022 02:50:58 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F25%2Ffeelthemovie%2F20221125225138137kpru.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[순식간에 필리핀 국민들에게 도둑으로 몰린 소년 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/7UTzpIujM7</link>
-            <guid>https://v.daum.net/v/7UTzpIujM7</guid>
-            <pubDate>Thu, 24 Nov 2022 02:50:58 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F24%2Ffanzeel%2F20221124110123700ldsr.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 '같은 속옷을 입는 두 여자' 리뷰 (다음 영화 ─ 브런치)]]></title>
