@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 23:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 00:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5ed7e8af668bc04f0994fe9d30db1cc4d19d4b0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[인생은 아름다워 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133709</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133709</guid>
-            <pubDate>Thu, 24 Nov 2022 03:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfe6a6b2431cb364e2330f417c3866e2fad97b18" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[심야카페: 미씽 허니 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163509</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163509</guid>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 16 Nov 2022 17:29:37 GMT</pubDate>
             <content:encoded><![CDATA[22.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F258ebdb3a654571178729a3a53adafb5c2a8c89a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인생은 아름다워 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133709</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133709</guid>
+            <pubDate>Thu, 24 Nov 2022 03:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfe6a6b2431cb364e2330f417c3866e2fad97b18" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[내추럴 바이스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1088,6 +1088,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7a26291dc2b6654909872a40364ae8c726132023" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[[11월 4주 국내 박스] 유해진X류준열 <올빼미> 1위! (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/uq1QbKNFtG</link>
+            <guid>https://v.daum.net/v/uq1QbKNFtG</guid>
+            <pubDate>Mon, 28 Nov 2022 00:56:38 GMT</pubDate>
+            <content:encoded><![CDATA[무비스트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F28%2FMOVIST%2F20221128092939403rjeh.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[조용히 중국집 운영하며 사업 대박 노리는 스타 부부 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/6m4qTFMTtY</link>
+            <guid>https://v.daum.net/v/6m4qTFMTtY</guid>
+            <pubDate>Mon, 28 Nov 2022 00:56:38 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F28%2Ffeelthemovie%2F20221128093508888vwto.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[서울 강남 한복판이 좀비떼로 점령 당한다면? (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/ycHBNNGMMo</link>
             <guid>https://v.daum.net/v/ycHBNNGMMo</guid>
@@ -1230,22 +1246,6 @@
             <pubDate>Fri, 25 Nov 2022 00:58:29 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F25%2Ffeelthemovie%2F20221125091834673drow.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[많은 팬들이 기대하지만 후속편 제작이 불투명한 영화들 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/fpTxRPrqeW</link>
-            <guid>https://v.daum.net/v/fpTxRPrqeW</guid>
-            <pubDate>Thu, 24 Nov 2022 23:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F24%2FBoiledMovie%2F20221124223209868wvrc.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['타이타닉' 이후 26년만에 다시 만난 두 전설 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/Zb8VR1QSL6</link>
-            <guid>https://v.daum.net/v/Zb8VR1QSL6</guid>
-            <pubDate>Thu, 24 Nov 2022 09:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F25%2FBoiledMovie%2F20221125112148632updp.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 '같은 속옷을 입는 두 여자' 리뷰 (다음 영화 ─ 브런치)]]></title>
