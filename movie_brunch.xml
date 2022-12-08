@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 05:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 06:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 08 Dec 2022 05:11:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>라자까]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fdp1U%2Fimage%2FFzwl91rNXaB_X0iCfwuLk-CPqJc.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <밤쉘: 헤디 라마의 이야기> 내 목소리로 말하다]]></title>
+            <link>https://brunch.co.kr/@@dp1U/27</link>
+            <guid>https://brunch.co.kr/@@dp1U/27</guid>
+            <pubDate>Thu, 08 Dec 2022 06:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>라자까]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fdp1U%2Fimage%2FC9sSSiVgerXwP4rm89FEJucsQoo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<에브리씽 에브리웨어 올 앳 원스> (完)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 30 Nov 2022 07:12:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>디오니소스 프로젝트]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6kqa%2Fimage%2Fe-Y5a2jpOQdpKusoEulAe_Ap0qw.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[에브리씽 에브리웨어 올앳원스]]></title>
-            <link>https://brunch.co.kr/@@aKFP/40</link>
-            <guid>https://brunch.co.kr/@@aKFP/40</guid>
-            <pubDate>Wed, 30 Nov 2022 07:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>황변의 개똥철학]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaKFP%2Fimage%2FTs-yqp0PkW9ZjzACY4dcw5525UQ" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
