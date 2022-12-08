@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 07:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 08:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 08 Dec 2022 07:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>태희]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcLvd%2Fimage%2FUmCeLERz6p8SbJoUlgmQm-wNEB4.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[다우트]]></title>
+            <link>https://brunch.co.kr/@@uX8/90</link>
+            <guid>https://brunch.co.kr/@@uX8/90</guid>
+            <pubDate>Thu, 08 Dec 2022 08:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>하루키]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FuX8%2Fimage%2FOYYHXkAKGHNscfH7wy_9f4kk9AQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<에브리씽 에브리웨어 올 앳 원스> (完)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 08 Dec 2022 07:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이세일]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F98Yb%2Fimage%2FqLaxOmJnX0XmqcNzbMJ_7Yatjzk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[때론 포기가 희망을 불러오는 법.]]></title>
-            <link>https://brunch.co.kr/@@bNwG/198</link>
-            <guid>https://brunch.co.kr/@@bNwG/198</guid>
-            <pubDate>Tue, 06 Dec 2022 10:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민드레]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbNwG%2Fimage%2F_Ns08fjeagaASmWKur9uZlXKXI0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
