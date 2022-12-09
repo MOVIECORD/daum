@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 06:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 07:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb19f767e00ca3ef5a6beb03200bb7a1f3bf017c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엔시티 드림 더 무비 : 인 어 드림 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165138</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165138</guid>
-            <pubDate>Fri, 18 Nov 2022 03:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F441d8ac369f0350274d60d3c133b935f983fe816" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[화이트 노이즈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162487</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162487</guid>
@@ -118,6 +110,14 @@
             <pubDate>Wed, 07 Dec 2022 00:55:56 GMT</pubDate>
             <content:encoded><![CDATA[22.12.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0fce276b97741ffe5e721b1d6994ca693f11c931" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엔시티 드림 더 무비 : 인 어 드림 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165138</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165138</guid>
+            <pubDate>Fri, 18 Nov 2022 03:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F441d8ac369f0350274d60d3c133b935f983fe816" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[데시벨 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -944,12 +944,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fee6fbaed56e436e5c65b1d917a8c5880b6b00eec" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[1분에 31억, 역대 최다 제작비 '아바타 : 물의 길'이 가성비 영화인 이유 (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[‘영웅’ 뮤지컬의 뜨거움, 스크린에 스며들다 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/FOg0Q0tnYZ</link>
+            <guid>https://v.daum.net/v/FOg0Q0tnYZ</guid>
+            <pubDate>Fri, 09 Dec 2022 07:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[테일러콘텐츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2Ftailorcontents_cv%2F20221209153330456rfjq.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[인기 너무 많아 단독 시리즈로 제작된 우주최강 귀요미 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/FZaEqyS4Zl</link>
+            <guid>https://v.daum.net/v/FZaEqyS4Zl</guid>
+            <pubDate>Fri, 09 Dec 2022 07:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2FBoiledMovie%2F20221209153048411pids.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[1분에 31억, 역대 최대 제작비인데 가성비 영화라는 '아바타 2' (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/8C8mzTlfTj</link>
             <guid>https://v.daum.net/v/8C8mzTlfTj</guid>
             <pubDate>Fri, 09 Dec 2022 06:15:43 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2FBoiledMovie%2F20221209143239338gqyp.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2FBoiledMovie%2F20221209153059292hycf.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[4살 꼬마 무당으로 화제 불러온 '진실게임' 소녀 근황 (다음 영화 ─ 매거진)]]></title>
@@ -1088,22 +1104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F07%2Ffeelthemovie%2F20221207155016203jder.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[영화 촬영하면서 평생 할 욕 다 했다는 배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/y8XuOu0gJc</link>
-            <guid>https://v.daum.net/v/y8XuOu0gJc</guid>
-            <pubDate>Wed, 07 Dec 2022 07:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F08%2FBoiledMovie%2F20221208173334145qupr.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 대화를 노래로 하는 행성의 왕자님이 된 한국 배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/4ujehqujSg</link>
-            <guid>https://v.daum.net/v/4ujehqujSg</guid>
-            <pubDate>Wed, 07 Dec 2022 06:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F08%2FBoiledMovie%2F20221208173251161pmsc.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[29. 400번의 구타 (1959) (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@7UhI/33</link>
             <guid>https://brunch.co.kr/@@7UhI/33</guid>
@@ -1152,7 +1152,7 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fdp1U%2Fimage%2FC9sSSiVgerXwP4rm89FEJucsQoo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[미래의 '너'에게 (다음 영화 ─ 브런치)]]></title>
+            <title><![CDATA[미래의 '너'에게 - 영화 '테넷' (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@4VgN/140</link>
             <guid>https://brunch.co.kr/@@4VgN/140</guid>
             <pubDate>Thu, 08 Dec 2022 07:11:14 GMT</pubDate>
