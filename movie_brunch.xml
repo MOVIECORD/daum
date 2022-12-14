@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 23:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 00:55:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탑 (2022)]]></title>
+            <link>https://brunch.co.kr/@@35G3/43</link>
+            <guid>https://brunch.co.kr/@@35G3/43</guid>
+            <pubDate>Wed, 14 Dec 2022 00:55:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>FlyingN]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F35G3%2Fimage%2FltSSTmoc_rVM0Hi01l0BQ95b7V0.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[처음부터 잘했으면 얼마나 좋니]]></title>
             <link>https://brunch.co.kr/@@5jTv/181</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 09 Dec 2022 10:13:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FlpcJQbeKDTU-9kmBOIoQJTVruG4.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[닭장을 나온 백호]]></title>
-            <link>https://brunch.co.kr/@@7wSU/109</link>
-            <guid>https://brunch.co.kr/@@7wSU/109</guid>
-            <pubDate>Fri, 09 Dec 2022 10:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김인혁]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7wSU%2Fimage%2Fqgk2PlMHRlkz5gG9jvaGfllmA-s.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
