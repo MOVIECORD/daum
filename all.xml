@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 07:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 08:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,14 +240,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F207927758ce59ee666c414b828c8b1f6af416981" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[이태석 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165877</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165877</guid>
-            <pubDate>Thu, 15 Dec 2022 09:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff67ec697d4a29d2aed19f354378c3e9764d03442" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[화피사2: 요괴전쟁 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158849</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158849</guid>
@@ -280,12 +272,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66007205fdb9e95e11334fc491253e5200194276" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[희망의 요소 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154678</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154678</guid>
+            <pubDate>Mon, 19 Dec 2022 08:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7325bb98544b65a48d7fbd2a20069106c8860ed3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[메모리아 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152021</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152021</guid>
             <pubDate>Thu, 15 Dec 2022 13:20:56 GMT</pubDate>
             <content:encoded><![CDATA[22.12.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f1dbd85a91d8ae1167336a829be7ba21fe76a8b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이태석 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165877</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165877</guid>
+            <pubDate>Thu, 15 Dec 2022 09:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff67ec697d4a29d2aed19f354378c3e9764d03442" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[캅 시크릿 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 05 Dec 2022 04:14:22 GMT</pubDate>
             <content:encoded><![CDATA[22.12.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ff2c595ad6a742672f386e2c79bf0218152d114" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[이스터 선데이 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160327</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160327</guid>
-            <pubDate>Thu, 15 Dec 2022 23:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b9da0d76400e9eb8f0fab59d0c836bc196720f7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스타 이즈 본 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -960,6 +960,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2ebf21e22a2a37aadc5bf75fb223a75bcb4db290" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[우영우 ‘서브 아빠’의 파격변신 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/4WMaDwEuY4</link>
+            <guid>https://v.daum.net/v/4WMaDwEuY4</guid>
+            <pubDate>Mon, 19 Dec 2022 08:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F19%2FBoiledMovie%2F20221219162015359kfyw.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[안중근 연기 위해 14kg 감량하고 쓰러진 배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/PcxAAcj3rj</link>
             <guid>https://v.daum.net/v/PcxAAcj3rj</guid>
@@ -981,7 +989,7 @@
             <guid>https://v.daum.net/v/xVZdidRygm</guid>
             <pubDate>Mon, 19 Dec 2022 05:10:56 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F19%2FBoiledMovie%2F20221219141531359gusc.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F19%2FBoiledMovie%2F20221219163006454bgaq.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[황정민이 자기 은인이라며 재회하자 마자 포옹한 여성 (다음 영화 ─ 매거진)]]></title>
@@ -1112,14 +1120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fhero_nitko%2F20221216233932589cplb.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[미국인들이 가장 사랑하는 영화 속 명대사 BEST 5 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/8nUOPao5yU</link>
-            <guid>https://v.daum.net/v/8nUOPao5yU</guid>
-            <pubDate>Fri, 16 Dec 2022 10:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F17%2FBoiledMovie%2F20221217122743773ojki.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[비극적인 여성의 삶은 반복되는가 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@a7Xi/107</link>
             <guid>https://brunch.co.kr/@@a7Xi/107</guid>
@@ -1158,6 +1158,22 @@
             <pubDate>Mon, 19 Dec 2022 06:15:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>인턴작가]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdWMH%2Fimage%2F6UXv3Pr6UjVpnmqrOsO6ooPghX0.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[안부를 묻고 싶은 사람이 있나요 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@5XLb/173</link>
+            <guid>https://brunch.co.kr/@@5XLb/173</guid>
+            <pubDate>Mon, 19 Dec 2022 08:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박깐느]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLb%2Fimage%2F6M5BW0IOy8-gzFUxzoxI6tczC4w.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[싸움은 기세로 이기는 것 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@rsA/270</link>
+            <guid>https://brunch.co.kr/@@rsA/270</guid>
+            <pubDate>Mon, 19 Dec 2022 08:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>선이정]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FrsA%2Fimage%2FALHdOcRQ6uflSWAhfB1rJZbv_sY.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[더 메뉴 (2022) (다음 영화 ─ 브런치)]]></title>
@@ -1262,22 +1278,6 @@
             <pubDate>Mon, 12 Dec 2022 04:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>권순범]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeHDb%2Fimage%2FMfSGF-lj-cJQajiB4aCYLd-y5m0.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[진실한 삶의 태도를 제시하다 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5XLb/134</link>
-            <guid>https://brunch.co.kr/@@5XLb/134</guid>
-            <pubDate>Mon, 12 Dec 2022 02:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박깐느]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLb%2Fimage%2F3gF368yqt81kul_MmNdY7G4dx9E.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[중요한 건 꺾이지 않는 마음 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@ZdN/93</link>
-            <guid>https://brunch.co.kr/@@ZdN/93</guid>
-            <pubDate>Mon, 12 Dec 2022 02:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김진만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FZdN%2Fimage%2FghugDAouhLDijykm9nMyTgqyXpo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
