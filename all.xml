@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 04:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 05:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[올빼미 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149380</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149380</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4899f10a714f3b1cb5bf9569f84e96df0020d414" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[오늘 밤, 세계에서 이 사랑이 사라진다 해도 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162710</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162710</guid>
             <pubDate>Tue, 22 Nov 2022 23:11:52 GMT</pubDate>
             <content:encoded><![CDATA[22.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F343661a7c1984ae8d0598a5af0c2998117407f52" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[올빼미 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149380</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149380</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4899f10a714f3b1cb5bf9569f84e96df0020d414" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[신비아파트 극장판 차원도깨비와 7개의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -189,7 +189,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=165696</guid>
             <pubDate>Wed, 14 Dec 2022 23:11:46 GMT</pubDate>
             <content:encoded><![CDATA[22.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F437f502aff2692eedad8234ff47e0c7a5b77d579" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdfe6594b90b0253b8c214274a420987b8fef7791" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[핑크퐁 시네마 콘서트 2: 원더스타 콘서트 대작전 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1120,6 +1120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F19%2Fhero_nitko%2F20221219015222389eeto.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[오래된 노래처럼, <윤희에게> (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@HXO/68</link>
+            <guid>https://brunch.co.kr/@@HXO/68</guid>
+            <pubDate>Tue, 20 Dec 2022 05:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>wasteuryouth]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FHXO%2Fimage%2Fr6saAiX2_eukg585-Lk9QgpZGu0.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[비극적인 여성의 삶은 반복되는가 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@a7Xi/107</link>
             <guid>https://brunch.co.kr/@@a7Xi/107</guid>
@@ -1270,14 +1278,6 @@
             <pubDate>Tue, 13 Dec 2022 04:14:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>greenBigstar]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fzkw%2Fimage%2Fz92XmT4xZev2eiAD0aZxX1oRk68" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[경이로운 생生의 의지로 창조해낸 ‘페르시아어’ (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@9lOS/229</link>
-            <guid>https://brunch.co.kr/@@9lOS/229</guid>
-            <pubDate>Mon, 12 Dec 2022 02:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2F4IHEDX6kevOHPPhs2wQXDtFCFUU.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
