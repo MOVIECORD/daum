@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 05:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 06:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,6 +240,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff67ec697d4a29d2aed19f354378c3e9764d03442" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[요로나: 끝나지 않은 저주 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164244</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164244</guid>
+            <pubDate>Fri, 23 Dec 2022 05:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc31a5a01c605ce45a79effa0bacdfa998019e40d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[캅 시크릿 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152333</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152333</guid>
@@ -278,14 +286,6 @@
             <pubDate>Tue, 20 Dec 2022 10:11:47 GMT</pubDate>
             <content:encoded><![CDATA[22.12.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b9da0d76400e9eb8f0fab59d0c836bc196720f7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[요로나: 끝나지 않은 저주 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164244</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164244</guid>
-            <pubDate>Fri, 23 Dec 2022 05:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc31a5a01c605ce45a79effa0bacdfa998019e40d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스톰보이 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1143,12 +1143,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F99047d1c2ba8efc8e830a8624e88625b0144a785" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[메이드인 차이나 메이드인 차이나 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158112</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158112</guid>
+            <pubDate>Fri, 23 Dec 2022 06:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08ad07019f19e52207c42fe3c10ae5d09e3b45fa" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[과거 서민의 삶을 숨기고 계셨던 '재벌집' 진양철 회장님 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/2zNNlYyPYr</link>
+            <guid>https://v.daum.net/v/2zNNlYyPYr</guid>
+            <pubDate>Fri, 23 Dec 2022 06:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F23%2Ffeelthemovie%2F20221223145605492gkjz.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[‘아바타’ 출연 거절 후 평생 후회하고 있는 배우 근황 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/F2RsK8fOyx</link>
             <guid>https://v.daum.net/v/F2RsK8fOyx</guid>
             <pubDate>Fri, 23 Dec 2022 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F23%2FBoiledMovie%2F20221223133913233uiai.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F23%2FBoiledMovie%2F20221223144532973gzyz.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[눈만봐도 사람들이 누군지 다 안다는 톱스타의 과거 모습 (다음 영화 ─ 매거진)]]></title>
@@ -1293,14 +1309,6 @@
             <pubDate>Wed, 21 Dec 2022 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F21%2FBoiledMovie%2F20221221144244331usvp.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[함께 손잡고 제주도에서 문제적 사업을 한다는 두 대세스타 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/VCIhtgLZMB</link>
-            <guid>https://v.daum.net/v/VCIhtgLZMB</guid>
-            <pubDate>Wed, 21 Dec 2022 04:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F21%2Ffeelthemovie%2F20221221131007019lopc.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[우리 모두의 세상(世上) (다음 영화 ─ 브런치)]]></title>
