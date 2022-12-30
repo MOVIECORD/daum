@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 08:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 09:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe7a68cf2f5d0b9a44fc17c281b8d67461544740c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[가가린 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145167</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145167</guid>
-            <pubDate>Thu, 22 Dec 2022 00:52:17 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6f88d870a0da5738ee3e1f19e3596d005eabe166" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[본즈 앤 올 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155615</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155615</guid>
@@ -150,6 +142,14 @@
             <pubDate>Fri, 30 Dec 2022 04:13:31 GMT</pubDate>
             <content:encoded><![CDATA[22.12.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff67ec697d4a29d2aed19f354378c3e9764d03442" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[가가린 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145167</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145167</guid>
+            <pubDate>Thu, 22 Dec 2022 00:52:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6f88d870a0da5738ee3e1f19e3596d005eabe166" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[원피스 필름 레드 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1147,6 +1147,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F75bdf828a33331e6e6d6e2985ddd46f62463d10e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[청룡영화상서 눈물 흘리다가 ‘현타’왔다는 탕웨이 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/1FJZzckUEp</link>
+            <guid>https://v.daum.net/v/1FJZzckUEp</guid>
+            <pubDate>Fri, 30 Dec 2022 09:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F30%2FBoiledMovie%2F20221230173757091xnsv.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[강아지에게 존칭 쓰며 촬영한 미남 배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/4WND1aNFIi</link>
             <guid>https://v.daum.net/v/4WND1aNFIi</guid>
@@ -1297,14 +1305,6 @@
             <pubDate>Wed, 28 Dec 2022 08:14:35 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F28%2Ffanzeel%2F20221228165015019mbpc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[친오빠와 커플로 오해받아 8년째 해명 중 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/4osS7wrqrL</link>
-            <guid>https://v.daum.net/v/4osS7wrqrL</guid>
-            <pubDate>Wed, 28 Dec 2022 07:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F28%2FBoiledMovie%2F20221228230903638bmkx.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[지우고 싶은 기억이 있나요? (다음 영화 ─ 브런치)]]></title>
