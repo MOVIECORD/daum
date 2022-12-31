@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 02:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 03:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f1dbd85a91d8ae1167336a829be7ba21fe76a8b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[크레이지 컴페티션]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153219</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153219</guid>
-            <pubDate>Tue, 27 Dec 2022 23:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F207927758ce59ee666c414b828c8b1f6af416981" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[페르시아어 수업]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139160</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139160</guid>
@@ -120,20 +112,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fff0f9a9cca0e20f639b3a8c2802a1f8e6bc3cae2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[코르사주]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160292</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160292</guid>
-            <pubDate>Wed, 21 Dec 2022 00:48:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe7a68cf2f5d0b9a44fc17c281b8d67461544740c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[가가린]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145167</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145167</guid>
-            <pubDate>Thu, 22 Dec 2022 00:52:17 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6f88d870a0da5738ee3e1f19e3596d005eabe166" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[크레이지 컴페티션]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153219</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153219</guid>
+            <pubDate>Tue, 27 Dec 2022 23:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F207927758ce59ee666c414b828c8b1f6af416981" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[본즈 앤 올]]></title>
@@ -150,6 +134,22 @@
             <pubDate>Fri, 30 Dec 2022 04:13:31 GMT</pubDate>
             <content:encoded><![CDATA[22.12.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff67ec697d4a29d2aed19f354378c3e9764d03442" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[코르사주]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160292</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160292</guid>
+            <pubDate>Wed, 21 Dec 2022 00:48:43 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe7a68cf2f5d0b9a44fc17c281b8d67461544740c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[가가린]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145167</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145167</guid>
+            <pubDate>Thu, 22 Dec 2022 00:52:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6f88d870a0da5738ee3e1f19e3596d005eabe166" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[원피스 필름 레드]]></title>
