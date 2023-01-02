@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 03:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 04:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 02 Jan 2023 03:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>윤병옥]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdIfq%2Fimage%2FxcSEG0ngmv6QJA7BpPLdOzheGbk.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[내면과 외피, 그리고 정체성]]></title>
+            <link>https://brunch.co.kr/@@a7Xi/109</link>
+            <guid>https://brunch.co.kr/@@a7Xi/109</guid>
+            <pubDate>Mon, 02 Jan 2023 04:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>레이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa7Xi%2Fimage%2FwsstliyV-0jcLT9DrS5YB_ULGy0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[지우고 싶은 기억이 있나요?]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 21 Dec 2022 03:12:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>수차미]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2zbl%2Fimage%2FzGwIzZdb4gNG7BlQwNfbzmDMBzw" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[오래된 노래처럼, <윤희에게>]]></title>
-            <link>https://brunch.co.kr/@@HXO/68</link>
-            <guid>https://brunch.co.kr/@@HXO/68</guid>
-            <pubDate>Tue, 20 Dec 2022 05:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>wasteuryouth]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FHXO%2Fimage%2Fr6saAiX2_eukg585-Lk9QgpZGu0.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
