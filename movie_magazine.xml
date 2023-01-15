@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 23:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 00:58:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['영웅'에서 사람들이 보고 다 울었다는 이 장면]]></title>
+            <link>https://v.daum.net/v/BbfjpjtnVq</link>
+            <guid>https://v.daum.net/v/BbfjpjtnVq</guid>
+            <pubDate>Sun, 15 Jan 2023 00:58:27 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F15%2Ffeelthemovie%2F20230115092020058lszi.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[정체불명 알약으로 셀럽 꿈꾼 관종에게 벌어진 일]]></title>
             <link>https://v.daum.net/v/K3HloEpaac</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 Jan 2023 22:12:10 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F13%2Ffanzeel%2F20230113070054589eprz.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[잡초 같은 생명력을 가진 마블 최대의 악의 집단 하이드라]]></title>
-            <link>https://v.daum.net/v/WiPxStJGAU</link>
-            <guid>https://v.daum.net/v/WiPxStJGAU</guid>
-            <pubDate>Fri, 13 Jan 2023 03:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼히어로 스토리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F13%2Fhero_nitko%2F20230113003831935hpny.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
