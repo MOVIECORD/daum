@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 02:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 03:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33d2a7a452a0fc9723562d516175c37ffc017109" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[3000년의 기다림 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141775</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141775</guid>
-            <pubDate>Tue, 10 Jan 2023 17:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c2fcb826f0293c0a1059548d99c61b5e6a9963e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[시간을 꿈꾸는 소녀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159254</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159254</guid>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 11 Jan 2023 00:56:34 GMT</pubDate>
             <content:encoded><![CDATA[23.01.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5348e68978799eded0bcddd857488ae47414630" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[3000년의 기다림 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141775</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141775</guid>
+            <pubDate>Tue, 10 Jan 2023 17:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c2fcb826f0293c0a1059548d99c61b5e6a9963e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[해시태그 시그네 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -846,12 +846,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe23122c18f309d12cfc7a8a71bb6b35b57da18de" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[7주 연속, 초장기 저속 흥행으로 100만 관객 앞두고 있는 영화 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/PbNNVYxvWL</link>
+            <guid>https://v.daum.net/v/PbNNVYxvWL</guid>
+            <pubDate>Wed, 18 Jan 2023 03:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F18%2FBoiledMovie%2F20230118120604181hxhl.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[빵먹는 사진으로 전국 남학생 설레게 한 전설의 여대생 근황 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/2cI0MFLZcZ</link>
             <guid>https://v.daum.net/v/2cI0MFLZcZ</guid>
             <pubDate>Wed, 18 Jan 2023 02:18:44 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F18%2Ffeelthemovie%2F20230118111709014ftwj.jpg" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F18%2Ffeelthemovie%2F20230118112401248fqhq.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[작품 위해 24kg 증량하다 괴로워 눈물 흘렸다는 배우 (다음 영화 ─ 매거진)]]></title>
@@ -996,14 +1004,6 @@
             <pubDate>Mon, 16 Jan 2023 03:12:43 GMT</pubDate>
             <content:encoded><![CDATA[테일러콘텐츠]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F16%2Ftailorcontents_cv%2F20230116121302931iwpz.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[일반인 시절 연예인 보다 예뻐서 연예계 데뷔한 여대생 근황 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/tmXhYCKwIg</link>
-            <guid>https://v.daum.net/v/tmXhYCKwIg</guid>
-            <pubDate>Mon, 16 Jan 2023 03:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F16%2Ffeelthemovie%2F20230116111011150nvio.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[[더 퍼스트 슬램덩크] 재연 이상의 가치를 만든 작품 (다음 영화 ─ 브런치)]]></title>
