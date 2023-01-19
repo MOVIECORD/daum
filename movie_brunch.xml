@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/brunch</id>
-    <title>다음 영화 ─ 브런치</title>
-    <updated>2023-01-18T23:12:27.636Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음 영화 ─ 브런치</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 19 Jan 2023 00:57:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 첫 어른 영화]]></title>
+            <link>https://brunch.co.kr/@@bs6f/100</link>
+            <guid>https://brunch.co.kr/@@bs6f/100</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>봄치즈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fbs6f%2Fimage%2FnEhItaqds12D1DQwgEWFJ8fiWrI.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[슬램덩크에서 가장 늦게 성장한 남자]]></title>
+            <link>https://brunch.co.kr/@@a7hF/54</link>
+            <guid>https://brunch.co.kr/@@a7hF/54</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>soulblue]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa7hF%2Fimage%2FdjM3UWzE5fH7TO3kiIMk5gnz8SM.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 퍼스트 슬램덩크] 재연 이상의 가치를 만든 작품]]></title>
+            <link>https://brunch.co.kr/@@Jku/578</link>
+            <guid>https://brunch.co.kr/@@Jku/578</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화 읽어주는 남자]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FJku%2Fimage%2FV2I-bnPwHgl9Q53ENxNSwn5pVxs.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[당신은 미래를 '수용'할 수 있습니까?]]></title>
+            <link>https://brunch.co.kr/@@516M/106</link>
+            <guid>https://brunch.co.kr/@@516M/106</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>오후 ohoo]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F516M%2Fimage%2FmGcnJ8nBtNF2p5pZNWmfJDxbqaI.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[2023년 마블 MCU 영화 얼마나 수익을 올릴까?]]></title>
+            <link>https://brunch.co.kr/@@8EUf/754</link>
+            <guid>https://brunch.co.kr/@@8EUf/754</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>청우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8EUf%2Fimage%2FAi7G0QTYByZxhN8iaLsrbaTuFmI.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[조지 밀러가 들려주는 스펙터클한 옛날이야기]]></title>
+            <link>https://brunch.co.kr/@@9lOS/238</link>
+            <guid>https://brunch.co.kr/@@9lOS/238</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2Fl3wb00pdT8rqE5PDxdlRf7ecCUs.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[우리가 지켜야 할 소중한 가치]]></title>
+            <link>https://brunch.co.kr/@@98Yb/33</link>
+            <guid>https://brunch.co.kr/@@98Yb/33</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이세일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F98Yb%2Fimage%2Ftiyn9MFerSMTo_ZUaU2LZvJiJ9U.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화_'인종분리 정책' 속으로의 여정]]></title>
+            <link>https://brunch.co.kr/@@eS4Q/7</link>
+            <guid>https://brunch.co.kr/@@eS4Q/7</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>무비덕]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeS4Q%2Fimage%2F3QEQyDOj5Fnzt-E0vUwiAXkPbz0.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[9번 다시 태어난 고양이가 관객에게 전하는 모험담]]></title>
+            <link>https://brunch.co.kr/@@5fpi/443</link>
+            <guid>https://brunch.co.kr/@@5fpi/443</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2F_8gcLWfRy_ChvEZ2VkkaZO7vQtY.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<더 퍼스트 슬램덩크> 안녕, 소년의 날이여]]></title>
+            <link>https://brunch.co.kr/@@52g1/155</link>
+            <guid>https://brunch.co.kr/@@52g1/155</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>카시모프]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F52g1%2Fimage%2FB_BkfREtV3Jfgiz4P8fRVU3AUNY.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 퍼스트 슬램덩크]]></title>
+            <link>https://brunch.co.kr/@@dOOG/19</link>
+            <guid>https://brunch.co.kr/@@dOOG/19</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Tony]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdOOG%2Fimage%2FBJcPYwfkmgQSCsU8zeKOqoBxlww.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[[하마구치 류스케④] 우연이 출몰하는 마법 같은 순간]]></title>
+            <link>https://brunch.co.kr/@@a1n9/134</link>
+            <guid>https://brunch.co.kr/@@a1n9/134</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화전문매체 코아르CoAR]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa1n9%2Fimage%2FMGE1GbQdMWhEmQUVTck5KHzYfgY.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[살기위해선 내가 뭔들 못하겠느냐.]]></title>
+            <link>https://brunch.co.kr/@@cAg/62</link>
+            <guid>https://brunch.co.kr/@@cAg/62</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>세바스찬]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcAg%2Fimage%2F7HSLNi9KZvy4-AgYvYpUkM8YC4g.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[농구... 좋아하세요?]]></title>
+            <link>https://brunch.co.kr/@@2uSR/207</link>
+            <guid>https://brunch.co.kr/@@2uSR/207</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>산들]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2uSR%2Fimage%2Fj1ECeyAIdNBg5x9OvqHW1n4anV8.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[그라데이션으로 향하는,]]></title>
+            <link>https://brunch.co.kr/@@eGIL/29</link>
+            <guid>https://brunch.co.kr/@@eGIL/29</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>임그린]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeGIL%2Fimage%2FJRnUaCRZC7OT7BMBko8R6D6RMo8" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑으로 이어지는 어떤 기다림.]]></title>
+            <link>https://brunch.co.kr/@@bNwG/211</link>
+            <guid>https://brunch.co.kr/@@bNwG/211</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민드레]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbNwG%2Fimage%2FrY-d6otT101UanavmY5OHUUYZOY.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[아바타 2 흥행패턴과 제임스 카메론 영화의 특징]]></title>
+            <link>https://brunch.co.kr/@@1eSt/1729</link>
+            <guid>https://brunch.co.kr/@@1eSt/1729</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>강재상 Alex]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1eSt%2Fimage%2F1AsuC_bg7pouiFatNn0VeTZB6dI.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[조지 밀러, <3000년의 기다림>]]></title>
+            <link>https://brunch.co.kr/@@5c1Q/744</link>
+            <guid>https://brunch.co.kr/@@5c1Q/744</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5c1Q%2Fimage%2F6Cx0zS0rOf1NxJX_LM__g3A5amk.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화를 통해 배우를 기억한다는 것]]></title>
+            <link>https://brunch.co.kr/@@eS0a/8</link>
+            <guid>https://brunch.co.kr/@@eS0a/8</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>주유소가맥]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeS0a%2Fimage%2FTQ6yCwIMWsO8HvgkuKDNceAbdeo.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[운명이 도래하고 실패가 낯선 자리]]></title>
+            <link>https://brunch.co.kr/@@2zbl/675</link>
+            <guid>https://brunch.co.kr/@@2zbl/675</guid>
+            <pubDate>Thu, 19 Jan 2023 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>수차미]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2zbl%2Fimage%2FBXGhwzkCs7FVTYzZHtrb8LAtH8Y.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+    </channel>
+</rss>
