@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 03:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 04:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘생기고 수사도 잘해서 美서 인기많은 한국인 FBI 요원]]></title>
+            <link>https://v.daum.net/v/Q0UkunXeeo</link>
+            <guid>https://v.daum.net/v/Q0UkunXeeo</guid>
+            <pubDate>Thu, 19 Jan 2023 04:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F19%2Ffeelthemovie%2F20230119131014696klou.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[무자비한 살인마에서 슈퍼히어로가 되어 돌아온 소녀]]></title>
             <link>https://v.daum.net/v/XDZOMLZdmd</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 16 Jan 2023 23:12:11 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F17%2FBoiledMovie%2F20230117082546747shzn.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[레전드 누아르 '대부', 이렇게 만들어졌다]]></title>
-            <link>https://v.daum.net/v/fT0eR1iHmz</link>
-            <guid>https://v.daum.net/v/fT0eR1iHmz</guid>
-            <pubDate>Mon, 16 Jan 2023 22:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F17%2Ffanzeel%2F20230117070103453qrxd.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
