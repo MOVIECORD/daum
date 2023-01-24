@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 11:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 12:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33d2a7a452a0fc9723562d516175c37ffc017109" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드라이브 마이 카]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
-            <pubDate>Fri, 13 Jan 2023 12:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66007205fdb9e95e11334fc491253e5200194276" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 파워레인저 캡틴포스: 지구를 위한 싸움]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155637</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155637</guid>
@@ -118,6 +110,14 @@
             <pubDate>Wed, 18 Jan 2023 00:56:50 GMT</pubDate>
             <content:encoded><![CDATA[23.01.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed40e6d5c28f1b63306902f5664a155c7dba5a90" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브 마이 카]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
+            <pubDate>Fri, 13 Jan 2023 12:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66007205fdb9e95e11334fc491253e5200194276" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[올빼미]]></title>
