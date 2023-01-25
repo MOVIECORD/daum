@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 07:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 09:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdade6385f0020e242239939c4bf87a2539fc8d01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[바빌론]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163733</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163733</guid>
-            <pubDate>Mon, 09 Jan 2023 09:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a5d88d59461ecd997754fe9ea863f76326d4f4c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[새비지 맨]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165605</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165605</guid>
@@ -40,19 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa93ccd2db3bb17d5734b8e1fa7535ea47d775331" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[바빌론]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163733</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163733</guid>
+            <pubDate>Mon, 09 Jan 2023 09:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a5d88d59461ecd997754fe9ea863f76326d4f4c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[울브스 오브 워]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164823</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164823</guid>
             <pubDate>Fri, 20 Jan 2023 23:11:02 GMT</pubDate>
             <content:encoded><![CDATA[23.01.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1707b1f09c4bf49b05fcc317e6aa60aef9fde20" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리 아일리시 라이브 앳 디 오투]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167093</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167093</guid>
-            <pubDate>Fri, 20 Jan 2023 02:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.27]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애프터썬]]></title>
@@ -69,6 +62,13 @@
             <pubDate>Mon, 16 Jan 2023 21:09:56 GMT</pubDate>
             <content:encoded><![CDATA[23.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33d2a7a452a0fc9723562d516175c37ffc017109" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[빌리 아일리시 라이브 앳 디 오투]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167093</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167093</guid>
+            <pubDate>Fri, 20 Jan 2023 02:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.27]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이마 베프]]></title>
