@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 06:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 07:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 26 Jan 2023 06:14:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박경주]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9wiv%2Fimage%2FK_tV99GGPAvNRWiW16Y2mSKWK2Y.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[농구 좋아하세요?]]></title>
+            <link>https://brunch.co.kr/@@1Jku/33</link>
+            <guid>https://brunch.co.kr/@@1Jku/33</guid>
+            <pubDate>Thu, 26 Jan 2023 07:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Choi]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1Jku%2Fimage%2FKSpCoNkxy7BTJ4PBvB5lmctTcFE.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[월터처럼 살고 싶어]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 25 Jan 2023 10:12:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>라떼]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F757g%2Fimage%2Fqec4SF0DwDt4RhdeBXiExMV7-Rw.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[서로에게 충실하기]]></title>
-            <link>https://brunch.co.kr/@@9vak/17</link>
-            <guid>https://brunch.co.kr/@@9vak/17</guid>
-            <pubDate>Wed, 25 Jan 2023 10:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>아아]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9vak%2Fimage%2FXm9f1DrkdKBrYxLsUnM2NL9LZ38.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
