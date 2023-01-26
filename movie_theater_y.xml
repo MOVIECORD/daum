@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 02:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 03:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,12 +103,11 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fae404245c85368d182e2ccc2d82676234aa2d752" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[새비지 맨]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165605</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165605</guid>
-            <pubDate>Thu, 26 Jan 2023 00:53:28 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa93ccd2db3bb17d5734b8e1fa7535ea47d775331" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[뮤지컬 레드북]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167092</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167092</guid>
+            <pubDate>Wed, 25 Jan 2023 00:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[열여덟, 어른이 되는 나이]]></title>
@@ -119,11 +118,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe2a50d8c9a0ed5ba023cbd40e94757fe227e7b5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 레드북]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167092</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167092</guid>
-            <pubDate>Wed, 25 Jan 2023 00:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <title><![CDATA[새비지 맨]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165605</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165605</guid>
+            <pubDate>Thu, 26 Jan 2023 00:53:28 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa93ccd2db3bb17d5734b8e1fa7535ea47d775331" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[캐리와 슈퍼콜라]]></title>
@@ -158,12 +158,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F90a82ef2ff5a4ec3402d4a6b9a537d7a35c697e8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[쥴 앤 짐]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=18738</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=18738</guid>
-            <pubDate>Thu, 26 Jan 2023 02:16:27 GMT</pubDate>
+            <title><![CDATA[400번의 구타]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=19342</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=19342</guid>
+            <pubDate>Thu, 26 Jan 2023 03:13:01 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F85c97140aeecd41c052b961994a5ebd0539b1431" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F412c333fe1b98bdf95921cd79f8739dbdc68fa9d" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
