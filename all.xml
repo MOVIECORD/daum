@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 00:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 02:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe2a50d8c9a0ed5ba023cbd40e94757fe227e7b5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[새비지 맨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165605</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165605</guid>
-            <pubDate>Fri, 20 Jan 2023 09:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa93ccd2db3bb17d5734b8e1fa7535ea47d775331" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[에브리씽 에브리웨어 올 앳 원스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156439</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156439</guid>
@@ -127,12 +119,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fae404245c85368d182e2ccc2d82676234aa2d752" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[캐리와 슈퍼콜라 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165770</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165770</guid>
-            <pubDate>Tue, 10 Jan 2023 17:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb33e6ef62b68fb55adbc5053f7286e66a649ce71" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[새비지 맨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165605</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165605</guid>
+            <pubDate>Fri, 20 Jan 2023 09:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa93ccd2db3bb17d5734b8e1fa7535ea47d775331" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엄마의 땅: 그리샤와 숲의 주인 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -157,6 +149,14 @@
             <pubDate>Sun, 29 Jan 2023 04:12:41 GMT</pubDate>
             <content:encoded><![CDATA[22.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a4287cc3410a33277a66c2364e74302b437cd41" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[캐리와 슈퍼콜라 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165770</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165770</guid>
+            <pubDate>Tue, 10 Jan 2023 17:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb33e6ef62b68fb55adbc5053f7286e66a649ce71" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[쥴 앤 짐 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -911,6 +911,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd42a37c8dae7aebb9bfa8957a68e19f1ec2e5f8b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['재벌집' 진양철 회장님이 정계 진출하자 벌어진 일 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/zMsmFKGMow</link>
+            <guid>https://v.daum.net/v/zMsmFKGMow</guid>
+            <pubDate>Mon, 30 Jan 2023 02:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F30%2Ffeelthemovie%2F20230130111018160sgqe.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[유느님에게 용돈 받던 배우 연습생의 현재 모습 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/0jOeGUlfwl</link>
+            <guid>https://v.daum.net/v/0jOeGUlfwl</guid>
+            <pubDate>Mon, 30 Jan 2023 02:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F30%2FBoiledMovie%2F20230130102425110clzf.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[[1월 4주 국내 박스] 200만 돌파 앞둔 <더 퍼스트 슬램덩크> 1위! (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/YSvWJkPlDU</link>
             <guid>https://v.daum.net/v/YSvWJkPlDU</guid>
@@ -941,6 +957,14 @@
             <pubDate>Sun, 29 Jan 2023 10:11:21 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F29%2FBoiledMovie%2F20230129225030548qkft.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[철부지 엄마를 때려서..접근 금지 받은 망나니 딸의 최후 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/ZmffKnbDFi</link>
+            <guid>https://v.daum.net/v/ZmffKnbDFi</guid>
+            <pubDate>Mon, 30 Jan 2023 02:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F29%2Fkinolights%2F20230129172726096dbbk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[배달원과 실랑이한 여자, 다시 만나버렸다 (다음 영화 ─ 매거진)]]></title>
@@ -1047,28 +1071,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F27%2Ffeelthemovie%2F20230127103738290pmkv.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[한여름에 모기잡다 오열했다는 재벌집 회장님 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/YaRO9Sg1Lw</link>
-            <guid>https://v.daum.net/v/YaRO9Sg1Lw</guid>
-            <pubDate>Fri, 27 Jan 2023 02:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F27%2FBoiledMovie%2F20230127140833322knbi.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['사탄의 인형'은 가라, 공포의 'AI 인형'이 왔다 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/x74MduS4b4</link>
-            <guid>https://v.daum.net/v/x74MduS4b4</guid>
-            <pubDate>Fri, 27 Jan 2023 02:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F27%2Ffanzeel%2F20230127100057703yzoc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[매일 싸우고 속썩이고 있지만 그래도 사랑한다는 스타 부부 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/9ogCd3I9Bk</link>
-            <guid>https://v.daum.net/v/9ogCd3I9Bk</guid>
-            <pubDate>Fri, 27 Jan 2023 00:57:27 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F27%2Ffeelthemovie%2F20230127224537169cxkx.jpg" length="0" type="image//thumb/S510x290/"/>
+            <title><![CDATA[<유령> 뚝심과 확신이 부족했던 항일운동의 재해석 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@5XLU/552</link>
+            <guid>https://brunch.co.kr/@@5XLU/552</guid>
+            <pubDate>Mon, 30 Jan 2023 02:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FIVD5v5dMiS6NS7IPAyQ31yBnFp8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[우연인 듯 필연적인. (다음 영화 ─ 브런치)]]></title>
@@ -1221,14 +1229,6 @@
             <pubDate>Sun, 29 Jan 2023 22:10:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Choi]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1Jku%2Fimage%2FKSpCoNkxy7BTJ4PBvB5lmctTcFE.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 짜인 경첩처럼 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@dqSI/46</link>
-            <guid>https://brunch.co.kr/@@dqSI/46</guid>
-            <pubDate>Sun, 29 Jan 2023 22:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정순준]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdqSI%2Fimage%2FFr-MQnCcwcYVNi4JIJVixANikeE.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
