@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 11:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 12:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa32111322c27277a413eef9f87a1b78ae3af2dc7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[성스러운 거미]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160387</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160387</guid>
+            <pubDate>Tue, 07 Feb 2023 23:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1fbcc00837f904687d6a5ba12fb4b7cd7cb7fad5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[메간]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159872</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159872</guid>
@@ -152,20 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffa2bb9e82189fc191eac22fb15213bff34737260" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[원 웨이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163292</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163292</guid>
-            <pubDate>Fri, 10 Feb 2023 10:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd77d7eb18ab527d74cbab6aa93fb6b6282dcfe5d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[성스러운 거미]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160387</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160387</guid>
-            <pubDate>Tue, 07 Feb 2023 23:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1fbcc00837f904687d6a5ba12fb4b7cd7cb7fad5" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[몬스터 하우스2: 인비져블 피닉스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166913</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166913</guid>
+            <pubDate>Fri, 10 Feb 2023 12:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F17894ec7b4e3c52163166d60f7a74ea8d0729900" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
