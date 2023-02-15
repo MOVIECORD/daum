@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 03:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 04:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Wed, 15 Feb 2023 03:17:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박준희]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F76sF%2Fimage%2FRHtLWpDeWrgXHvROYZ29LREczCM.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[불가능이라는 구분선]]></title>
+            <link>https://brunch.co.kr/@@aW1I/17</link>
+            <guid>https://brunch.co.kr/@@aW1I/17</guid>
+            <pubDate>Wed, 15 Feb 2023 04:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>SonaTina]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaW1I%2Fimage%2FSlWZx6nvOXk7jneX40Dv_wBNvto.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[명확하고 이상한 이스트우드의 테마]]></title>
+            <link>https://brunch.co.kr/@@1ibV/1085</link>
+            <guid>https://brunch.co.kr/@@1ibV/1085</guid>
+            <pubDate>Wed, 15 Feb 2023 04:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 박동수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ibV%2Fimage%2FogfGF3WwkPJYWtVMnu98VXP7PRQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[오늘, 돌아오지 않는 날]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 13 Feb 2023 05:12:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2Fn3_SRw0NcDYOXJV_r0CpFJD9L7I.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑은 지켜주는 것]]></title>
-            <link>https://brunch.co.kr/@@98Yb/76</link>
-            <guid>https://brunch.co.kr/@@98Yb/76</guid>
-            <pubDate>Mon, 13 Feb 2023 05:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이세일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F98Yb%2Fimage%2F5lXm0X5cxDl3YYITpra_JrVjJWI.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘평범이’가 ‘퀸카’를 욕망하려면]]></title>
-            <link>https://brunch.co.kr/@@9lOS/247</link>
-            <guid>https://brunch.co.kr/@@9lOS/247</guid>
-            <pubDate>Mon, 13 Feb 2023 05:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2FRtuEtz4YxYLv1Mxv0rN2CfULaIU.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
