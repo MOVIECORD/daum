@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 04:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 05:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김유정이랑 럽스타그램하더니 다른 여배우와 로맨스 연기한 배우]]></title>
+            <link>https://v.daum.net/v/7sFevdHRfG</link>
+            <guid>https://v.daum.net/v/7sFevdHRfG</guid>
+            <pubDate>Fri, 17 Feb 2023 05:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F17%2FBoiledMovie%2F20230217140055689tkdj.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[대한민국에서 '올블랙'이 가장 잘 어울린다는 냉미녀]]></title>
             <link>https://v.daum.net/v/Q6LuAL1ibN</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Feb 2023 04:15:26 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F15%2Ffeelthemovie%2F20230215123622529frhz.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['앤트맨3' 재미있지만…점점 마블 영화가 어려워진다]]></title>
-            <link>https://v.daum.net/v/YGmnNb0gmV</link>
-            <guid>https://v.daum.net/v/YGmnNb0gmV</guid>
-            <pubDate>Wed, 15 Feb 2023 03:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F15%2Ffeelthemovie%2F20230215120845330tbdv.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
