@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 22:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 23:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,6 +240,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff6a7e3fc2bba63e6eecf014f6a9c4597412b567a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 웨일 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162616</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162616</guid>
+            <pubDate>Fri, 17 Feb 2023 04:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc79ac28fbad9ef83cf2348d47dd45a3e944d1d57" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[미녀와 야수:마법에 걸린 왕자 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164027</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164027</guid>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 09 Feb 2023 00:54:19 GMT</pubDate>
             <content:encoded><![CDATA[23.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F976890ad23ce4823a86a98d068501a7e10f433b1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 웨일 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162616</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162616</guid>
-            <pubDate>Fri, 17 Feb 2023 04:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc79ac28fbad9ef83cf2348d47dd45a3e944d1d57" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[콜 제인 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1038,6 +1038,14 @@
             <pubDate>Fri, 17 Feb 2023 23:12:16 GMT</pubDate>
             <content:encoded><![CDATA[23.03.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F136FB70F4C1892F077" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[세컨드 마더 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=91205</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=91205</guid>
+            <pubDate>Sun, 19 Feb 2023 23:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F62d78ea498026bf46cc961ebdbc861b82dd7c67a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[김혜수에게 공개사랑 고백한 유부남 배우 (다음 영화 ─ 매거진)]]></title>
