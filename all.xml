@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 09:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 10:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e2188583a25bf1377520423bff4a3eb63f6eb55" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[타이타닉 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=1051</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=1051</guid>
-            <pubDate>Tue, 31 Jan 2023 10:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5fa5d87c576e4d2a64b25d89aae80779c7f00ab7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아바타: 물의 길 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
@@ -64,20 +56,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[애프터썬 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161354</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161354</guid>
-            <pubDate>Wed, 18 Jan 2023 05:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6e22a98b4054e22cd864e7c2c5fde2d4489aac" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[두다다쿵: 후후섬의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154213</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154213</guid>
             <pubDate>Tue, 07 Feb 2023 23:11:22 GMT</pubDate>
             <content:encoded><![CDATA[23.02.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F67e807e4f89366ac040242642a0914b366ff8551" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[애프터썬 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161354</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161354</guid>
+            <pubDate>Wed, 18 Jan 2023 05:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6e22a98b4054e22cd864e7c2c5fde2d4489aac" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바빌론 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -94,6 +86,14 @@
             <pubDate>Sat, 18 Feb 2023 07:10:11 GMT</pubDate>
             <content:encoded><![CDATA[22.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1cfb6c3e188f895b9174ced723d2700a99eec7f0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[타이타닉 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=1051</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=1051</guid>
+            <pubDate>Tue, 31 Jan 2023 10:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5fa5d87c576e4d2a64b25d89aae80779c7f00ab7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[영웅 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -280,14 +280,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc79ac28fbad9ef83cf2348d47dd45a3e944d1d57" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그대 어이가리 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152905</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152905</guid>
-            <pubDate>Mon, 20 Feb 2023 04:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab0650620b1f60692112d2a67a2f24026feda69c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[6번 칸 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152014</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152014</guid>
@@ -326,6 +318,14 @@
             <pubDate>Wed, 15 Feb 2023 04:14:44 GMT</pubDate>
             <content:encoded><![CDATA[23.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faeed0ff73c5cdda642086d5c05f3a111a38a1473" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[에브리씽 에브리웨어 올 앳 원스 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156439</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156439</guid>
+            <pubDate>Tue, 21 Feb 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33d2a7a452a0fc9723562d516175c37ffc017109" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뷰티풀 데이 인 더 네이버후드 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1109,7 +1109,7 @@
             <guid>https://v.daum.net/v/3GYW2mKws8</guid>
             <pubDate>Tue, 21 Feb 2023 06:15:45 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F21%2FBoiledMovie%2F20230221153122673pfrv.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F21%2FBoiledMovie%2F20230221182541107iqru.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[옛날 독립영화서 한국 대세 미녀스타들의 무명시절을 발견하다 (다음 영화 ─ 매거진)]]></title>
@@ -1120,12 +1120,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F21%2Ffeelthemovie%2F20230221144019596yanu.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[전자렌지에 아이스크림 녹여 먹으면서 살찌운 배우 (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[전자렌지에 아이스크림 녹여 마시며 살찌운 사연 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/tfmzPCfO71</link>
             <guid>https://v.daum.net/v/tfmzPCfO71</guid>
             <pubDate>Tue, 21 Feb 2023 04:15:06 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F21%2FBoiledMovie%2F20230221130429936ukiq.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F21%2FBoiledMovie%2F20230221183736656beeo.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[30대인데 교복이 잘 어울려 10대로 보던 여배우 (다음 영화 ─ 매거진)]]></title>
