@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 07:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 08:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdd32c3f7d4508b6ad2bfcc930fd582be6fcaff5d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[상견니 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166536</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166536</guid>
-            <pubDate>Fri, 13 Jan 2023 13:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2df5c2a801f97b602c729dd0c34d64bde259b11" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[애프터썬 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161354</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161354</guid>
             <pubDate>Wed, 18 Jan 2023 05:11:24 GMT</pubDate>
             <content:encoded><![CDATA[23.02.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6e22a98b4054e22cd864e7c2c5fde2d4489aac" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[상견니 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166536</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166536</guid>
+            <pubDate>Fri, 13 Jan 2023 13:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2df5c2a801f97b602c729dd0c34d64bde259b11" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오늘 밤, 세계에서 이 사랑이 사라진다 해도 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1271,12 +1271,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4630eba66c7aa6ef207df5cdb51388ea0e9e7f23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[아카데미 6개 후보 오른 수작, 개봉했다 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/qTOlYEKwTX</link>
+            <guid>https://v.daum.net/v/qTOlYEKwTX</guid>
+            <pubDate>Tue, 28 Feb 2023 08:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F28%2Ffanzeel%2F20230228170058813qqkk.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[특출난 재능 덕분에 제작비 2억원 아낀 미남 배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/VISpp1NFQR</link>
             <guid>https://v.daum.net/v/VISpp1NFQR</guid>
             <pubDate>Tue, 28 Feb 2023 07:12:39 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F28%2FBoiledMovie%2F20230228155326883tetb.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F28%2FBoiledMovie%2F20230228161436609xoty.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[배우 그만두고 전국 1위 판매 실적 올린 마트 직원 근황 (다음 영화 ─ 매거진)]]></title>
@@ -1421,14 +1429,6 @@
             <pubDate>Sat, 25 Feb 2023 12:19:51 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F26%2FBoiledMovie%2F20230226113113984uynq.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[로리타 남자에게 납치된 소녀가 15년 후 밝힌 충격 진실 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/zByiwJXec9</link>
-            <guid>https://v.daum.net/v/zByiwJXec9</guid>
-            <pubDate>Sat, 25 Feb 2023 04:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F25%2Fkinolights%2F20230225131127382ryqw.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[스필버그 포에버 (다음 영화 ─ 브런치)]]></title>
