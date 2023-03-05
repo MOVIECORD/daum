@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 12:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 13:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6e22a98b4054e22cd864e7c2c5fde2d4489aac" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[마루이 비디오 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166969</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166969</guid>
-            <pubDate>Tue, 07 Feb 2023 23:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F92273ac8c6e861159e699a68f587e2917d09c897" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아바타: 물의 길 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
@@ -142,6 +134,14 @@
             <pubDate>Sat, 04 Mar 2023 03:13:46 GMT</pubDate>
             <content:encoded><![CDATA[23.02.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdd32c3f7d4508b6ad2bfcc930fd582be6fcaff5d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마루이 비디오 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166969</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166969</guid>
+            <pubDate>Tue, 07 Feb 2023 23:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F92273ac8c6e861159e699a68f587e2917d09c897" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[영웅 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -719,6 +719,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F24699A48528190BA0B" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[146번째 아카데미 후보에 오른 살아있는 전설 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/UblJQRZdce</link>
+            <guid>https://v.daum.net/v/UblJQRZdce</guid>
+            <pubDate>Sun, 05 Mar 2023 13:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F05%2FBoiledMovie%2F20230305214121475ulqg.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[이 성소수자 가족중 1명이 죽어야 종말을 막을수 있다 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/6MGg1d1ipD</link>
             <guid>https://v.daum.net/v/6MGg1d1ipD</guid>
@@ -869,14 +877,6 @@
             <pubDate>Thu, 02 Mar 2023 08:16:16 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F02%2Ffanzeel%2F20230302170052252hlqt.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 톱스타 얼굴을 바탕으로 그려 화제된 미술작품 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/X3T84D9rzA</link>
-            <guid>https://v.daum.net/v/X3T84D9rzA</guid>
-            <pubDate>Thu, 02 Mar 2023 06:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F02%2Ffeelthemovie%2F20230302151011349csja.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[그놈의 돈가스 때문에 (다음 영화 ─ 브런치)]]></title>
