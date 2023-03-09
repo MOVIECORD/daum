@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 01:00:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 02:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[죽고 싶은 남자가 살게 되는 이유]]></title>
+            <link>https://brunch.co.kr/@@49qz/451</link>
+            <guid>https://brunch.co.kr/@@49qz/451</guid>
+            <pubDate>Thu, 09 Mar 2023 02:28:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정지은 Jean]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F49qz%2Fimage%2FArhJN0Yoo3u2nac9IyU4o_XvdsA.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[스스로 떠난, 가둔, 뒤튼 나를 위한 구원]]></title>
             <link>https://brunch.co.kr/@@eS0a/19</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Feb 2023 03:19:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>인디매거진 숏버스]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcaFi%2Fimage%2FWvjYvNFMasINfWE7Wotg16UraLM.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<피터 본 칸트> "이렇게하면 널 가질거라 생각했어!"]]></title>
-            <link>https://brunch.co.kr/@@6dyt/931</link>
-            <guid>https://brunch.co.kr/@@6dyt/931</guid>
-            <pubDate>Fri, 17 Feb 2023 03:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FhPAKvYQHqPiQegywscaEOhg5HkQ.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
