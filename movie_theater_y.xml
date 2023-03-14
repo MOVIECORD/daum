@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 10:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 11:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,13 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F762a642d585ecff70e0e5cfc4211d9a0f809bf3b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[쏜애플 불구경 2022 라이브 콘서트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168507</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168507</guid>
-            <pubDate>Tue, 14 Mar 2023 02:00:22 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.08]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[앤트맨과 와스프: 퀀텀매니아]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144668</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144668</guid>
@@ -165,6 +158,14 @@
             <pubDate>Tue, 14 Mar 2023 05:11:13 GMT</pubDate>
             <content:encoded><![CDATA[23.02.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdd32c3f7d4508b6ad2bfcc930fd582be6fcaff5d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아바타: 물의 길]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
+            <pubDate>Tue, 14 Mar 2023 11:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
