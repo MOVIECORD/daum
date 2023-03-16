@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 08:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 09:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdd32c3f7d4508b6ad2bfcc930fd582be6fcaff5d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[카운트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137907</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137907</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7dfd23fad7843cdfa228295b2e7536d0ce924f5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아바타: 물의 길 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 16 Mar 2023 03:12:10 GMT</pubDate>
             <content:encoded><![CDATA[23.03.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Face5a7aa40ff6716b3d0a52dcc958a4d017b4aa9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[애프터썬 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161354</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161354</guid>
+            <pubDate>Thu, 16 Mar 2023 09:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6e22a98b4054e22cd864e7c2c5fde2d4489aac" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[웅남이 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -197,7 +197,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=163275</guid>
             <pubDate>Wed, 08 Mar 2023 01:00:15 GMT</pubDate>
             <content:encoded><![CDATA[23.03.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F31a0cb08a0f5a423dddb916c8509e004992b0b23" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F998756203619afbaa0a0e550586f6edf6bce2c36" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오토라는 남자 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1135,6 +1135,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8Yy1%2Fimage%2F_dbWjdxhCRWwQU4hZ8rBkwJNK04.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[샤잠 신들의 분노 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@3kT/6470</link>
+            <guid>https://brunch.co.kr/@@3kT/6470</guid>
+            <pubDate>Thu, 16 Mar 2023 09:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>나는 누군가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3kT%2Fimage%2FhRswZ_KV99UU8jiNLpeOhwf9Zrw.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[슈퍼맨도 마시는 조니워커 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@ErN/6</link>
             <guid>https://brunch.co.kr/@@ErN/6</guid>
@@ -1237,14 +1245,6 @@
             <pubDate>Wed, 08 Mar 2023 07:11:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정지은 Jean]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F49qz%2Fimage%2F6bkz8rQk3uXk2gC6E3qei0JC9xY.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 부모의 마음이 보인다 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@98Yb/92</link>
-            <guid>https://brunch.co.kr/@@98Yb/92</guid>
-            <pubDate>Tue, 07 Mar 2023 02:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이세일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F98Yb%2Fimage%2F9XweRb-1qHnhwr9-tsyORypN_qo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
