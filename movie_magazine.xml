@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 02:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 03:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곡성, 곤지암 이을 새로운 공포영화의 탄생]]></title>
+            <link>https://v.daum.net/v/tsLUxO6hVW</link>
+            <guid>https://v.daum.net/v/tsLUxO6hVW</guid>
+            <pubDate>Thu, 23 Mar 2023 03:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F23%2FBoiledMovie%2F20230323120256329yzfo.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[원래 NG 인데…한국영화 명장면이 된 이 장면]]></title>
             <link>https://v.daum.net/v/fUbkEn0guA</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 Mar 2023 05:11:16 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F21%2Ffeelthemovie%2F20230321132144765wszs.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[내 이름은 '존 나', 꽐라 아니 콸라섬의 대지주이죠.]]></title>
-            <link>https://v.daum.net/v/xdXv1Ho5gL</link>
-            <guid>https://v.daum.net/v/xdXv1Ho5gL</guid>
-            <pubDate>Tue, 21 Mar 2023 04:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F21%2FBoiledMovie%2F20230321123854016spiq.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
