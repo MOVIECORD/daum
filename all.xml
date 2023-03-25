@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 03:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 04:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdae69d91dee05da54a630cb63c10109366ccac90" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[상견니 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166536</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166536</guid>
+            <pubDate>Sat, 25 Mar 2023 04:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2df5c2a801f97b602c729dd0c34d64bde259b11" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[틸 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162294</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162294</guid>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 24 Mar 2023 09:11:30 GMT</pubDate>
             <content:encoded><![CDATA[23.02.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa1894472a41f2396a702f8d3a5a3277a27133ce9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[TAR 타르 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162619</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162619</guid>
-            <pubDate>Sat, 25 Mar 2023 03:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a5fd4578cb140b0c71e25544d718d51ef0d0a76" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[던전 앤 드래곤: 도적들의 명예 (다음영화 영화관 ─ 개봉예정)]]></title>
