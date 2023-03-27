@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 11:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 13:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2df5c2a801f97b602c729dd0c34d64bde259b11" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[멍뭉이 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139547</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139547</guid>
+            <pubDate>Thu, 09 Feb 2023 00:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[더 웨일 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162616</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162616</guid>
@@ -144,28 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F931a1b2f24797dae46005ed4375d10960777d827" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[멍뭉이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139547</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139547</guid>
-            <pubDate>Thu, 09 Feb 2023 00:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[플레인 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165993</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165993</guid>
-            <pubDate>Wed, 01 Mar 2023 01:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa43bcffe6f2b9e902c9d59bb2a855693df456525" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[대외비 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141224</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141224</guid>
             <pubDate>Thu, 09 Feb 2023 00:54:19 GMT</pubDate>
             <content:encoded><![CDATA[23.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdae69d91dee05da54a630cb63c10109366ccac90" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아바타: 물의 길 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
+            <pubDate>Mon, 27 Mar 2023 13:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[던전 앤 드래곤: 도적들의 명예 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -279,14 +279,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2312b7ce8bfec47df2133e878696bde1468d3d2c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[장기자랑 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162787</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162787</guid>
-            <pubDate>Sun, 26 Mar 2023 23:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F43b0ac98229f46c5470ad1a5f763b4f2f8d6dad9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[불멸의 여자 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168428</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168428</guid>
@@ -325,6 +317,14 @@
             <pubDate>Thu, 23 Mar 2023 04:13:09 GMT</pubDate>
             <content:encoded><![CDATA[23.03.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e005b271b34226214d3e033272d4e4240cca6cc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블라스트: 폭탄제거반 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167215</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167215</guid>
+            <pubDate>Mon, 27 Mar 2023 13:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6a52bd9e2fc1229fe39316f25075118a895a03b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하우스 버니 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
