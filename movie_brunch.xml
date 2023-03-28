@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 10:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 11:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 28 Mar 2023 10:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>요한]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4BZV%2Fimage%2FqNrLulJ36HB0_e_yoOapVw586pw.jfif" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[에어 단상]]></title>
+            <link>https://brunch.co.kr/@@cDBo/122</link>
+            <guid>https://brunch.co.kr/@@cDBo/122</guid>
+            <pubDate>Tue, 28 Mar 2023 11:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Gozetto]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcDBo%2Fimage%2FNgqyqMn5ip6nUDRPGjv6mGQy81o" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[대단하지 않지만  열심히 살고 있습니다.]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Mar 2023 11:10:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>코아르CoAR]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa1n9%2Fimage%2F8TgTKXz4HEpRtogqYHnQAzAMAiw.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[제니퍼 로페즈, 연타석 안타는 무리였을까?]]></title>
-            <link>https://brunch.co.kr/@@9lOS/260</link>
-            <guid>https://brunch.co.kr/@@9lOS/260</guid>
-            <pubDate>Mon, 27 Mar 2023 04:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2FjIB9WbC1_JM20LohQnU9FnlZkOs.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
