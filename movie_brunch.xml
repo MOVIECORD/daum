@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 08:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 09:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 29 Mar 2023 06:15:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Kino DAY]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FMT-mbLy_kKzjR32Lb35WKIAUzT8.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '파운더'를 통해 보는  좋은 브랜드란?]]></title>
+            <link>https://brunch.co.kr/@@77le/3</link>
+            <guid>https://brunch.co.kr/@@77le/3</guid>
+            <pubDate>Wed, 29 Mar 2023 09:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Daye]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F77le%2Fimage%2FCr9ocBqimcjGwtbeZeE94eguk0w.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<애프터 양>, <블레이드 러너>의 명상화]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Mar 2023 11:10:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>레이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa7Xi%2Fimage%2FJzB1E9yz6Zf0VVlfvl2ffkILCUM.jfif" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[거장의 탄생을 엿보는 영화, <파벨만스>]]></title>
-            <link>https://brunch.co.kr/@@e6yA/341</link>
-            <guid>https://brunch.co.kr/@@e6yA/341</guid>
-            <pubDate>Mon, 27 Mar 2023 11:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>두류산]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fe6yA%2Fimage%2FlwQ6UlJrmsr8IhLrZUfY7GfSgWc.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
