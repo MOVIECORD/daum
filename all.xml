@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 02:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 03:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1011ab6e1bfd5746503f65377108fcd0885ecf37" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[귀멸의 칼날: 상현집결, 그리고 도공 마을로 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167745</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167745</guid>
-            <pubDate>Fri, 17 Feb 2023 08:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c32ea586013cd5cdf8537bad4bbdf727498b58a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엘 카미노 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168308</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168308</guid>
@@ -125,6 +117,14 @@
             <pubDate>Tue, 28 Mar 2023 02:07:44 GMT</pubDate>
             <content:encoded><![CDATA[23.03.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcf29f092fba405e584cf1f3c99897759d4fdcc4f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀멸의 칼날: 상현집결, 그리고 도공 마을로 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167745</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167745</guid>
+            <pubDate>Fri, 17 Feb 2023 08:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c32ea586013cd5cdf8537bad4bbdf727498b58a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[여덟 번째 감각 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1527,6 +1527,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1670AB244B2B5F030A" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[지상파 간판 아나운서에서 영화감독이 되어 돌아온 그녀 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/8EeduCHRQS</link>
+            <guid>https://v.daum.net/v/8EeduCHRQS</guid>
+            <pubDate>Fri, 31 Mar 2023 03:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F31%2FBoiledMovie%2F20230331121239425miib.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[무대인사 한번 하다가 역대급 인생 사진 얻은 톱스타 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/Z7j3WOYxPO</link>
+            <guid>https://v.daum.net/v/Z7j3WOYxPO</guid>
+            <pubDate>Fri, 31 Mar 2023 03:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F31%2Ffeelthemovie%2F20230331114019831slho.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[다시 보고 싶어지는 이 아름답고 황홀한 투샷 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/qYinJ8iHBQ</link>
             <guid>https://v.daum.net/v/qYinJ8iHBQ</guid>
@@ -1669,22 +1685,6 @@
             <pubDate>Wed, 29 Mar 2023 07:11:28 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2Ffeelthemovie%2F20230329153037211wmrx.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나에서 '스타워즈' 속 명대사 울려 퍼진 이유 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/8idZr1j3XB</link>
-            <guid>https://v.daum.net/v/8idZr1j3XB</guid>
-            <pubDate>Wed, 29 Mar 2023 06:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2FBoiledMovie%2F20230329143826564gggq.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[6명의 소년들과 함께 어울리던 빨간머리 소녀 근황 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/U6gE0xXe6o</link>
-            <guid>https://v.daum.net/v/U6gE0xXe6o</guid>
-            <pubDate>Wed, 29 Mar 2023 05:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F30%2FBoiledMovie%2F20230330234941773jifo.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<던전 앤 드래곤>캐릭터 쇼가 빛나는 게임 원작 판타지 (다음 영화 ─ 브런치)]]></title>
