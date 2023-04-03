@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 05:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 06:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F57ca90dcd1ac9a5c6696d41474c0ed87a668bab9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[뮤턴트 이스케이프]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162056</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162056</guid>
+            <pubDate>Fri, 31 Mar 2023 10:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0745cfb06b6824eab667e89bbb2f5eec19aaeac6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[장기자랑]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162787</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162787</guid>
@@ -102,6 +110,14 @@
             <pubDate>Wed, 29 Mar 2023 00:58:42 GMT</pubDate>
             <content:encoded><![CDATA[23.04.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0887bce0ec55b149326221adf015579269570ea" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[제비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168309</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168309</guid>
+            <pubDate>Mon, 03 Apr 2023 06:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdd33cc10a8188067086380ded613576bc3388d81" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오디션]]></title>
@@ -128,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ce7a720d1859ff8e2702a065983ee92bfec613a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뮤턴트 이스케이프]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162056</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162056</guid>
-            <pubDate>Fri, 31 Mar 2023 10:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0745cfb06b6824eab667e89bbb2f5eec19aaeac6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[불멸의 여자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168428</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168428</guid>
@@ -158,13 +166,6 @@
             <pubDate>Thu, 30 Mar 2023 11:10:32 GMT</pubDate>
             <content:encoded><![CDATA[23.04.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9af0d5de4d95d96b22ad4189f54cd8addf5f6848" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[밥만 잘 사주는 이상한 이사님 극장판]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168811</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168811</guid>
-            <pubDate>Sat, 01 Apr 2023 00:53:20 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.05]]></content:encoded>
         </item>
     </channel>
 </rss>
