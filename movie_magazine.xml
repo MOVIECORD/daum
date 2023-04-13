@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 23:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 00:49:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사실상 마지막 시리즈라는 아쉬운 이 마블 영화]]></title>
+            <link>https://v.daum.net/v/9L3zWzXe76</link>
+            <guid>https://v.daum.net/v/9L3zWzXe76</guid>
+            <pubDate>Thu, 13 Apr 2023 00:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F13%2Ffeelthemovie%2F20230413094010473ogbo.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[부부가 된 한국과 미국의 톱스타 모습]]></title>
             <link>https://v.daum.net/v/QqamjxBE1x</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 11 Apr 2023 06:14:35 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F11%2FBoiledMovie%2F20230411155230290rpus.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[개봉 전부터 난리 났던 '화제작', 막상 뚜껑 열어보니...]]></title>
-            <link>https://v.daum.net/v/KvVxTJVsK1</link>
-            <guid>https://v.daum.net/v/KvVxTJVsK1</guid>
-            <pubDate>Tue, 11 Apr 2023 09:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F11%2Fmaxmovie%2F20230411175557641xsop.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
