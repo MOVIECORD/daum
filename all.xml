@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 07:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 08:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd8ba9a0ddfa0c21777ecaf688063612b9cfe27c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[물안에서 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167355</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167355</guid>
-            <pubDate>Sun, 16 Apr 2023 04:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9af0d5de4d95d96b22ad4189f54cd8addf5f6848" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[장기자랑 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162787</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162787</guid>
@@ -150,6 +142,14 @@
             <pubDate>Mon, 17 Apr 2023 08:15:51 GMT</pubDate>
             <content:encoded><![CDATA[23.03.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F07162528bee656b61466ef7e4bb686bf83d792f9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[물안에서 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167355</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167355</guid>
+            <pubDate>Sun, 16 Apr 2023 04:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9af0d5de4d95d96b22ad4189f54cd8addf5f6848" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[라스트 필름 쇼 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -197,6 +197,14 @@
             <pubDate>Mon, 10 Apr 2023 04:12:19 GMT</pubDate>
             <content:encoded><![CDATA[23.04.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F85599d900af16c514f03e6257773304537ae529c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인셉션 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=50364</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=50364</guid>
+            <pubDate>Tue, 18 Apr 2023 08:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd2298754949746c6508d8aba2e9ef0f06141df61" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[라이스보이 슬립스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -316,15 +324,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=160409</guid>
             <pubDate>Sat, 15 Apr 2023 08:12:44 GMT</pubDate>
             <content:encoded><![CDATA[23.05.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd665a08d01baddc27386ca97efb637fab3c9dabb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[내 아내 이야기 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152001</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152001</guid>
-            <pubDate>Mon, 17 Apr 2023 09:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe5553ce0b522520c79a8b67e55e949458425cfbe" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa6eb8d85f13103665b6ae505af10fa5d3ce4de9f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[씨받이 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1295,6 +1295,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[연기경력 도합 180년이 넘는 대한민국 전설들이 펼치는 드라마 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/9p4MRSkUSj</link>
+            <guid>https://v.daum.net/v/9p4MRSkUSj</guid>
+            <pubDate>Tue, 18 Apr 2023 08:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F18%2FBoiledMovie%2F20230418170058703zjis.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[40년 전, 전두환 정권이 했던 만행 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/xX1qW7HRKx</link>
+            <guid>https://v.daum.net/v/xX1qW7HRKx</guid>
+            <pubDate>Tue, 18 Apr 2023 08:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F18%2Ffanzeel%2F20230418165004105fwqv.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[딸 출산 직전 4시간 동안 춤췄다는 톱 여배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/BBhjdTD7Bg</link>
             <guid>https://v.daum.net/v/BBhjdTD7Bg</guid>
@@ -1436,23 +1452,7 @@
             <guid>https://v.daum.net/v/txh0K23oTM</guid>
             <pubDate>Mon, 17 Apr 2023 08:16:38 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F17%2Ffanzeel%2F20230417165001305toxi.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[스타와 팬에서 결혼을 약속한 사이가 된 유명인 커플 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/Kz3pHOatnA</link>
-            <guid>https://v.daum.net/v/Kz3pHOatnA</guid>
-            <pubDate>Mon, 17 Apr 2023 06:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F18%2Ffeelthemovie%2F20230418094442856bwuu.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[너무 잘생겨서 민폐인 한국의 미남 감독 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/K6RizFv8Vm</link>
-            <guid>https://v.daum.net/v/K6RizFv8Vm</guid>
-            <pubDate>Mon, 17 Apr 2023 06:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F17%2FBoiledMovie%2F20230417144007750gnml.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F18%2Ffanzeel%2F20230418170002992vmlc.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[집으로 돌아온 남편의 이야기, <존 윅 4> (다음 영화 ─ 브런치)]]></title>
