@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 10:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 11:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb0d552be0bd8b8b153cd480731ec76edcec7ace7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오디션 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=29389</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=29389</guid>
-            <pubDate>Tue, 28 Mar 2023 13:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c4d306467eec9a03e2dc09d432d6e6c2939933d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[귀를 기울이면 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164739</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164739</guid>
@@ -150,6 +142,14 @@
             <pubDate>Fri, 24 Mar 2023 09:11:38 GMT</pubDate>
             <content:encoded><![CDATA[23.04.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc17bd488667977a165b768c837fc0e8e0cf0588d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오디션 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=29389</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=29389</guid>
+            <pubDate>Tue, 28 Mar 2023 13:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c4d306467eec9a03e2dc09d432d6e6c2939933d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파벨만스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -908,6 +908,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=169575</guid>
             <pubDate>Thu, 13 Apr 2023 04:13:21 GMT</pubDate>
             <content:encoded><![CDATA[23.04.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a82cd5c4843cc82704323b8cc9777b5e951b5da" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[존 멀레이니: 베이비 J ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -1635,6 +1636,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[멈추지 않는 디즈니+의 4월 신작 라인업 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/z1QH5EyPw5</link>
+            <guid>https://v.daum.net/v/z1QH5EyPw5</guid>
+            <pubDate>Fri, 21 Apr 2023 11:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F21%2Fkinolights%2F20230421194040003hwoi.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[이웃주민이자 아파트 문제로 함께 투쟁중인 두 스타 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/GXuYXd2mO3</link>
             <guid>https://v.daum.net/v/GXuYXd2mO3</guid>
@@ -1785,14 +1794,6 @@
             <pubDate>Thu, 20 Apr 2023 23:12:04 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F21%2Ffanzeel%2F20230421080126687watg.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[백상예술대상 조연상·최우수상 후보에 나란히 이름 올린 두 여배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/GwHMde9rqR</link>
-            <guid>https://v.daum.net/v/GwHMde9rqR</guid>
-            <pubDate>Thu, 20 Apr 2023 22:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F21%2FBoiledMovie%2F20230421063005208pgax.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화가 된 소년, <파벨만스> (다음 영화 ─ 브런치)]]></title>
