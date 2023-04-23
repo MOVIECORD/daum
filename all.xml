@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 08:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 09:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0887bce0ec55b149326221adf015579269570ea" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[65 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166370</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166370</guid>
-            <pubDate>Tue, 11 Apr 2023 11:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F45d2757689eab926154349e73e0f68a9e273ed68" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[멍뭉이 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139547</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139547</guid>
@@ -110,6 +102,14 @@
             <pubDate>Wed, 29 Mar 2023 05:10:44 GMT</pubDate>
             <content:encoded><![CDATA[23.02.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7dfd23fad7843cdfa228295b2e7536d0ce924f5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[65 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166370</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166370</guid>
+            <pubDate>Tue, 11 Apr 2023 11:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F45d2757689eab926154349e73e0f68a9e273ed68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아머드 사우루스: 기계공룡제국의 침략 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -280,14 +280,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc4b1f305618832ffa9e548a9836517384f6afc6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[내 아내 이야기 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152001</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152001</guid>
-            <pubDate>Wed, 19 Apr 2023 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe5553ce0b522520c79a8b67e55e949458425cfbe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[플레이 데드 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168373</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168373</guid>
@@ -325,6 +317,14 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=166732</guid>
             <pubDate>Sun, 23 Apr 2023 07:09:34 GMT</pubDate>
             <content:encoded><![CDATA[23.04]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[초대의 법칙 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161670</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161670</guid>
+            <pubDate>Sun, 23 Apr 2023 09:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[23.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9718c4dd5058e58eebbc278e707dce89f9334f87" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[지금 만나러 갑니다 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
