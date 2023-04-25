@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 06:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 07:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 25 Apr 2023 06:15:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이작가]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FasGw%2Fimage%2FcObfMrU6NxaTx4o1n2U70fwTqK8.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[크레타에서 보는 한국영화 브로커]]></title>
+            <link>https://brunch.co.kr/@@dy3P/79</link>
+            <guid>https://brunch.co.kr/@@dy3P/79</guid>
+            <pubDate>Tue, 25 Apr 2023 07:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Shivani]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fdy3P%2Fimage%2FMyViIlveGIO78nrrlR-XXuKNyTw.heic" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[사랑은 미안하다고 말하지 않아]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Apr 2023 06:14:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FM23NcR-B19w-I9tqUiOX5UOHOXA.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[망원동 간디와의 수업시간]]></title>
-            <link>https://brunch.co.kr/@@2T8e/77</link>
-            <guid>https://brunch.co.kr/@@2T8e/77</guid>
-            <pubDate>Mon, 24 Apr 2023 06:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>라일락]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2T8e%2Fimage%2FXrqz9ncsPdYU18KF8YViR9Hnh-Q.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
