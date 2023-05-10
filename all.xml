@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 08:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 09:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58b7c6d55338446e38bb12bb3e7730ad433494a5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엑소시스트: 더 바티칸 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168221</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168221</guid>
-            <pubDate>Thu, 27 Apr 2023 00:53:55 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58bdb4cbcb88d291746dfa07e98a4f5c8fad5f09" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[옥수역귀신 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151655</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151655</guid>
             <pubDate>Tue, 04 Apr 2023 23:10:45 GMT</pubDate>
             <content:encoded><![CDATA[23.04.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd6105e7d4919af308749f5785eee564320dfada" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엑소시스트: 더 바티칸 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168221</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168221</guid>
+            <pubDate>Thu, 27 Apr 2023 00:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58bdb4cbcb88d291746dfa07e98a4f5c8fad5f09" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[거울 속 외딴 성 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -120,6 +120,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf08f2c383803951f7960602d81f4eced74ab43d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 공연실황, 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!> (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170006</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170006</guid>
+            <pubDate>Wed, 10 May 2023 06:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.03]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[킬링 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149715</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149715</guid>
@@ -134,13 +141,6 @@
             <pubDate>Wed, 19 Apr 2023 03:21:53 GMT</pubDate>
             <content:encoded><![CDATA[23.05.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffeb0710eb68b1e099ea6ba9db23def9961c8bb22" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 공연실황, 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!> (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170006</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170006</guid>
-            <pubDate>Wed, 10 May 2023 06:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.03]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[조제, 호랑이 그리고 물고기들 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1587,6 +1587,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F15089c173d9df82d0cac07969bce1737d9278a64" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[남몰래 밤마다 난민들 도왔다는 참된 인성의 '배우' (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/FBgW1CS4is</link>
+            <guid>https://v.daum.net/v/FBgW1CS4is</guid>
+            <pubDate>Wed, 10 May 2023 09:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F10%2Fmaxmovie%2F20230510180618192zbuh.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[후배가 죄책감 느낄까봐 부상 사실 숨긴 착한 선배 스타 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/0RgT5uqklW</link>
             <guid>https://v.daum.net/v/0RgT5uqklW</guid>
@@ -1737,14 +1745,6 @@
             <pubDate>Tue, 09 May 2023 06:14:19 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F09%2Ffeelthemovie%2F20230509151007922erar.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[30년만에 비로소 진정한 한을 풀게 되었다는 이 여배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/K4g4IX1iFf</link>
-            <guid>https://v.daum.net/v/K4g4IX1iFf</guid>
-            <pubDate>Tue, 09 May 2023 05:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F09%2FBoiledMovie%2F20230509201315453jria.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[같은 이유, 다른 결론 (다음 영화 ─ 브런치)]]></title>
