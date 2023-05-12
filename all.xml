@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 07:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 08:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[롱디 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151324</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151324</guid>
-            <pubDate>Sun, 23 Apr 2023 14:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb9b83519e440db774b1f0502747aed85320f504b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[존 윅 4 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162386</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162386</guid>
             <pubDate>Tue, 28 Mar 2023 05:10:50 GMT</pubDate>
             <content:encoded><![CDATA[23.04.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5605612b56736f1b4dedc8953b29b5d04c32c053" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[롱디 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151324</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151324</guid>
+            <pubDate>Sun, 23 Apr 2023 14:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb9b83519e440db774b1f0502747aed85320f504b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[옥수역귀신 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -127,14 +127,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbbad19b9cb21b448a732edf168756cc4ec7ea335" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[조제, 호랑이 그리고 물고기들 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143745</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143745</guid>
-            <pubDate>Wed, 03 May 2023 00:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1aa2245cb8264c94a7688a41be742e9316350f52" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[토리와 로키타 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160408</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160408</guid>
@@ -149,6 +141,14 @@
             <pubDate>Tue, 21 Mar 2023 09:11:59 GMT</pubDate>
             <content:encoded><![CDATA[23.04.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F541382b0a4105163dc37e4aba7d44e8c115b72d6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[조제, 호랑이 그리고 물고기들 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143745</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143745</guid>
+            <pubDate>Wed, 03 May 2023 00:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1aa2245cb8264c94a7688a41be742e9316350f52" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킬링 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2492,20 +2492,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa78591360c1cff09cb395891993a97427470e317" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['가오갤3' 수달, 알고 보니 MCU 출연 배우가? (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/PbNOX24IQt</link>
+            <guid>https://v.daum.net/v/PbNOX24IQt</guid>
+            <pubDate>Fri, 12 May 2023 08:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F12%2Ffanzeel%2F20230512165003834wqrv.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[촬영도중 김혜수의 이마 키스를 받은 행운의 톱스타 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/PrsKyno5y1</link>
             <guid>https://v.daum.net/v/PrsKyno5y1</guid>
             <pubDate>Fri, 12 May 2023 06:15:19 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F12%2Ffeelthemovie%2F20230512150756123fyun.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이병헌 가격해서 스타된 이 배우... 알고보니 춤도 잘 춘다고? (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/Hr4vjb9rlu</link>
-            <guid>https://v.daum.net/v/Hr4vjb9rlu</guid>
-            <pubDate>Fri, 12 May 2023 06:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F12%2Fmaxmovie%2F20230512141735851snsh.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[해외 배우들 기죽이려 일부러 과한 화장한 한국 톱스타 (다음 영화 ─ 매거진)]]></title>
@@ -2577,7 +2577,7 @@
             <guid>https://v.daum.net/v/fE5txSyPwf</guid>
             <pubDate>Thu, 11 May 2023 23:11:21 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F12%2Ffanzeel%2F20230512112528701rstj.jpg" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F12%2Ffanzeel%2F20230512162110176xqhd.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[8월 15일 광복절에 개봉한다는 ‘원자폭탄의 아버지’ 이야기 (다음 영화 ─ 매거진)]]></title>
