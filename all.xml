@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 04:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 05:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdea3a62914133f571a8a7ef336d893f096426335" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드림 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135762</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135762</guid>
-            <pubDate>Tue, 11 Apr 2023 14:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb514ac276500897a26a8e979b130571586021b5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스즈메의 문단속 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161806</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161806</guid>
             <pubDate>Fri, 17 Feb 2023 08:15:03 GMT</pubDate>
             <content:encoded><![CDATA[23.03.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드림 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135762</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135762</guid>
+            <pubDate>Tue, 11 Apr 2023 14:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb514ac276500897a26a8e979b130571586021b5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[존 윅 4 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2076,6 +2076,14 @@
             <content:encoded><![CDATA[23.05.26]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[전세계 영화팬들이 극찬한 올해 최고의 영화 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/XxuctX5JjM</link>
+            <guid>https://v.daum.net/v/XxuctX5JjM</guid>
+            <pubDate>Sat, 13 May 2023 05:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F13%2Ffeelthemovie%2F20230513131255706unlt.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[2주 연속 넷플릭스 주간 1위 찍은 액션 스릴러 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/3X8cWOC2cv</link>
             <guid>https://v.daum.net/v/3X8cWOC2cv</guid>
@@ -2226,14 +2234,6 @@
             <pubDate>Thu, 11 May 2023 08:14:31 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F11%2Fmaxmovie%2F20230511165058596pnwq.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[MCU 영화 사상 처음으로 '가오갤3'에 들어간 것 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/318lzyGMtK</link>
-            <guid>https://v.daum.net/v/318lzyGMtK</guid>
-            <pubDate>Thu, 11 May 2023 08:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F11%2Ffanzeel%2F20230511165001378swos.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[같은 이유, 다른 결론 (다음 영화 ─ 브런치)]]></title>
