@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 02:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 03:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신께 고맙다는 말 남깁니다]]></title>
+            <link>https://brunch.co.kr/@@98Yb/148</link>
+            <guid>https://brunch.co.kr/@@98Yb/148</guid>
+            <pubDate>Wed, 24 May 2023 03:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이세일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F98Yb%2Fimage%2FL6yUDQH5q2F-x5R4WpnGpyDdxyA.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[현실적 이야기와 볼거리 가득한 아쿠아 쇼!]]></title>
             <link>https://brunch.co.kr/@@8kr3/34</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 19 May 2023 09:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FnkxmswVnj1dRitNamC2h4Z8j2KA.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[분노의 질주: 라이드 오어 다이, 22년치 족보 액션]]></title>
-            <link>https://brunch.co.kr/@@oNv/415</link>
-            <guid>https://brunch.co.kr/@@oNv/415</guid>
-            <pubDate>Fri, 19 May 2023 07:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>맑은구름]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FoNv%2Fimage%2F9VC2q1FO67XJVt5pG-mtPSkcm8E.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
