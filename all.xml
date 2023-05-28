@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 15:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 16:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,28 +240,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff6630cfd1994ea87121d2151e92a200c12b251f9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나의 사소한 슬픔 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153681</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153681</guid>
-            <pubDate>Fri, 12 May 2023 04:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fc3c37445c2215121c1672e943a771cd58dc80a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[너의 눈을 들여다보면 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157799</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157799</guid>
             <pubDate>Sun, 21 May 2023 03:11:19 GMT</pubDate>
             <content:encoded><![CDATA[23.06.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb4c63878196d7f0c5bcad7b8d55b76e9f1661d8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[수라 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163796</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163796</guid>
-            <pubDate>Thu, 18 May 2023 02:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09f2644cb8657ec2cda1a637848eca40e054848e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[악당들 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -312,6 +296,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fde6cc50d966aa3eb9f0f2d24a643157cb123e58f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[나의 사소한 슬픔 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153681</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153681</guid>
+            <pubDate>Fri, 12 May 2023 04:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fc3c37445c2215121c1672e943a771cd58dc80a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[수라 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163796</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163796</guid>
+            <pubDate>Thu, 18 May 2023 02:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09f2644cb8657ec2cda1a637848eca40e054848e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[하나님의 마음 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169681</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169681</guid>
@@ -326,22 +326,6 @@
             <pubDate>Tue, 23 May 2023 13:14:00 GMT</pubDate>
             <content:encoded><![CDATA[23.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd1628ac0720f5689d6957f3161012f72921a4d2e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[레슬러 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=113147</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=113147</guid>
-            <pubDate>Sun, 14 May 2023 23:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd10a0e6c2a53f6a5db76378b6cdb78835ff2ac8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[라스트 나잇 인 소호 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129679</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129679</guid>
-            <pubDate>Tue, 09 May 2023 02:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa3d67cc5d4db5a5a0ae7495e64178588c7929390" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[카드카운터 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -896,14 +880,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3ceae9de9ba8b1f0be1380bd1c2d7ea38b3af7dc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그녀가 말했다 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162103</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162103</guid>
-            <pubDate>Mon, 15 May 2023 04:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fca1c85a530d3450ae10acc30664ecdc5f2de0eeb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[세이프 하우스 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=61819</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=61819</guid>
@@ -1392,12 +1368,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F26%2Fmaxmovie%2F20230526193802280avgo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[범죄도시3을 보다! 액션,쿠키 영상 모두 장난아니다! (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[분명 거울을 보는데 코만 보인다는 이 남자의 고충 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/tEaaGOkUS3</link>
             <guid>https://v.daum.net/v/tEaaGOkUS3</guid>
             <pubDate>Fri, 26 May 2023 10:11:46 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F26%2Ffeelthemovie%2F20230526191003932qvpg.jpg" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F29%2Ffeelthemovie%2F20230529005600010xlom.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[해고된 배우 대신 카메오로 등장한다는 슈퍼맨의 정체 (다음 영화 ─ 매거진)]]></title>
