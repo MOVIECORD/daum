@@ -4,16 +4,24 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 01:00:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 02:27:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예고편 하나 없이 공개한다는 거장의 진짜 마지막 작품]]></title>
+            <link>https://v.daum.net/v/3bYWydj3GH</link>
+            <guid>https://v.daum.net/v/3bYWydj3GH</guid>
+            <pubDate>Thu, 08 Jun 2023 02:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F08%2FBoiledMovie%2F20230608100520343dbmn.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스가 전세계에 공개하는 엄청난 임진왜란 영화]]></title>
             <link>https://v.daum.net/v/fb5xrq8CLq</link>
             <guid>https://v.daum.net/v/fb5xrq8CLq</guid>
             <pubDate>Thu, 08 Jun 2023 00:59:53 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F08%2Ffeelthemovie%2F20230608094334861crgr.jpg" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F08%2Ffeelthemovie%2F20230608103008801ngea.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[현재 전 세계 뒤흔들고 있는 영화! OO신이 압권?]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 07 Jun 2023 02:31:38 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F07%2Ffeelthemovie%2F20230607114132124mivt.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[남편에게 둘째 라이팅 당했다는 '범죄도시' 러시아 미녀]]></title>
-            <link>https://v.daum.net/v/y0V2YPnXD9</link>
-            <guid>https://v.daum.net/v/y0V2YPnXD9</guid>
-            <pubDate>Wed, 07 Jun 2023 01:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F07%2FBoiledMovie%2F20230607095133371ylsw.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
