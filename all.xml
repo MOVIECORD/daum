@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 08:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 09:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,6 +79,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd55d4ec8dee12794424ac2469b31ee61f9617964" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 포켓몬스터DP : 아르세우스 초극의 시공으로 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=52733</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=52733</guid>
+            <pubDate>Mon, 19 Jun 2023 09:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0c9027d8d127e25f40d994fb394852059f228f5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[인어공주 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=133193</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=133193</guid>
@@ -133,14 +141,6 @@
             <pubDate>Fri, 19 May 2023 06:13:52 GMT</pubDate>
             <content:encoded><![CDATA[23.05.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3cdc596cb0d48c05d2210f7ebadab55587c0e179" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[그 여름 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169897</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169897</guid>
-            <pubDate>Sun, 18 Jun 2023 06:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4cac76629657c47ae3a2f512b06bf3b6a7cfd901" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[순응자 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1325,20 +1325,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a8ab1dc3f771b8d54e4fc9c4e0a543c8e3007df" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['영원한 인디아나 존스' 해리슨 포드가 밝힌 속마음 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/UOcP5Kcpcp</link>
+            <guid>https://v.daum.net/v/UOcP5Kcpcp</guid>
+            <pubDate>Mon, 19 Jun 2023 09:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F19%2Fmaxmovie%2F20230619181038000mjsz.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[너무 예쁜데..딱 10년 밖에 못 산다는 이 여성 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/Bub6d1RywK</link>
+            <guid>https://v.daum.net/v/Bub6d1RywK</guid>
+            <pubDate>Mon, 19 Jun 2023 09:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F19%2Ffeelthemovie%2F20230619181010540pdsw.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[극단적 시도를 한 언니, 왜 그랬을까? (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/7FGpfpnXXV</link>
             <guid>https://v.daum.net/v/7FGpfpnXXV</guid>
             <pubDate>Mon, 19 Jun 2023 08:15:29 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F19%2Ffanzeel%2F20230619165017899hrlv.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[한국판 어벤져스? 출연 캐릭터 모두가 초능력자라는 디즈니 신작 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/PCjhL8mBw8</link>
-            <guid>https://v.daum.net/v/PCjhL8mBw8</guid>
-            <pubDate>Mon, 19 Jun 2023 06:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F19%2FBoiledMovie%2F20230619154358511wgap.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[숲속 동굴에서 식인 악어에게 쫓기는 남녀들, 왜? (다음 영화 ─ 매거진)]]></title>
@@ -1477,14 +1485,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F17%2FBoiledMovie%2F20230617163023409aqoq.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[영화 '007' 출연 거부한 차인표, 뜨거운 휴머니즘으로 마이크 앞에! (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/3BjUQ8mBT8</link>
-            <guid>https://v.daum.net/v/3BjUQ8mBT8</guid>
-            <pubDate>Sat, 17 Jun 2023 04:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F17%2Fmaxmovie%2F20230617124439934rirx.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[인생은 짧지만 깁니다 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@a7Xi/114</link>
             <guid>https://brunch.co.kr/@@a7Xi/114</guid>
@@ -1573,6 +1573,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6L3y%2Fimage%2F7NU528L1c8c3vAh92QH-1-NyCAQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[영화 <461개의 도시락> (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@czWP/375</link>
+            <guid>https://brunch.co.kr/@@czWP/375</guid>
+            <pubDate>Mon, 19 Jun 2023 09:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>행복나무]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FczWP%2Fimage%2Fw3sW9-QXC0JuPCSIxEaCN_rxIpc.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[<익스트랙션>남의 집 귀한 자식을 구하는 '햄식이' (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@6dyt/986</link>
             <guid>https://brunch.co.kr/@@6dyt/986</guid>
@@ -1635,14 +1643,6 @@
             <pubDate>Mon, 12 Jun 2023 06:15:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>권순범]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeHDb%2Fimage%2F3BL_N3FHToqvlnaAc2CF2dSndOU.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘범죄도시’ 시리즈 2편과 4편 사이의 알맞은 숨고르기 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@mW7/1490</link>
-            <guid>https://brunch.co.kr/@@mW7/1490</guid>
-            <pubDate>Mon, 12 Jun 2023 07:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김동진]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FmW7%2Fimage%2Ft6kE4-_24arX0Dq_cnriNeDVvhs.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
