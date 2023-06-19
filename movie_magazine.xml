@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 00:58:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 02:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F19%2Ffeelthemovie%2F20230619093026991fcht.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA['알'에 집착한 '해외 소녀'의 충격적인 이야기]]></title>
+            <link>https://v.daum.net/v/1SQS93JGIW</link>
+            <guid>https://v.daum.net/v/1SQS93JGIW</guid>
+            <pubDate>Mon, 19 Jun 2023 02:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F19%2Fmaxmovie%2F20230619080027465ztlk.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA['테크노걸' 전지현, 뱀파이어에 맞서며 전 세계에 날아올랐다]]></title>
             <link>https://v.daum.net/v/PIO7BIqkg9</link>
             <guid>https://v.daum.net/v/PIO7BIqkg9</guid>
             <pubDate>Sun, 18 Jun 2023 23:11:23 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F19%2Fmaxmovie%2F20230619072452527tkge.jpg" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F19%2Fmaxmovie%2F20230619103816282mfwo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[최근 <오징어 게임> 팀이 '급' 전한 반가운 소식!]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 16 Jun 2023 23:11:19 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F17%2Fmaxmovie%2F20230617080034235aqfm.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[美유명감독, 자연에서 제2의 인생 시작하다]]></title>
-            <link>https://v.daum.net/v/tGEzxbA0cM</link>
-            <guid>https://v.daum.net/v/tGEzxbA0cM</guid>
-            <pubDate>Fri, 16 Jun 2023 15:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F17%2Fmaxmovie%2F20230617000122965cqoq.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
