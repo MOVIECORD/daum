@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 10:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 11:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 20 Jun 2023 10:11:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>키노라이츠 김준모 편집장]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2ViD%2Fimage%2FJfrM4bE6C8rCmP9RGGOWoDoOpbY.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[바꾸고 싶지만 바꿀 수 없는 것.]]></title>
+            <link>https://brunch.co.kr/@@fgnD/55</link>
+            <guid>https://brunch.co.kr/@@fgnD/55</guid>
+            <pubDate>Tue, 20 Jun 2023 11:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>웅인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FfgnD%2Fimage%2FHjauz-SHSj71yT3pu8li6T8ad6s.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[아름다운 4원소로 붓칠 한 사회문화]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 19 Jun 2023 07:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이다]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeNgn%2Fimage%2Fo7JqT9tE3NFUr98tIW56_v4f51w.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[인지주의 영화이론]]></title>
-            <link>https://brunch.co.kr/@@2Cqq/32</link>
-            <guid>https://brunch.co.kr/@@2Cqq/32</guid>
-            <pubDate>Mon, 19 Jun 2023 07:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이정민]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2Cqq%2Fimage%2F4QWLxULsHpj7xu6zDDUbspBxBKM.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
