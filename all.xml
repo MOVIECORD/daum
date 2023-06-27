@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 07:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 08:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1dd6acbce8eff8787e9ecfa7633bb3ff7e0116e2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엔니오: 더 마에스트로 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153259</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153259</guid>
-            <pubDate>Tue, 13 Jun 2023 10:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[만해 한용운 님의 침묵 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=124139</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=124139</guid>
@@ -260,6 +252,14 @@
             <pubDate>Fri, 09 Jun 2023 09:10:28 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa12a1ff89d58b21259ed6587f22e8ddfae5a4958" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엔니오: 더 마에스트로 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153259</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153259</guid>
+            <pubDate>Tue, 13 Jun 2023 10:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하나님의 마음 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1551,6 +1551,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa761c856ed716c3bcaef65bc188c64aa9ab97141" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[두 한국인이 해외서 저지른 엄청난 대형사고 수준 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/H4heyeLZlM</link>
+            <guid>https://v.daum.net/v/H4heyeLZlM</guid>
+            <pubDate>Tue, 27 Jun 2023 08:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F27%2Ffeelthemovie%2F20230627171001413ycol.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[친구의 꿈에서 연쇄살인범을 목격한 여자 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/qdWOcslfDb</link>
+            <guid>https://v.daum.net/v/qdWOcslfDb</guid>
+            <pubDate>Tue, 27 Jun 2023 08:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F27%2Ffanzeel%2F20230627170042144abxg.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[90년대 세계 휩쓸던 프랑스 대표 미녀배우의 근황 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/bMcmKK4IyE</link>
             <guid>https://v.daum.net/v/bMcmKK4IyE</guid>
@@ -1693,22 +1709,6 @@
             <pubDate>Tue, 27 Jun 2023 01:13:18 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F27%2Ffeelthemovie%2F20230627093019878ndaz.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 중년 부부의 삶, 한순간에 뒤바뀐 충격적 이유는? (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/Pr5j7wI9OW</link>
-            <guid>https://v.daum.net/v/Pr5j7wI9OW</guid>
-            <pubDate>Mon, 26 Jun 2023 23:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F27%2Fmaxmovie%2F20230627080041243sipw.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[20년 전, 김서형이 나왔던 최고 논란의 그 영화 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/VndpNUBEWj</link>
-            <guid>https://v.daum.net/v/VndpNUBEWj</guid>
-            <pubDate>Mon, 26 Jun 2023 23:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F27%2Ffanzeel%2F20230627080039673nzoa.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화관, 언제 이렇게 바꿨어? (다음 영화 ─ 브런치)]]></title>
