@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 12:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 13:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,14 +111,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0792b57cc91a80cef6d4871e56a37393da1f9e6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[하나님의 마음 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169681</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169681</guid>
-            <pubDate>Wed, 28 Jun 2023 09:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3bb48813acf0cbc6bd9b988916455de3288f266" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[트랜스포머: 비스트의 서막 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165969</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165969</guid>
@@ -127,12 +119,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69b2d6ef76c2c5b37b0641b187d1efd7f0636e41" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[샤이닝 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=3166</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=3166</guid>
-            <pubDate>Wed, 28 Jun 2023 01:13:54 GMT</pubDate>
+            <title><![CDATA[하나님의 마음 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169681</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169681</guid>
+            <pubDate>Wed, 28 Jun 2023 09:11:43 GMT</pubDate>
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd9c60f9f3a9249adb6920ffe9dabd86b2a303a34" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3bb48813acf0cbc6bd9b988916455de3288f266" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스즈메의 문단속 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -141,6 +133,14 @@
             <pubDate>Fri, 23 Jun 2023 02:55:26 GMT</pubDate>
             <content:encoded><![CDATA[23.03.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[샤이닝 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3166</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3166</guid>
+            <pubDate>Wed, 28 Jun 2023 01:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd9c60f9f3a9249adb6920ffe9dabd86b2a303a34" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[남은 인생 10년 (다음영화 영화관 ─ 현재상영)]]></title>
