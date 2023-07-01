@@ -4,9 +4,17 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 23:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 01:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미션 임파서블: 데드 레코닝 PART ONE]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139236</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139236</guid>
+            <pubDate>Sat, 01 Jul 2023 01:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff30e6673cb2c4ad6b31a1d1896d5751c2c5c58d9" length="0" type="image//thumb/C408x596/"/>
+        </item>
         <item>
             <title><![CDATA[악마들]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158891</link>
@@ -64,6 +72,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[몸 값 part.1]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171616</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171616</guid>
+            <pubDate>Thu, 29 Jun 2023 07:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[1986 그 여름, 그리고 고등어통조림]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163076</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163076</guid>
@@ -99,13 +114,6 @@
             <title><![CDATA[몸 값 part.2]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171618</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171618</guid>
-            <pubDate>Thu, 29 Jun 2023 07:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[몸 값 part.1]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171616</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171616</guid>
             <pubDate>Thu, 29 Jun 2023 07:21:57 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
         </item>
@@ -156,14 +164,6 @@
             <pubDate>Wed, 28 Jun 2023 06:15:49 GMT</pubDate>
             <content:encoded><![CDATA[23.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2aa7186e6473343a620974f3625a76e2f1d53a0d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[퀴어 마이 프렌즈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160079</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160079</guid>
-            <pubDate>Tue, 27 Jun 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[23.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0da4c91507f42309e0dc6ae0b51908a10f8eba8b" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
