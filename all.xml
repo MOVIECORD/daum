@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 23:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 01:04:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d3f11f50c660c43f4ba5c94ed3ef7a20c8c6cca" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[여름날 우리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
+            <pubDate>Wed, 28 Jun 2023 01:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4782cfb079bd88055364a6ea3c7fd36bda9493c0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[범죄도시3 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160244</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160244</guid>
@@ -38,14 +46,6 @@
             <pubDate>Wed, 28 Jun 2023 01:13:54 GMT</pubDate>
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F940367ffd4eebe701363eabeefb9d7ba1d51f1db" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[여름날 우리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
-            <pubDate>Wed, 28 Jun 2023 01:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4782cfb079bd88055364a6ea3c7fd36bda9493c0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[악마들 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -88,20 +88,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc3fa110cbbe83eb6e4ae2b57124c84d28912f0fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엔니오: 더 마에스트로 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153259</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153259</guid>
-            <pubDate>Tue, 13 Jun 2023 10:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[애스터로이드 시티 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169158</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169158</guid>
             <pubDate>Wed, 28 Jun 2023 01:13:54 GMT</pubDate>
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe17ef4b59bacef9887dd9faa3e4d2ffa8f937230" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엔니오: 더 마에스트로 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153259</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153259</guid>
+            <pubDate>Tue, 13 Jun 2023 10:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[플래닛 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -830,6 +830,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69aad33d38d750a57bfb372396671e373a795792" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[서울의 한 아파트 분쟁현장서 포착된 한국 최고 톱스타 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/1Ad9wbMTR2</link>
+            <guid>https://v.daum.net/v/1Ad9wbMTR2</guid>
+            <pubDate>Mon, 10 Jul 2023 01:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F10%2Ffeelthemovie%2F20230710093016270sypx.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[30대 중반 맞아? 나날이 리즈 갱신 중인 배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/ZXEV2clfbH</link>
+            <guid>https://v.daum.net/v/ZXEV2clfbH</guid>
+            <pubDate>Mon, 10 Jul 2023 01:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F10%2Fmaxmovie%2F20230710090016365okcj.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[30년 전, 장난감을 살상 무기로 만들려던 레전드 영화 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/1zjmbVJGRL</link>
             <guid>https://v.daum.net/v/1zjmbVJGRL</guid>
@@ -934,14 +950,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F08%2Fmaxmovie%2F20230708100101594jiew.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[벌써 남 다른 연기력 보여주고 있는 '김태희 아들' (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/6MpAkkS4qf</link>
-            <guid>https://v.daum.net/v/6MpAkkS4qf</guid>
-            <pubDate>Sat, 08 Jul 2023 01:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F08%2FBoiledMovie%2F20230708093015666uiud.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA['불륜설'로 난리였던 韓中부부가 최근 전한 반가운 소식! (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/HOzqRCZdZR</link>
             <guid>https://v.daum.net/v/HOzqRCZdZR</guid>
@@ -980,14 +988,6 @@
             <pubDate>Fri, 07 Jul 2023 08:15:44 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F07%2FBoiledMovie%2F20230707163004068szed.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[너무 예뻐서…남자 배우들이 꼭 함께하겠다고 한 여배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/B8rh8wyPVr</link>
-            <guid>https://v.daum.net/v/B8rh8wyPVr</guid>
-            <pubDate>Fri, 07 Jul 2023 06:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F07%2Ffeelthemovie%2F20230707141756332thfv.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[버섯과 나이를 먹는다는 것 (다음 영화 ─ 브런치)]]></title>
