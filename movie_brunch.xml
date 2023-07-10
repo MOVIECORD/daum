@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 06:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 07:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Mon, 10 Jul 2023 06:16:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>또또비됴]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8kr3%2Fimage%2FFAxbSwMpsJWzRtaEZFNnItW2hSo.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[악몽이 선사하는 어드벤처 혹은 테라피]]></title>
+            <link>https://brunch.co.kr/@@ZdN/120</link>
+            <guid>https://brunch.co.kr/@@ZdN/120</guid>
+            <pubDate>Mon, 10 Jul 2023 07:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김진만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FZdN%2Fimage%2FypbW8caLxJKQxORSYfSuW8d-Oq4.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화를 찍으며 생각한 것들]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Jun 2023 09:12:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김인혁]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7wSU%2Fimage%2FCONP0o3lCy2fkGkmZ0cn0_vt66U.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[천천히 모두 되찾는 일,<바닷마을 다이어리>]]></title>
-            <link>https://brunch.co.kr/@@cr1E/9</link>
-            <guid>https://brunch.co.kr/@@cr1E/9</guid>
-            <pubDate>Fri, 23 Jun 2023 10:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>한다글]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fcr1E%2Fimage%2FmEn5xJ1m7zoxAlObxmSAV976DXI" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
