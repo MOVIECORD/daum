@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 05:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 06:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab0959776b98dcbb0193374a0b7459969fe9987c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 아름다운 그: 이터널]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169633</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169633</guid>
-            <pubDate>Wed, 12 Jul 2023 01:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa063c3e46a98fe623b4eeee11e6e3a900ea68a45" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[귀공자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155850</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155850</guid>
@@ -128,12 +120,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe17ef4b59bacef9887dd9faa3e4d2ffa8f937230" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[악마들]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158891</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158891</guid>
-            <pubDate>Wed, 05 Jul 2023 01:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa74097cfa4c6af4b0482b31890b3fe5a549f76bf" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[극장판 아름다운 그: 이터널]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169633</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169633</guid>
+            <pubDate>Wed, 12 Jul 2023 01:03:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa063c3e46a98fe623b4eeee11e6e3a900ea68a45" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[수라]]></title>
@@ -151,20 +143,28 @@
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[슬기로운 아내 수업]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=140044</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=140044</guid>
-            <pubDate>Wed, 12 Jul 2023 01:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F07bc7fe45929f37c100d2805cb155ece9ac42576" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[디어 마이 러브]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163613</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163613</guid>
             <pubDate>Wed, 12 Jul 2023 05:12:21 GMT</pubDate>
             <content:encoded><![CDATA[23.07.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8f58a078d9a7ef59bb3b562ae66a0870de1639c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[악마들]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158891</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158891</guid>
+            <pubDate>Wed, 05 Jul 2023 01:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa74097cfa4c6af4b0482b31890b3fe5a549f76bf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[빈틈없는 사이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169808</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169808</guid>
+            <pubDate>Wed, 12 Jul 2023 06:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffba3b9273b6fa90a55ae6f9292d8fee98d0b18af" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
