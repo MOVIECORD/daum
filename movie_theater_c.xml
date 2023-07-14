@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 08:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 09:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa6900520a3d3be38e24ff04126c092a382d596b3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 문]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145342</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145342</guid>
+            <pubDate>Fri, 14 Jul 2023 08:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F86faa59e4dfde30ef05732c7c52740116f272edf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[그녀가 좋아하는 것은]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154175</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154175</guid>
@@ -78,6 +86,14 @@
             <pubDate>Mon, 10 Jul 2023 10:13:17 GMT</pubDate>
             <content:encoded><![CDATA[23.07.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0d1dbd7b67d0bd6ec66d5a2426a8a6375a5c901a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼 키드 헤일리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167614</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167614</guid>
+            <pubDate>Wed, 12 Jul 2023 01:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F201e1b3721089fe7b80e949de0bb801d0fa0d855" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[러브 라이프]]></title>
@@ -110,14 +126,6 @@
             <pubDate>Wed, 12 Jul 2023 01:03:45 GMT</pubDate>
             <content:encoded><![CDATA[23.07.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd669a8d733a813e46bac69c54d8defd46b6b57c7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼 키드 헤일리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167614</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167614</guid>
-            <pubDate>Wed, 12 Jul 2023 01:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F201e1b3721089fe7b80e949de0bb801d0fa0d855" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[붉은 사막]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 14 Jul 2023 08:14:26 GMT</pubDate>
             <content:encoded><![CDATA[23.08.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc8a733eaa7217e5b3b01e9af61e796e37e49b38" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 문]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145342</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145342</guid>
-            <pubDate>Fri, 14 Jul 2023 08:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F86faa59e4dfde30ef05732c7c52740116f272edf" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
