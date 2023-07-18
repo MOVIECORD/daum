@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 07:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 08:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d3f11f50c660c43f4ba5c94ed3ef7a20c8c6cca" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[엔니오: 더 마에스트로 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153259</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153259</guid>
+            <pubDate>Tue, 13 Jun 2023 10:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[범죄도시3 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160244</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160244</guid>
@@ -54,14 +62,6 @@
             <pubDate>Wed, 21 Jun 2023 00:58:16 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a768adbada87d8776772ebdbfa4b40a7113ee9d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[엔니오: 더 마에스트로 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153259</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153259</guid>
-            <pubDate>Tue, 13 Jun 2023 10:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[좋.댓.구 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -200,20 +200,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7586d7615ebeef8416602c14eceedb0e85c0011a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[비공식작전 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=127876</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=127876</guid>
-            <pubDate>Thu, 06 Jul 2023 04:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b4a83152981f9e3f6066c32d000696c83bcd63a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 슈퍼윙스: 맥시멈 스피드 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171122</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171122</guid>
             <pubDate>Wed, 05 Jul 2023 02:55:37 GMT</pubDate>
             <content:encoded><![CDATA[23.07.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa6900520a3d3be38e24ff04126c092a382d596b3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[비공식작전 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127876</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127876</guid>
+            <pubDate>Thu, 06 Jul 2023 04:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b4a83152981f9e3f6066c32d000696c83bcd63a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 문 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -238,6 +238,14 @@
             <pubDate>Wed, 12 Jul 2023 01:03:45 GMT</pubDate>
             <content:encoded><![CDATA[23.07.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8d7872baeac2673dad84fb624770449fe7da96a8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[헌티드 맨션 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168527</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168527</guid>
+            <pubDate>Tue, 18 Jul 2023 05:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1828f008ff3f6196a3fecf8a91dd9e1d9f3fcbde" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 썬 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -280,12 +288,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24e816e1b5915bb2eefed5a47936b6b999d2947d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[헌티드 맨션 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168527</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168527</guid>
-            <pubDate>Tue, 18 Jul 2023 05:10:40 GMT</pubDate>
+            <title><![CDATA[메타모르포제의 툇마루 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161426</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161426</guid>
+            <pubDate>Fri, 14 Jul 2023 06:15:31 GMT</pubDate>
             <content:encoded><![CDATA[23.07.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1828f008ff3f6196a3fecf8a91dd9e1d9f3fcbde" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff87ecd1e88ececeaf8c739408c63a9a5925824d5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[러브 라이프 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -310,14 +318,6 @@
             <pubDate>Thu, 13 Jul 2023 11:10:41 GMT</pubDate>
             <content:encoded><![CDATA[23.07.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F32d31441e56914762d755976e2e8f20b6287194a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[메타모르포제의 툇마루 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161426</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161426</guid>
-            <pubDate>Fri, 14 Jul 2023 06:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff87ecd1e88ececeaf8c739408c63a9a5925824d5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[비닐하우스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -999,6 +999,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F665da439b865b309611d3bbbf17cf90d933d5de1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['벚꽃연금'보다 더 엄청난 저작권 벌어들이는 이 남자 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/193806NFif</link>
+            <guid>https://v.daum.net/v/193806NFif</guid>
+            <pubDate>Tue, 18 Jul 2023 08:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F18%2Ffeelthemovie%2F20230718171010256mbvt.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[감수성 많은 5학년 소녀에게 숨겨진 비밀 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/V9f072nX1S</link>
+            <guid>https://v.daum.net/v/V9f072nX1S</guid>
+            <pubDate>Tue, 18 Jul 2023 08:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F18%2Ffanzeel%2F20230718165009681xxcz.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[20년 전 연인→현재 동료로 '우정' 이어가고 있는 두 사람! (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/HBBlokyPZq</link>
+            <guid>https://v.daum.net/v/HBBlokyPZq</guid>
+            <pubDate>Tue, 18 Jul 2023 08:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F18%2Fmaxmovie%2F20230718165008295qtbk.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[그리스 남신같은 비주얼, 배우 아닌 '감독'이라는 대반전 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/UezrmS0gGo</link>
+            <guid>https://v.daum.net/v/UezrmS0gGo</guid>
+            <pubDate>Tue, 18 Jul 2023 08:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F18%2Fmaxmovie%2F20230718163549270pnan.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[지하철에서 포착된 너무 예쁜 연예계 괴물신인 여배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/ybbPIS0gsT</link>
             <guid>https://v.daum.net/v/ybbPIS0gsT</guid>
@@ -1127,38 +1159,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2Ffanzeel%2F20230717165026139mzae.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[정우성 "평범하게 살고 싶었어요" (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/ZoVZHjS4YU</link>
-            <guid>https://v.daum.net/v/ZoVZHjS4YU</guid>
-            <pubDate>Mon, 17 Jul 2023 07:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2Fmaxmovie%2F20230717155459890idzk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[설레인 차박 데이트중인 국민 아이돌,여배우 부부 근황 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/Wt4Fe08C69</link>
-            <guid>https://v.daum.net/v/Wt4Fe08C69</guid>
-            <pubDate>Mon, 17 Jul 2023 06:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2Ffeelthemovie%2F20230717151007417jybc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 인기 여배우들을 모두 업고다닌 행운의 남자스타 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/9dFvNS0g2V</link>
-            <guid>https://v.daum.net/v/9dFvNS0g2V</guid>
-            <pubDate>Mon, 17 Jul 2023 05:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2Ffeelthemovie%2F20230717140421212wpdf.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[기차 파괴 장면 위해서 직접 기차 만든 영화 제작진 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/xE81O7xvxZ</link>
-            <guid>https://v.daum.net/v/xE81O7xvxZ</guid>
-            <pubDate>Mon, 17 Jul 2023 04:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2Ffanzeel%2F20230717125008727jpyg.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[<미션 임파서블 7> 영화_가장 눈에 띄는 이것. (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@bzF1/29</link>
             <guid>https://brunch.co.kr/@@bzF1/29</guid>
@@ -1181,6 +1181,30 @@
             <pubDate>Tue, 18 Jul 2023 02:58:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>서댐]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1YTv%2Fimage%2F9zqQhFMFOjqnT9bv4FEeBnUri4k.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[인디아나 존스, 인간을 말하다 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@f3zx/3</link>
+            <guid>https://brunch.co.kr/@@f3zx/3</guid>
+            <pubDate>Tue, 18 Jul 2023 08:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>푸른색시계]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Ff3zx%2Fimage%2FZ49cO05f4_XcfwMocE3B4hNJyto.PNG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[왜 가이드에 따라 이행하지 않았습니까? (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@1TrC/1470</link>
+            <guid>https://brunch.co.kr/@@1TrC/1470</guid>
+            <pubDate>Tue, 18 Jul 2023 08:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유수진]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1TrC%2Fimage%2Fmn3uE9HxkctI-M6P9emWlMZu0kM.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[애스터로이드 시티 단상 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@cDBo/158</link>
+            <guid>https://brunch.co.kr/@@cDBo/158</guid>
+            <pubDate>Tue, 18 Jul 2023 08:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Gozetto]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcDBo%2Fimage%2FPn2TP7nJQoauJYLbDBez_kyRfGw" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[시간의 색깔, 색깔의 향기 (다음 영화 ─ 브런치)]]></title>
@@ -1293,30 +1317,6 @@
             <pubDate>Mon, 17 Jul 2023 10:14:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>행복나무]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FczWP%2Fimage%2Fyr2cW4J9QBA8jKfYzs5_Rrv7bsA.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[나와 너를 살리는 길 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@7rpj/186</link>
-            <guid>https://brunch.co.kr/@@7rpj/186</guid>
-            <pubDate>Mon, 17 Jul 2023 10:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>달리아]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7rpj%2Fimage%2FH86qKnu1O9nKEczKo0-AvEY3nwE" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<애스터로이드 시티> 산으로 가고 있는 웨스 앤더슨 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@6dyt/1005</link>
-            <guid>https://brunch.co.kr/@@6dyt/1005</guid>
-            <pubDate>Mon, 17 Jul 2023 10:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FXgqclCY_UdIsSf2xTcz4f_YMO1g.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[노년의 사랑이 다가 아니다! (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@8kr3/49</link>
-            <guid>https://brunch.co.kr/@@8kr3/49</guid>
-            <pubDate>Mon, 17 Jul 2023 10:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>또또비됴]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8kr3%2Fimage%2FXZZqHRuFkcSCC-HOOjX8zoC89TA.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
