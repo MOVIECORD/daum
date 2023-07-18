@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 08:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 09:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 18 Jul 2023 08:16:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>푸른색시계]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Ff3zx%2Fimage%2FZ49cO05f4_XcfwMocE3B4hNJyto.PNG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[내 맘대로 하는 영화리뷰 <미션 임파서블 데드레코닝>]]></title>
+            <link>https://brunch.co.kr/@@dXtR/76</link>
+            <guid>https://brunch.co.kr/@@dXtR/76</guid>
+            <pubDate>Tue, 18 Jul 2023 09:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>동동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdXtR%2Fimage%2FwcmJkLXzKwnqTnW2Nh_9XeXT7Po" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[왜 가이드에 따라 이행하지 않았습니까?]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 17 Jul 2023 10:14:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>선이정]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FrsA%2Fimage%2FanFXNGvBtKPaC2HAGGU6Cv7ohFY.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽이 되기 위한 조건이 있을까?]]></title>
-            <link>https://brunch.co.kr/@@czWP/398</link>
-            <guid>https://brunch.co.kr/@@czWP/398</guid>
-            <pubDate>Mon, 17 Jul 2023 10:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>행복나무]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FczWP%2Fimage%2Fyr2cW4J9QBA8jKfYzs5_Rrv7bsA.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
