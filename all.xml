@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 01:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 02:58:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d3f11f50c660c43f4ba5c94ed3ef7a20c8c6cca" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[보 이즈 어프레이드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166324</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166324</guid>
-            <pubDate>Wed, 21 Jun 2023 00:58:16 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a768adbada87d8776772ebdbfa4b40a7113ee9d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[좋.댓.구 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161914</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161914</guid>
@@ -62,6 +54,14 @@
             <pubDate>Mon, 15 May 2023 02:05:44 GMT</pubDate>
             <content:encoded><![CDATA[23.05.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb05fec37909f3c46d8ada73ba1d2bc2f8868e869" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[보 이즈 어프레이드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166324</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166324</guid>
+            <pubDate>Wed, 21 Jun 2023 00:58:16 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a768adbada87d8776772ebdbfa4b40a7113ee9d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엔니오: 더 마에스트로 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -750,6 +750,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F21d41485dbcc4e80afc2572c6540966f1565103302414" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[오손 웰즈의 눈으로 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122499</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122499</guid>
+            <pubDate>Tue, 18 Jul 2023 02:57:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff415a5f1b2140ab23569f0d0adce55b9ff2fec24" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[텅 커터스: 어린이 극한 직업 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114660</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114660</guid>
+            <pubDate>Tue, 18 Jul 2023 02:57:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8d8832710c16c1bfc98a562dc5bad5bb2e7d76ec" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[레이건 쇼 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=111504</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=111504</guid>
+            <pubDate>Tue, 18 Jul 2023 02:57:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e848dbb1f1d8bc3b255454c67d63fe7887eeae0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[리처드 링클레이터: 꿈의 연대기 ([다음영화] 왓챠 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=107419</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=107419</guid>
@@ -764,6 +788,14 @@
             <pubDate>Sun, 02 Jul 2023 20:13:42 GMT</pubDate>
             <content:encoded><![CDATA[23.07.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fce7c764046e34d7c859538ad81a43a951541992605979" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[켄 로치의 삶과 영화 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=105351</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=105351</guid>
+            <pubDate>Tue, 18 Jul 2023 02:57:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6c6780934b756cdf7ab47e7d38bb2532cea9880c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아말 ([다음영화] 왓챠 ─ 종료예정)]]></title>
@@ -838,6 +870,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5d7d149fef8225c8cbf672ba352e7b42fec3e53b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[컷뱅크 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=80758</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=80758</guid>
+            <pubDate>Tue, 18 Jul 2023 02:57:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d676f962d7031090cdcb98bab0f2da8e71efda4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[엘사 앤 프레드 ([다음영화] 왓챠 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=86557</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=86557</guid>
@@ -870,12 +910,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03cf7c98301d4adc122f021e009a18b95128295c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[논란 속에 개봉 강행... 손실 '2천 600억' 최악의 성적 기록한 영화 (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[15년 전 앙드레김 패션쇼에 이마 맞댔던 톱스타들의 현재 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/GyZqXCtnfq</link>
+            <guid>https://v.daum.net/v/GyZqXCtnfq</guid>
+            <pubDate>Tue, 18 Jul 2023 02:57:56 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F18%2FBoiledMovie%2F20230718114016438zdox.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[함께있던 김혜수보다 너무 예뻤던 이 여성의 정체 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/uEe1j7xviv</link>
+            <guid>https://v.daum.net/v/uEe1j7xviv</guid>
+            <pubDate>Tue, 18 Jul 2023 02:57:56 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F18%2Ffeelthemovie%2F20230718113018581awpv.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[논란 속에 개봉 강행... 손실 '2천 600억' 폭망한 DC 플래시 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/x5Eb8xcpHU</link>
             <guid>https://v.daum.net/v/x5Eb8xcpHU</guid>
             <pubDate>Tue, 18 Jul 2023 01:20:43 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F18%2FBoiledMovie%2F20230718100653890mldk.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F18%2FBoiledMovie%2F20230718111929143irvw.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[공부는 못했는데 머리가 좋아서 명문대갔다는 이 분 (다음 영화 ─ 매거진)]]></title>
@@ -1014,20 +1070,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2Fmaxmovie%2F20230717092626924pehn.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[2년 전 윤여정 꼭 끌어안고 눈물 글썽이던 이 배우의 근황 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/HJlgrZKwiu</link>
-            <guid>https://v.daum.net/v/HJlgrZKwiu</guid>
-            <pubDate>Mon, 17 Jul 2023 01:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F18%2FBoiledMovie%2F20230718075021400yknw.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['국보급’ 배우들은 중도포기를, 감독은 처음으로 결혼을 생각했다 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/5oal8jS418</link>
-            <guid>https://v.daum.net/v/5oal8jS418</guid>
-            <pubDate>Sun, 16 Jul 2023 23:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2Fmaxmovie%2F20230717080523330qnpn.jpg" length="0" type="image//thumb/S510x290/"/>
+            <title><![CDATA[영화에 대한 이런저런 이야기 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@1YTv/590</link>
+            <guid>https://brunch.co.kr/@@1YTv/590</guid>
+            <pubDate>Tue, 18 Jul 2023 02:58:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>서댐]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1YTv%2Fimage%2F9zqQhFMFOjqnT9bv4FEeBnUri4k.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[지금 우리에게 필요한 건 여백 ㅡ 리틀 포레스트 (다음 영화 ─ 브런치)]]></title>
@@ -1180,14 +1228,6 @@
             <pubDate>Wed, 12 Jul 2023 02:54:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Editor M]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9KDM%2Fimage%2FvSXeoJ0fQSeKarinAjQt0F4Cj70.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘리틀 오대수’, 사이버 렉카로 생존하라 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@9lOS/296</link>
-            <guid>https://brunch.co.kr/@@9lOS/296</guid>
-            <pubDate>Wed, 12 Jul 2023 02:54:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2FOOT9M7Eqc42j6uz0xbkz7olIKlA.jfif" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
