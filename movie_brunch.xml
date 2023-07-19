@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 07:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 08:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 19 Jul 2023 03:43:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>genie]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FfqkX%2Fimage%2FzW36D2clHJEoQp7EUd8dTQOPu10.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<어바웃 타임>의 시간 여행]]></title>
+            <link>https://brunch.co.kr/@@1Z9U/7</link>
+            <guid>https://brunch.co.kr/@@1Z9U/7</guid>
+            <pubDate>Wed, 19 Jul 2023 08:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>성수산책]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1Z9U%2Fimage%2FM4qoVyUiAh4OFdYMsVf-JMxgUfE.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[씨네마 천국 단상]]></title>
@@ -54,6 +62,14 @@
             <pubDate>Wed, 19 Jul 2023 01:55:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>조영준]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FkOf%2Fimage%2FvupSM-SKQ-JN1QDeltSTTGR0Px0.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA['불광불급' 톰 크루즈]]></title>
+            <link>https://brunch.co.kr/@@9KDM/137</link>
+            <guid>https://brunch.co.kr/@@9KDM/137</guid>
+            <pubDate>Wed, 19 Jul 2023 08:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Editor M]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9KDM%2Fimage%2FZbJZjnaBNn_Ctk0AC0PEnOFnxZs.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<미션 임파서블 7> 영화_가장 눈에 띄는 이것.]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 18 Jul 2023 10:12:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정수]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5c1Q%2Fimage%2FIKS4A_L846DdSyXoNfEjL90gqKE.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 이 모습으로 너를 만나지 않아 다행이야]]></title>
-            <link>https://brunch.co.kr/@@6Ei1/6</link>
-            <guid>https://brunch.co.kr/@@6Ei1/6</guid>
-            <pubDate>Tue, 18 Jul 2023 10:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이지원]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6Ei1%2Fimage%2FonG9MQDKFiuj7ASVQQ8BdwX1W-U.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이 소재들을 감당하기엔 조금 얕은 듯 한데]]></title>
-            <link>https://brunch.co.kr/@@5fpi/513</link>
-            <guid>https://brunch.co.kr/@@5fpi/513</guid>
-            <pubDate>Tue, 18 Jul 2023 10:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2F2ZtO4LDalilB60NAkvd_j2kAm8I.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
