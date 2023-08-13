@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 14:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 15:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8b8bcc55c7ec16e9156e07904f5e6670dd9a8776" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[런닝맨: 리벤져스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171166</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171166</guid>
-            <pubDate>Tue, 25 Jul 2023 07:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6f2a9a72ebc6f729c1a47458990f3e919e1a49b9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[바비 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114335</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114335</guid>
             <pubDate>Mon, 31 Jul 2023 18:13:14 GMT</pubDate>
             <content:encoded><![CDATA[23.07.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55146a175e39277c8391e9f42bddf1ac478d94ff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[런닝맨: 리벤져스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171166</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171166</guid>
+            <pubDate>Tue, 25 Jul 2023 07:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6f2a9a72ebc6f729c1a47458990f3e919e1a49b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[몬스터 패밀리 2 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -326,150 +326,6 @@
             <pubDate>Wed, 09 Aug 2023 00:53:12 GMT</pubDate>
             <content:encoded><![CDATA[23.08.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F759616384cefb778402b8f782d7715e4d81574fb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[타짜: 원 아이드 잭 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=122593</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=122593</guid>
-            <pubDate>Sun, 30 Jul 2023 20:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc718986ee7284fe6899244115cdbd0211566460622237" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[항거:유관순 이야기 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=128434</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=128434</guid>
-            <pubDate>Sun, 30 Jul 2023 20:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e258b5eade4405801ebb4ace3b566d1549510833741" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[82년생 김지영 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=124806</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=124806</guid>
-            <pubDate>Thu, 27 Jul 2023 04:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcc7165f75bb94140a95d977881cebc191571895256827" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[천문: 하늘에 묻는다 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=122361</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=122361</guid>
-            <pubDate>Sun, 30 Jul 2023 20:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a21cf94af814f79b1294da67eec75a51577753974161" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[사자 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=119238</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=119238</guid>
-            <pubDate>Sun, 30 Jul 2023 20:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7edca4ff46854f099d33b6a804ade7941561426442085" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[증인 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=121408</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=121408</guid>
-            <pubDate>Sun, 30 Jul 2023 20:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3e6591d23bbc4f8986f4dce958afac4d1551150359176" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[말모이 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=118907</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=118907</guid>
-            <pubDate>Sat, 29 Jul 2023 20:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02efc2364d924115880baf78fd6e9d4a1545286152910" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[히트맨 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=131909</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=131909</guid>
-            <pubDate>Sun, 30 Jul 2023 20:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F23837d99576d43ba8e594f91497fea981579656331276" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[해적 : 바다로 간 산적 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=79252</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=79252</guid>
-            <pubDate>Sun, 30 Jul 2023 20:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2245CE4C53A8E30511" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[시라노;연애조작단 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=55396</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=55396</guid>
-            <pubDate>Sun, 30 Jul 2023 20:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F13762C1F4C88A5340C" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[터미네이터 제니시스 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=62713</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=62713</guid>
-            <pubDate>Sun, 30 Jul 2023 20:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4347b295e9d0816e8dfb3510779511caf2c3ea2a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[기술자들 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=82891</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=82891</guid>
-            <pubDate>Fri, 28 Jul 2023 20:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2406044A547C2B271E" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[역린 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=78861</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=78861</guid>
-            <pubDate>Sun, 30 Jul 2023 20:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2673BF4A533E545405" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[피끓는 청춘 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=78009</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=78009</guid>
-            <pubDate>Sun, 30 Jul 2023 20:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F223E425052D358840B" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[특종: 량첸살인기 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=92106</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=92106</guid>
-            <pubDate>Sun, 30 Jul 2023 20:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F329a47eed93f6f9ed20ce12aa7ea074c3581ea00" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[심야의 FM ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=55448</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=55448</guid>
-            <pubDate>Sun, 30 Jul 2023 20:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1254A0164C909EF844" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[협녀, 칼의 기억 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=50965</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=50965</guid>
-            <pubDate>Sun, 30 Jul 2023 20:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faed92e63285635e30451cdf64dd3f904e33129f2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[마음이2 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=55196</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=55196</guid>
-            <pubDate>Fri, 28 Jul 2023 20:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F120E3E184C17EF8926" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[베스트셀러 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -798,14 +654,6 @@
             <pubDate>Sat, 12 Aug 2023 21:08:11 GMT</pubDate>
             <content:encoded><![CDATA[23.08.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d09c2f81bfb2f2ff3f38a34dfedab996d501f14" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[미션 임파서블 2 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=908</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=908</guid>
-            <pubDate>Tue, 01 Aug 2023 04:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F146F1B10ABA139E0CA" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[몬테 카를로 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -1392,6 +1240,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F925a7a240db917bbc9bde1c42862572caf19825f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[보자마자 눈 못 뗄 수준인 한국 '영화감독'의 비주얼 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/2gfVzXfORJ</link>
+            <guid>https://v.daum.net/v/2gfVzXfORJ</guid>
+            <pubDate>Sun, 13 Aug 2023 15:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F14%2Fmaxmovie%2F20230814000030832xkqq.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[6년 전 대한민국을 들썩였던 '아이돌'이 전한 '깜짝' 소식 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/BEHb23xvno</link>
+            <guid>https://v.daum.net/v/BEHb23xvno</guid>
+            <pubDate>Sun, 13 Aug 2023 15:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F14%2Fmaxmovie%2F20230814000020667tbaq.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[인류 역사상 세상에서 가장 무서운 이 공포영화 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/piw59EZdZa</link>
             <guid>https://v.daum.net/v/piw59EZdZa</guid>
@@ -1413,7 +1277,7 @@
             <guid>https://v.daum.net/v/p7CagcHRRJ</guid>
             <pubDate>Sun, 13 Aug 2023 08:14:00 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F13%2FBoiledMovie%2F20230813162010475nukv.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F13%2FBoiledMovie%2F20230813234541382yteh.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[2:8 가르마에 장발, 은갈치 정장..진짜 건달로 오해 받았지만 지금은 (다음 영화 ─ 매거진)]]></title>
@@ -1534,22 +1398,6 @@
             <pubDate>Fri, 11 Aug 2023 22:10:02 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F12%2Fmaxmovie%2F20230812070018599zocy.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[46세지만, 20대 같은 '김희선'이 밝힌 '미모' 비결 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/F1k4INWQQ8</link>
-            <guid>https://v.daum.net/v/F1k4INWQQ8</guid>
-            <pubDate>Fri, 11 Aug 2023 15:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F12%2Fmaxmovie%2F20230812000028412lsas.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼 후 남편이 미웠었다는 시대의 아이콘 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/Z319e9atDF</link>
-            <guid>https://v.daum.net/v/Z319e9atDF</guid>
-            <pubDate>Fri, 11 Aug 2023 09:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F11%2FBoiledMovie%2F20230811181007268bgav.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[사람이 사람을 구원할 수 있을까 (다음 영화 ─ 브런치)]]></title>
