@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 07:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 08:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Thu, 17 Aug 2023 07:10:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>하성태의 시네마틱]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1n7K%2Fimage%2FzPPy3mqdLc1BMauWxV23IvPhB5Q.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 이야기 <미션 임파서블:데드 레코닝 Part1>]]></title>
+            <link>https://brunch.co.kr/@@e1mr/67</link>
+            <guid>https://brunch.co.kr/@@e1mr/67</guid>
+            <pubDate>Thu, 17 Aug 2023 08:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>다시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fe1mr%2Fimage%2F7Uz_3FJMSBXIWe5Tr3LsM8VQsIQ.jfif" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[(크리스토퍼 놀란의) 오펜하이머의 순교]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Aug 2023 07:10:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Gozetto]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcDBo%2Fimage%2FYoTT_0rFEPE9ljQ5l5OPAc4Nr2k" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[강한 부정은 강한 긍정 [콘크리트 유토피아]]]></title>
-            <link>https://brunch.co.kr/@@eR2z/14</link>
-            <guid>https://brunch.co.kr/@@eR2z/14</guid>
-            <pubDate>Wed, 16 Aug 2023 08:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>poppy]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeR2z%2Fimage%2FHUefDNQN8QWOp_vJD1OD0ivC5qw" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
