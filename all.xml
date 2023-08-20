@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 14:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 15:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb65c5c7161099ca353e93f1e48115c7ef05dcaa8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[바비 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114335</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114335</guid>
+            <pubDate>Mon, 31 Jul 2023 18:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55146a175e39277c8391e9f42bddf1ac478d94ff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[지옥만세 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164401</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164401</guid>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 02 Aug 2023 08:12:51 GMT</pubDate>
             <content:encoded><![CDATA[23.08.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe436c21d5a45cba9cbd7d4e4cadf1f50b335c5b3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[바비 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=114335</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=114335</guid>
-            <pubDate>Mon, 31 Jul 2023 18:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55146a175e39277c8391e9f42bddf1ac478d94ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 문 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -566,14 +566,6 @@
             <pubDate>Fri, 18 Aug 2023 20:10:25 GMT</pubDate>
             <content:encoded><![CDATA[23.09.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00ed68c582134c4b4e17a09d4c545336887019b3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[65 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166370</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166370</guid>
-            <pubDate>Tue, 08 Aug 2023 03:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F45d2757689eab926154349e73e0f68a9e273ed68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[TAR 타르 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
