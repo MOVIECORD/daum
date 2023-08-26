@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 08:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 09:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7bf1d439a354e26f6585b8b9d2f60438dd82127b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[명탐정 코난: 흑철의 어영 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166691</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166691</guid>
-            <pubDate>Mon, 31 Jul 2023 18:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84703a66a0dc79c4b28434564c684a572a838946" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[비공식작전 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127876</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127876</guid>
             <pubDate>Wed, 02 Aug 2023 08:12:51 GMT</pubDate>
             <content:encoded><![CDATA[23.08.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe436c21d5a45cba9cbd7d4e4cadf1f50b335c5b3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[명탐정 코난: 흑철의 어영 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166691</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166691</guid>
+            <pubDate>Mon, 31 Jul 2023 18:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84703a66a0dc79c4b28434564c684a572a838946" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[치치치 치킨의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1022,6 +1022,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4c4e75190b9f015f9a77b4dec5d98b9a21635f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[저화질에도 4400만 뷰 기록한 전설의 한국영화 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/YbLxVH0ghj</link>
+            <guid>https://v.daum.net/v/YbLxVH0ghj</guid>
+            <pubDate>Sat, 26 Aug 2023 09:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F26%2FBoiledMovie%2F20230826174007505ochx.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[내 가족을 죽인 사람이 내 앞에 나타나 용서를 구한다면? (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/FcaL7lHRlH</link>
+            <guid>https://v.daum.net/v/FcaL7lHRlH</guid>
+            <pubDate>Sat, 26 Aug 2023 09:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F26%2Ffeelthemovie%2F20230826172006987gtfz.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA["저는 이 아파트가 선택받았다, 그렇게 생각합니다" (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/BYXwv79rIS</link>
             <guid>https://v.daum.net/v/BYXwv79rIS</guid>
@@ -1164,22 +1180,6 @@
             <pubDate>Thu, 24 Aug 2023 23:10:53 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F25%2Ffanzeel%2F20230825080024775xjma.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[아내, 아들과 행복한 '송중기'가 전한 반가운 소식! (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/HjbLbW5JtK</link>
-            <guid>https://v.daum.net/v/HjbLbW5JtK</guid>
-            <pubDate>Thu, 24 Aug 2023 23:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F25%2Fmaxmovie%2F20230825080024956vsdl.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[중국으로 향한 '해운대' 쓰나미, '1000만' 감독은 울고 말았다 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/yRs3aBfOP5</link>
-            <guid>https://v.daum.net/v/yRs3aBfOP5</guid>
-            <pubDate>Thu, 24 Aug 2023 23:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F25%2Fmaxmovie%2F20230825080321726lfiw.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<달짝지근해> 올드함과 익숙함으로 똘똘 뭉친 로코 (다음 영화 ─ 브런치)]]></title>
