@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 06:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 07:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff11f62b886cdd3870899570dd2ff44c381dcfd3f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[일주일간 친구]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162686</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162686</guid>
+            <pubDate>Sat, 26 Aug 2023 04:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6a96248849cfe84c3e3d4544cc30c8c2f817966" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[위대한 개츠비]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=49310</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=49310</guid>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 29 Aug 2023 09:10:24 GMT</pubDate>
             <content:encoded><![CDATA[23.09.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47fc137e1f58428187c9a4d85e351342d5183455" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[일주일간 친구]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162686</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162686</guid>
-            <pubDate>Sat, 26 Aug 2023 04:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6a96248849cfe84c3e3d4544cc30c8c2f817966" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[앙드레 류: 러브 이즈 올 어라운드]]></title>
