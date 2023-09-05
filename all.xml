@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 10:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 11:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12f968c33271a1e5ee5eb067fee52493af0f8ffd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[강다니엘: 마이 퍼레이드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172641</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172641</guid>
-            <pubDate>Fri, 01 Sep 2023 16:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecf21de494d4ec0b754c69deab6c7005d7c72fa3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[명탐정 코난: 흑철의 어영 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166691</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166691</guid>
@@ -134,6 +126,14 @@
             <pubDate>Mon, 04 Sep 2023 04:12:21 GMT</pubDate>
             <content:encoded><![CDATA[23.08.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff12979b7216048ee513b5d4d37896b98ea53f3c0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[강다니엘: 마이 퍼레이드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172641</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172641</guid>
+            <pubDate>Fri, 01 Sep 2023 16:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecf21de494d4ec0b754c69deab6c7005d7c72fa3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[수라 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1208,6 +1208,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01eb232516f06ffcd9f56578629ab7690f40ff40" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[또 한 번 1970년대 향수 제대로 불러일으킬 이 영화 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/0okjl4eW9q</link>
+            <guid>https://v.daum.net/v/0okjl4eW9q</guid>
+            <pubDate>Tue, 05 Sep 2023 11:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F05%2FBoiledMovie%2F20230905192100932yrkz.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[주인공 친구 역할하다가 최근 대세반열 오른 배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/YRQyLncpeg</link>
             <guid>https://v.daum.net/v/YRQyLncpeg</guid>
@@ -1358,14 +1366,6 @@
             <pubDate>Mon, 04 Sep 2023 09:11:44 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F04%2Fmaxmovie%2F20230904175000691hzvi.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[생모가 중국인인 줄 알았는데, 알고 보니 한국인? (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/4mjvnSXewI</link>
-            <guid>https://v.daum.net/v/4mjvnSXewI</guid>
-            <pubDate>Mon, 04 Sep 2023 08:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F04%2Ffanzeel%2F20230904171026898ovkw.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<스파이 코드명 포춘>가이 리치에게 기대치 않은 무언가 (다음 영화 ─ 브런치)]]></title>
