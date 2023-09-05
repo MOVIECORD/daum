@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 01:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 02:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 05 Sep 2023 01:42:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Kino DAY]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FqJ7NchpxcZtv0f_Urxt9evKUYV8.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[한국영화 'BIG4', 놀자판 아니면 엄근진]]></title>
+            <link>https://brunch.co.kr/@@e5Rv/31</link>
+            <guid>https://brunch.co.kr/@@e5Rv/31</guid>
+            <pubDate>Tue, 05 Sep 2023 02:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>cks공칠공삼]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fe5Rv%2Fimage%2FXsDs8UpIrgmMSOOPI7ZRpELUSdU.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[다시 태어나도 풀 수 없었던 '나'라는 숙제와 원죄]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Aug 2023 08:13:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>다시]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fe1mr%2Fimage%2F7Uz_3FJMSBXIWe5Tr3LsM8VQsIQ.jfif" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[(크리스토퍼 놀란의) 오펜하이머의 순교]]></title>
-            <link>https://brunch.co.kr/@@az11/55</link>
-            <guid>https://brunch.co.kr/@@az11/55</guid>
-            <pubDate>Thu, 17 Aug 2023 03:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Ennui]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Faz11%2Fimage%2F7KmZwVBTtuf1KYNl_E2mBaAyHKQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
