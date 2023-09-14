@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 05:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 06:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 14 Sep 2023 04:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>윤병옥]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdIfq%2Fimage%2FyH5XZzlA0jaHcndILZ1noyjJYS4.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[깨달음의 방향]]></title>
+            <link>https://brunch.co.kr/@@41oI/104</link>
+            <guid>https://brunch.co.kr/@@41oI/104</guid>
+            <pubDate>Thu, 14 Sep 2023 06:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>궁금한 민지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F41oI%2Fimage%2FSVHD9wd0H6Iq4q2pz7L4B9X0KjE.jfif" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<어파이어> 젊은이들이여 케세라세라!]]></title>
+            <link>https://brunch.co.kr/@@6dyt/1032</link>
+            <guid>https://brunch.co.kr/@@6dyt/1032</guid>
+            <pubDate>Thu, 14 Sep 2023 06:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FCE1Fnbl1ubacm6SnDpbwUoNx3gQ.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[고단한 삶을 달래주는 영화]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 12 Sep 2023 07:10:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2F-RXHoz6tsxvRGWnOJGbdDrWBkoc.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[공포인 척하는 멜로 영화 <잠>]]></title>
-            <link>https://brunch.co.kr/@@dJxx/39</link>
-            <guid>https://brunch.co.kr/@@dJxx/39</guid>
-            <pubDate>Tue, 12 Sep 2023 07:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>무언가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdJxx%2Fimage%2FcETtxK_1rZ-9I4XP0UGBlLW__GA.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[영화 리뷰] 콘크리트 유토피아]]></title>
-            <link>https://brunch.co.kr/@@eDNQ/47</link>
-            <guid>https://brunch.co.kr/@@eDNQ/47</guid>
-            <pubDate>Tue, 12 Sep 2023 07:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>forever young]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeDNQ%2Fimage%2FK_k-WMg4N5f9YRytXNN-qhpwsGc.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
