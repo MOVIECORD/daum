@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 10:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 11:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Thu, 14 Sep 2023 10:13:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>찬뷰리]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FfFWR%2Fimage%2F4cGuWsltBdeYJQNLhY0mxXftK8c.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<잠>, 열린 결말이 배가시킨 미스터리함]]></title>
+            <link>https://brunch.co.kr/@@aqBc/13</link>
+            <guid>https://brunch.co.kr/@@aqBc/13</guid>
+            <pubDate>Thu, 14 Sep 2023 11:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>권송곳]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaqBc%2Fimage%2Fkwo9jvMzHEutLYJXjpO3W1_m42w.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<잠> 스릴러, 오컬트, 미스터리로 포장한 부부싸움]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 13 Sep 2023 02:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정미숙]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FfJvK%2Fimage%2FOW6YK9PtgVGt3Dd9DwY2SBKa8oE.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[로버트는 얼마나 좋았을까]]></title>
-            <link>https://brunch.co.kr/@@b9Yf/30</link>
-            <guid>https://brunch.co.kr/@@b9Yf/30</guid>
-            <pubDate>Wed, 13 Sep 2023 08:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박단]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fb9Yf%2Fimage%2F36Jwj58oc1XEqGX5cEQ0dZ-YzmI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
