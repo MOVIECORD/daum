@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 02:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 03:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,13 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c6a2e2c59879d8698822e70bdbec5fa37435a5c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아이돌 마스터 밀리언 라이브! (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173771</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173771</guid>
-            <pubDate>Fri, 15 Sep 2023 00:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.21]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[폭로 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159317</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159317</guid>
@@ -149,6 +142,13 @@
             <pubDate>Sat, 16 Sep 2023 01:41:13 GMT</pubDate>
             <content:encoded><![CDATA[23.09.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F92e07efb324c919b61c48b8da2ac933f3f4d98f9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이돌 마스터 밀리언 라이브! (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173771</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173771</guid>
+            <pubDate>Fri, 15 Sep 2023 00:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.21]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[노크: 더 하우스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -271,6 +271,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feac35e7186b6f93d3a55d15c859c6e026295eeb5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[피닉스 미션 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173053</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173053</guid>
+            <pubDate>Fri, 22 Sep 2023 03:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F487602713e1c91947acf8723e2f999f670df7083" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[오르소 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171791</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171791</guid>
@@ -285,6 +293,14 @@
             <pubDate>Tue, 19 Sep 2023 23:10:12 GMT</pubDate>
             <content:encoded><![CDATA[23.10.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c85f68d6deb0934269d7bd08b6fb556e5f6e7cb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[기억해, 우리가 사랑한 시간 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168247</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168247</guid>
+            <pubDate>Fri, 22 Sep 2023 03:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fff58fa9377dddea129f5e35eab51e2c02bdcadee" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[에브리씽 에브리웨어 올 앳 원스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -309,22 +325,6 @@
             <pubDate>Thu, 21 Sep 2023 00:43:19 GMT</pubDate>
             <content:encoded><![CDATA[23.10.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fea2332de93e627a57dbe4e4e77e71049f90407fe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[은밀한 판타지걸 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173772</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173772</guid>
-            <pubDate>Thu, 21 Sep 2023 23:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fef422f19bc2bfe88bb36751fa63e392f57a399e0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[80일간의 세계일주 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152450</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152450</guid>
-            <pubDate>Fri, 22 Sep 2023 00:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec2750faee2ec13687cec0395af8359ae5f485e3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[미라클 프롬 헤븐 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1063,6 +1063,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F14110210A90DA9F2AA" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[40대 실화? "잘생겼다"는 말에 강동원이 보인 '반응' (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/BnAGxHmBqK</link>
+            <guid>https://v.daum.net/v/BnAGxHmBqK</guid>
+            <pubDate>Fri, 22 Sep 2023 03:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2Fmaxmovie%2F20230922115005760hspm.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[아빠의 헤어스타일과 외모를 닮았다는 톱스타의 두아들 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/8ziDkLfOmD</link>
+            <guid>https://v.daum.net/v/8ziDkLfOmD</guid>
+            <pubDate>Fri, 22 Sep 2023 03:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2Ffeelthemovie%2F20230922113004814gydv.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[19년전 단역배우가 현재 국민 톱스타 아내이자 스타배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/fi978BXeOL</link>
             <guid>https://v.daum.net/v/fi978BXeOL</guid>
@@ -1205,22 +1221,6 @@
             <pubDate>Thu, 21 Sep 2023 03:12:03 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F21%2Ffeelthemovie%2F20230921113753024cwbo.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 여배우들중 가장 강하다고 알려진 이 여배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/Z7j1aLfOmo</link>
-            <guid>https://v.daum.net/v/Z7j1aLfOmo</guid>
-            <pubDate>Thu, 21 Sep 2023 01:44:13 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F21%2Ffeelthemovie%2F20230921101019080pyrh.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[감독이 보자마자 반해서 캐스팅했다는 초특급 배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/3EXKDwJGfL</link>
-            <guid>https://v.daum.net/v/3EXKDwJGfL</guid>
-            <pubDate>Fri, 22 Sep 2023 02:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F21%2Fmaxmovie%2F20230921100542311bzjk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA['한국형' 수식어를 재정의하다 (다음 영화 ─ 브런치)]]></title>
