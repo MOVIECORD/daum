@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 05:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 06:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feac35e7186b6f93d3a55d15c859c6e026295eeb5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오르소]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171791</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171791</guid>
-            <pubDate>Tue, 19 Sep 2023 23:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73e91f9da71f30321ed822467763b6ed231092a2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[피닉스 미션]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=173053</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=173053</guid>
@@ -128,12 +120,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F487602713e1c91947acf8723e2f999f670df7083" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[화사한 그녀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156397</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156397</guid>
+            <title><![CDATA[오르소]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171791</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171791</guid>
             <pubDate>Tue, 19 Sep 2023 23:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c85f68d6deb0934269d7bd08b6fb556e5f6e7cb" length="0" type="image//thumb/C408x596/"/>
+            <content:encoded><![CDATA[23.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73e91f9da71f30321ed822467763b6ed231092a2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사나: 저주의 아이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171127</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171127</guid>
+            <pubDate>Fri, 22 Sep 2023 06:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3853cdbdba765f688f8c6efcc48e4d1bcf79a48a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[기억해, 우리가 사랑한 시간]]></title>
@@ -142,6 +142,14 @@
             <pubDate>Fri, 22 Sep 2023 03:11:02 GMT</pubDate>
             <content:encoded><![CDATA[23.10.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fff58fa9377dddea129f5e35eab51e2c02bdcadee" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[화사한 그녀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156397</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156397</guid>
+            <pubDate>Tue, 19 Sep 2023 23:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c85f68d6deb0934269d7bd08b6fb556e5f6e7cb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[에브리씽 에브리웨어 올 앳 원스]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 20 Sep 2023 11:09:03 GMT</pubDate>
             <content:encoded><![CDATA[23.10.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18197dc684b9bfad024035fcff3c219a0c08cf6d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 하루]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169772</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169772</guid>
-            <pubDate>Thu, 21 Sep 2023 00:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fea2332de93e627a57dbe4e4e77e71049f90407fe" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
