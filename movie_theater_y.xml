@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 14:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 15:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd8441c0eeb21cb4f1484a08fd9385ab555b65b03" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[엘리멘탈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163777</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163777</guid>
+            <pubDate>Mon, 25 Sep 2023 11:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4ce2c6ae33edb0ef32d5614b367f85c10a7316c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[여덟 개의 산]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160390</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160390</guid>
@@ -125,14 +133,6 @@
             <pubDate>Sat, 16 Sep 2023 01:41:13 GMT</pubDate>
             <content:encoded><![CDATA[23.08.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fce3dda655bc0eb73ffd6e82ba32e1bc6322b173a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리멘탈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163777</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163777</guid>
-            <pubDate>Mon, 25 Sep 2023 11:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4ce2c6ae33edb0ef32d5614b367f85c10a7316c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[닌자터틀: 뮤턴트 대소동]]></title>
