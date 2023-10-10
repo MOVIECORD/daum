@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 00:44:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 01:45:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,13 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F393994f72ded6d452b540a837875c6a24764e0d2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아이돌 마스터 밀리언 라이브!]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173771</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173771</guid>
-            <pubDate>Sun, 01 Oct 2023 12:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.21]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[당나귀 EO]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160386</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160386</guid>
@@ -157,6 +150,13 @@
             <pubDate>Mon, 09 Oct 2023 10:11:54 GMT</pubDate>
             <content:encoded><![CDATA[23.09.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0e25b5f45fb6a43b1a279462188ae8978d8d813b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이돌 마스터 밀리언 라이브!]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173771</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173771</guid>
+            <pubDate>Sun, 01 Oct 2023 12:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.21]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[여덟 개의 산]]></title>
