@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 22:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 23:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6c1f95fef76b7fe79ae4860b8ae2815cf2ce0581" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오펜하이머 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158260</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158260</guid>
-            <pubDate>Thu, 28 Sep 2023 09:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[람빅, 시간과 열정의 맥주 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=173972</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=173972</guid>
@@ -142,6 +134,14 @@
             <pubDate>Thu, 28 Sep 2023 09:10:30 GMT</pubDate>
             <content:encoded><![CDATA[23.09.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd54da6661885c2a002073c49da5e9f527cad165e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오펜하이머 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158260</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158260</guid>
+            <pubDate>Thu, 28 Sep 2023 09:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[여름을 향한 터널, 이별의 출구 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -759,6 +759,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F231CC3505423695124" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[승승장구중인 엄정화가 이번에도 대성공하나 했는데… (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/qmiTm0RyEm</link>
+            <guid>https://v.daum.net/v/qmiTm0RyEm</guid>
+            <pubDate>Wed, 11 Oct 2023 23:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F12%2Ffeelthemovie%2F20231012081007554oysa.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[최근 미국에서 가장 핫한 이 작품, 어떤 이야기인지 보니... (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/5CQrffcp2w</link>
             <guid>https://v.daum.net/v/5CQrffcp2w</guid>
@@ -909,14 +917,6 @@
             <pubDate>Tue, 10 Oct 2023 20:11:10 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fmaxmovie%2F20231011050013210bxli.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[현재 커뮤니티에 난리난 역대급 한국노부부의 정체 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/5M1a5oT685</link>
-            <guid>https://v.daum.net/v/5M1a5oT685</guid>
-            <pubDate>Tue, 10 Oct 2023 09:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fmaxmovie%2F20231010172007609eujv.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[오랜 시간 내가 봤다고 착각한 영화 (다음 영화 ─ 브런치)]]></title>
