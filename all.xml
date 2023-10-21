@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 20:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 21:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3853cdbdba765f688f8c6efcc48e4d1bcf79a48a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[믿을 수 있는 사람 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169102</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169102</guid>
-            <pubDate>Wed, 11 Oct 2023 04:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ff467ef1a7b13c747d8748d0a0b84921d1320b6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 아이돌리쉬 세븐: 라이브 4비트 비욘드 더 피리어드 - 데이 2 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174414</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174414</guid>
             <pubDate>Thu, 19 Oct 2023 00:43:43 GMT</pubDate>
             <content:encoded><![CDATA[23.10.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73721613b87046de026b07e14996847f932f6f84" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[믿을 수 있는 사람 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169102</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169102</guid>
+            <pubDate>Wed, 11 Oct 2023 04:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ff467ef1a7b13c747d8748d0a0b84921d1320b6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[에브리씽 에브리웨어 올 앳 원스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1231,6 +1231,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F94dce62243394a2d9d15d93e0e13da741555377109684" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[론 서바이버 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=69606</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=69606</guid>
+            <pubDate>Tue, 10 Oct 2023 06:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2338C24A5338E00619" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[개봉 코앞 日애니메이션에 20대여성 열광한 이유, 결국... (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/90o4c1kUjZ</link>
+            <guid>https://v.daum.net/v/90o4c1kUjZ</guid>
+            <pubDate>Sat, 21 Oct 2023 21:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F22%2Fmaxmovie%2F20231022060004694wizf.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[작품에서 함께만난 '부자' 여친과 아이낳고 잘살고 있는 배우 근황 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/XDuoYfYxCo</link>
             <guid>https://v.daum.net/v/XDuoYfYxCo</guid>
@@ -1381,14 +1397,6 @@
             <pubDate>Fri, 20 Oct 2023 01:45:40 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F20%2Ffeelthemovie%2F20231020103002179oqqn.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국에서 제일 예쁘다고 사랑스럽다는 백반집 사장님의 정체 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/5IhAaPZdiI</link>
-            <guid>https://v.daum.net/v/5IhAaPZdiI</guid>
-            <pubDate>Fri, 20 Oct 2023 03:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F20%2FBoiledMovie%2F20231020102313696aiex.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[어느 '루저' 이야기: 킴스 비디오 (다음 영화 ─ 브런치)]]></title>
