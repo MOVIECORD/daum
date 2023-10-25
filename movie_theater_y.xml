@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 22:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 23:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 17 Oct 2023 23:09:55 GMT</pubDate>
             <content:encoded><![CDATA[23.10.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0965d6d350f199711ffcc30e590f99fc6181dab8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[빌리와 용감한 녀석들: 황금 달걀 구조대]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168329</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168329</guid>
+            <pubDate>Wed, 25 Oct 2023 23:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad9c89a6ef315814101ab46c3d2bd330da6e9919" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[두 사람을 위한 식탁]]></title>
@@ -158,13 +166,6 @@
             <pubDate>Wed, 25 Oct 2023 15:10:35 GMT</pubDate>
             <content:encoded><![CDATA[23.10.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24f492fb9509257fe2b1fdde199df8b2755abaaf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌 마스터 밀리언 라이브!]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173771</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173771</guid>
-            <pubDate>Wed, 25 Oct 2023 08:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.21]]></content:encoded>
         </item>
     </channel>
 </rss>
