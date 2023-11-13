@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 02:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 03:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 13 Nov 2023 02:23:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정지은 Jean]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F49qz%2Fimage%2FXihDrm682adJcDq9oTDx3HOLOIQ.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[고독정식보단 시끌시끌 투게더지]]></title>
+            <link>https://brunch.co.kr/@@5jTv/276</link>
+            <guid>https://brunch.co.kr/@@5jTv/276</guid>
+            <pubDate>Mon, 13 Nov 2023 03:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2F131OohmfHnTidOwfNwG9x5ak3B4.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[의심하는 우리를 믿는다]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 30 Oct 2023 05:11:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2Frg5BBhJobZ2HZMzv0FEjOZe7e9o.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[상실 앞에 선 우리의 미숙한 사랑]]></title>
-            <link>https://brunch.co.kr/@@f02C/29</link>
-            <guid>https://brunch.co.kr/@@f02C/29</guid>
-            <pubDate>Mon, 30 Oct 2023 05:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>마텔]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Ff02C%2Fimage%2FvvWNXXAKwDUIwKYtjkGWSqGhklQ.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
