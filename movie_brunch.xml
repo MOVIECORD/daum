@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 04:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 05:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그렇게 살아가는 것]]></title>
+            <link>https://brunch.co.kr/@@fbt/23</link>
+            <guid>https://brunch.co.kr/@@fbt/23</guid>
+            <pubDate>Tue, 14 Nov 2023 05:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>글멋지기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Ffbt%2Fimage%2FHMvPD-roM-COuo2Tc7_qNGLwDDM.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[이 영화에 괴인은 없다]]></title>
             <link>https://brunch.co.kr/@@1ej3/104</link>
@@ -14,6 +22,14 @@
             <pubDate>Tue, 14 Nov 2023 04:12:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>방자까]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ej3%2Fimage%2FgfVatZZA-Hj4m0s5oLkrHrILuDs.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<일층 이층 삼층>, 아름다워 무너지는 삶이라는 게]]></title>
+            <link>https://brunch.co.kr/@@68xP/125</link>
+            <guid>https://brunch.co.kr/@@68xP/125</guid>
+            <pubDate>Tue, 14 Nov 2023 05:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F68xP%2Fimage%2FUngF74Ij_Uj-KTgVfdAzAIwowZM.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<클로즈 유어 아이즈>, 영화의 죽음 이후 태어났다면]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 03 Nov 2023 05:10:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>또또비됴]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8kr3%2Fimage%2FuBMb25wQZGpbG5Fp4qQ32yAaBPg.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<페인 허슬러> 잘하는 것과 하고 싶은 게 다를 때]]></title>
-            <link>https://brunch.co.kr/@@5XLU/637</link>
-            <guid>https://brunch.co.kr/@@5XLU/637</guid>
-            <pubDate>Wed, 01 Nov 2023 03:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Kino DAY]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FDCGKnBuEboSvMUwlUjG54fc9nEk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[거짓말쟁이 노감독의 진실된 회고록]]></title>
-            <link>https://brunch.co.kr/@@8kr3/80</link>
-            <guid>https://brunch.co.kr/@@8kr3/80</guid>
-            <pubDate>Wed, 01 Nov 2023 03:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>또또비됴]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8kr3%2Fimage%2FpDLR-b-jHaDXZwKjizJKyr2bZbQ.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
