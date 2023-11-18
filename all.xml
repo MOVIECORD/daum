@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 14:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 15:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdcdb461950bec47f046750beb1f07fa6bb5b8274" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[테일러 스위프트 에라스 투어 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174406</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174406</guid>
-            <pubDate>Wed, 01 Nov 2023 01:52:55 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa92b521216c7cf6d9d714d798d47bfbb46e5d806" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[어른 김장하 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174131</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174131</guid>
@@ -126,6 +118,14 @@
             <pubDate>Thu, 16 Nov 2023 03:11:08 GMT</pubDate>
             <content:encoded><![CDATA[23.10.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0965d6d350f199711ffcc30e590f99fc6181dab8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[테일러 스위프트 에라스 투어 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174406</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174406</guid>
+            <pubDate>Wed, 01 Nov 2023 01:52:55 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa92b521216c7cf6d9d714d798d47bfbb46e5d806" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[만분의 일초 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -550,14 +550,6 @@
             <pubDate>Sun, 05 Nov 2023 21:09:19 GMT</pubDate>
             <content:encoded><![CDATA[23.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2315514652B890CE23" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[로스트 시티 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156501</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156501</guid>
-            <pubDate>Fri, 03 Nov 2023 04:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab6e52ac5c96d1ce8f6bacc44b1926cf9a190952" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나는 부정한다 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
