@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 14:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 15:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb451124b0a973a80800eaa6b0d5323975231dc0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[어른 김장하 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174131</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174131</guid>
-            <pubDate>Wed, 15 Nov 2023 00:46:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F80d1f8b9712ac675dd190d9409f85b2b308c260c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[헝거게임: 노래하는 새와 뱀의 발라드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169137</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169137</guid>
@@ -70,6 +62,14 @@
             <pubDate>Tue, 31 Oct 2023 04:12:30 GMT</pubDate>
             <content:encoded><![CDATA[23.11.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd96483ca32e53dc6811e2c50d275fedd2d441bc3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어른 김장하 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174131</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174131</guid>
+            <pubDate>Wed, 15 Nov 2023 00:46:29 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F80d1f8b9712ac675dd190d9409f85b2b308c260c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나의 피투성이 연인 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -328,22 +328,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc1721caf3ca584b40b14b1bc4176b87dccebef4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나의 형제 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136216</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136216</guid>
-            <pubDate>Mon, 23 Oct 2023 20:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff971548f5b4e496ebdc087d1d0130fc31571920631100" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[헝거게임: 캣칭 파이어 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=70225</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=70225</guid>
-            <pubDate>Mon, 23 Oct 2023 20:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F220232485279B1DE15" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[사부: 영춘권 마스터 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=98693</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=98693</guid>
@@ -544,14 +528,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2315514652B890CE23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[레오 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173254</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173254</guid>
-            <pubDate>Wed, 08 Nov 2023 04:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4657d968d5c234f81e4a3c1e0ec35460b701ae91" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[도이 보이 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=173632</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=173632</guid>
@@ -574,30 +550,6 @@
             <pubDate>Sat, 21 Oct 2023 15:10:25 GMT</pubDate>
             <content:encoded><![CDATA[23.12.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6da3cbf6b2625e50b46bfba687994cc86405c71d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아메리칸 허슬 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=77720</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=77720</guid>
-            <pubDate>Wed, 08 Nov 2023 01:48:32 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2776A842530C3E6B0F" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[마린: 배틀 엔젤 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=91433</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=91433</guid>
-            <pubDate>Wed, 08 Nov 2023 01:48:32 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd3b12e2ccdeb4cb481a3ba2d20aa6a031542856097377" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[레드배드 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=121036</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=121036</guid>
-            <pubDate>Wed, 08 Nov 2023 01:48:32 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F23eb099d62924bafbb5129ae144036b71541040704200" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블랙 워터 ([다음영화] 왓챠 ─ 종료예정)]]></title>
