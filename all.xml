@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 02:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 03:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,20 +120,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0965d6d350f199711ffcc30e590f99fc6181dab8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[30일 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165591</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165591</guid>
-            <pubDate>Thu, 14 Sep 2023 04:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a87a8c7a462e24cb77b63b10d1497966f7c6210" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[소년들 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142054</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142054</guid>
             <pubDate>Tue, 17 Oct 2023 03:11:05 GMT</pubDate>
             <content:encoded><![CDATA[23.11.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe48f9ed4b76de90583360711e39725b67dd3049c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[30일 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165591</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165591</guid>
+            <pubDate>Thu, 14 Sep 2023 04:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a87a8c7a462e24cb77b63b10d1497966f7c6210" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[다크 나이트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -751,6 +751,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6547995151954b3586f3ce3fcb3780bc1543165274652" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[같이 있기만 하면 계속 열애설이 생기는 남녀 톱스타 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/b577IRrqEf</link>
+            <guid>https://v.daum.net/v/b577IRrqEf</guid>
+            <pubDate>Wed, 22 Nov 2023 03:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F22%2Ffeelthemovie%2F20231122120022521atct.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA['헝거게임' 번역가가 직접 말한 번역 뒷이야기 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/xomXnI3oOp</link>
+            <guid>https://v.daum.net/v/xomXnI3oOp</guid>
+            <pubDate>Wed, 22 Nov 2023 03:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F22%2Ffanzeel%2F20231122115002549vdzx.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA["OO는 자신이 더 낫다"는 차승원 말에 정우성이 보인 반응 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/WrPZqgS4Po</link>
             <guid>https://v.daum.net/v/WrPZqgS4Po</guid>
@@ -797,6 +813,14 @@
             <pubDate>Tue, 21 Nov 2023 22:10:35 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F22%2Fmaxmovie%2F20231122070002221ccon.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[현재 예매율 1위 영화, 실제 사건을 '이렇게' 활용했습니다 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/H2qGRDXePu</link>
+            <guid>https://v.daum.net/v/H2qGRDXePu</guid>
+            <pubDate>Wed, 22 Nov 2023 03:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F21%2Fkinolights%2F20231121195220106schc.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[비전문배우들로 영화를 찍었더니 괴상한 영화가 나왔다! (다음 영화 ─ 매거진)]]></title>
@@ -885,30 +909,6 @@
             <pubDate>Tue, 21 Nov 2023 03:12:11 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F21%2Ffeelthemovie%2F20231121120021259kcft.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[레전드 공포 캐릭터, 저 안에 사람이 있었다? (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/92p8rcYxxg</link>
-            <guid>https://v.daum.net/v/92p8rcYxxg</guid>
-            <pubDate>Tue, 21 Nov 2023 03:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F21%2Ffanzeel%2F20231121115002750bpta.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[한동안 조용하다가... 급 가족근황 소식 전한 배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/t3irtRrqrM</link>
-            <guid>https://v.daum.net/v/t3irtRrqrM</guid>
-            <pubDate>Tue, 21 Nov 2023 02:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F21%2Fmaxmovie%2F20231121110026807aenf.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[일본의 노배우를 데려온줄 알았는데…자세히 보니 한국 국민 배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/PGAXz5fO5t</link>
-            <guid>https://v.daum.net/v/PGAXz5fO5t</guid>
-            <pubDate>Tue, 21 Nov 2023 01:57:43 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F21%2Ffeelthemovie%2F20231121103001198jbqi.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[추악해도 영원히 사랑받을 세계 (다음 영화 ─ 브런치)]]></title>
