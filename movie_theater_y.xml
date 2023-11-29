@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 05:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 06:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,6 +103,14 @@
             <content:encoded><![CDATA[23.11.29]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[헝거게임: 노래하는 새와 뱀의 발라드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169137</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169137</guid>
+            <pubDate>Wed, 15 Nov 2023 00:46:29 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F89f65d15b619e3acd1298d67feb8cfe5beb5d4eb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[스노우 폭스 : 썰매개가 될 거야!]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=117351</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=117351</guid>
@@ -125,14 +133,6 @@
             <pubDate>Sat, 25 Nov 2023 15:09:30 GMT</pubDate>
             <content:encoded><![CDATA[23.10.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73721613b87046de026b07e14996847f932f6f84" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[헝거게임: 노래하는 새와 뱀의 발라드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169137</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169137</guid>
-            <pubDate>Wed, 15 Nov 2023 00:46:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F89f65d15b619e3acd1298d67feb8cfe5beb5d4eb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 마블스]]></title>
@@ -159,12 +159,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4bfa1cf87b572e474a11bb1e14744455e29d0e60" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 아이돌리쉬 세븐; 라이브 4비트 비욘드 더 피리어드 - 데이 1]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170937</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170937</guid>
-            <pubDate>Wed, 29 Nov 2023 04:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff9e47768be3f856b1200bfeb3845a51929e4a53d" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[나의 피투성이 연인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163762</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163762</guid>
+            <pubDate>Wed, 29 Nov 2023 06:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12320498f0d0254198d3b7656430fdbf7b1ad9cf" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
