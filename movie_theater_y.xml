@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 07:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 08:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc7f7c1cc736a029f6973bae1faaac00ac4938f57" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[교토에서 온 편지]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163849</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163849</guid>
+            <pubDate>Wed, 06 Dec 2023 00:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F81a0d5d5ff0319f97d54f00bacee03a9fed2ae4b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[냉정과 열정 사이]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=34483</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=34483</guid>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 08 Dec 2023 02:25:09 GMT</pubDate>
             <content:encoded><![CDATA[23.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e0a44151f7f74425c45bcd676c3d68c3b45f3cb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[교토에서 온 편지]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163849</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163849</guid>
-            <pubDate>Wed, 06 Dec 2023 00:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F81a0d5d5ff0319f97d54f00bacee03a9fed2ae4b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스노우 폭스 : 썰매개가 될 거야!]]></title>
