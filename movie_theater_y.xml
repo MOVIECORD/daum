@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 06:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 07:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00eab088a4aa180c98d4e098a4b06716d860a40b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[배트맨]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=10253</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=10253</guid>
-            <pubDate>Wed, 13 Dec 2023 00:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37f1542ec27e101a79d9e933810dc8731b52ad25" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스노우 폭스 : 썰매개가 될 거야!]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=117351</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=117351</guid>
@@ -165,6 +157,14 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=175640</guid>
             <pubDate>Wed, 13 Dec 2023 00:46:51 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배트맨]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=10253</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=10253</guid>
+            <pubDate>Wed, 13 Dec 2023 00:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37f1542ec27e101a79d9e933810dc8731b52ad25" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
