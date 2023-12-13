@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 14:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 15:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 22 Nov 2023 00:49:11 GMT</pubDate>
             <content:encoded><![CDATA[23.11.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff47bdb7c3174e8bcf43fb6ab27283fc2f4d34555" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[3일의 휴가 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138187</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138187</guid>
+            <pubDate>Wed, 06 Dec 2023 00:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8687da0616f03c884cbd5a0ddcb2fa6901d5e717" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[괴물 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Wed, 13 Dec 2023 00:46:51 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc27756b10f45291a8265578058188aa443469d9c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[3일의 휴가 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138187</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138187</guid>
-            <pubDate>Wed, 06 Dec 2023 00:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8687da0616f03c884cbd5a0ddcb2fa6901d5e717" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[말하고 싶은 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -96,20 +96,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3a5704769a5de59518279be882e6edb21529bf4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[언더 유어 베드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174576</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174576</guid>
-            <pubDate>Wed, 13 Dec 2023 00:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9091c7818eb3619d74183c7c79f47ab72331b620" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[리빙: 어떤 인생 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156778</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156778</guid>
             <pubDate>Wed, 13 Dec 2023 00:46:51 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a755ee21b802cfbe82263f9be1dcd5b55c7eff5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[언더 유어 베드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174576</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174576</guid>
+            <pubDate>Wed, 13 Dec 2023 00:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9091c7818eb3619d74183c7c79f47ab72331b620" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[냉정과 열정 사이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -328,14 +328,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64d675c2ed0a833f2454fdf4e816fe94d7c6cf1f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[헌터 킬러 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=69738</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=69738</guid>
-            <pubDate>Thu, 23 Nov 2023 05:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6881fe065144d3998953dba1f9d2e161544587156027" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[샌드 스톰 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=100404</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=100404</guid>
@@ -392,22 +384,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F12110210A7DF3E553D" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[잠 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159622</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159622</guid>
-            <pubDate>Wed, 13 Dec 2023 03:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc694103ee59d83bf8a606613159af6b26958a5d6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[타겟 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172401</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172401</guid>
-            <pubDate>Wed, 13 Dec 2023 03:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc1c15973a9068bb70a3f4eedec1d22f07faa390" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[치킨 런: 너겟의 탄생 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143033</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143033</guid>
@@ -422,14 +398,6 @@
             <pubDate>Sat, 21 Oct 2023 15:10:25 GMT</pubDate>
             <content:encoded><![CDATA[23.12.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6da3cbf6b2625e50b46bfba687994cc86405c71d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[설국 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=21526</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=21526</guid>
-            <pubDate>Wed, 06 Dec 2023 20:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2eb89a3c29489a3a6eb67910ea921fcaf2f38cc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[붓다 : 위대한 여정 ([다음영화] 왓챠 ─ 종료예정)]]></title>
@@ -768,7 +736,7 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fvux%2Fimage%2FgAxsiOFjIwFvC2bVMMaPlT-RMMA.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[영화 <트루먼쇼>_세상의 벽에서 외치는 안녕 (다음 영화 ─ 브런치)]]></title>
+            <title><![CDATA[영화 <트루먼쇼>_세상의 끝에서 외치는 안녕 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@dn9R/21</link>
             <guid>https://brunch.co.kr/@@dn9R/21</guid>
             <pubDate>Wed, 13 Dec 2023 02:25:52 GMT</pubDate>
