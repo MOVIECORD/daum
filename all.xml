@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 11:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 12:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F357f9541d170588d0d172fa572be49b975834d52" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그대들은 어떻게 살 것인가 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171140</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171140</guid>
-            <pubDate>Wed, 25 Oct 2023 00:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F814364da4037f74217243eeee6b4648d7dc2fc79" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[노 엑시트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=175005</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=175005</guid>
             <pubDate>Wed, 13 Dec 2023 00:46:51 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F125122feae866f03083c69a02636654ed16acd2a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그대들은 어떻게 살 것인가 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171140</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171140</guid>
+            <pubDate>Wed, 25 Oct 2023 00:43:45 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F814364da4037f74217243eeee6b4648d7dc2fc79" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[싱글 인 서울 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Face94cf99e22e2067cb9825c4ab4ecb183683f1e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[러브 액츄얼리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=38754</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=38754</guid>
-            <pubDate>Mon, 11 Dec 2023 02:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00eab088a4aa180c98d4e098a4b06716d860a40b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스노우 폭스 : 썰매개가 될 거야! (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=117351</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=117351</guid>
@@ -150,6 +142,14 @@
             <pubDate>Wed, 06 Dec 2023 00:47:28 GMT</pubDate>
             <content:encoded><![CDATA[23.12.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6012c7878068d89e301f65b8a4895d5106060f15" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[러브 액츄얼리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=38754</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=38754</guid>
+            <pubDate>Mon, 11 Dec 2023 02:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00eab088a4aa180c98d4e098a4b06716d860a40b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -232,12 +232,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad465e75b4de55bca00cb7da21df7488e9216ee9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[부활 그 소망 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174463</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174463</guid>
+            <title><![CDATA[미끼 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174287</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174287</guid>
             <pubDate>Tue, 12 Dec 2023 23:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[24.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8923740f99d184087b5a73d632d238325c79bc96" length="0" type="image//thumb/C408x596/"/>
+            <content:encoded><![CDATA[23.12.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcf2aa2385b6c7d386457f6f07ca9b1c3e3d37897" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[라스트 서바이버 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -254,14 +254,6 @@
             <pubDate>Tue, 12 Dec 2023 23:10:39 GMT</pubDate>
             <content:encoded><![CDATA[23.12.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F888cc9acfb3feaf8d27bd2d64bddff9cac7a07a8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[미끼 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174287</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174287</guid>
-            <pubDate>Tue, 12 Dec 2023 23:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcf2aa2385b6c7d386457f6f07ca9b1c3e3d37897" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[디셈버 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -304,12 +296,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F29a5b579c9003b003529ef87109a113175157f47" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[분노의 질주 인 이스탄불 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172225</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172225</guid>
+            <title><![CDATA[부활 그 소망 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174463</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174463</guid>
             <pubDate>Tue, 12 Dec 2023 23:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fadea002b560a5ea9ebcbfe8e26ce038179c5f165" length="0" type="image//thumb/C408x596/"/>
+            <content:encoded><![CDATA[24.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8923740f99d184087b5a73d632d238325c79bc96" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[사랑엔 정의가 없다 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -318,6 +310,14 @@
             <pubDate>Tue, 12 Dec 2023 23:10:39 GMT</pubDate>
             <content:encoded><![CDATA[23.12.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa064b6345b3022ff6207d231c4d38c3dd1f899df" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[분노의 질주 인 이스탄불 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172225</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172225</guid>
+            <pubDate>Tue, 12 Dec 2023 23:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fadea002b560a5ea9ebcbfe8e26ce038179c5f165" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[치킨 런: 너겟의 탄생 (다음영화 영화관 ─ 개봉예정)]]></title>
