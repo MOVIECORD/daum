@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 23:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 00:48:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 14 Dec 2023 22:10:43 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F15%2Fmaxmovie%2F20231215070000818dxkc.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[하버드 성적 최우수 졸업생이 영화 만들면 생기는 일]]></title>
+            <link>https://v.daum.net/v/HweQAaFLda</link>
+            <guid>https://v.daum.net/v/HweQAaFLda</guid>
+            <pubDate>Fri, 15 Dec 2023 00:48:27 GMT</pubDate>
+            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fkinolights%2F20231214210118184hasp.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[아버지 장례식날 일본서 긴급하게 달려온 여친과 결혼한 톱스타]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 13 Dec 2023 22:10:44 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fmaxmovie%2F20231214151417696twsh.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA["엄마가 73년생, 결혼하자" 난리났던 무대인사 현장]]></title>
-            <link>https://v.daum.net/v/KSqmnTPlRO</link>
-            <guid>https://v.daum.net/v/KSqmnTPlRO</guid>
-            <pubDate>Wed, 13 Dec 2023 09:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F13%2Fmaxmovie%2F20231213175007854xifg.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
